@@ -1,0 +1,11 @@
+- add social links on
+  - header
+  - contacts
+- JS load instagram stream on pictures page
+- fix galleries
+- CMS
+  - add "featured image" on video posts
+  - add description on categories/tags
+- add microdata to entities
+- add social sharing metadata
+- submenus
