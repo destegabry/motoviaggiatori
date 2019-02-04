@@ -147,8 +147,12 @@ export const pageQuery = graphql`
           }
           excerpt
           categories {
+            id
             name
             slug
+            parent_element {
+              id
+            }
           }
           featured_media {
             localFile {

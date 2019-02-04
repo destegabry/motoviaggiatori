@@ -21,7 +21,7 @@ const MainMenu = () => (
         }
       }
     `}
-    render={({allWordpressPage, allWordpressCategory}) => {
+    render={({allWordpressCategory}) => {
       const categories = allWordpressCategory.edges.reduce((categories, {node}) => ({
         [node.slug]: node,
         ...categories

@@ -1,7 +1,7 @@
 const slash = require('slash');
 const path = require('path');
 const getPostUrl = require('./src/utils/getPostUrl');
-const getPageUrl = require('./src/utils/getPageUrl');
+// const getPageUrl = require('./src/utils/getPageUrl');
 const getCategoryUrl = require('./src/utils/getCategoryUrl');
 const getTagUrl = require('./src/utils/getTagUrl');
 const getAuthorUrl = require('./src/utils/getAuthorUrl');

@@ -14,7 +14,9 @@ class AuthorTemplate extends Component {
       <Layout>
         <SEO title={currentAuthor.name} description={currentAuthor.description} />
         <Card>
-          <h1 dangerouslySetInnerHTML={{ __html: currentAuthor.name }} />
+          <div className="content">
+            <h1 dangerouslySetInnerHTML={{ __html: currentAuthor.name }} />
+          </div>
           <div dangerouslySetInnerHTML={{ __html: currentAuthor.description }} />
         </Card>
         <PagedPosts posts={posts} />
@@ -40,8 +42,12 @@ export const pageQuery = graphql`
           }
           excerpt
           categories {
+            id
             name
             slug
+            parent_element {
+              id
+            }
           }
           featured_media {
             localFile {

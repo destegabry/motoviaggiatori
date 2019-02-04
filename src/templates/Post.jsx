@@ -255,10 +255,14 @@ export const pageQuery = graphql`
         name
       }
       categories {
-        slug,
+        id
         name
+        slug
+        parent_element {
+          id
+        }
       }
-      date(formatString: "DD MMMM YYYY")
+      date
       featured_media {
         localFile {
           childImageSharp {

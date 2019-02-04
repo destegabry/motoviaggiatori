@@ -16,7 +16,9 @@ class TagTemplate extends Component {
       <Layout>
         <SEO title={currentTag.name} description={currentTag.description} />
         <Card>
-          <h1 dangerouslySetInnerHTML={{ __html: currentTag.name }} />
+          <div className="content">
+            <h1 dangerouslySetInnerHTML={{ __html: currentTag.name }} />
+          </div>
           <div dangerouslySetInnerHTML={{ __html: currentTag.description }} />
         </Card>
         <PagedPosts posts={posts} />
@@ -46,8 +48,12 @@ export const pageQuery = graphql`
           }
           excerpt
           categories {
+            id
             name
             slug
+            parent_element {
+              id
+            }
           }
           tags {
             name

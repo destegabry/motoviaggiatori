@@ -3,7 +3,7 @@
   - header
   - contacts
 - JS load instagram stream on pictures page
-- fix galleries
+- gallery lightbox
 - CMS
   - add "featured image" on video posts
   - add description on categories/tags
