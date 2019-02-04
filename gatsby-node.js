@@ -87,17 +87,17 @@ exports.createPages = async ({graphql, actions}) => {
   const tagTemplate = path.resolve('./src/templates/Tag.jsx');
   const authorTemplate = path.resolve('./src/templates/Author.jsx');
 
-  result.data.allWordpressPage.edges.forEach(({node}) => {
-    createPage({
-      path: getPageUrl(node),
-      component: slash(pageTemplate),
-      context: {
-        id: node.id,
-        title: node.title,
-        type: 'page'
-      },
-    });
-  });
+  // result.data.allWordpressPage.edges.forEach(({node}) => {
+  //   createPage({
+  //     path: getPageUrl(node),
+  //     component: slash(pageTemplate),
+  //     context: {
+  //       id: node.id,
+  //       title: node.title,
+  //       type: 'page'
+  //     },
+  //   });
+  // });
 
   result.data.allWordpressPost.edges.forEach(({node}) => {
     createPage({

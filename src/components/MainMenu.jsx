@@ -1,21 +1,12 @@
 import React from 'react'
 import { StaticQuery, graphql } from 'gatsby'
 
-import PageLink from './PageLink'
 import CategoryLink from './CategoryLink'
 
 const MainMenu = () => (
   <StaticQuery
     query={graphql`
       query mainMenuQuery {
-        allWordpressPage {
-          edges {
-            node {
-              slug
-              title
-            }
-          }
-        }
         allWordpressCategory {
           edges {
             node {
@@ -31,11 +22,6 @@ const MainMenu = () => (
       }
     `}
     render={({allWordpressPage, allWordpressCategory}) => {
-      const pages = allWordpressPage.edges.reduce((pages, {node}) => ({
-        [node.slug]: node,
-        ...pages
-      }), {});
-
       const categories = allWordpressCategory.edges.reduce((categories, {node}) => ({
         [node.slug]: node,
         ...categories
@@ -60,9 +46,6 @@ const MainMenu = () => (
             </nav>
           </span>
           <CategoryLink className={categories.video.slug} category={categories.video} categories={allWordpressCategory.edges} />
-          <PageLink className={pages.foto.slug} page={pages.foto} />
-          <PageLink className={pages['chi-siamo'].slug} page={pages['chi-siamo']} />
-          <PageLink className={pages.contatti.slug} page={pages.contatti} />
         </nav>
       );
     }}
