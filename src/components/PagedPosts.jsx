@@ -83,7 +83,7 @@ class PagedPosts extends Component {
   }
 
   render() {
-    const { posts, pageSize } = this.props;
+    const { posts, pageSize, className } = this.props;
     const { page, width } = this.state;
     let columns;
 
@@ -110,7 +110,7 @@ class PagedPosts extends Component {
     }, []);
 
     return (
-      <section ref={this.myRef}>
+      <section ref={this.myRef} className={className}>
         <PagedPostsWrapper>
           {
             groupedPosts.map((column, index) => (

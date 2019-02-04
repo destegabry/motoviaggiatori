@@ -30,6 +30,13 @@ const Article = styled.article`
     text-transform: uppercase;
   }
 
+  figure {
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+
   .wp-block-gallery,
   .wp-block-jetpack-tiled-gallery {
     display: block;

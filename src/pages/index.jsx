@@ -6,7 +6,8 @@ import styled from '@emotion/styled'
 import {
   LARGE_SCREEN_UP,
   MEDIUM_SCREEN_DOWN,
-  MEDIUM_SCREEN_ONLY
+  MEDIUM_SCREEN_ONLY,
+  MEDIUM_SCREEN_UP
 } from '../utils/breakpoints';
 import Layout from '../components/Layout'
 import Card from '../components/Card'
@@ -17,7 +18,10 @@ import PagedPosts from '../components/PagedPosts'
 
 const CategorizedPostsSection = styled.section`
   display: flex;
-  margin: 0 -10px;
+
+  ${MEDIUM_SCREEN_UP} {
+    margin: 0 -1rem;
+  }
 
   ${MEDIUM_SCREEN_DOWN} {
     flex-direction: column
@@ -117,7 +121,13 @@ const IndexPage = ({ data }) => (
       />
     </CategorizedPostsSection>
     <h4>Tutti gli articoli</h4>
-    <PagedPosts posts={data.allWordpressPost.edges} />
+    <PagedPosts
+      posts={data.allWordpressPost.edges}
+      css={css`
+        ${MEDIUM_SCREEN_UP} {
+          margin: 0 -1rem;
+        }
+      `} />
   </Layout>
 )
 
