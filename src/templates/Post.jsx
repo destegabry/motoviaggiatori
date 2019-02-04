@@ -30,7 +30,8 @@ const Article = styled.article`
     text-transform: uppercase;
   }
 
-  .wp-block-gallery {
+  .wp-block-gallery,
+  .wp-block-jetpack-tiled-gallery {
     display: block;
     width: 100%;
   }
@@ -201,7 +202,7 @@ class PageTemplate extends Component {
     window.onresize = debounce(() => this.redrawGalleries(), 200);
     const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 4;
     this.galleries = [];
-    document.querySelectorAll('.wp-block-gallery')
+    document.querySelectorAll('.wp-block-gallery, .wp-block-jetpack-tiled-gallery')
       .forEach(wpGallery => {
         const rows = this.parseWPGallery(wpGallery, rowRatio);
         this.galleries.push({

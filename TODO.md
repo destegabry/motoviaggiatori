@@ -1,3 +1,4 @@
+- responsive menu
 - add social links on
   - header
   - contacts
@@ -6,6 +7,8 @@
 - CMS
   - add "featured image" on video posts
   - add description on categories/tags
+  - convert all posts to blocks + review all galleries (remove link)
 - add microdata to entities
 - add social sharing metadata
 - submenus
+- back to top: https://m.signalvnoise.com/how-to-back-to-top-button-without-scroll-events/
