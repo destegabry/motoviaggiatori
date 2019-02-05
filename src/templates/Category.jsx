@@ -18,7 +18,7 @@ class CategoryTemplate extends Component {
         <Card>
           <div className="content">
             <h1 dangerouslySetInnerHTML={{ __html: currentCategory.name }} />
-            </div>
+          </div>
           <div dangerouslySetInnerHTML={{ __html: currentCategory.description }} />
         </Card>
         <PagedPosts posts={posts} />

@@ -9,6 +9,7 @@ import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import Card from '../components/Card'
 import PostMeta from '../components/PostMeta'
+import TagLink from '../components/TagLink'
 import {
   SMALL_SCREEN_ONLY,
   MEDIUM_SCREEN_UP,
@@ -128,6 +129,12 @@ const Article = styled.article`
   }
 `;
 
+const TagSection = styled.section`
+  a:not(:last-child)::after {
+    content: ', ';
+  }
+`;
+
 const postMetaStyle = css`
   margin-bottom: 2rem;
   text-align: center;
@@ -229,12 +236,18 @@ class PageTemplate extends Component {
           <Article>
             <h1 dangerouslySetInnerHTML={{ __html: currentPost.title }} />
             <PostMeta post={currentPost} css={ postMetaStyle } />
-            <Img
-              fluid={ currentPost['featured_media'].localFile.childImageSharp.fluid }
-              alt={ currentPost['featured_media']['alt_text'] }
-              css={ featuredMediaSyle }
-            />
+            { currentPost.categories.find(category => category.slug === 'video') ? null :
+              <Img
+                fluid={ currentPost['featured_media'].localFile.childImageSharp.fluid }
+                alt={ currentPost['featured_media']['alt_text'] }
+                css={ featuredMediaSyle }
+              />
+            }
             <div dangerouslySetInnerHTML={{ __html: currentPost.content }} />
+            <TagSection>
+              <h3>Tags</h3>
+              { currentPost.tags.map(tag => <TagLink key={tag.slug} tag={tag} />) }
+            </TagSection>
           </Article>
         </Card>
       </Layout>
@@ -261,6 +274,10 @@ export const pageQuery = graphql`
         parent_element {
           id
         }
+      }
+      tags {
+        name
+        slug
       }
       date
       featured_media {
