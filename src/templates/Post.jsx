@@ -4,6 +4,7 @@ import Img from 'gatsby-image'
 import styled from '@emotion/styled'
 import { css } from '@emotion/core'
 import { debounce } from 'debounce'
+import imagesLoaded from 'imagesloaded'
 
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
@@ -17,7 +18,8 @@ import {
 } from '../utils/breakpoints';
 
 const galleryPadding = 5;
-const Article = styled.article`
+
+const cardCss = css`
   ${SMALL_SCREEN_ONLY} {
     padding: 1rem;
   }
@@ -25,6 +27,9 @@ const Article = styled.article`
   ${MEDIUM_SCREEN_UP} {
     padding: 1rem 2rem;
   }
+`;
+
+const Article = styled.article`
 
   h1 {
     text-align: center;
@@ -155,11 +160,11 @@ const featuredMediaSyle = css`
   }
 `;
 
-const calculateGalleryItemXoffset = (item, rowHeight) => {
+const getGalleryItemXoffset = (item, rowHeight) => {
   if (!item || !item.prevRowItem) {
     return 0;
   }
-  return item.prevRowItem.ratio * rowHeight + galleryPadding + calculateGalleryItemXoffset(item.prevRowItem, rowHeight);
+  return item.prevRowItem.ratio * rowHeight + galleryPadding + getGalleryItemXoffset(item.prevRowItem, rowHeight);
 }
 
 
@@ -168,14 +173,14 @@ class PageTemplate extends Component {
     const galleryWrapper = document.createElement('div');
     galleryWrapper.className = 'gallery-wrapper';
     galleryRows.forEach(row => {
-      row.height = (prevGallery.getBoundingClientRect().width - galleryPadding * (row.items.length - 1)) / row.ratio;
+      row.height = (prevGallery.clientWidth - galleryPadding * (row.items.length - 1)) / row.ratio;
       const galleryRow = document.createElement('div');
       galleryRow.className = 'gallery-row';
       galleryRow.style.height = `${row.height}px`;
       row.items.forEach(item => {
         item.element.style.height = `${row.height}px`;
         item.element.style.width = `${row.height * item.ratio}px`;
-        item.element.style.transform = `translate(${calculateGalleryItemXoffset(item, row.height)}px, 0)`;
+        item.element.style.transform = `translate(${getGalleryItemXoffset(item, row.height)}px, 0)`;
         galleryRow.appendChild(item.element);
       });
       galleryWrapper.appendChild(galleryRow);
@@ -216,12 +221,14 @@ class PageTemplate extends Component {
     window.onresize = debounce(() => this.redrawGalleries(), 200);
     const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 4;
     this.galleries = [];
-    document.querySelectorAll('.wp-block-gallery, .wp-block-jetpack-tiled-gallery')
+    document.querySelectorAll('.wp-block-gallery')
       .forEach(wpGallery => {
-        const rows = this.parseWPGallery(wpGallery, rowRatio);
-        this.galleries.push({
-          rows,
-          container: this.drawGallery(rows, wpGallery)
+        imagesLoaded(wpGallery, () => {
+          const rows = this.parseWPGallery(wpGallery, rowRatio);
+          this.galleries.push({
+            rows,
+            container: this.drawGallery(rows, wpGallery)
+          });
         });
       });
   }
@@ -232,7 +239,7 @@ class PageTemplate extends Component {
     return (
       <Layout>
         <SEO title={currentPost.title} description={currentPost.excerpt} />
-        <Card>
+        <Card css={cardCss}>
           <Article>
             <h1 dangerouslySetInnerHTML={{ __html: currentPost.title }} />
             <PostMeta post={currentPost} css={ postMetaStyle } />
@@ -244,11 +251,18 @@ class PageTemplate extends Component {
               />
             }
             <div dangerouslySetInnerHTML={{ __html: currentPost.content }} />
-            <TagSection>
-              <h3>Tags</h3>
-              { currentPost.tags.map(tag => <TagLink key={tag.slug} tag={tag} />) }
-            </TagSection>
           </Article>
+        </Card>
+        <Card css={cardCss}>
+          <TagSection>
+            <h3>Tags</h3>
+            { currentPost.tags.map(tag => <TagLink key={tag.slug} tag={tag} />) }
+          </TagSection>
+        </Card>
+        <Card css={cardCss}>
+          <h3>Autore</h3>
+          <h4 dangerouslySetInnerHTML={{ __html: currentPost.author.name }} />
+          <div dangerouslySetInnerHTML={{ __html: currentPost.author.description }} />
         </Card>
       </Layout>
     )
@@ -265,7 +279,8 @@ export const pageQuery = graphql`
       excerpt
       author {
         slug,
-        name
+        name,
+        description
       }
       categories {
         id

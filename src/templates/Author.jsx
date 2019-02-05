@@ -16,8 +16,8 @@ class AuthorTemplate extends Component {
         <Card>
           <div className="content">
             <h1 dangerouslySetInnerHTML={{ __html: currentAuthor.name }} />
+            <div dangerouslySetInnerHTML={{ __html: currentAuthor.description }} />
           </div>
-          <div dangerouslySetInnerHTML={{ __html: currentAuthor.description }} />
         </Card>
         <PagedPosts posts={posts} />
       </Layout>
