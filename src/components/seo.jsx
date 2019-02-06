@@ -4,6 +4,10 @@ import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
 
 function SEO({ description, lang, meta, keywords, title }) {
+  // Unescape HTML entities
+  let parsedTitle = document.createElement('div');
+  parsedTitle.innerHTML = title;
+  parsedTitle = parsedTitle.innerText;
   return (
     <StaticQuery
       query={detailsQuery}
@@ -14,7 +18,7 @@ function SEO({ description, lang, meta, keywords, title }) {
             htmlAttributes={{
               lang,
             }}
-            title={title}
+            title={parsedTitle}
             titleTemplate={`%s | ${data.wordpressSiteMetadata.name}`}
             meta={[
               {
@@ -23,7 +27,7 @@ function SEO({ description, lang, meta, keywords, title }) {
               },
               {
                 property: `og:title`,
-                content: title,
+                content: parsedTitle,
               },
               {
                 property: `og:description`,
@@ -43,7 +47,7 @@ function SEO({ description, lang, meta, keywords, title }) {
               },
               {
                 name: `twitter:title`,
-                content: title,
+                content: parsedTitle,
               },
               {
                 name: `twitter:description`,
