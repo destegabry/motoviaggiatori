@@ -55,6 +55,7 @@ class PagedPosts extends Component {
   constructor(props) {
     super(props);
     this.myRef = React.createRef();
+    this.updateDimensions = this.updateDimensions.bind(this)
   }
 
   updateDimensions() {
@@ -75,11 +76,11 @@ class PagedPosts extends Component {
 
   componentDidMount() {
     this.updateDimensions();
-    window.addEventListener('resize', this.updateDimensions.bind(this));
+    window.addEventListener('resize', this.updateDimensions);
   }
 
   componentWillUnmount() {
-    window.removeEventListener('resize', this.updateDimensions.bind(this));
+    window.removeEventListener('resize', this.updateDimensions);
   }
 
   render() {
