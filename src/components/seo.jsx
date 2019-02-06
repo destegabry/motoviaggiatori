@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
 import he from 'he'
+import stripHtml from 'string-strip-html'
 
 import LogoRaster from '../images/motoviaggiatori_logo.png'
 
@@ -11,7 +12,7 @@ function SEO({ description, lang, meta, keywords, title, children, image }) {
     <StaticQuery
       query={detailsQuery}
       render={data => {
-        const metaDescription = he.decode(description || data.wordpressSiteMetadata.description)
+        const metaDescription = he.decode(stripHtml(description || data.wordpressSiteMetadata.description))
         const parsedTitle = he.decode(title);
         const previewImage = image || data.site.siteMetadata.siteUrl + LogoRaster;
 
@@ -40,7 +41,7 @@ function SEO({ description, lang, meta, keywords, title, children, image }) {
                 content: `website`,
               },
               {
-                propert: `og:image`,
+                property: `og:image`,
                 content: previewImage
               },
               {
