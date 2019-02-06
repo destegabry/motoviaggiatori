@@ -141,6 +141,7 @@ export const pageQuery = graphql`
           title
           slug
           date
+          modified
           author {
             name
             slug
@@ -155,6 +156,7 @@ export const pageQuery = graphql`
             }
           }
           featured_media {
+            source_url
             localFile {
               childImageSharp {
                 wide: fluid(

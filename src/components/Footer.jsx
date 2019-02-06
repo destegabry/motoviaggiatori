@@ -8,6 +8,7 @@ import { SMALL_SCREEN_ONLY } from '../utils/breakpoints'
 import headerFooterStyle from '../utils/headerFooterStyle'
 import colors from '../utils/colors'
 import Logo from '../images/motoviaggiatori_logo.svg'
+import LogoRaster from '../images/motoviaggiatori_logo.png'
 import MainMenu from './MainMenu'
 import Wrapper from './Wrapper'
 import Sponsors from './Sponsors'
@@ -78,11 +79,12 @@ const logoStyle = css`
   max-width: 250px;
 `;
 
-const Footer = ({wordpressSiteMetadata, allWordpressPost}) => (
-  <FooterWrapper>
+const Footer = ({site, allWordpressPost}) => (
+  <FooterWrapper itemProp="publisher" itemScope itemType="http://schema.org/Organization" id="global-org">
+    <meta itemProp="logo" content={ site.siteMetadata.siteUrl + LogoRaster } />
     <Wrapper css={wrapperStyle}>
       <FooterColumn>
-        <a href="/">
+        <a itemProp="url" href={ site.siteMetadata.siteUrl }>
           <Logo css={logoStyle} />
         </a>
         <SocialLinks size={32} />
@@ -104,7 +106,9 @@ const Footer = ({wordpressSiteMetadata, allWordpressPost}) => (
     <Credits>
       <Wrapper css={{justifyContent: 'center'}}>
         <span>
-          ©{new Date().getFullYear()} {wordpressSiteMetadata.name} | Powered by <a
+          <span>©{new Date().getFullYear()}</span> <span itemProp="name">
+            {site.siteMetadata.name}
+          </span> | Powered by <a
             href="https://topsolution.it"
             target="_blank"
             rel="noopener noreferrer nofollow"
@@ -121,8 +125,11 @@ const FooterContainer = () => (
   <StaticQuery
     query={graphql`
       query footerQuery {
-        wordpressSiteMetadata {
-          name
+        site {
+          siteMetadata {
+            siteUrl
+            name
+          }
         }
         allWordpressPost {
           edges {

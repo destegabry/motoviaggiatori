@@ -51,7 +51,11 @@ const PostMeta = props => {
         `}
         render={({allWordpressCategory}) => (
           <Wrapper className={className}>
-            {!showDate ? null : <span>{moment(post.date).format('DD MMM YYYY')}</span>}
+            {!showDate ? null :
+              <span itemProp="datePublished" content={post.date}>
+                {moment(post.date).format('DD MMM YYYY')}
+              </span>
+            }
             {!showAuthor ? null : <span><AuthorLink author={post.author} /></span>}
             {!showCategories ? null : <span>{post.categories.map(category => (
               <CategoryLink
@@ -60,6 +64,9 @@ const PostMeta = props => {
                 categories={allWordpressCategory.edges}
               />
             ))}</span>}
+            <meta itemProp="image" content={ post.featured_media.source_url } />
+            <meta itemProp="dateModified" content={ post.modified } />
+            <meta itemProp="publisher" itemRef="global-org" />
           </Wrapper>
         )}
       />
@@ -70,14 +77,12 @@ const PostMeta = props => {
 
 PostMeta.propTypes = {
   post: PropTypes.object.isRequired,
-  showExcerpt: PropTypes.bool,
   showAuthor: PropTypes.bool,
   showDate: PropTypes.bool,
   showCategories: PropTypes.bool
 }
 
 PostMeta.defaultProps = {
-  showExcerpt: true,
   showAuthor: true,
   showDate: true,
   showCategories: true,

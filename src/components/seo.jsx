@@ -2,17 +2,19 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
+import he from 'he'
 
-function SEO({ description, lang, meta, keywords, title }) {
-  // Unescape HTML entities
-  let parsedTitle = document.createElement('div');
-  parsedTitle.innerHTML = title;
-  parsedTitle = parsedTitle.innerText;
+import LogoRaster from '../images/motoviaggiatori_logo.png'
+
+function SEO({ description, lang, meta, keywords, title, children, image }) {
   return (
     <StaticQuery
       query={detailsQuery}
       render={data => {
-        const metaDescription = description || data.wordpressSiteMetadata.description
+        const metaDescription = he.decode(description || data.wordpressSiteMetadata.description)
+        const parsedTitle = he.decode(title);
+        const previewImage = image || data.site.siteMetadata.siteUrl + LogoRaster;
+
         return (
           <Helmet
             htmlAttributes={{
@@ -38,12 +40,12 @@ function SEO({ description, lang, meta, keywords, title }) {
                 content: `website`,
               },
               {
-                name: `twitter:card`,
-                content: `summary`,
+                propert: `og:image`,
+                content: previewImage
               },
               {
-                name: `twitter:creator`,
-                content: data.wordpressSiteMetadata.author,
+                name: `twitter:card`,
+                content: `summary`,
               },
               {
                 name: `twitter:title`,
@@ -63,7 +65,9 @@ function SEO({ description, lang, meta, keywords, title }) {
                   : []
               )
               .concat(meta)}
-          />
+          >
+            {children}
+          </Helmet>
         )
       }}
     />
@@ -88,6 +92,11 @@ export default SEO
 
 const detailsQuery = graphql`
   query DefaultSEOQuery {
+    site {
+      siteMetadata {
+        siteUrl
+      }
+    }
     wordpressSiteMetadata {
       name
       description

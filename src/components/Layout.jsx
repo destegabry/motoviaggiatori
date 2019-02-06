@@ -35,9 +35,9 @@ const Main = styled.main`
   width: 100%;
 `;
 
-const Layout = ({ children }) => {
+const Layout = ({ children, ...otherProps }) => {
   return (
-    <OuterWrapper>
+    <OuterWrapper {...otherProps}>
       <Helmet>
         <script>{`window._epn = {campaign: 5337960068};`}</script>
         <script src="https://epnt.ebay.com/static/epn-smart-tools.js"></script>

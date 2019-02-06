@@ -51,11 +51,12 @@ const PostPreview = props => {
   const post = props.post.node || props.post;
 
   return (
-    <article css={postPreviewStyle} className={className}>
+    <article css={postPreviewStyle} className={className} itemScope itemType="http://schema.org/Article">
       <div className="featured-media">
         <Link
           to={getPostUrl(post)}
           title={post.title}
+          itemProp="url"
         >
           <FeaturedMedia post={post} version={featuredImage} />
         </Link>
@@ -65,10 +66,10 @@ const PostPreview = props => {
           to={getPostUrl(post)}
           title={post.title}
         >
-          <h3 dangerouslySetInnerHTML={{ __html: post.title }} />
+          <h3 dangerouslySetInnerHTML={{ __html: post.title }} itemProp="name headline" />
         </Link>
         <PostMeta post={post} showAuthor={showAuthor} showDate={showDate} showCategories={showCategories} />
-        { !showExcerpt ? null : <div className="excerpt" dangerouslySetInnerHTML={{ __html: post.excerpt }} /> }
+        { !showExcerpt ? null : <div className="excerpt" itemProp="description" dangerouslySetInnerHTML={{ __html: post.excerpt }} /> }
       </div>
     </article>
   )

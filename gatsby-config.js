@@ -6,6 +6,7 @@ const colors = require('./src/utils/colors');
 module.exports = {
   siteMetadata: {
     siteUrl: `https://motoviaggiatori.it`,
+    name
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

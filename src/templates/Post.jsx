@@ -176,20 +176,20 @@ class PageTemplate extends Component {
     const currentPost = this.props.data.wordpressPost
 
     return (
-      <Layout>
-        <SEO title={currentPost.title} description={currentPost.excerpt} />
+      <Layout itemScope itemType="http://schema.org/Article">
+        <SEO title={currentPost.title} description={currentPost.excerpt} image={ currentPost.featured_media.source_url } />
         <Card css={cardCss}>
           <Article>
-            <h1 dangerouslySetInnerHTML={{ __html: currentPost.title }} />
+            <h1 dangerouslySetInnerHTML={{ __html: currentPost.title }} itemProp="name headline" />
             <PostMeta post={currentPost} css={ postMetaStyle } />
             { currentPost.categories.find(category => category.slug === 'video') ? null :
               <Img
-                fluid={ currentPost['featured_media'].localFile.childImageSharp.fluid }
-                alt={ currentPost['featured_media']['alt_text'] }
+                fluid={ currentPost.featured_media.localFile.childImageSharp.fluid }
+                alt={ currentPost.featured_media.alt_text }
                 css={ featuredMediaSyle }
               />
             }
-            <div dangerouslySetInnerHTML={{ __html: currentPost.content }} />
+            <div dangerouslySetInnerHTML={{ __html: currentPost.content }} itemProp="articleBody" />
           </Article>
         </Card>
         <Card css={cardCss}>
@@ -198,10 +198,10 @@ class PageTemplate extends Component {
             { currentPost.tags.map(tag => <TagLink key={tag.slug} tag={tag} />) }
           </TagSection>
         </Card>
-        <Card css={cardCss}>
+        <Card css={cardCss} itemProp="author" itemScope="itemscope" itemType="http://schema.org/Person">
           <h3>Autore</h3>
-          <h4 dangerouslySetInnerHTML={{ __html: currentPost.author.name }} />
-          <div dangerouslySetInnerHTML={{ __html: currentPost.author.description }} />
+          <h4 itemProp="name" dangerouslySetInnerHTML={{ __html: currentPost.author.name }} />
+          <div itemProp="description" dangerouslySetInnerHTML={{ __html: currentPost.author.description }} />
         </Card>
       </Layout>
     )
@@ -234,7 +234,9 @@ export const pageQuery = graphql`
         slug
       }
       date
+      modified
       featured_media {
+        source_url
         localFile {
           childImageSharp {
             fluid(

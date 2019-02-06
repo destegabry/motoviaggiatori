@@ -5,10 +5,7 @@
 - JS load instagram stream on pictures page
 - gallery lightbox
 - CMS
-  - add "featured image" on video posts
   - add description on categories/tags
-  - convert all posts to blocks + review all galleries (remove link)
-- add microdata to entities
-- add social sharing metadata
+- add social sharing metadata (check)
 - submenus
 - back to top: https://m.signalvnoise.com/how-to-back-to-top-button-without-scroll-events/
