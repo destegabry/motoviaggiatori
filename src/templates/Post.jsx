@@ -3,8 +3,6 @@ import { graphql } from 'gatsby'
 import Img from 'gatsby-image'
 import styled from '@emotion/styled'
 import { css } from '@emotion/core'
-import { debounce } from 'debounce'
-import imagesLoaded from 'imagesloaded'
 
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
@@ -16,6 +14,7 @@ import {
   MEDIUM_SCREEN_UP,
   SMALL_SCREEN_MAX_SIZE
 } from '../utils/breakpoints';
+import Gallery from '../utils/gallery';
 
 const galleryPadding = 5;
 
@@ -30,7 +29,6 @@ const cardCss = css`
 `;
 
 const Article = styled.article`
-
   h1 {
     text-align: center;
     text-transform: uppercase;
@@ -160,77 +158,18 @@ const featuredMediaSyle = css`
   }
 `;
 
-const getGalleryItemXoffset = (item, rowHeight) => {
-  if (!item || !item.prevRowItem) {
-    return 0;
-  }
-  return item.prevRowItem.ratio * rowHeight + galleryPadding + getGalleryItemXoffset(item.prevRowItem, rowHeight);
-}
-
-
 class PageTemplate extends Component {
-  drawGallery(galleryRows, prevGallery) {
-    const galleryWrapper = document.createElement('div');
-    galleryWrapper.className = 'gallery-wrapper';
-    galleryRows.forEach(row => {
-      row.height = (prevGallery.clientWidth - galleryPadding * (row.items.length - 1)) / row.ratio;
-      const galleryRow = document.createElement('div');
-      galleryRow.className = 'gallery-row';
-      galleryRow.style.height = `${row.height}px`;
-      row.items.forEach(item => {
-        item.element.style.height = `${row.height}px`;
-        item.element.style.width = `${row.height * item.ratio}px`;
-        item.element.style.transform = `translate(${getGalleryItemXoffset(item, row.height)}px, 0)`;
-        galleryRow.appendChild(item.element);
-      });
-      galleryWrapper.appendChild(galleryRow);
-    })
-    prevGallery.parentElement.replaceChild(galleryWrapper, prevGallery);
-    return galleryWrapper;
-  };
-
-  parseWPGallery(wpGallery, rowRatio) {
-    const items = wpGallery.querySelectorAll('figure');
-    const galleryRows = [];
-    let prevRowItem;
-    items.forEach(element => {
-      const { width, height } = element.childNodes[0];
-      const ratio = width / height;
-      if (galleryRows.length === 0 || Math.round(galleryRows[galleryRows.length - 1].ratio + ratio) > rowRatio) {
-        galleryRows.push({ items: [], ratio: 0 });
-        prevRowItem = null;
-      }
-      const row = galleryRows[galleryRows.length - 1];
-      const item = {element, width, height, ratio, prevRowItem}
-      row.items.push(item);
-      prevRowItem = item;
-      row.ratio += ratio;
-      element.parentElement.remove();
-    });
-    return galleryRows;
-  }
-
-  redrawGalleries() {
-    this.galleries = this.galleries.map(({rows, container}) => ({
-      rows,
-      container: this.drawGallery(rows, container)
-    }));
-  }
-
   componentDidMount() {
-    window.onresize = debounce(() => this.redrawGalleries(), 200);
     const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 4;
     this.galleries = [];
     document.querySelectorAll('.wp-block-gallery')
       .forEach(wpGallery => {
-        imagesLoaded(wpGallery, () => {
-          const rows = this.parseWPGallery(wpGallery, rowRatio);
-          this.galleries.push({
-            rows,
-            container: this.drawGallery(rows, wpGallery)
-          });
-        });
+        this.galleries.push(new Gallery(wpGallery, rowRatio, galleryPadding));
       });
+  }
+
+  componentWillUnmount() {
+    this.galleries.forEach(gallery => gallery.destroy());
   }
 
   render() {
