@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import Helmet from 'react-helmet'
 import { css, Global } from '@emotion/core'
 import styled from '@emotion/styled'
 import moment from 'moment'
@@ -34,19 +35,25 @@ const Main = styled.main`
   width: 100%;
 `;
 
-const Layout = ({ children }) => (
-  <OuterWrapper>
-    <Global styles={globalStyles} />
-    <Header />
-    <Wrapper css={css`flex: 1 0 100%;`}>
-      <Main>
-        {children}
-      </Main>
-      {/* <aside></aside> */}
-    </Wrapper>
-    <Footer />
-  </OuterWrapper>
-)
+const Layout = ({ children }) => {
+  return (
+    <OuterWrapper>
+      <Helmet>
+        <script>{`window._epn = {campaign: 5337960068};`}</script>
+        <script src="https://epnt.ebay.com/static/epn-smart-tools.js"></script>
+      </Helmet>
+      <Global styles={globalStyles} />
+      <Header />
+      <Wrapper css={css`flex: 1 0 100%;`}>
+        <Main>
+          {children}
+        </Main>
+        {/* <aside></aside> */}
+      </Wrapper>
+      <Footer />
+    </OuterWrapper>
+  );
+}
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,

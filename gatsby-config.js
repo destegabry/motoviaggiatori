@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const name = 'MotoViaggiatori';
 const colors = require('./src/utils/colors');
 
@@ -48,7 +50,7 @@ module.exports = {
     {
       resolve: "gatsby-source-wordpress",
       options: {
-        baseUrl: "motoviaggiatori.it",
+        baseUrl: "edit.motoviaggiatori.it",
         protocol: "https",
         hostingWPCOM: false,
         useACF: false,
@@ -66,7 +68,11 @@ module.exports = {
           "/*/*/tags",
           "/*/*/taxonomies",
           "/*/*/users",
-        ]
+        ],
+        auth: {
+          htaccess_user: process.env.HTACCESS_USER,
+          htaccess_pass: process.env.HTACCESS_PASS,
+        }
       },
     },
     {
