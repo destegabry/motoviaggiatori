@@ -109,7 +109,7 @@ const Footer = ({site, allWordpressPost}) => (
           <span>©{new Date().getFullYear()}</span> <span itemProp="name">
             {site.siteMetadata.name}
           </span> | Powered by <a
-            href="https://topsolution.it"
+            href="https://www.topsolution.it"
             target="_blank"
             rel="noopener noreferrer nofollow"
           >
