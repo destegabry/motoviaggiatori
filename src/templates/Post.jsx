@@ -16,7 +16,6 @@ import {
 } from '../utils/breakpoints';
 import Gallery from '../utils/gallery';
 
-const galleryPadding = 5;
 
 const cardCss = css`
   ${SMALL_SCREEN_ONLY} {
@@ -48,47 +47,6 @@ const Article = styled.article`
 
     > * {
       display: none;
-    }
-  }
-
-  .gallery-wrapper {
-    margin: 1.5rem 0 3rem;
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-
-    .gallery-row {
-      margin-bottom: ${galleryPadding}px;
-    }
-
-    figure {
-      cursor: pointer;
-      margin: 0;
-      position: absolute;
-      overflow: hidden;
-
-      &:hover {
-        figcaption {
-          bottom: 0;
-        }
-      }
-    }
-
-    img {
-      margin: 0;
-      width: 100%;
-      display: block;
-    }
-
-    figcaption {
-      font-size: .8rem;
-      background: rgba(255, 255, 255, .6);
-      padding: ${galleryPadding}px;
-      position: absolute;
-      bottom: -10em;
-      left: 0;
-      right: 0;
-      transition: bottom .3s;
     }
   }
 
@@ -235,7 +193,7 @@ class PageTemplate extends Component {
     this.galleries = [];
     document.querySelectorAll('.wp-block-gallery')
       .forEach(wpGallery => {
-        this.galleries.push(new Gallery(wpGallery, rowRatio, galleryPadding));
+        this.galleries.push(new Gallery(wpGallery, rowRatio));
       });
   }
 

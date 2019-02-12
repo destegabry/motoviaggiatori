@@ -1,5 +1,7 @@
 import imagesLoaded from 'imagesloaded'
 import { debounce } from 'debounce'
+import { css } from '@emotion/core'
+
 
 // Get mouse/touch event coords
 function getEventOrigin(e) {
@@ -10,9 +12,50 @@ function getEventOrigin(e) {
   }
 };
 
+const galleryPadding = 5;
+const galleryCSS = css`
+  margin: 1.5rem 0 3rem;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+
+  .gallery-row {
+    margin-bottom: ${galleryPadding}px;
+  }
+
+  figure {
+    cursor: pointer;
+    margin: 0;
+    position: absolute;
+    overflow: hidden;
+
+    &:hover {
+      figcaption {
+        bottom: 0;
+      }
+    }
+  }
+
+  img {
+    margin: 0;
+    width: 100%;
+    display: block;
+  }
+
+  figcaption {
+    font-size: .8rem;
+    background: rgba(255, 255, 255, .6);
+    padding: ${galleryPadding}px;
+    position: absolute;
+    bottom: -10em;
+    left: 0;
+    right: 0;
+    transition: bottom .3s;
+  }
+`;
+
 class Gallery {
-  constructor(container, rowRatio, padding) {
-    this.padding = padding;
+  constructor(container, rowRatio) {
     this.container = container;
     this.swipeOrigin = null;
 
@@ -63,14 +106,15 @@ class Gallery {
     if (!item || !item.prevRowItem) {
       return 0;
     }
-    return item.prevRowItem.ratio * rowHeight + this.padding + this.getRowItemXoffset(item.prevRowItem, rowHeight);
+    return item.prevRowItem.ratio * rowHeight + galleryPadding + this.getRowItemXoffset(item.prevRowItem, rowHeight);
   }
 
   draw() {
     const galleryWrapper = document.createElement('div');
-    galleryWrapper.className = 'gallery-wrapper';
+    galleryWrapper.classList.add(galleryCSS);
+
     this.rows.forEach(row => {
-      row.height = (this.container.clientWidth - this.padding * (row.items.length - 1)) / row.ratio;
+      row.height = (this.container.clientWidth - galleryPadding * (row.items.length - 1)) / row.ratio;
       const galleryRow = document.createElement('div');
       galleryRow.className = 'gallery-row';
       galleryRow.style.height = `${row.height}px`;
