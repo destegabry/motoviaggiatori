@@ -1,6 +1,6 @@
 import imagesLoaded from 'imagesloaded'
 import { debounce } from 'debounce'
-import { css } from '@emotion/core'
+import { css } from 'emotion'
 
 import GalleryLightbox from './GalleryLightbox'
 
@@ -55,9 +55,9 @@ class Gallery {
     imagesLoaded(container, () => {
       const items = container.querySelectorAll('figure');
       const rows = [];
-      const images = [];
+      this.items = [];
       let prevRowItem;
-      items.forEach(element => {
+      items.forEach((element, index) => {
         const { width, height } = element.childNodes[0];
         const ratio = width / height;
         if (rows.length === 0 || Math.round(rows[rows.length - 1].ratio + ratio) > rowRatio) {
@@ -67,14 +67,15 @@ class Gallery {
         const row = rows[rows.length - 1];
         const item = {element, width, height, ratio, prevRowItem}
         row.items.push(item);
-        images.push(item);
+        this.items.push(item);
         prevRowItem = item;
         row.ratio += ratio;
         element.parentElement.remove();
-        element.addEventListener('click', () => this.lightbox.open(item));
+        element.addEventListener('click', () => {
+          new GalleryLightbox(this, index);
+        });
       });
       this.rows = rows;
-      this.lightbox = new GalleryLightbox(images);
 
       this.draw();
       // listen for window resize to trigger gallery redraws

@@ -1,11 +1,10 @@
-import { css } from '@emotion/core'
+import { css } from 'emotion'
 
 const GalleryLightboxCSS = css`
   background: rgba(0, 0, 0, .95);
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 0 2rem;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -18,14 +17,32 @@ const GalleryLightboxCSS = css`
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: stretch;
+    align-items: center;
     position: relative;
     pointer-events: none;
+    padding: .5rem;
+    min-width: 100%;
+    width: 100%;
+
+    img {
+      width: auto!important;
+      max-height: 100%;
+    }
+
+    &:not(.dragging) {
+      transition: transform .1s;
+    }
   }
 
   figcaption {
     color: white;
     font-size: .85rem;
+  }
+
+  .gallery-lightbox-viewport {
+    display: flex;
+    height: 95vh;
+    width: 80vw;
   }
 
   .gallery-lightbox-controls {
@@ -36,26 +53,31 @@ const GalleryLightboxCSS = css`
       display: flex;
       justify-content: center;
       align-items: center;
-      font-size: 1.5rem;
-      height: 2rem;
-      width: 2rem;
+      font-size: 2rem;
+      height: 4rem;
+      width: 4rem;
+    }
+
+    .control-next,
+    .control-prev {
+      top: 0;
+      height: 100vh;
     }
 
     .control-next {
       right: 0;
-      top: 50%;
-      margin-top: -1rem
+      background: linear-gradient(to right, rgba(0,0,0,0) 0%,rgba(0,0,0,.7) 100%);
     }
 
     .control-prev {
       left: 0;
-      top: 50%;
-      margin-top: -1rem
+      background: linear-gradient(to left, rgba(0,0,0,0) 0%,rgba(0,0,0,.7) 100%);
     }
 
     .control-close {
       top: 0;
       right: 0;
+      z-index: 10;
     }
   }
 `;
@@ -70,16 +92,70 @@ function getEventOrigin(e) {
 };
 
 class GalleryLightbox {
-  constructor(items) {
-    this.items = items;
+  constructor(gallery, index) {
+    this.gallery = gallery;
 
     this.close = this.close.bind(this);
     this.next = this.next.bind(this);
     this.prev = this.prev.bind(this);
-    this.keydown = this.keydown.bind(this);
-    this.swipeStarts = this.swipeStarts.bind(this);
+    this.onKeydown = this.onKeydown.bind(this);
+    this.swipeStarted = this.swipeStarted.bind(this);
     this.swipeDrag = this.swipeDrag.bind(this);
-    this.swipeEnds = this.swipeEnds.bind(this);
+    this.swipeEnded = this.swipeEnded.bind(this);
+
+    this.container = document.createElement('div');
+    this.container.classList.add(GalleryLightboxCSS);
+
+    this.viewport = document.createElement('div');
+    this.viewport.className = 'gallery-lightbox-viewport';
+
+    this.gallery.items.forEach(item => {
+      const figure = item.element.cloneNode(true);
+      figure.removeAttribute('style');
+      this.viewport.appendChild(figure);
+    })
+
+    const controls = document.createElement('div');
+    controls.className = 'gallery-lightbox-controls';
+
+    const close = document.createElement('span');
+    close.className = 'control control-close';
+    close.innerHTML = '&times;';
+    close.addEventListener('click', this.close);
+    controls.appendChild(close);
+
+    if (this.gallery.items.length > 1) {
+      const next = document.createElement('span');
+      next.className = 'control control-next';
+      next.innerHTML = '&rsaquo;';
+      next.addEventListener('click', this.next);
+      controls.appendChild(next);
+
+      const prev = document.createElement('span');
+      prev.className = 'control control-prev';
+      prev.innerHTML = '&lsaquo;';
+      prev.addEventListener('click', this.prev);
+      controls.appendChild(prev);
+    }
+    this.setItem(index);
+
+    this.container.appendChild(this.viewport);
+    this.container.appendChild(controls);
+
+    document.addEventListener('keydown', this.onKeydown);
+    this.viewport.addEventListener('touchstart', this.swipeStarted);
+    this.viewport.addEventListener('touchmove', this.swipeDrag);
+    this.viewport.addEventListener('touchend', this.swipeEnded);
+
+    this.viewport.addEventListener('mousedown', this.swipeStarted);
+    this.viewport.addEventListener('mousemove', this.swipeDrag);
+    this.viewport.addEventListener('mouseup', this.swipeEnded);
+
+    this.gallery.container.parentElement.appendChild(this.container);
+
+    document.querySelectorAll('html,body').forEach(el => {
+      el.style.overflow = 'hidden';
+    });
   }
 
   onKeydown(event) {
@@ -97,7 +173,7 @@ class GalleryLightbox {
     }
   }
 
-  swipeStarts(event) {
+  swipeStarted(event) {
     this.swipeOrigin = getEventOrigin(event);
   }
 
@@ -105,24 +181,22 @@ class GalleryLightbox {
     if (this.swipeOrigin) {
       const currentSwipe = getEventOrigin(event);
       const dx = currentSwipe.x - this.swipeOrigin.x;
-      const dy = currentSwipe.y - this.swipeOrigin.y;
-      const figure = this.container.children[0];
-      figure.style.left = `${dx}px`;
-      figure.style.top = `${dy}px`;
+      this.viewport.querySelectorAll('figure')
+        .forEach(figure => {
+          figure.classList.add('dragging');
+          figure.style.transform = `translateX(calc(-${this.currentIndex * 100}% + ${dx}px))`;
+        });
     }
   }
 
-  swipeEnds(event) {
+  swipeEnded(event) {
     if (this.swipeOrigin) {
       const swipeEnd = getEventOrigin(event);
       const dx = swipeEnd.x - this.swipeOrigin.x;
-      const dy = swipeEnd.y - this.swipeOrigin.y;
 
-      if (Math.abs(dy) > Math.abs(dx)) {
-        this.close();
-      } else if(dx > 0) {
+      if(dx > 0) {
         this.prev();
-      } else {
+      } else if(dx < 0) {
         this.next();
       }
 
@@ -131,68 +205,26 @@ class GalleryLightbox {
   }
 
   setItem(index) {
-    this.currentLightboxItem =this.items[index];
-
-    const figure = this.currentLightboxItem.element.cloneNode(true);
-    figure.removeAttribute('style');
-
-    this.container.replaceChild(figure, this.container.children[0]);
+    this.currentIndex = index;
+    this.viewport.querySelectorAll('figure')
+      .forEach(figure => {
+        figure.classList.remove('dragging');
+        figure.style.transform = `translateX(-${this.currentIndex * 100}%)`;
+      })
   }
 
   next() {
-    const currentItemIndex = Math.min(this.items.indexOf(this.currentLightboxItem) + 1, this.items.length - 1);
-    this.setItem(currentItemIndex);
+    this.setItem(Math.min(
+      this.currentIndex + 1,
+      this.gallery.items.length - 1
+    ));
   }
 
   prev() {
-    const currentItemIndex = Math.max(0, this.items.indexOf(this.currentLightboxItem) - 1);
-    this.setItem(currentItemIndex);
-  }
-
-  open(item) {
-    this.currentLightboxItem = item;
-    this.container = document.createElement('div');
-    this.container.classList.add(GalleryLightboxCSS);
-
-    const figure = item.element.cloneNode(true);
-    figure.removeAttribute('style');
-
-    const controls = document.createElement('div');
-    controls.className = 'gallery-lightbox-controls';
-
-    const close = document.createElement('span');
-    close.className = 'control control-close';
-    close.innerHTML = '&times;';
-    close.addEventListener('click', this.close);
-    controls.appendChild(close);
-
-    if (this.items.length > 1) {
-      const next = document.createElement('span');
-      next.className = 'control control-next';
-      next.innerText = '>';
-      next.addEventListener('click', this.next);
-      controls.appendChild(next);
-
-      const prev = document.createElement('span');
-      prev.className = 'control control-prev';
-      prev.innerText = '<';
-      prev.addEventListener('click', this.prev);
-      controls.appendChild(prev);
-    }
-
-    this.container.appendChild(figure);
-    this.container.appendChild(controls);
-
-    document.addEventListener('keydown', this.onKeydown);
-    this.container.addEventListener('touchstart', this.swipeStarts);
-    this.container.addEventListener('touchmove', this.swipeDrag);
-    this.container.addEventListener('touchend', this.swipeEnds);
-
-    this.container.parentElement.appendChild(this.container);
-
-    document.querySelectorAll('html,body').forEach(el => {
-      el.style.overflow = 'hidden';
-    });
+    this.setItem(Math.max(
+      0,
+      this.currentIndex - 1
+    ));
   }
 
   close() {
@@ -201,9 +233,9 @@ class GalleryLightbox {
       el.style.overflow = 'auto';
     });
 
-    this.container.removeEventListener('touchstart', this.swipeStarts);
-    this.container.removeEventListener('touchmove', this.swipeDrag);
-    this.container.removeEventListener('touchend', this.swipeEnds);
+    this.viewport.removeEventListener('touchstart', this.swipeStarted);
+    this.viewport.removeEventListener('touchmove', this.swipeDrag);
+    this.viewport.removeEventListener('touchend', this.swipeEnded);
     this.container.parentElement.removeChild(this.container);
   }
 }
