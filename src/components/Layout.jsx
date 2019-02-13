@@ -18,11 +18,9 @@ const globalStyles = css`
     background: ${colors.palette.primary.light};
   }
 
-  body {
-    .modal-open {
-      overflow: hidden;
-      -webkit-overflow-scrolling: auto;
-    }
+  .modal-open {
+    overflow: hidden;
+    -webkit-overflow-scrolling: auto;
   }
 
   main {

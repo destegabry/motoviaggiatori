@@ -163,6 +163,7 @@ class GalleryLightbox {
     this.gallery.container.parentElement.appendChild(this.container);
 
     document.querySelector('body').classList.add('modal-open');
+    document.querySelector('html').classList.add('modal-open');
   }
 
   onKeydown(event) {
@@ -239,6 +240,7 @@ class GalleryLightbox {
   close() {
     document.removeEventListener('keydown', this.onKeydown);
     document.querySelector('body').classList.remove('modal-open');
+    document.querySelector('html').classList.remove('modal-open');
 
     this.viewport.removeEventListener('touchstart', this.swipeStarted);
     this.viewport.removeEventListener('touchmove', this.swipeDrag);
