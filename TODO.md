@@ -3,7 +3,6 @@
 - add social links on
   - header
   - contacts
-- back to top: https://m.signalvnoise.com/how-to-back-to-top-button-without-scroll-events/
 - JS load instagram stream on pictures page
 - CMS
   - add description on categories/tags
