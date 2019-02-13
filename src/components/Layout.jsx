@@ -18,6 +18,13 @@ const globalStyles = css`
     background: ${colors.palette.primary.light};
   }
 
+  body {
+    > img {
+      display: block;
+      height: 0;
+    }
+  }
+
   .modal-open {
     overflow: hidden;
     -webkit-overflow-scrolling: auto;

@@ -2,6 +2,7 @@ import React from 'react'
 import { Link, StaticQuery, graphql } from 'gatsby'
 import styled from '@emotion/styled'
 import { InView } from 'react-intersection-observer'
+import Color from 'color'
 
 import Logo from '../images/motoviaggiatori_logo.svg'
 import Wrapper from './Wrapper'
@@ -16,8 +17,7 @@ import { palette } from '../utils/colors';
 const headerHeightDesktopNormal = 100;
 const headerHeightDesktopCollapsed = 60;
 
-const headerHeightMobileNormal = 60;
-const headerHeightMobileCollapsed = 50;
+const headerHeightMobile = 60;
 
 const HeaderElement = styled.header`
   .logo {
@@ -28,7 +28,7 @@ const HeaderElement = styled.header`
       transition: height .3s ease-out;
 
       ${SMALL_SCREEN_ONLY} {
-        height: ${headerHeightMobileNormal - 20}px;
+        height: ${headerHeightMobile - 20}px;
       }
 
       ${MEDIUM_SCREEN_UP} {
@@ -39,6 +39,53 @@ const HeaderElement = styled.header`
 
   .nav-wrapper {
     align-items: center;
+
+    nav {
+      a {
+        text-transform: uppercase;
+
+        ${SMALL_SCREEN_ONLY} {
+          border-bottom: 1px solid ${palette.primary.main};
+          display: block;
+          padding: .5rem;
+          margin: 0;
+        }
+
+        ${MEDIUM_SCREEN_UP} {
+          margin-left: 1rem;
+
+          &[aria-current] {
+            box-shadow: 0 1px 0 0 currentColor;
+          }
+        }
+      }
+    }
+
+
+    nav nav {
+      ${SMALL_SCREEN_ONLY} {
+        a {
+          padding-left: 1.5rem;
+        }
+      }
+
+      ${MEDIUM_SCREEN_UP} {
+        display: none;
+      }
+    }
+
+    > nav {
+      ${SMALL_SCREEN_ONLY} {
+        background: ${Color(palette.primary.main).darken(.2).string()};
+        position: absolute;
+        top: ${headerHeightMobile}px;
+        left: 100vw;
+        right: 0;
+        height: 100vh;
+        width: 100vw;
+        transition: left .2s ease-in-out;
+      }
+    }
   }
 
   .header-wrapper {
@@ -48,19 +95,6 @@ const HeaderElement = styled.header`
     left: 0;
     right: 0;
     z-index: 10;
-
-    nav a {
-      margin-left: 1rem;
-      text-transform: uppercase;
-
-      &[aria-current] {
-        box-shadow: 0 1px 0 0 currentColor;
-      }
-    }
-
-    nav nav {
-      display: none;
-    }
   }
 
   .in-view-ref,
@@ -68,7 +102,7 @@ const HeaderElement = styled.header`
     transition: height .3s ease-out;
 
     ${SMALL_SCREEN_ONLY} {
-      height: ${headerHeightMobileNormal}px;
+      height: ${headerHeightMobile}px;
     }
 
     ${MEDIUM_SCREEN_UP} {
@@ -95,7 +129,7 @@ const HeaderElement = styled.header`
     visibility: hidden;
     transition: all .5s;
     transform: rotate(90deg);
-    z-index: 10;
+    z-index: 1;
   }
 
   &.sticky {
@@ -106,10 +140,6 @@ const HeaderElement = styled.header`
 
     .nav-wrapper,
     .in-view-ref {
-      ${SMALL_SCREEN_ONLY} {
-        height: ${headerHeightMobileCollapsed}px;
-      }
-
       ${MEDIUM_SCREEN_UP} {
         height: ${headerHeightDesktopCollapsed}px;
       }
@@ -117,13 +147,46 @@ const HeaderElement = styled.header`
 
     .logo {
       svg {
-        ${SMALL_SCREEN_ONLY} {
-          height: ${headerHeightMobileCollapsed - 20}px;
-        }
-
         ${MEDIUM_SCREEN_UP} {
           height: ${headerHeightDesktopCollapsed - 20}px;
         }
+      }
+    }
+  }
+
+  .mobile-menu-opener {
+    ${SMALL_SCREEN_ONLY} {
+      cursor: pointer;
+      line-height: ${headerHeightMobile}px;
+      height: ${headerHeightMobile}px;
+      width: ${headerHeightMobile}px;
+      text-align: center;
+
+      &::before {
+        display: block;
+        content: '≡';
+        font-size: 4rem;
+        margin-top: -.5rem;
+      }
+    }
+
+    ${MEDIUM_SCREEN_UP} {
+      display: none;
+    }
+  }
+
+  &.mobile-menu-open {
+    .mobile-menu-opener {
+      &::before {
+        content: '×';
+        font-size: 3rem;
+        margin-top: 0;
+      }
+    }
+
+    .nav-wrapper {
+      > nav {
+        left: 0;
       }
     }
   }
@@ -131,17 +194,24 @@ const HeaderElement = styled.header`
 
 const scrollTop = event => {
   event.preventDefault();
-  document.querySelector('header').scrollIntoView({
+  document.getElementById('header-menu').scrollIntoView({
     behavior: 'smooth',
     block: 'start'
-  });;
+  });
+}
+
+const toggleMobileMenu = event => {
+  event.preventDefault();
+  document.getElementById('header-menu').classList.toggle('mobile-menu-open');
+  document.querySelector('body').classList.toggle('modal-open');
+  document.querySelector('html').classList.toggle('modal-open');
 }
 
 const Header = ({wordpressSiteMetadata}) => {
   return (
     <InView>
       {({ inView, ref }) => (
-        <HeaderElement className={inView ? '' : 'sticky '}>
+        <HeaderElement id="header-menu" className={inView ? '' : 'sticky '}>
           <div className="header-wrapper">
             <Wrapper className="nav-wrapper">
               <Link
@@ -152,6 +222,7 @@ const Header = ({wordpressSiteMetadata}) => {
                 <Logo />
               </Link>
               <MainMenu />
+              <div className="mobile-menu-opener" onClick={toggleMobileMenu} />
             </Wrapper>
           </div>
           <div className="in-view-ref" ref={ref} />

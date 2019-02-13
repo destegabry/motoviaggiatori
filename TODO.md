@@ -1,4 +1,3 @@
-- responsive menu
 - submenus
 - add social links on
   - header
