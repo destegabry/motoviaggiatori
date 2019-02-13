@@ -18,6 +18,13 @@ const globalStyles = css`
     background: ${colors.palette.primary.light};
   }
 
+  body {
+    .modal-open {
+      overflow: hidden;
+      -webkit-overflow-scrolling: auto;
+    }
+  }
+
   main {
     max-width: 100%;
     padding-bottom: 2rem;

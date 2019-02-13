@@ -1,4 +1,5 @@
 import { css } from 'emotion'
+import { SMALL_SCREEN_ONLY } from './breakpoints'
 
 const GalleryLightboxCSS = css`
   background: rgba(0, 0, 0, .95);
@@ -20,13 +21,15 @@ const GalleryLightboxCSS = css`
     align-items: center;
     position: relative;
     pointer-events: none;
-    padding: .5rem;
+    margin: 0;
+    padding: 0 .5rem;
     min-width: 100%;
     width: 100%;
 
     img {
       width: auto!important;
-      max-height: 100%;
+      max-height: 80vh;
+      margin: 0;
     }
 
     &:not(.dragging) {
@@ -37,12 +40,14 @@ const GalleryLightboxCSS = css`
   figcaption {
     color: white;
     font-size: .85rem;
+    padding: .5rem .5rem 0;
   }
 
   .gallery-lightbox-viewport {
     display: flex;
+    align-items: center;
     height: 95vh;
-    width: 80vw;
+    width: 85vw;
   }
 
   .gallery-lightbox-controls {
@@ -62,6 +67,10 @@ const GalleryLightboxCSS = css`
     .control-prev {
       top: 0;
       height: 100vh;
+
+      ${SMALL_SCREEN_ONLY} {
+        width: 2rem;
+      }
     }
 
     .control-next {
@@ -153,9 +162,7 @@ class GalleryLightbox {
 
     this.gallery.container.parentElement.appendChild(this.container);
 
-    document.querySelectorAll('html,body').forEach(el => {
-      el.style.overflow = 'hidden';
-    });
+    document.querySelector('body').classList.add('modal-open');
   }
 
   onKeydown(event) {
@@ -179,6 +186,7 @@ class GalleryLightbox {
 
   swipeDrag(event) {
     if (this.swipeOrigin) {
+      event.preventDefault();
       const currentSwipe = getEventOrigin(event);
       const dx = currentSwipe.x - this.swipeOrigin.x;
       this.viewport.querySelectorAll('figure')
@@ -191,6 +199,7 @@ class GalleryLightbox {
 
   swipeEnded(event) {
     if (this.swipeOrigin) {
+      event.preventDefault();
       const swipeEnd = getEventOrigin(event);
       const dx = swipeEnd.x - this.swipeOrigin.x;
 
@@ -229,9 +238,7 @@ class GalleryLightbox {
 
   close() {
     document.removeEventListener('keydown', this.onKeydown);
-    document.querySelectorAll('html,body').forEach(el => {
-      el.style.overflow = 'auto';
-    });
+    document.querySelector('body').classList.remove('modal-open');
 
     this.viewport.removeEventListener('touchstart', this.swipeStarted);
     this.viewport.removeEventListener('touchmove', this.swipeDrag);
