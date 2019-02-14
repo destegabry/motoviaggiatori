@@ -83,7 +83,7 @@ const HeaderElement = styled.header`
         right: 0;
         height: 100vh;
         width: 100vw;
-        transition: left .2s ease-in-out;
+        transition: left .3s ease-in-out;
       }
     }
   }
@@ -165,8 +165,7 @@ const HeaderElement = styled.header`
       &::before {
         display: block;
         content: '≡';
-        font-size: 4rem;
-        margin-top: -.5rem;
+        font-size: 3rem;
       }
     }
 
@@ -179,8 +178,6 @@ const HeaderElement = styled.header`
     .mobile-menu-opener {
       &::before {
         content: '×';
-        font-size: 3rem;
-        margin-top: 0;
       }
     }
 
