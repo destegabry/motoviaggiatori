@@ -3,6 +3,9 @@ import { css } from '@emotion/core'
 import heavyDutiesLogo from '../images/sponsors/heavy_duties.png'
 import topSolutionLogo from '../images/sponsors/top_solution.png'
 import cabergHelmetsLogo from '../images/sponsors/caberg_helmets.png'
+import rinolfiLogo from '../images/sponsors/rinolfi.png'
+import hyperproLogo from '../images/sponsors/hyperpro.png'
+import putolineLogo from '../images/sponsors/putoline.png'
 import anlasLogo from '../images/sponsors/anlas.png'
 
 const sponsors = [{
@@ -13,6 +16,18 @@ const sponsors = [{
   name: 'Caberg Helmets',
   src: cabergHelmetsLogo,
   href: 'https://www.caberg.it/'
+}, {
+  name: 'Hyperpro',
+  src: hyperproLogo,
+  href: 'https://hyperpro.com'
+}, {
+  name: 'Putoline',
+  src: putolineLogo,
+  href: 'https://www.putoline.com/en/'
+}, {
+  name: 'Rinolfi motorcycle parts',
+  src: rinolfiLogo,
+  href: 'https://www.rinolfi.it'
 }, {
   name: 'Heavy Duties',
   src: heavyDutiesLogo,
