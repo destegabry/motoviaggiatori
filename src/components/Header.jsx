@@ -206,7 +206,7 @@ const HeaderElement = styled.header`
     }
 
     .facebook > svg {
-      margin: -1px 0 0;
+      margin: -2px 0 0;
     }
   }
 `;

@@ -106,6 +106,11 @@ const IndexPage = ({ data }) => (
     <CategorizedPostsSection>
       <PostPreviewsByCategory
         allWordpressPost={data.allWordpressPost}
+        categoryFilter="viaggi"
+        color="#00a8ff"
+      />
+      <PostPreviewsByCategory
+        allWordpressPost={data.allWordpressPost}
         categoryFilter="itinerari"
         color="#db509f"
       />
@@ -113,11 +118,6 @@ const IndexPage = ({ data }) => (
         allWordpressPost={data.allWordpressPost}
         categoryFilter="recensioni"
         color="#689c1f"
-      />
-      <PostPreviewsByCategory
-        allWordpressPost={data.allWordpressPost}
-        categoryFilter="viaggi"
-        color="#00a8ff"
       />
     </CategorizedPostsSection>
     <h4>Tutti gli articoli</h4>
