@@ -101,6 +101,7 @@ class Gallery {
 
     this.rows.forEach(row => {
       row.height = (this.container.clientWidth - galleryPadding * (row.items.length - 1)) / row.ratio;
+      row.height = Math.min(row.height, 500); // this is to avoid huge vertical images
       const galleryRow = document.createElement('div');
       galleryRow.className = 'gallery-row';
       galleryRow.style.height = `${row.height}px`;
