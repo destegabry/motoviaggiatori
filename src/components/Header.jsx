@@ -48,8 +48,8 @@ const HeaderElement = styled.header`
         text-transform: uppercase;
 
         ${SMALL_SCREEN_ONLY} {
-          border-bottom: 1px solid ${palette.primary.main};
           display: block;
+          border-bottom: 1px solid ${palette.primary.main};
           padding: .5rem;
           margin: 0;
         }
@@ -64,19 +64,6 @@ const HeaderElement = styled.header`
       }
     }
 
-
-    nav nav {
-      ${SMALL_SCREEN_ONLY} {
-        a {
-          padding-left: 1.5rem;
-        }
-      }
-
-      ${MEDIUM_SCREEN_UP} {
-        display: none;
-      }
-    }
-
     > nav {
       ${SMALL_SCREEN_ONLY} {
         background: ${Color(palette.primary.main).darken(.2).string()};
@@ -87,6 +74,63 @@ const HeaderElement = styled.header`
         height: 100vh;
         width: 100vw;
         transition: left .3s ease-in-out;
+
+        nav {
+          a {
+            padding-left: 1.5rem;
+          }
+        }
+      }
+
+      ${MEDIUM_SCREEN_UP} {
+        > * {
+          padding: 1rem 0;
+        }
+
+        > span {
+          display: inline-block;
+          position: relative;
+
+          &:hover {
+            nav {
+              visibility: visible;
+              opacity: 1;
+            }
+          }
+        }
+
+        nav {
+          visibility: hidden;
+          opacity: 0;
+          position: absolute;
+          top: 100%;
+          right: 0;
+          background: ${Color(palette.primary.main).darken(.2).string()};
+
+          &::before {
+            content: '';
+            position: absolute;
+            right: 1rem;
+            top: -1rem;
+            height: 0;
+            width: 0;
+            border-top: .5rem solid transparent;
+            border-left: .5rem solid transparent;
+            border-right: .5rem solid transparent;
+            border-bottom: .5rem solid ${Color(palette.primary.main).darken(.2).string()};
+          }
+
+          a {
+            display: block;
+            margin: 0;
+            padding: .3rem 1rem;
+            white-space: nowrap;
+
+            :not(:last-child) {
+              border-bottom: 1px solid ${palette.primary.main};
+            }
+          }
+        }
       }
     }
   }

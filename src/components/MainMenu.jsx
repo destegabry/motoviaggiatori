@@ -34,6 +34,7 @@ const MainMenu = () => (
             <CategoryLink className={categories.viaggi.slug} category={categories.viaggi} categories={allWordpressCategory.edges} />
             <nav>
               <CategoryLink className={categories.marocco.slug} category={categories.marocco} categories={allWordpressCategory.edges} />
+              <CategoryLink className={categories.romania.slug} category={categories.romania} categories={allWordpressCategory.edges} />
             </nav>
           </span>
           <span>
