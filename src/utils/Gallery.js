@@ -12,8 +12,6 @@ const galleryCSS = css`
   width: 100%;
 
   .gallery-row {
-    display: flex;
-    justify-content: center;
     margin-bottom: ${galleryPadding}px;
   }
 
