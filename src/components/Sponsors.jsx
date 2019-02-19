@@ -7,11 +7,16 @@ import rinolfiLogo from '../images/sponsors/rinolfi.png'
 import hyperproLogo from '../images/sponsors/hyperpro.png'
 import putolineLogo from '../images/sponsors/putoline.png'
 import anlasLogo from '../images/sponsors/anlas.png'
+import xanderElectronicLogo from '../images/sponsors/xander-electronics.png'
 
 const sponsors = [{
   name: 'Top Solution',
   src: topSolutionLogo,
   href: 'https://topsolution.it/'
+}, {
+  name: 'Xander Electronics',
+  src: xanderElectronicLogo,
+  href: 'http://www.xanderelectronics.com'
 }, {
   name: 'Caberg Helmets',
   src: cabergHelmetsLogo,
@@ -25,20 +30,20 @@ const sponsors = [{
   src: putolineLogo,
   href: 'https://www.putoline.com/en/'
 }, {
-  name: 'Rinolfi motorcycle parts',
-  src: rinolfiLogo,
-  href: 'https://www.rinolfi.it'
-}, {
   name: 'Heavy Duties',
   src: heavyDutiesLogo,
   href: 'https://heavyduties.ro/'
+}, {
+  name: 'Rinolfi motorcycle parts',
+  src: rinolfiLogo,
+  href: 'https://www.rinolfi.it'
 }, {
   name: 'Anlas',
   src: anlasLogo,
   href: 'http://anlas.com/it/'
 }];
 
-const Sponsors = () => (
+const Sponsors = (props) => (
   <div
     css={css`
       display: flex;
@@ -54,6 +59,7 @@ const Sponsors = () => (
         }
       }
     `}
+    {...props}
   >
     <h4>Technical sponsors</h4>
     { sponsors.map(({href, name, src}, index) => (

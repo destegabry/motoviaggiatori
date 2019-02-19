@@ -3,7 +3,10 @@ import { StaticQuery, graphql } from 'gatsby'
 import styled from '@emotion/styled'
 import { css } from '@emotion/core'
 import Color from 'color'
-import { SMALL_SCREEN_ONLY } from '../utils/breakpoints'
+import {
+  SMALL_SCREEN_ONLY,
+  MEDIUM_SCREEN_UP
+} from '../utils/breakpoints'
 
 import headerFooterStyle from '../utils/headerFooterStyle'
 import colors from '../utils/colors'
@@ -17,7 +20,7 @@ import SocialLinks from './SocialLinks'
 
 const FooterWrapper = styled.footer`${headerFooterStyle}`;
 
-const wrapperStyle = css`
+const wrapperCss = css`
   padding: 0;
 
   ${SMALL_SCREEN_ONLY} {
@@ -74,21 +77,38 @@ const Credits = styled.div`
   text-align: center;
 `;
 
-const logoStyle = css`
+const logoCss = css`
   width: 100%;
   max-width: 250px;
+`;
+
+const sponsorsCss = css`
+  ${MEDIUM_SCREEN_UP} {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+
+    h4 {
+      flex: 1 0 100%;
+    }
+
+    > a {
+      flex: 0 1 48%;
+    }
+  }
 `;
 
 const Footer = ({site, allWordpressPost}) => (
   <FooterWrapper itemProp="publisher" itemScope itemType="http://schema.org/Organization" id="global-org">
     <meta itemProp="logo" content={ site.siteMetadata.siteUrl + LogoRaster } />
-    <Wrapper css={wrapperStyle}>
+    <Wrapper css={wrapperCss}>
       <FooterColumn>
         <a itemProp="url" href={ site.siteMetadata.siteUrl }>
-          <Logo css={logoStyle} />
+          <Logo css={logoCss} />
         </a>
         <SocialLinks size={32} />
-        <Sponsors />
+        <Sponsors css={sponsorsCss} />
       </FooterColumn>
       <FooterColumn>
         <h4>Site map</h4>
