@@ -69,7 +69,7 @@ class PagedPosts extends Component {
 
   scrollToSectionTop() {
     window.scrollTo({
-      top: this.myRef.current.offsetTop - 10,
+      top: this.myRef.current.offsetTop - 100,
       behavior: 'smooth'
     })
   }
