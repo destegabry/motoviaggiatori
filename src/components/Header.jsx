@@ -7,6 +7,8 @@ import Color from 'color'
 import Logo from '../images/motoviaggiatori_logo.svg'
 import Wrapper from './Wrapper'
 import MainMenu from './MainMenu'
+import SocialLinks from './SocialLinks'
+import Flex from './Flex'
 import headerFooterStyle from '../utils/headerFooterStyle'
 import {
   SMALL_SCREEN_ONLY,
@@ -39,6 +41,7 @@ const HeaderElement = styled.header`
 
   .nav-wrapper {
     align-items: center;
+    justify-content: flex-start;
 
     nav {
       a {
@@ -52,7 +55,7 @@ const HeaderElement = styled.header`
         }
 
         ${MEDIUM_SCREEN_UP} {
-          margin-left: 1rem;
+          margin-right: 1rem;
 
           &[aria-current] {
             box-shadow: 0 1px 0 0 currentColor;
@@ -187,6 +190,25 @@ const HeaderElement = styled.header`
       }
     }
   }
+
+  .social-links {
+    > a {
+      background: transparent;
+      opacity: .65;
+
+      &:hover {
+        opacity: 1;
+      }
+    }
+
+    .instagram > svg {
+      margin: 1px;
+    }
+
+    .facebook > svg {
+      margin: -1px 0 0;
+    }
+  }
 `;
 
 const scrollTop = event => {
@@ -218,7 +240,9 @@ const Header = ({wordpressSiteMetadata}) => {
               >
                 <Logo />
               </Link>
+              <Flex />
               <MainMenu />
+              <SocialLinks size={24} hideMail />
               <div className="mobile-menu-opener" onClick={toggleMobileMenu} />
             </Wrapper>
           </div>

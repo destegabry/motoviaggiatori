@@ -47,7 +47,7 @@ const mailStyle = css`
   }
 `
 
-const SocialLinks = ({size}) => {
+const SocialLinks = ({size, hideMail}) => {
   const iconStyle = {
     height: size,
     width: size,
@@ -61,6 +61,7 @@ const SocialLinks = ({size}) => {
         title="Instagram"
         style={iconStyle}
         css={instagramStyle}
+        className="instagram"
       >
         <Instagram />
       </Link>
@@ -69,23 +70,33 @@ const SocialLinks = ({size}) => {
         title="Facebook"
         style={iconStyle}
         css={facebookStyle}
+        className="facebook"
       >
         <Facebook />
       </Link>
-      <Link
-        href="mailto:info@motoviaggiatori.it"
-        title="Email"
-        style={iconStyle}
-        css={mailStyle}
-      >
-        <Email />
-      </Link>
+      { hideMail ? null :
+        <Link
+          href="mailto:info@motoviaggiatori.it"
+          title="Email"
+          style={iconStyle}
+          css={mailStyle}
+          className="email"
+        >
+          <Email />
+        </Link>
+      }
     </Wrapper>
   )
 }
 
 SocialLinks.propTypes = {
   size: PropTypes.number.isRequired,
+  hideMail: PropTypes.bool,
+}
+
+
+SocialLinks.defaultProps = {
+  hideMail: false
 }
 
 export default SocialLinks;
