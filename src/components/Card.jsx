@@ -6,7 +6,7 @@ import {
   MEDIUM_SCREEN_UP
 } from '../utils/breakpoints'
 
-export default styled.div`
+const Card = styled.div`
   background: ${colors.palette.primary.contrast};
   border-radius: 3px;
   box-shadow: 0 1px 3px rgba(0,0,0,.1);
@@ -22,4 +22,6 @@ export default styled.div`
   > .content {
     padding: 10px;
   }
-`
+`;
+
+export default Card;

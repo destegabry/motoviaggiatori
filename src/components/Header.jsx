@@ -206,7 +206,7 @@ const HeaderElement = styled.header`
       cursor: pointer;
       line-height: ${headerHeightMobile}px;
       height: ${headerHeightMobile}px;
-      width: ${headerHeightMobile}px;
+      width: 40px;
       text-align: center;
 
       &::before {

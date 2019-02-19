@@ -7,14 +7,16 @@ import {
   LARGE_SCREEN_UP,
   MEDIUM_SCREEN_DOWN,
   MEDIUM_SCREEN_ONLY,
-  MEDIUM_SCREEN_UP
+  MEDIUM_SCREEN_UP,
 } from '../utils/breakpoints';
+
 import Layout from '../components/Layout'
 import Card from '../components/Card'
 import SEO from '../components/seo'
 import PostPreviewFull from '../components/PostPreviewFull'
 import PostPreviewList from '../components/PostPreviewList'
 import PagedPosts from '../components/PagedPosts'
+import SponsorsCard from '../components/SponsorsCard'
 
 const CategorizedPostsSection = styled.section`
   display: flex;
@@ -28,7 +30,7 @@ const CategorizedPostsSection = styled.section`
   }
 `;
 
-const cardStyle = css`
+const cardCss = css`
   ${LARGE_SCREEN_UP} {
     flex: 1 0 0%
   }
@@ -68,7 +70,7 @@ const PostPreviewsByCategory = ({allWordpressPost, categoryFilter, color}) => {
   return (
     <Card css={css`
       border-top: 6px solid ${color};
-      ${cardStyle}
+      ${cardCss}
 
       h4 {
         margin: 10px;
@@ -120,6 +122,13 @@ const IndexPage = ({ data }) => (
         color="#689c1f"
       />
     </CategorizedPostsSection>
+
+    <SponsorsCard
+      css={css`
+        margin-left: 0!important;
+        margin-right: 0!important;
+      `}
+    />
     <h4>Tutti gli articoli</h4>
     <PagedPosts
       posts={data.allWordpressPost.edges}
