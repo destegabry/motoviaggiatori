@@ -48,6 +48,13 @@ module.exports = {
     * Gatsby's data processing layer begins with “source”
     * plugins. Here the site sources its data from Wordpress.
     */
+
+    {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: 'motoviaggiatori',
+      },
+    },
     {
       resolve: "gatsby-source-wordpress",
       options: {
@@ -79,7 +86,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-51082295-6"
+        trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID,
       },
     },
     `gatsby-plugin-sitemap`,
