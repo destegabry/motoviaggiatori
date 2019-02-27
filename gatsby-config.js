@@ -50,10 +50,10 @@ module.exports = {
     */
 
     {
-      resolve: `gatsby-source-instagram`,
+      resolve: `gatsby-source-instagram-all`,
       options: {
-        username: 'motoviaggiatori',
-      },
+        access_token: process.env.INSTAGRAM_ACCESS_TOKEN
+      }
     },
     {
       resolve: "gatsby-source-wordpress",

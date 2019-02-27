@@ -1,5 +1,5 @@
 import React from 'react'
-import { StaticQuery, graphql } from 'gatsby'
+import { StaticQuery, graphql, Link } from 'gatsby'
 
 import CategoryLink from './CategoryLink'
 
@@ -46,6 +46,7 @@ const MainMenu = () => (
               <CategoryLink className={categories.gadget.slug} category={categories.gadget} categories={allWordpressCategory.edges} />
             </nav>
           </span>
+          <Link to="/foto">Foto</Link>
           <CategoryLink className={categories.video.slug} category={categories.video} categories={allWordpressCategory.edges} />
         </nav>
       );

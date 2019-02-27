@@ -270,7 +270,7 @@ const toggleMobileMenu = event => {
   document.querySelector('html').classList.toggle('modal-open');
 }
 
-const Header = ({wordpressSiteMetadata}) => {
+const Header = ({site}) => {
   return (
     <InView>
       {({ inView, ref }) => (
@@ -280,7 +280,7 @@ const Header = ({wordpressSiteMetadata}) => {
               <Link
                 className="logo"
                 to="/"
-                alt={ wordpressSiteMetadata.name }
+                alt={ site.siteMetadata.name }
               >
                 <Logo />
               </Link>
@@ -304,8 +304,11 @@ const HeaderContainer = () => (
   <StaticQuery
     query={graphql`
       query headerQuery {
-        wordpressSiteMetadata {
-          name
+        site {
+          siteMetadata {
+            siteUrl
+            name
+          }
         }
       }
     `}

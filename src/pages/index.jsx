@@ -17,7 +17,6 @@ import PostPreviewFull from '../components/PostPreviewFull'
 import PostPreviewList from '../components/PostPreviewList'
 import PagedPosts from '../components/PagedPosts'
 import SponsorsCard from '../components/SponsorsCard'
-import InstagramFeed from '../components/InstagramFeed'
 
 const CategorizedPostsSection = styled.section`
   display: flex;
@@ -105,8 +104,6 @@ const PostPreviewsByCategory = ({allWordpressPost, categoryFilter, color}) => {
 const IndexPage = ({ data }) => (
   <Layout>
     <SEO title="Home page" />
-    <h4>Ultime foto da Instagram</h4>
-    <InstagramFeed limit={ 4 } />
     <h4>Ultimi articoli</h4>
     <CategorizedPostsSection>
       <PostPreviewsByCategory

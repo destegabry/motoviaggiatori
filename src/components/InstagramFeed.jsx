@@ -1,29 +1,56 @@
 import React from 'react'
 import { StaticQuery, graphql } from 'gatsby'
+import styled from '@emotion/styled'
 import PropTypes from 'prop-types'
 import Img from 'gatsby-image'
+
+import {
+  SMALL_SCREEN_ONLY,
+  MEDIUM_SCREEN_ONLY,
+} from '../utils/breakpoints'
+
 
 function InstagramPost({ post }) {
   return (
     <a
       href={`https://www.instagram.com/p/${post.id}`}
-      title={post.caption}
+      title={post.caption.text}
       target="_blank"
       rel="noopener noreferrer"
     >
       <Img
-        fixed={post.localFile.childImageSharp.fixed}
-        alt={post.caption}
-      />
+        fluid={post.localImage.childImageSharp.fluid}
+        alt={post.caption.text}
+        />
     </a>
   );
 }
 
-function InstagramFeed({ allInstaNode }) {
+const InstagramFeedWrapper = styled.div`
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+
+  > a {
+    display: block;
+    flex: 0 0 25%;
+    padding: .25rem;
+
+    ${SMALL_SCREEN_ONLY} {
+      flex-basis: 50%;
+    }
+
+    ${MEDIUM_SCREEN_ONLY} {
+      flex-basis: 33.3%;
+    }
+  }
+`;
+
+function InstagramFeed({ allInstagramContent }) {
   return (
-    <div>
-      {allInstaNode.edges.map(({node}) => <InstagramPost key={node.id} post={node} /> )}
-    </div>
+    <InstagramFeedWrapper>
+      {allInstagramContent.edges.map(({node}) => <InstagramPost key={node.id} post={node} /> )}
+    </InstagramFeedWrapper>
   );
 }
 
@@ -31,23 +58,29 @@ function InstagramFeed({ allInstaNode }) {
 function InstagramFeedContainer({ limit, size }) {
   return <StaticQuery
     query={ graphql`query {
-      allInstaNode(
+      allInstagramContent(
         sort: {
-          fields: [timestamp],
+          fields: [created_time],
           order: DESC
         }
-        limit: 4
       ) {
         edges {
           node {
             id
-            mediaType
-            timestamp
-            caption
-            localFile {
+            created_time
+            caption {
+              text
+            }
+            localImage {
               childImageSharp {
-                fixed(width: 150, height: 150) {
-                  ...GatsbyImageSharpFixed
+                fluid(
+                  maxWidth: 300,
+                  maxHeight: 300
+                ) {
+                  src
+                  srcSet
+                  aspectRatio
+                  sizes
                 }
               }
             }
