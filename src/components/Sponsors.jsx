@@ -8,6 +8,7 @@ import hyperproLogo from '../images/sponsors/hyperpro.png'
 import putolineLogo from '../images/sponsors/putoline.png'
 import anlasLogo from '../images/sponsors/anlas.png'
 import xanderElectronicLogo from '../images/sponsors/xander-electronics.png'
+import wrsLogo from '../images/sponsors/wrs.png'
 
 const sponsors = [{
   name: 'Top Solution',
@@ -26,6 +27,14 @@ const sponsors = [{
   src: hyperproLogo,
   href: 'https://hyperpro.com'
 }, {
+  name: 'WRS',
+  src: wrsLogo,
+  href: 'https://wrs.it'
+}, {
+  name: 'Rinolfi motorcycle parts',
+  src: rinolfiLogo,
+  href: 'https://www.rinolfi.it'
+}, {
   name: 'Putoline',
   src: putolineLogo,
   href: 'https://www.putoline.com/en/'
@@ -33,10 +42,6 @@ const sponsors = [{
   name: 'Heavy Duties',
   src: heavyDutiesLogo,
   href: 'https://heavyduties.ro/'
-}, {
-  name: 'Rinolfi motorcycle parts',
-  src: rinolfiLogo,
-  href: 'https://www.rinolfi.it'
 }, {
   name: 'Anlas',
   src: anlasLogo,
