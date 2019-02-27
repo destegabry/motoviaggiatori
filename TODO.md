@@ -1,6 +1,5 @@
 - add social links on
   - contacts
-- JS load instagram stream on pictures page
 - CMS
   - add description on categories/tags
 - Feed RSS
