@@ -11,6 +11,7 @@ export default css`
 
   a {
     color: inherit;
+    transition: color .3s;
 
     &:hover,
     &:active {

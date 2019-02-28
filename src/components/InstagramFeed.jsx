@@ -35,6 +35,12 @@ const InstagramFeedWrapper = styled.div`
     display: block;
     flex: 0 0 25%;
     padding: .25rem;
+    box-shadow: none;
+    transition: opacity .3s;
+
+    &:hover {
+      opacity: .8;
+    }
 
     ${SMALL_SCREEN_ONLY} {
       flex-basis: 50%;
