@@ -14,7 +14,7 @@ import {
   MEDIUM_SCREEN_UP,
   SMALL_SCREEN_MAX_SIZE
 } from '../utils/breakpoints';
-import Gallery from '../utils/gallery';
+import Gallery from '../utils/Gallery';
 
 
 const cardCss = css`
