@@ -53,6 +53,15 @@ const sponsors = [{
   href: 'http://anlas.com/it/'
 }];
 
+const openSponsorLink = url => {
+  if (window.ga) {
+    window.ga('send', 'event', 'sponsor', 'click', url, {
+      'transport': 'beacon',
+      'hitCallback': () => { document.location = url; }
+    });
+  }
+}
+
 const Sponsors = (props) => (
   <div
     css={css`
@@ -78,6 +87,7 @@ const Sponsors = (props) => (
           key={index}
           title={name}
           target="_blank"
+          onClick={ () => openSponsorLink(href) }
           rel="noopener noreferrer nofollow">
           <img src={src} alt={name} />
         </a>
