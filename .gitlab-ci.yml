@@ -36,4 +36,4 @@ deploy_job:
     - ssh-keyscan motoviaggiatori.it >> ~/.ssh/known_hosts
     - chmod 644 ~/.ssh/known_hosts
   script:
-    - rsync -rtv public gabriele@motoviaggiatori.it:/var/www/motoviaggiatori.it/
+    - rsync -rtv public/ gabriele@motoviaggiatori.it:/var/www/motoviaggiatori.it/
