@@ -9,6 +9,7 @@ import putolineLogo from '../images/sponsors/putoline.png'
 import anlasLogo from '../images/sponsors/anlas.png'
 import xanderElectronicLogo from '../images/sponsors/xander-electronics.png'
 import wrsLogo from '../images/sponsors/wrs.png'
+import midlandLogo from '../images/sponsors/midland.png'
 
 const sponsors = [{
   name: 'Top Solution',
@@ -23,6 +24,10 @@ const sponsors = [{
   src: cabergHelmetsLogo,
   href: 'https://www.caberg.it/'
 }, {
+  name: 'Midland',
+  src: midlandLogo,
+  href: 'https://www.midlandeurope.com/it'
+},{
   name: 'Hyperpro',
   src: hyperproLogo,
   href: 'https://hyperpro.com'

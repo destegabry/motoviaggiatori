@@ -10,6 +10,8 @@ stages:
 
 build_job:
   stage: build
+  only:
+    - master
   before_script:
     - npm install
   script:
@@ -17,11 +19,11 @@ build_job:
   artifacts:
     paths:
       - public
-  only:
-    - master
 
 deploy_job:
   stage: deploy
+  only:
+    - master
   dependencies:
     - build_job
   before_script:
