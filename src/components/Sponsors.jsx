@@ -56,8 +56,7 @@ const sponsors = [{
 const openSponsorLink = url => {
   if (window.ga) {
     window.ga('send', 'event', 'sponsor', 'click', url, {
-      'transport': 'beacon',
-      'hitCallback': () => { document.location = url; }
+      'transport': 'beacon'
     });
   }
 }
