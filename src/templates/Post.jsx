@@ -15,6 +15,7 @@ import {
   SMALL_SCREEN_MAX_SIZE
 } from '../utils/breakpoints';
 import Gallery from '../utils/Gallery';
+import AuthorBox from '../components/AuthorBox'
 
 
 const cardCss = css`
@@ -162,9 +163,7 @@ class PageTemplate extends Component {
           </TagSection>
         </Card>
         <Card css={cardCss} itemProp="author" itemScope="itemscope" itemType="http://schema.org/Person">
-          <h3>Autore</h3>
-          <h4 itemProp="name" dangerouslySetInnerHTML={{ __html: currentPost.author.name }} />
-          <div itemProp="description" dangerouslySetInnerHTML={{ __html: currentPost.author.description }} />
+          <AuthorBox author={currentPost.author} showProfileLink={true} />
         </Card>
       </Layout>
     )
@@ -183,6 +182,27 @@ export const pageQuery = graphql`
         slug,
         name,
         description
+        url,
+        acf {
+          avatar {
+            source_url
+            localFile {
+              childImageSharp {
+                fluid(
+                  maxWidth: 300,
+                  maxHeight: 300,
+                  cropFocus: CENTER
+                ) {
+                  src
+                  srcSet
+                  aspectRatio
+                  sizes
+                }
+              }
+            }
+            alt_text
+          }
+        }
       }
       categories {
         id
