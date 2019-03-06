@@ -1,9 +1,13 @@
 import React, { Component } from 'react'
 import { graphql } from 'gatsby'
+import showdown from 'showdown'
+
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import Card from '../components/Card'
 import PagedPosts from '../components/PagedPosts'
+
+const converter = new showdown.Converter();
 
 class AuthorTemplate extends Component {
   render() {
@@ -16,7 +20,7 @@ class AuthorTemplate extends Component {
         <Card>
           <div className="content">
             <h1 dangerouslySetInnerHTML={{ __html: currentAuthor.name }} />
-            <div dangerouslySetInnerHTML={{ __html: currentAuthor.description }} />
+            <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(currentAuthor.description) }} />
           </div>
         </Card>
         <PagedPosts posts={posts} />
