@@ -36,6 +36,7 @@
     "react-helmet": "^5.2.0",
     "react-intersection-observer": "^8.10.0",
     "react-typography": "^0.16.18",
+    "showdown": "^1.9.0",
     "smoothscroll-polyfill": "^0.4.3",
     "string-strip-html": "^3.5.8",
     "typography": "^0.16.18",
