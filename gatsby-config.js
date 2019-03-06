@@ -61,7 +61,7 @@ module.exports = {
         baseUrl: "edit.motoviaggiatori.it",
         protocol: "https",
         hostingWPCOM: false,
-        useACF: false,
+        useACF: true,
         acfOptionPageIds: [],
         auth: {
         },
