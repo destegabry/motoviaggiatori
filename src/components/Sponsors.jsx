@@ -12,6 +12,7 @@ import wrsLogo from '../images/sponsors/wrs.png'
 import midlandLogo from '../images/sponsors/midland.svg'
 import motorQualityLogo from '../images/sponsors/motorquality.svg'
 import bremboLogo from '../images/sponsors/brembo.svg'
+import belinassuLogo from '../images/sponsors/belinassu.png'
 
 const sponsors = [{
   Logo: topSolutionLogo,
@@ -47,6 +48,10 @@ const sponsors = [{
   Logo: motorQualityLogo,
   href: 'http://www.motorquality.it'
 }, {
+  name: 'Belinassu SMART IAT',
+  src: belinassuLogo,
+  href: 'https://heavyduties.ro/'
+}, {
   name: 'Heavy Duties',
   src: heavyDutiesLogo,
   href: 'https://heavyduties.ro/'
@@ -73,7 +78,7 @@ const Sponsors = (props) => (
       text-align: center;
 
       a {
-        max-width: 240px;
+        max-width: 200px;
 
         > img,
         > svg {
