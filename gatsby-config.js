@@ -8,7 +8,7 @@ const description = `Due ruote, infinite emozioni`;
 const colors = require('./src/utils/colors');
 const siteUrl = `https://motoviaggiatori.it`;
 const {version} = require('./package.json');
-const icon = `src/images/motoviaggiatori_icon.png`;
+const icon = `static/images/motoviaggiatori_icon.png`;
 
 module.exports = {
   siteMetadata: {

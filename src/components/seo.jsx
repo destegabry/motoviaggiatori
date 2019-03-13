@@ -1,11 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
-import { StaticQuery, graphql } from 'gatsby'
+import { StaticQuery, graphql, withPrefix } from 'gatsby'
 import he from 'he'
 import stripHtml from 'string-strip-html'
-
-import LogoRaster from '../images/motoviaggiatori_logo.png'
 
 function SEO({ description, lang, meta, keywords, title, children, image }) {
   return (
@@ -14,7 +12,7 @@ function SEO({ description, lang, meta, keywords, title, children, image }) {
       render={({ site: { siteMetadata } }) => {
         const metaDescription = he.decode(stripHtml(description || siteMetadata.description))
         const parsedTitle = title ? `${he.decode(title)} | ${siteMetadata.title}` : `${siteMetadata.title} | ${siteMetadata.description}`;
-        const previewImage = image || siteMetadata.siteUrl + LogoRaster;
+        const previewImage = image || withPrefix('/images/motoviaggiatori_logo.png');
 
         return (
           <Helmet
@@ -94,7 +92,6 @@ const detailsQuery = graphql`
   query DefaultSEOQuery {
     site {
       siteMetadata {
-        siteUrl
         title
         description
       }
