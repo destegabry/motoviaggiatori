@@ -46,4 +46,4 @@ notify_job:
   dependencies:
     - deploy_job
   script:
-    - curl -s --user "api:$MAILGUN_API_KEY" $MAILGUN_API_URL/messages -F from="$EMAIL_FROM" -F to="$EMAIL_TO" -F subject="Deployed MotoViaggiatori" --form-string html="${CI_COMMIT_SHORT_SHA} on ${CI_COMMIT_REF_SLUG} \n ${CI_COMMIT_MESSAGE}"
+    - curl -s --user "api:$MAILGUN_API_KEY" $MAILGUN_API_URL/messages -F from="$EMAIL_FROM" -F to="$EMAIL_TO" -F subject="Deployed MotoViaggiatori" --form-string html="${CI_COMMIT_SHORT_SHA} on ${CI_COMMIT_REF_SLUG} ${CI_COMMIT_MESSAGE}"

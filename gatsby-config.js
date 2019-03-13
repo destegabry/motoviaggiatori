@@ -1,12 +1,22 @@
 require('dotenv').config();
+const  he = require('he');
+const  stripHtml = require('string-strip-html');
 
 const name = 'MotoViaggiatori';
+const title = name;
+const description = 'Due ruote, infinite emozioni';
 const colors = require('./src/utils/colors');
+const siteUrl = `https://motoviaggiatori.it`;
+const {version} = require('./package.json');
 
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://motoviaggiatori.it`,
-    name
+    siteUrl,
+    name,
+    version,
+    description,
+    title,
+    site_url: siteUrl
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -90,5 +100,44 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        feeds: [
+          {
+            serialize: ({ query: { allWordpressPost } }) => {
+              return allWordpressPost.edges.map(({ node }) => {
+                return {
+                  title: node.title,
+                  description: he.decode(stripHtml(node.excerpt)),
+                  date: node.date,
+                  url: siteUrl + node.slug,
+                  guid: siteUrl + node.slug,
+                }
+              })
+            },
+            query: `
+              {
+                allWordpressPost {
+                  edges {
+                    node {
+                      title
+                      slug
+                      date
+                      excerpt
+                      featured_media {
+                        source_url
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: `/rss.xml`,
+            title: `Feed RSS MotoViaggiatori`,
+          },
+        ],
+      }
+    }
   ],
 }
