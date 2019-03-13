@@ -11,10 +11,10 @@ function SEO({ description, lang, meta, keywords, title, children, image }) {
   return (
     <StaticQuery
       query={detailsQuery}
-      render={data => {
-        const metaDescription = he.decode(stripHtml(description || data.wordpressSiteMetadata.description))
-        const parsedTitle = he.decode(title);
-        const previewImage = image || data.site.siteMetadata.siteUrl + LogoRaster;
+      render={({ site: { siteMetadata } }) => {
+        const metaDescription = he.decode(stripHtml(description || siteMetadata.description))
+        const parsedTitle = title ? `${he.decode(title)} | ${siteMetadata.title}` : `${siteMetadata.title} | ${siteMetadata.description}`;
+        const previewImage = image || siteMetadata.siteUrl + LogoRaster;
 
         return (
           <Helmet
@@ -22,7 +22,6 @@ function SEO({ description, lang, meta, keywords, title, children, image }) {
               lang,
             }}
             title={parsedTitle}
-            titleTemplate={`%s | ${data.wordpressSiteMetadata.name}`}
             meta={[
               {
                 name: `description`,
@@ -86,7 +85,7 @@ SEO.propTypes = {
   lang: PropTypes.string,
   meta: PropTypes.array,
   keywords: PropTypes.arrayOf(PropTypes.string),
-  title: PropTypes.string.isRequired,
+  title: PropTypes.string,
 }
 
 export default SEO
@@ -96,11 +95,9 @@ const detailsQuery = graphql`
     site {
       siteMetadata {
         siteUrl
+        title
+        description
       }
-    }
-    wordpressSiteMetadata {
-      name
-      description
     }
   }
 `
