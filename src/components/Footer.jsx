@@ -1,17 +1,16 @@
 import React from 'react'
-import { StaticQuery, graphql } from 'gatsby'
+import { StaticQuery, graphql, withPrefix } from 'gatsby'
 import styled from '@emotion/styled'
 import { css } from '@emotion/core'
 import Color from 'color'
+
 import {
   SMALL_SCREEN_ONLY,
   MEDIUM_SCREEN_UP
 } from '../utils/breakpoints'
-
 import headerFooterStyle from '../utils/headerFooterStyle'
 import colors from '../utils/colors'
 import Logo from '../images/motoviaggiatori_logo.svg'
-import LogoRaster from '../images/motoviaggiatori_logo.png'
 import MainMenu from './MainMenu'
 import Wrapper from './Wrapper'
 import Sponsors from './Sponsors'
@@ -101,7 +100,7 @@ const sponsorsCss = css`
 
 const Footer = ({site, allWordpressPost}) => (
   <FooterWrapper itemProp="publisher" itemScope itemType="http://schema.org/Organization" id="global-org">
-    <meta itemProp="logo" content={ site.siteMetadata.siteUrl + LogoRaster } />
+    <meta itemProp="logo" content={ withPrefix('/images/motoviaggiatori_logo.png') } />
     <Wrapper css={wrapperCss}>
       <FooterColumn>
         <a itemProp="url" href={ site.siteMetadata.siteUrl }>

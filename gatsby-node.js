@@ -70,12 +70,6 @@ exports.createPages = async ({graphql, actions}) => {
         }
       }
     }
-    wordpressSiteMetadata {
-      name
-      description
-      url
-      home
-    }
   }`);
   if (result.errors) {
     console.error(result.errors);

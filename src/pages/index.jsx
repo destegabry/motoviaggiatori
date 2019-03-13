@@ -103,7 +103,7 @@ const PostPreviewsByCategory = ({allWordpressPost, categoryFilter, color}) => {
 
 const IndexPage = ({ data }) => (
   <Layout>
-    <SEO title="Home page" />
+    <SEO />
     <h4>Ultimi articoli</h4>
     <CategorizedPostsSection>
       <PostPreviewsByCategory

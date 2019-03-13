@@ -2,12 +2,13 @@ require('dotenv').config();
 const  he = require('he');
 const  stripHtml = require('string-strip-html');
 
-const name = 'MotoViaggiatori';
+const name = `MotoViaggiatori`;
 const title = name;
-const description = 'Due ruote, infinite emozioni';
+const description = `Due ruote, infinite emozioni`;
 const colors = require('./src/utils/colors');
 const siteUrl = `https://motoviaggiatori.it`;
 const {version} = require('./package.json');
+const icon = `static/images/motoviaggiatori_icon.png`;
 
 module.exports = {
   siteMetadata: {
@@ -16,7 +17,8 @@ module.exports = {
     version,
     description,
     title,
-    site_url: siteUrl
+    site_url: siteUrl,
+    image_url: icon
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -46,7 +48,7 @@ module.exports = {
         background_color: colors.palette.primary.main,
         theme_color: colors.palette.primary.main,
         display: `minimal-ui`,
-        icon: `src/images/motoviaggiatori_icon.png`, // This path is relative to the root of the site.
+        icon, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
@@ -103,6 +105,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-feed`,
       options: {
+        serialize: ({ query }) => {
+          console.log(JSON.stringify(query, null , 4));
+        },
         feeds: [
           {
             serialize: ({ query: { allWordpressPost } }) => {
