@@ -127,7 +127,7 @@ const Footer = ({site, allWordpressPost}) => (
       <Wrapper css={{justifyContent: 'center'}}>
         <span>
           <span>©{new Date().getFullYear()}</span> <span itemProp="name">
-            {site.siteMetadata.name}
+            {site.siteMetadata.name}</span> | <span>v{site.siteMetadata.version}
           </span> | Powered by <a
             href="https://www.topsolution.it"
             target="_blank"
@@ -149,6 +149,7 @@ const FooterContainer = () => (
           siteMetadata {
             siteUrl
             name
+            version
           }
         }
         allWordpressPost {
