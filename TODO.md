@@ -1,4 +1,3 @@
-- add picture and links on author page
 - social follow banners
 - add social links on
   - contacts
