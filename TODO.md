@@ -1,6 +1,0 @@
-- social follow banners
-- add social links on
-  - contacts
-- CMS
-  - add description on categories/tags
-- Feed RSS
