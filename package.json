@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "motoviaggiatori",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Gatsby + Wordpress powered blog MotoViaggiatori.it",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Gabriele Destefanis <g.destefanis@topsolution.it>",
   "dependencies": {
     "@emotion/core": "^10.0.9",
     "@emotion/styled": "^10.0.9",
@@ -14,6 +14,7 @@
     "gatsby-cli": "^2.4.15",
     "gatsby-image": "^2.0.33",
     "gatsby-plugin-emotion": "^4.0.6",
+    "gatsby-plugin-feed": "^2.0.15",
     "gatsby-plugin-google-analytics": "^2.0.17",
     "gatsby-plugin-manifest": "^2.0.24",
     "gatsby-plugin-offline": "^2.0.25",
@@ -60,9 +61,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://gitlab.com/top-solution/motoviaggiatori"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://gitlab.com/top-solution/motoviaggiatori/issues"
   }
 }
