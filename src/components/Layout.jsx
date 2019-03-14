@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
+import { withPrefix } from 'gatsby'
 import { css, Global } from '@emotion/core'
 import styled from '@emotion/styled'
 import moment from 'moment'
@@ -34,6 +35,28 @@ const globalStyles = css`
     max-width: 100%;
     padding-bottom: 2rem;
   }
+
+  .pace {
+    -webkit-pointer-events: none;
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+
+    .pace-progress {
+      background: ${colors.palette.secondary.main};
+      position: fixed;
+      z-index: 2000;
+      top: 0;
+      right: 100%;
+      width: 100%;
+      height: 2px;
+    }
+  }
+
+  .pace-inactive {
+    display: none;
+  }
 `;
 
 const OuterWrapper = styled.div`
@@ -53,6 +76,7 @@ const Layout = ({ children, ...otherProps }) => {
       <Helmet>
         <script>{`window._epn = {campaign: 5337960068};`}</script>
         <script src="https://epnt.ebay.com/static/epn-smart-tools.js"></script>
+        <script src={withPrefix('/pace.min.js')}></script>
       </Helmet>
       <Global styles={globalStyles} />
       <Header />
