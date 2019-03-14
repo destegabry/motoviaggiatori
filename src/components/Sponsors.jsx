@@ -6,7 +6,7 @@ import cabergHelmetsLogo from '../images/sponsors/caberg.svg'
 import rinolfiLogo from '../images/sponsors/rinolfi.svg'
 import hyperproLogo from '../images/sponsors/hyperpro.png'
 import putolineLogo from '../images/sponsors/putoline.png'
-import anlasLogo from '../images/sponsors/anlas.png'
+import anlasLogo from '../images/sponsors/anlas.svg'
 import xanderElectronicLogo from '../images/sponsors/xander-electronics.svg'
 import wrsLogo from '../images/sponsors/wrs.png'
 import midlandLogo from '../images/sponsors/midland.svg'
@@ -56,8 +56,7 @@ const sponsors = [{
   src: heavyDutiesLogo,
   href: 'https://heavyduties.ro/'
 }, {
-  name: 'Anlas',
-  src: anlasLogo,
+  Logo: anlasLogo,
   href: 'http://anlas.com/it/'
 }];
 

@@ -5,10 +5,10 @@ const  stripHtml = require('string-strip-html');
 const name = `MotoViaggiatori`;
 const title = name;
 const description = `Due ruote, infinite emozioni`;
+const language = `it`;
 const colors = require('./src/utils/colors');
 const siteUrl = `https://motoviaggiatori.it`;
 const {version} = require('./package.json');
-const icon = `static/images/motoviaggiatori_icon.png`;
 
 module.exports = {
   siteMetadata: {
@@ -18,7 +18,8 @@ module.exports = {
     description,
     title,
     site_url: siteUrl,
-    image_url: icon
+    image_url: `https://motoviaggiatori.it/images/motoviaggiatori_icon.png`,
+    language
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -48,7 +49,7 @@ module.exports = {
         background_color: colors.palette.primary.main,
         theme_color: colors.palette.primary.main,
         display: `minimal-ui`,
-        icon, // This path is relative to the root of the site.
+        icon: `static/images/motoviaggiatori_icon.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
@@ -105,19 +106,35 @@ module.exports = {
     {
       resolve: `gatsby-plugin-feed`,
       options: {
-        serialize: ({ query }) => {
-          console.log(JSON.stringify(query, null , 4));
-        },
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+                image_url
+                language
+              }
+            }
+          }
+        `,
         feeds: [
           {
             serialize: ({ query: { allWordpressPost } }) => {
               return allWordpressPost.edges.map(({ node }) => {
                 return {
-                  title: node.title,
+                  title: he.decode(node.title),
                   description: he.decode(stripHtml(node.excerpt)),
                   date: node.date,
-                  url: siteUrl + node.slug,
-                  guid: siteUrl + node.slug,
+                  author: node.author.name,
+                  url: `${siteUrl}/${node.slug}`,
+                  guid: `${siteUrl}/${node.slug}`,
+                  enclosure: {
+                    url: siteUrl + node.featured_media.localFile.childImageSharp.fixed.src,
+                    title: node.featured_media.title,
+                  }
                 }
               })
             },
@@ -131,7 +148,21 @@ module.exports = {
                       date
                       excerpt
                       featured_media {
-                        source_url
+                        localFile {
+                          childImageSharp {
+                            fixed(
+                              width: 256,
+                              height: 256,
+                              cropFocus: CENTER
+                            ) {
+                              src
+                            }
+                          }
+                        }
+                        title
+                      }
+                      author {
+                        name
                       }
                     }
                   }
