@@ -18,7 +18,7 @@ build_job:
   script:
     - npm run build
   artifacts:
-    expire_in: 30 minutes
+    expire_in: 3 days
     paths:
       - public
 
