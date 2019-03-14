@@ -18,7 +18,7 @@ module.exports = {
     description,
     title,
     site_url: siteUrl,
-    image_url: `https://motoviaggiatori.it/images/motoviaggiatori_icon.png`,
+    image_url: `https://motoviaggiatori.it/images/motoviaggiatori_icon_small.png`,
     language
   },
   plugins: [
