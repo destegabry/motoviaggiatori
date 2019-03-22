@@ -61,6 +61,13 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: `gatsby-remark-external-links`,
+            options: {
+              target: `_blank`,
+              rel: `noopener norefferer`
+            }
+          },
+          {
             resolve: `gatsby-remark-images-grid`,
             options: {
               gridGap: `5px`,
