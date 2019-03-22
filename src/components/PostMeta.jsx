@@ -1,10 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { StaticQuery, graphql } from 'gatsby'
 import styled from '@emotion/styled';
 import moment from 'moment'
-import AuthorLink from './AuthorLink'
-import CategoryLink from './CategoryLink'
+import { Link } from 'gatsby'
+
+import getCategoryUrl from '../utils/getCategoryUrl';
+import getAuthorUrl from '../utils/getAuthorUrl';
 
 const Wrapper = styled.div`
   font-size: .7rem;
@@ -32,44 +33,26 @@ const PostMeta = props => {
 
   if (showAuthor || showDate || showCategories) {
     return (
-      <StaticQuery
-        query={graphql`
-          query categoryLinkQuery {
-            allWordpressCategory {
-              edges {
-                node {
-                  id
-                  name
-                  slug
-                  parent_element {
-                    id
-                  }
-                }
-              }
-            }
-          }
-        `}
-        render={({allWordpressCategory}) => (
-          <Wrapper className={className}>
-            {!showDate ? null :
-              <span itemProp="datePublished" content={post.date}>
-                {moment(post.date).format('DD MMM YYYY')}
-              </span>
-            }
-            {!showAuthor ? null : <span><AuthorLink author={post.author} /></span>}
-            {!showCategories ? null : <span>{post.categories.map(category => (
-              <CategoryLink
-                key={category.slug}
-                category={category}
-                categories={allWordpressCategory.edges}
-              />
-            ))}</span>}
-            <meta itemProp="image" content={ post.featured_media.source_url } />
-            <meta itemProp="dateModified" content={ post.modified } />
-            <meta itemProp="publisher" itemRef="global-org" />
-          </Wrapper>
-        )}
-      />
+      <Wrapper className={className}>
+        {!showDate ? null :
+          <span itemProp="datePublished" content={post.date}>
+            {moment(post.date).format('DD MMM YYYY')}
+          </span>
+        }
+        {!showAuthor ? null : <span>
+          <Link to={getAuthorUrl(post.frontmatter.author.frontmatter.slug)}>
+            {post.frontmatter.author.frontmatter.name}
+          </Link>
+        </span>}
+        {!showCategories ? null : <span>{post.frontmatter.categories.map(({frontmatter: {slug, name}}, index) => (
+          <Link key={index} to={getCategoryUrl(slug)}>
+            {name}
+          </Link>
+        ))}</span>}
+        <meta itemProp="image" content={ post.frontmatter.featured_image.publicURL } />
+        <meta itemProp="dateModified" content={ post.modified } />
+        <meta itemProp="publisher" itemRef="global-org" />
+      </Wrapper>
     );
   }
   return null;

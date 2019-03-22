@@ -1,7 +1,4 @@
-const slash = require('slash');
 const path = require('path');
-const getPostUrl = require('./src/utils/getPostUrl');
-// const getPageUrl = require('./src/utils/getPageUrl');
 const getCategoryUrl = require('./src/utils/getCategoryUrl');
 const getTagUrl = require('./src/utils/getTagUrl');
 const getAuthorUrl = require('./src/utils/getAuthorUrl');
@@ -16,57 +13,19 @@ const getAuthorUrl = require('./src/utils/getAuthorUrl');
 exports.createPages = async ({graphql, actions}) => {
   const { createPage } = actions
   const result = await graphql(`{
-    allWordpressPage {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: 1000
+    ) {
       edges {
         node {
-          id
-          slug
-          template
-          title
-        }
-      }
-    }
-    allWordpressPost {
-      edges {
-        node {
-          id
-          slug
-          status
-          template
-          title
-          date
-        }
-      }
-    }
-    allWordpressCategory {
-      edges {
-        node {
-          id
-          name
-          slug
-          parent_element {
-            id
+          fields {
+            sourceInstanceName
           }
-        }
-      }
-    }
-    allWordpressTag {
-      edges {
-        node {
-          id
-          name
-          description
-          slug
-        }
-      }
-    }
-    allWordpressWpUsers {
-      edges {
-        node {
-          id
-          name
-          description
-          slug
+          frontmatter {
+            slug
+            title
+          }
         }
       }
     }
@@ -75,69 +34,59 @@ exports.createPages = async ({graphql, actions}) => {
     console.error(result.errors);
     throw result.errors;
   }
-  const pageTemplate = path.resolve('./src/templates/Page.jsx');
+
+  const posts = result.data.allMarkdownRemark.edges.filter(edge => edge.node.fields.sourceInstanceName === 'post');
+  const categories = result.data.allMarkdownRemark.edges.filter(edge => edge.node.fields.sourceInstanceName === 'category');
+  const authors = result.data.allMarkdownRemark.edges.filter(edge => edge.node.fields.sourceInstanceName === 'author');
+  const tags = result.data.allMarkdownRemark.edges.filter(edge => edge.node.fields.sourceInstanceName === 'tag');
+
   const postTemplate = path.resolve('./src/templates/Post.jsx');
   const categoryTemplate = path.resolve('./src/templates/Category.jsx');
-  const tagTemplate = path.resolve('./src/templates/Tag.jsx');
   const authorTemplate = path.resolve('./src/templates/Author.jsx');
+  const tagTemplate = path.resolve('./src/templates/Tag.jsx');
 
-  // result.data.allWordpressPage.edges.forEach(({node}) => {
-  //   createPage({
-  //     path: getPageUrl(node),
-  //     component: slash(pageTemplate),
-  //     context: {
-  //       id: node.id,
-  //       title: node.title,
-  //       type: 'page'
-  //     },
-  //   });
-  // });
+  posts.forEach(({node}, index) => {
+    const previous = index === posts.length - 1 ? null : posts[index + 1].node;
+    const next = index === 0 ? null : posts[index - 1].node;
 
-  result.data.allWordpressPost.edges.forEach(({node}) => {
     createPage({
-      path: getPostUrl(node),
-      component: slash(postTemplate),
+      path: node.frontmatter.slug,
+      component: postTemplate,
       context: {
-        id: node.id,
-        title: node.title,
-        type: 'post'
-      },
+        slug: node.frontmatter.slug,
+        previous,
+        next
+      }
     });
   });
 
-  result.data.allWordpressCategory.edges.forEach(({node}) => {
+  categories.forEach(({node}) => {
     createPage({
-      path: getCategoryUrl(node, result.data.allWordpressCategory.edges),
-      component: slash(categoryTemplate),
+      path: getCategoryUrl(node.frontmatter.slug),
+      component: categoryTemplate,
       context: {
-        id: node.id,
-        title: node.name,
-        type: 'category'
-      },
+        slug: node.frontmatter.slug
+      }
     });
   });
 
-  result.data.allWordpressTag.edges.forEach(({node}) => {
+  tags.forEach(({node}) => {
     createPage({
-      path: getTagUrl(node),
-      component: slash(tagTemplate),
+      path: getTagUrl(node.frontmatter.slug),
+      component: tagTemplate,
       context: {
-        id: node.id,
-        title: node.name,
-        type: 'tag'
-      },
+        slug: node.frontmatter.slug
+      }
     });
   });
 
-  result.data.allWordpressWpUsers.edges.forEach(({node}) => {
+  authors.forEach(({node}) => {
     createPage({
-      path: getAuthorUrl(node),
-      component: slash(authorTemplate),
+      path: getAuthorUrl(node.frontmatter.slug),
+      component: authorTemplate,
       context: {
-        id: node.id,
-        title: node.name,
-        type: 'author'
-      },
+        slug: node.frontmatter.slug
+      }
     });
   });
 };

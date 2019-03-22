@@ -3,9 +3,9 @@ import PropTypes from 'prop-types'
 import { css } from '@emotion/core'
 import styled from '@emotion/styled'
 
-import Facebook from '../images/facebook.svg'
-import Instagram from '../images/instagram.svg'
-import Email from '../images/gmail.svg'
+import Facebook from './facebook.svg'
+import Instagram from './instagram.svg'
+import Email from './gmail.svg'
 
 const Wrapper = styled.div`
   display: flex;
@@ -97,6 +97,12 @@ SocialLinks.propTypes = {
 
 SocialLinks.defaultProps = {
   hideMail: false
+}
+
+export {
+  Facebook,
+  Instagram,
+  Email
 }
 
 export default SocialLinks;

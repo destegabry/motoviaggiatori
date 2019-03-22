@@ -2,16 +2,14 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql, withPrefix } from 'gatsby'
-import he from 'he'
-import stripHtml from 'string-strip-html'
 
 function SEO({ description, lang, meta, keywords, title, children, image }) {
   return (
     <StaticQuery
       query={detailsQuery}
       render={({ site: { siteMetadata } }) => {
-        const metaDescription = he.decode(stripHtml(description || siteMetadata.description))
-        const parsedTitle = title ? `${he.decode(title)} | ${siteMetadata.title}` : `${siteMetadata.title} | ${siteMetadata.description}`;
+        const metaDescription =description || siteMetadata.description
+        const parsedTitle = title ? `${title} | ${siteMetadata.title}` : `${siteMetadata.title} | ${siteMetadata.description}`;
         const previewImage = image || withPrefix('/images/motoviaggiatori_logo.png');
 
         return (

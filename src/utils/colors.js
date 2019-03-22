@@ -20,7 +20,7 @@ let colors = {
       contrast: '#000'
     },
     grey: {
-      light: '#e0fff0',
+      light: '#d9d9d9',
       main: '#3f3f3f',
       dark: '#191919',
     }

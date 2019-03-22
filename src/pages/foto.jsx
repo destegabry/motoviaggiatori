@@ -6,7 +6,7 @@ import Card from '../components/Card'
 import SEO from '../components/seo'
 import InstagramFeed from '../components/InstagramFeed'
 import CTA from '../components/CTA'
-import Instagram from '../images/instagram.svg'
+import {Instagram} from '../components/SocialLinks'
 
 const CTAWrapper = styled.p`
   padding: 2rem 0 1rem;

@@ -1,10 +1,9 @@
 import React from 'react'
-import { Link, StaticQuery, graphql } from 'gatsby'
 import styled from '@emotion/styled'
 import { InView } from 'react-intersection-observer'
 import Color from 'color'
 
-import Logo from '../images/motoviaggiatori_logo.svg'
+import Logo from './Logo'
 import Wrapper from './Wrapper'
 import MainMenu from './MainMenu'
 import SocialLinks from './SocialLinks'
@@ -270,50 +269,26 @@ const toggleMobileMenu = event => {
   document.querySelector('html').classList.toggle('modal-open');
 }
 
-const Header = ({site}) => {
-  return (
-    <InView>
-      {({ inView, ref }) => (
-        <HeaderElement id="header-menu" className={inView ? '' : 'sticky '}>
-          <div className="header-wrapper">
-            <Wrapper className="nav-wrapper">
-              <Link
-                className="logo"
-                to="/"
-                alt={ site.siteMetadata.name }
-              >
-                <Logo />
-              </Link>
-              <Flex />
-              <MainMenu />
-              <SocialLinks size={24} hideMail />
-              <div className="mobile-menu-opener" onClick={toggleMobileMenu} />
-            </Wrapper>
-          </div>
-          <div className="in-view-ref" ref={ref} />
-          <span className="back-to-top" onClick={scrollTop}>
-            &lsaquo;
-          </span>
-        </HeaderElement>
-      )}
-    </InView>
-  );
-};
+const Header = () => (
+  <InView>
+    {({ inView, ref }) => (
+      <HeaderElement id="header-menu" className={inView ? '' : 'sticky '}>
+        <div className="header-wrapper">
+          <Wrapper className="nav-wrapper">
+            <Logo />
+            <Flex />
+            <MainMenu />
+            <SocialLinks size={24} hideMail />
+            <div className="mobile-menu-opener" onClick={toggleMobileMenu} />
+          </Wrapper>
+        </div>
+        <div className="in-view-ref" ref={ref} />
+        <span className="back-to-top" onClick={scrollTop}>
+          &lsaquo;
+        </span>
+      </HeaderElement>
+    )}
+  </InView>
+);
 
-const HeaderContainer = () => (
-  <StaticQuery
-    query={graphql`
-      query headerQuery {
-        site {
-          siteMetadata {
-            siteUrl
-            name
-          }
-        }
-      }
-    `}
-    render={Header}
-  />
-)
-
-export default HeaderContainer
+export default Header

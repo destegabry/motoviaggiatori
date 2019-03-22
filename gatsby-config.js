@@ -1,6 +1,4 @@
 require('dotenv').config();
-const  he = require('he');
-const  stripHtml = require('string-strip-html');
 
 const name = `MotoViaggiatori`;
 const title = name;
@@ -26,10 +24,68 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
-        path: `${__dirname}/src/images`,
+        name: `post`,
+        path: `${__dirname}/content/posts`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `author`,
+        path: `${__dirname}/content/authors`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `tag`,
+        path: `${__dirname}/content/tags`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `category`,
+        path: `${__dirname}/content/categories`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `image`,
+        path: `${__dirname}/content/images`,
+      },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images-grid`,
+            options: {
+              gridGap: `5px`,
+            }
+          },
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1164,
+              tracedSVG: true,
+              showCaptions: true
+            },
+          },
+          {
+            resolve: `gatsby-remark-responsive-iframe`,
+            options: {
+              wrapperStyle: `margin-bottom: 1.5rem`,
+            },
+          },
+          `gatsby-remark-copy-linked-files`,
+          `gatsby-remark-smartypants`,
+        ],
+      },
+    },
+    `gatsby-source-instance-name-for-remark`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-react-svg`,
@@ -52,49 +108,11 @@ module.exports = {
         icon: `static/images/motoviaggiatori_icon.png`, // This path is relative to the root of the site.
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.app/offline
-    // 'gatsby-plugin-offline',
-    // In your gatsby-config.js
-
-    /*
-    * Gatsby's data processing layer begins with “source”
-    * plugins. Here the site sources its data from Wordpress.
-    */
-
     {
       resolve: `gatsby-source-instagram-all`,
       options: {
         access_token: process.env.INSTAGRAM_ACCESS_TOKEN
       }
-    },
-    {
-      resolve: "gatsby-source-wordpress",
-      options: {
-        baseUrl: "edit.motoviaggiatori.it",
-        protocol: "https",
-        hostingWPCOM: false,
-        useACF: true,
-        acfOptionPageIds: [],
-        auth: {
-        },
-        verboseOutput: false,
-        perPage: 100,
-        concurrentRequests: 10,
-        includedRoutes: [
-          "/*/*/categories",
-          "/*/*/posts",
-          "/*/*/pages",
-          "/*/*/media",
-          "/*/*/tags",
-          "/*/*/taxonomies",
-          "/*/*/users",
-        ],
-        auth: {
-          htaccess_user: process.env.HTACCESS_USER,
-          htaccess_pass: process.env.HTACCESS_PASS,
-        }
-      },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -103,77 +121,11 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    {
-      resolve: `gatsby-plugin-feed`,
-      options: {
-        query: `
-          {
-            site {
-              siteMetadata {
-                title
-                description
-                siteUrl
-                site_url: siteUrl
-                image_url
-                language
-              }
-            }
-          }
-        `,
-        feeds: [
-          {
-            serialize: ({ query: { allWordpressPost } }) => {
-              return allWordpressPost.edges.map(({ node }) => {
-                return {
-                  title: he.decode(node.title),
-                  description: he.decode(stripHtml(node.excerpt)),
-                  date: node.date,
-                  author: node.author.name,
-                  url: `${siteUrl}/${node.slug}`,
-                  guid: `${siteUrl}/${node.slug}`,
-                  enclosure: {
-                    url: siteUrl + node.featured_media.localFile.childImageSharp.fixed.src,
-                    title: node.featured_media.title,
-                  }
-                }
-              })
-            },
-            query: `
-              {
-                allWordpressPost {
-                  edges {
-                    node {
-                      title
-                      slug
-                      date
-                      excerpt
-                      featured_media {
-                        localFile {
-                          childImageSharp {
-                            fixed(
-                              width: 256,
-                              height: 256,
-                              cropFocus: CENTER
-                            ) {
-                              src
-                            }
-                          }
-                        }
-                        title
-                      }
-                      author {
-                        name
-                      }
-                    }
-                  }
-                }
-              }
-            `,
-            output: `/rss.xml`,
-            title: `Feed RSS MotoViaggiatori`,
-          },
-        ],
-      }
-    }
+    // `gatsby-plugin-feed`
   ],
+  mapping: {
+    'MarkdownRemark.frontmatter.author': `MarkdownRemark.frontmatter.slug`,
+    'MarkdownRemark.frontmatter.categories': `MarkdownRemark.frontmatter.slug`,
+    'MarkdownRemark.frontmatter.tags': `MarkdownRemark.frontmatter.slug`,
+  },
 }

@@ -7,21 +7,18 @@ import PagedPosts from '../components/PagedPosts'
 
 class CategoryTemplate extends Component {
   render() {
-    const currentCategory = this.props.data.wordpressCategory;
-    const posts = this.props.data.allWordpressPost.edges.filter(({node}) => (
-      node.categories.filter(({slug}) => slug === currentCategory.slug).length > 0
-    ));
+    const currentCategory = this.props.data.markdownRemark;
 
     return (
       <Layout>
-        <SEO title={currentCategory.name} description={currentCategory.description} />
+        <SEO title={currentCategory.frontmatter.name} description={currentCategory.excerpt} />
         <Card>
           <div className="content">
-            <h1 dangerouslySetInnerHTML={{ __html: currentCategory.name }} />
+            <h1>{currentCategory.frontmatter.name}</h1>
+            <div dangerouslySetInnerHTML={{ __html: currentCategory.html }} />
           </div>
-          <div dangerouslySetInnerHTML={{ __html: currentCategory.description }} />
         </Card>
-        <PagedPosts posts={posts} />
+        <PagedPosts posts={this.props.data.allMarkdownRemark.edges} />
       </Layout>
     )
   }
@@ -30,33 +27,26 @@ class CategoryTemplate extends Component {
 export default CategoryTemplate
 
 export const pageQuery = graphql`
-  query($id: String!) {
-    wordpressCategory(id: { eq: $id }) {
-      name
-      slug
-      description
+  query CategoryBySlug($slug: String!) {
+    markdownRemark(frontmatter: {slug: {eq: $slug}}) {
+      html
+      excerpt
+      frontmatter {
+        name
+      }
     }
-    allWordpressPost {
+    allMarkdownRemark(filter: {
+      fields: {sourceInstanceName: {eq: "post"}},
+      frontmatter: { categories: { elemMatch: { frontmatter:{slug: {eq: $slug}}}}}
+    }) {
       edges {
         node {
-          title
-          slug
-          date
-          author {
-            name
+          frontmatter {
             slug
-          }
-          excerpt
-          categories {
-            id
-            name
-            slug
-            parent_element {
-              id
-            }
-          }
-          featured_media {
-            localFile {
+            title
+            excerpt
+            featured_image {
+              publicURL
               childImageSharp {
                 wide: fluid(
                   maxWidth: 600,
@@ -70,7 +60,18 @@ export const pageQuery = graphql`
                 }
               }
             }
-            alt_text
+            author {
+              frontmatter {
+                slug
+                name
+              }
+            }
+            categories {
+              frontmatter {
+                slug
+                name
+              }
+            }
           }
         }
       }

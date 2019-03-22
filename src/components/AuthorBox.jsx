@@ -2,7 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
-import showdown from 'showdown'
 import styled from '@emotion/styled'
 
 import getAuthorUrl from '../utils/getAuthorUrl';
@@ -11,8 +10,6 @@ import {
   SMALL_SCREEN_ONLY,
   MEDIUM_SCREEN_UP
 } from '../utils/breakpoints'
-
-const converter = new showdown.Converter();
 
 const ImgWrapper = styled.div`
   ${SMALL_SCREEN_ONLY} {
@@ -27,37 +24,44 @@ const ImgWrapper = styled.div`
 
 
 function AuthorBox({ author, showProfileLink }) {
+  const {
+    name,
+    slug,
+    avatar,
+    website
+  } = author.frontmatter;
+
   return (
     <ResponsiveFlexBox className="content">
-      { !author.acf || !author.acf.avatar ? null :
+      { !avatar ? null :
         <ImgWrapper>
           <Img
-            fluid={author.acf.avatar.localFile.childImageSharp.fluid}
-            alt={author.acf.avatar.localFile.childImageSharp.alt_text}
+            fluid={avatar.childImageSharp.fluid}
+            alt={avatar.childImageSharp.alt_text}
           />
         </ImgWrapper>
       }
       <div>
-        <h1 dangerouslySetInnerHTML={{ __html: author.name }} />
-        <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(author.description) }} />
-        { !author.url ? null :
+        <h1>{ name }</h1>
+        <div dangerouslySetInnerHTML={{ __html: author.html }} />
+        { !website ? null :
           <p>
             <a
-              href={author.url}
+              href={website}
               target="_blank"
               rel="noopener noreferrer"
             >
-              { author.url }
+              { website }
             </a>
           </p>
         }
-        { !showProfileLink || !author.slug ? null :
+        { !showProfileLink || !slug ? null :
           <p>
             <Link
-              to={getAuthorUrl(author)}
-              title={author.name}
+              to={getAuthorUrl(slug)}
+              title={name}
             >
-              Tutti i post di {author.name}
+              Tutti i post di {name}
             </Link>
           </p>
         }
@@ -68,13 +72,13 @@ function AuthorBox({ author, showProfileLink }) {
 
 AuthorBox.propTypes = {
   author: PropTypes.shape({
-    name: PropTypes.string.isRequired,
-    description: PropTypes.string.isRequired,
-    url: PropTypes.string,
-    acf: PropTypes.shape({
+    html: PropTypes.string,
+    frontmatter: PropTypes.shape({
+      name: PropTypes.string.isRequired,
+      slug: PropTypes.string,
+      website: PropTypes.string,
       avatar: PropTypes.object,
-    }),
-    slug: PropTypes.string,
+    }).isRequired,
   }).isRequired,
   showProfileLink: PropTypes.bool,
 }

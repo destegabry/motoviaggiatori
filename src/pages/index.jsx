@@ -62,11 +62,16 @@ const cardCss = css`
   }
 `;
 
-const PostPreviewsByCategory = ({allWordpressPost, categoryFilter, color}) => {
-  const filteredPosts = allWordpressPost.edges.filter(({node}) => (
-    node.categories.filter(({slug}) => slug === categoryFilter).length > 0
+const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
+  const filteredPosts = posts.filter(({ node }) => (
+    node.frontmatter.categories.filter(category => category === categoryFilter).length > 0
   )).slice(0, 5);
-  const category = filteredPosts[0].node.categories.find(({slug}) => slug === categoryFilter);
+
+
+  if (!filteredPosts || filteredPosts.length === 0) {
+    return null;
+  }
+
   return (
     <Card css={css`
       border-top: 6px solid ${color};
@@ -88,7 +93,7 @@ const PostPreviewsByCategory = ({allWordpressPost, categoryFilter, color}) => {
         }
       }
     `}>
-      <h4 dangerouslySetInnerHTML={{ __html: category.name }} css={{color}} />
+      <h4 css={{color}}>{ categoryFilter }</h4>
       <div className="posts-wrapper">
         <div className="main-post">
           <PostPreviewFull post={filteredPosts[0].node} />
@@ -107,17 +112,17 @@ const IndexPage = ({ data }) => (
     <h4>Ultimi articoli</h4>
     <CategorizedPostsSection>
       <PostPreviewsByCategory
-        allWordpressPost={data.allWordpressPost}
+        posts={data.allMarkdownRemark.edges}
         categoryFilter="viaggi"
         color="#00a8ff"
       />
       <PostPreviewsByCategory
-        allWordpressPost={data.allWordpressPost}
+        posts={data.allMarkdownRemark.edges}
         categoryFilter="itinerari"
         color="#db509f"
       />
       <PostPreviewsByCategory
-        allWordpressPost={data.allWordpressPost}
+        posts={data.allMarkdownRemark.edges}
         categoryFilter="recensioni"
         color="#689c1f"
       />
@@ -131,7 +136,7 @@ const IndexPage = ({ data }) => (
     />
     <h4>Tutti gli articoli</h4>
     <PagedPosts
-      posts={data.allWordpressPost.edges}
+      posts={data.allMarkdownRemark.edges}
       css={css`
         ${MEDIUM_SCREEN_UP} {
           margin: 0 -1rem;
@@ -144,29 +149,31 @@ export default IndexPage;
 
 export const pageQuery = graphql`
   {
-    allWordpressPost {
+    allMarkdownRemark(filter: {
+      fields: {sourceInstanceName:{eq:"post"}}
+    }) {
       edges {
         node {
-          title
-          slug
-          date
-          modified
-          author {
-            name
+          frontmatter {
+            title
             slug
-          }
-          excerpt
-          categories {
-            id
-            name
-            slug
-            parent_element {
-              id
+            date
+            modified
+            author {
+              frontmatter {
+                name
+                slug
+              }
             }
-          }
-          featured_media {
-            source_url
-            localFile {
+            excerpt
+            categories {
+              frontmatter {
+                name
+                slug
+              }
+            }
+            featured_image {
+              publicURL
               childImageSharp {
                 wide: fluid(
                   maxWidth: 600,
@@ -190,7 +197,6 @@ export const pageQuery = graphql`
                 }
               }
             }
-            alt_text
           }
         }
       }

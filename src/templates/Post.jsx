@@ -1,21 +1,21 @@
 import React, { Component } from 'react'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 import Img from 'gatsby-image'
 import styled from '@emotion/styled'
 import { css } from '@emotion/core'
 
+import getTagUrl from '../utils/getTagUrl'
+import { palette } from '../utils/colors'
+import {
+  SMALL_SCREEN_ONLY,
+  MEDIUM_SCREEN_UP
+} from '../utils/breakpoints';
+import AttributesTable from '../components/AttributesTables'
+import AuthorBox from '../components/AuthorBox'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import Card from '../components/Card'
 import PostMeta from '../components/PostMeta'
-import TagLink from '../components/TagLink'
-import {
-  SMALL_SCREEN_ONLY,
-  MEDIUM_SCREEN_UP,
-  SMALL_SCREEN_MAX_SIZE
-} from '../utils/breakpoints';
-import Gallery from '../utils/Gallery';
-import AuthorBox from '../components/AuthorBox'
 
 
 const cardCss = css`
@@ -97,8 +97,13 @@ const Article = styled.article`
 `;
 
 const TagSection = styled.section`
-  a:not(:last-child)::after {
-    content: ', ';
+  a {
+    display: inline-block;
+    padding: .25rem 1rem;
+    background: ${palette.grey.light};
+    border-radius: 1.5rem;
+    margin-bottom: .25rem;
+    margin-left: .25rem;
   }
 `;
 
@@ -123,47 +128,54 @@ const featuredMediaSyle = css`
 `;
 
 class PageTemplate extends Component {
-  componentDidMount() {
-    const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 4;
-    this.galleries = [];
-    document.querySelectorAll('.wp-block-gallery')
-      .forEach(wpGallery => {
-        this.galleries.push(new Gallery(wpGallery, rowRatio));
-      });
-  }
+  // componentDidMount() {
+  //   const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 4;
+  //   this.galleries = [];
+  //   document.querySelectorAll('.wp-block-gallery')
+  //     .forEach(wpGallery => {
+  //       this.galleries.push(new Gallery(wpGallery, rowRatio));
+  //     });
+  // }
 
-  componentWillUnmount() {
-    this.galleries.forEach(gallery => gallery.destroy());
-  }
+  // componentWillUnmount() {
+  //   this.galleries.forEach(gallery => gallery.destroy());
+  // }
 
   render() {
-    const currentPost = this.props.data.wordpressPost
-
+    const currentPost = this.props.data.markdownRemark
+    const { frontmatter } = currentPost;
+    const { previousPost, nextPost } = this.props.pageContext
     return (
       <Layout itemScope itemType="http://schema.org/Article">
-        <SEO title={currentPost.title} description={currentPost.excerpt} image={ currentPost.featured_media.source_url } />
+        <SEO title={frontmatter.title} description={frontmatter.excerpt} image={ frontmatter.featured_image.publicURL } />
         <Card css={cardCss}>
           <Article>
-            <h1 dangerouslySetInnerHTML={{ __html: currentPost.title }} itemProp="name headline" />
+            <h1 dangerouslySetInnerHTML={{ __html: frontmatter.title }} itemProp="name headline" />
             <PostMeta post={currentPost} css={ postMetaStyle } />
-            { currentPost.categories.find(category => category.slug === 'video') ? null :
+            { frontmatter.categories.find(category => category.frontmatter.slug === 'video') ? null :
               <Img
-                fluid={ currentPost.featured_media.localFile.childImageSharp.fluid }
-                alt={ currentPost.featured_media.alt_text }
+                fluid={ frontmatter.featured_image.childImageSharp.fluid }
+                alt={ frontmatter.title }
                 css={ featuredMediaSyle }
               />
             }
-            <div dangerouslySetInnerHTML={{ __html: currentPost.content }} itemProp="articleBody" />
+            { !frontmatter.opening ? null : <p>{ frontmatter.opening }</p> }
+            <AttributesTable attributes={ frontmatter.attributes } />
+            <div dangerouslySetInnerHTML={{ __html: this.props.data.markdownRemark.html }} itemProp="articleBody" />
           </Article>
         </Card>
         <Card css={cardCss}>
           <TagSection>
             <h3>Tags</h3>
-            { currentPost.tags.map(tag => <TagLink key={tag.slug} tag={tag} />) }
+            { frontmatter.tags.map(({frontmatter}) => (
+              <Link key={frontmatter.slug} to={getTagUrl(frontmatter.slug)}>
+                {frontmatter.name}
+              </Link>
+            )) }
           </TagSection>
         </Card>
         <Card css={cardCss} itemProp="author" itemScope="itemscope" itemType="http://schema.org/Person">
-          <AuthorBox author={currentPost.author} showProfileLink={true} />
+          <AuthorBox author={frontmatter.author} showProfileLink={true} />
         </Card>
       </Layout>
     )
@@ -173,20 +185,37 @@ class PageTemplate extends Component {
 export default PageTemplate
 
 export const pageQuery = graphql`
-  query($id: String!) {
-    wordpressPost(id: { eq: $id }) {
-      title
-      content
-      excerpt
-      author {
-        slug,
-        name,
-        description
-        url,
-        acf {
-          avatar {
-            source_url
-            localFile {
+  query BlogPostBySlug($slug: String!) {
+    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
+      html
+      frontmatter {
+        title
+        date
+        excerpt
+        opening
+        attributes {
+          key
+          value
+        }
+        categories {
+          frontmatter {
+            slug
+            name
+          }
+        }
+        tags {
+          frontmatter {
+            slug
+            name
+          }
+        }
+        author {
+          html
+          frontmatter {
+            name
+            slug
+            avatar {
+              publicURL
               childImageSharp {
                 fluid(
                   maxWidth: 300,
@@ -200,27 +229,10 @@ export const pageQuery = graphql`
                 }
               }
             }
-            alt_text
           }
         }
-      }
-      categories {
-        id
-        name
-        slug
-        parent_element {
-          id
-        }
-      }
-      tags {
-        name
-        slug
-      }
-      date
-      modified
-      featured_media {
-        source_url
-        localFile {
+        featured_image {
+          publicURL
           childImageSharp {
             fluid(
               maxWidth: 1240,

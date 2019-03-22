@@ -1,18 +1,18 @@
 import React from 'react'
 import { css } from '@emotion/core'
-import heavyDutiesLogo from '../images/sponsors/heavy_duties.png'
-import topSolutionLogo from '../images/sponsors/top_solution.svg'
-import cabergHelmetsLogo from '../images/sponsors/caberg.svg'
-import rinolfiLogo from '../images/sponsors/rinolfi.svg'
-import hyperproLogo from '../images/sponsors/hyperpro.png'
-import putolineLogo from '../images/sponsors/putoline.png'
-import anlasLogo from '../images/sponsors/anlas.svg'
-import xanderElectronicLogo from '../images/sponsors/xander-electronics.svg'
-import wrsLogo from '../images/sponsors/wrs.png'
-import midlandLogo from '../images/sponsors/midland.svg'
-import motorQualityLogo from '../images/sponsors/motorquality.svg'
-import bremboLogo from '../images/sponsors/brembo.svg'
-import belinassuLogo from '../images/sponsors/belinassu.png'
+import heavyDutiesLogo from '../../content/images/sponsors/heavy_duties.png'
+import topSolutionLogo from '../../content/images/sponsors/top_solution.svg'
+import cabergHelmetsLogo from '../../content/images/sponsors/caberg.svg'
+import rinolfiLogo from '../../content/images/sponsors/rinolfi.svg'
+import hyperproLogo from '../../content/images/sponsors/hyperpro.png'
+import putolineLogo from '../../content/images/sponsors/putoline.png'
+import anlasLogo from '../../content/images/sponsors/anlas.svg'
+import xanderElectronicLogo from '../../content/images/sponsors/xander-electronics.svg'
+import wrsLogo from '../../content/images/sponsors/wrs.png'
+import midlandLogo from '../../content/images/sponsors/midland.svg'
+import motorQualityLogo from '../../content/images/sponsors/motorquality.svg'
+import bremboLogo from '../../content/images/sponsors/brembo.svg'
+import belinassuLogo from '../../content/images/sponsors/belinassu.png'
 
 const sponsors = [{
   Logo: topSolutionLogo,
@@ -77,11 +77,11 @@ const Sponsors = (props) => (
       text-align: center;
 
       a {
-        max-width: 200px;
+        max-width: 120px;
 
         > img,
         > svg {
-          margin: 10px 0;
+          margin: 5px 0;
         }
 
         > svg {

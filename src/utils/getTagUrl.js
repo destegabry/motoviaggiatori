@@ -1,3 +1,1 @@
-module.exports = (tagNode) => {
-  return `/tag/${tagNode.slug}/`
-}
+module.exports = slug => `/tag/${slug}`
