@@ -89,6 +89,12 @@ module.exports = {
           },
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
+          {
+            resolve: `gatsby-remark-autolink-headers`,
+            options: {
+              offsetY: 90 // header collapsed height + 30px
+            }
+          },
         ],
       },
     },

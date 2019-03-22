@@ -145,6 +145,7 @@ class PageTemplate extends Component {
     const currentPost = this.props.data.markdownRemark
     const { frontmatter } = currentPost;
     const { previousPost, nextPost } = this.props.pageContext
+
     return (
       <Layout itemScope itemType="http://schema.org/Article">
         <SEO title={frontmatter.title} description={frontmatter.excerpt} image={ frontmatter.featured_image.publicURL } />
@@ -160,8 +161,11 @@ class PageTemplate extends Component {
               />
             }
             { !frontmatter.opening ? null : <p>{ frontmatter.opening }</p> }
+            { !currentPost.tableOfContents ? null :
+              <div dangerouslySetInnerHTML={{ __html: currentPost.tableOfContents }} />
+            }
             <AttributesTable attributes={ frontmatter.attributes } />
-            <div dangerouslySetInnerHTML={{ __html: this.props.data.markdownRemark.html }} itemProp="articleBody" />
+            <div dangerouslySetInnerHTML={{ __html: currentPost.html }} itemProp="articleBody" />
           </Article>
         </Card>
         <Card css={cardCss}>
@@ -188,6 +192,9 @@ export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
     markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       html
+      tableOfContents(
+        pathToSlugField: "frontmatter.slug"
+      )
       frontmatter {
         title
         date

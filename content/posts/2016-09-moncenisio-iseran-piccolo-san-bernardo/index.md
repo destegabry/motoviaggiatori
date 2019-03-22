@@ -46,8 +46,6 @@ Così in una bella giornata di metà luglio ho finalmente deciso di percorrere l
 
 In generale le strade sono molto ben asfaltate, ad eccezione del tratto che congiunge Lanslebourg al Col de l'Iseran... ma vediamo il tragitto nel dettaglio.
 
-#### Indice
-
 ## Torino - Susa
 
 La strada per il primo dei colli affrontati passa per la Val di Susa, e qui sono possibili 3 opzioni:
