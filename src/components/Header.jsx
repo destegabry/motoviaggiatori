@@ -14,6 +14,8 @@ import {
   MEDIUM_SCREEN_UP
 } from '../utils/breakpoints'
 import { palette } from '../utils/colors';
+import { IconArrowLeft } from './Icons';
+import { ICON_HAMBURGER, ICON_CLOSE } from '../utils/icons';
 
 const headerHeightDesktopNormal = 100;
 const headerHeightDesktopCollapsed = 60;
@@ -210,7 +212,7 @@ const HeaderElement = styled.header`
 
       &::before {
         display: block;
-        content: '≡';
+        content: '${ICON_HAMBURGER}';
         font-size: 3rem;
       }
     }
@@ -223,7 +225,7 @@ const HeaderElement = styled.header`
   &.mobile-menu-open {
     .mobile-menu-opener {
       &::before {
-        content: '×';
+        content: '${ICON_CLOSE}';
       }
     }
 
@@ -284,7 +286,7 @@ const Header = () => (
         </div>
         <div className="in-view-ref" ref={ref} />
         <span className="back-to-top" onClick={scrollTop}>
-          &lsaquo;
+          <IconArrowLeft />
         </span>
       </HeaderElement>
     )}

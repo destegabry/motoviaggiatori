@@ -8,14 +8,21 @@ import getTagUrl from '../utils/getTagUrl'
 import { palette } from '../utils/colors'
 import {
   SMALL_SCREEN_ONLY,
-  MEDIUM_SCREEN_UP
+  MEDIUM_SCREEN_UP,
+  SMALL_SCREEN_MAX_SIZE
 } from '../utils/breakpoints';
+import Gallery from '../utils/Gallery';
 import AttributesTable from '../components/AttributesTables'
 import AuthorBox from '../components/AuthorBox'
 import Layout from '../components/Layout'
+import Flex from '../components/Flex'
 import SEO from '../components/seo'
 import Card from '../components/Card'
 import PostMeta from '../components/PostMeta'
+import {
+  IconArrowLeft,
+  IconArrowRight
+} from '../components/Icons'
 
 
 const cardCss = css`
@@ -127,24 +134,42 @@ const featuredMediaSyle = css`
   }
 `;
 
-class PageTemplate extends Component {
-  // componentDidMount() {
-  //   const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 4;
-  //   this.galleries = [];
-  //   document.querySelectorAll('.wp-block-gallery')
-  //     .forEach(wpGallery => {
-  //       this.galleries.push(new Gallery(wpGallery, rowRatio));
-  //     });
-  // }
+const NextPrevWrapper = styled.nav`
+  display: flex;
+  justify-content: space-between;
+`;
 
-  // componentWillUnmount() {
-  //   this.galleries.forEach(gallery => gallery.destroy());
-  // }
+class PageTemplate extends Component {
+  componentDidMount() {
+    const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 5;
+    const rawFigures = document.querySelectorAll('.gatsby-resp-image-figure');
+    const galleries = [];
+    if (rawFigures.length > 0) {
+      // good old for-loop as querySelectorAll doesn't return an iterable
+      for (let i = 0, galleryWrapper; i < rawFigures.length; i++) {
+        const figure = rawFigures[i];
+        if (figure.previousElementSibling.className !== 'gallery-wrapper') {
+          galleryWrapper = document.createElement('div');
+          galleryWrapper.className = 'gallery-wrapper';
+          figure.parentElement.insertBefore(galleryWrapper, figure);
+          galleries.push(galleryWrapper);
+        }
+        galleryWrapper.appendChild(figure);
+      }
+
+      this.galleries = galleries.map(gallery => new Gallery(gallery, rowRatio));
+    }
+  }
+
+  componentWillUnmount() {
+    // this.galleries.forEach(gallery => gallery.destroy());
+  }
 
   render() {
     const currentPost = this.props.data.markdownRemark
     const { frontmatter } = currentPost;
-    const { previousPost, nextPost } = this.props.pageContext
+    const { previous, next } = this.props.pageContext;
+    console.log(previous, next);
 
     return (
       <Layout itemScope itemType="http://schema.org/Article">
@@ -164,23 +189,40 @@ class PageTemplate extends Component {
             { !currentPost.tableOfContents ? null :
               <div dangerouslySetInnerHTML={{ __html: currentPost.tableOfContents }} />
             }
-            <AttributesTable attributes={ frontmatter.attributes } />
+            { !frontmatter.attributes? null : <AttributesTable attributes={ frontmatter.attributes } /> }
             <div dangerouslySetInnerHTML={{ __html: currentPost.html }} itemProp="articleBody" />
           </Article>
         </Card>
-        <Card css={cardCss}>
-          <TagSection>
-            <h3>Tags</h3>
-            { frontmatter.tags.map(({frontmatter}) => (
-              <Link key={frontmatter.slug} to={getTagUrl(frontmatter.slug)}>
-                {frontmatter.name}
-              </Link>
-            )) }
-          </TagSection>
-        </Card>
+        { !frontmatter.tags ? null :
+          <Card css={cardCss}>
+            <TagSection>
+              <h3>Tags</h3>
+              { frontmatter.tags.map(({frontmatter}) => (
+                <Link key={frontmatter.slug} to={getTagUrl(frontmatter.slug)}>
+                  {frontmatter.name}
+                </Link>
+              )) }
+            </TagSection>
+          </Card>
+        }
         <Card css={cardCss} itemProp="author" itemScope="itemscope" itemType="http://schema.org/Person">
           <AuthorBox author={frontmatter.author} showProfileLink={true} />
         </Card>
+        <NextPrevWrapper>
+          { !previous ? null :
+            <Link to={previous.frontmatter.slug}>
+              <IconArrowLeft />
+              Post precedente
+            </Link>
+          }
+          <Flex />
+          { !next ? null :
+            <Link to={next.frontmatter.slug}>
+              Post successivo
+              <IconArrowRight />
+            </Link>
+          }
+        </NextPrevWrapper>
       </Layout>
     )
   }

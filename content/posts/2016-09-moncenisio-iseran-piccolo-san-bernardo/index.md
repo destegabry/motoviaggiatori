@@ -68,10 +68,8 @@ La SS25 che da Susa porta al Lago del Moncenisio è molto larga, asfaltata da po
 
 Passato il confine con la Francia inizia un asfalto meno regolare ed una serie di tornanti abbastanza stretti, passato l'edificio della ex dogana si riprende con curvoni fantastici che portano alla diga del Lago del Moncenisio (quota 1974 m).
 
-```grid|2
-![Selfie al Moncenisio](./galleries/0/0.jpg)
-![Mucche al pascolo tra i tornanti](./galleries/0/1.jpg)
-```
+![Selfie al Moncenisio](./galleries/0/0.jpg "Selfie al Moncenisio")
+![Mucche al pascolo tra i tornanti](./galleries/0/1.jpg "Mucche al pascolo tra i tornanti")
 
 La diga del Moncenisio risale al 1968 ed ha la particolarità di non essere costruita in calcestruzzo, ma da una montagna di rocce e sedimenti.
 
@@ -87,38 +85,30 @@ Purtroppo la strada che da qui porta al prossimo colle non è delle migliori, so
 
 In compenso il paesaggio è stupendo e vale la pena arrivare al Col de l'Iseran, dato che con i suoi 2770 m è il **valico stradale più alto d'Europa**!
 
-```grid|2
-![Col de l'Iseran (2770 m) il valico stradale più alto d'Europa!](./galleries/1/0.jpg)
-![Un po' di neve sulla strada per il Col del l'Iseran](./galleries/1/1.jpg)
-![Nonostante sia luglio c'è ancora ghiaccio nei laghetti](./galleries/1/2.jpg)
-```
+![Col de l'Iseran (2770 m) il valico stradale più alto d'Europa!](./galleries/1/0.jpg "Col de l'Iseran (2770 m) il valico stradale più alto d'Europa!")
+![Un po' di neve sulla strada per il Col del l'Iseran](./galleries/1/1.jpg "Un po' di neve sulla strada per il Col del l'Iseran")
+![Nonostante sia luglio c'è ancora ghiaccio nei laghetti](./galleries/1/2.jpg "Nonostante sia luglio c'è ancora ghiaccio nei laghetti")
 
 ## Iseran - Colle del Piccolo San Bernardo
 
 La discesa che dal colle porta al paese di Val-d'Isère migliora decisamente come fondo stradale. La strada torna ad essere divertente, ma bisogna stare attenti alla miriade di ciclisti!
 
-```grid|1
-![Anche il panorama sulla Val-d'Isère non è male!](./galleries/2/0.jpg)
-```
+![Anche il panorama sulla Val-d'Isère non è male!](./galleries/2/0.jpg "Anche il panorama sulla Val-d'Isère non è male!")
 
 Al fondo della discesa mi sono imbattuto in un'inaspettata [fiera del veicolo elettrico](http://salon-vehicule-electrique.com) che si svolge a metà luglio... molto interessante!
 
-```grid|2
-![L'immancabile Tesla Model X con le sue portiere ad ali di gabbiano](./galleries/3/0.jpg)
-![Sound da moto elettrica per bambini... ma veder girare in pista le KTM Freeride E-SX è fantastico!](./galleries/3/1.jpg)
-![Cosa c'è di meglio che girare tra i boschi con una moto da trial che non fa rumore?](./galleries/3/2.jpg)
-![BMW i8... C'è bisogno di dire qualcosa?](./galleries/3/3.jpg)
-```
+![L'immancabile Tesla Model X con le sue portiere ad ali di gabbiano](./galleries/3/0.jpg "L'immancabile Tesla Model X con le sue portiere ad ali di gabbiano")
+![Sound da moto elettrica per bambini... ma veder girare in pista le KTM Freeride E-SX è fantastico!](./galleries/3/1.jpg "Sound da moto elettrica per bambini... ma veder girare in pista le KTM Freeride E-SX è fantastico!")
+![Cosa c'è di meglio che girare tra i boschi con una moto da trial che non fa rumore?](./galleries/3/2.jpg "Cosa c'è di meglio che girare tra i boschi con una moto da trial che non fa rumore?")
+![BMW i8... C'è bisogno di dire qualcosa?](./galleries/3/3.jpg "BMW i8... C'è bisogno di dire qualcosa?")
 
 Da Val-d'Isère si prosegue costeggiando il Lac du Chevril su una strada di **belle curve veloci**. Passata la diga si comincia a scendere per arrivare a Sainte-Foy-Tarentaise, dove si lascia la bella D902 in direzione Col du Petit Saint-Bernard
 Parliamoci chiaramente: la strada per il colle non è niente male ed è molto ben tenuta... ma il paesaggio è meno spettacolare e la guida meno divertente rispetto a Moncenisio ed Iseran.
 
 Rettilineo, tornante, rettilineo, tornante, rettilineo, tornante... ogni tanto l'imprevisto di una controcurva a salvare dalla monotonia!
 
-```grid|2
-![L'area sciistica di La Rosière si fa pubblicità anche così](./galleries/4/0.jpg)
-![Toh, un'altra diga a Chevril!](./galleries/4/1.jpg)
-```
+![L'area sciistica di La Rosière si fa pubblicità anche così](./galleries/4/0.jpg "L'area sciistica di La Rosière si fa pubblicità anche così")
+![Toh, un'altra diga a Chevril!](./galleries/4/1.jpg "Toh, un'altra diga a Chevril!")
 
 Finalmente si arriva al Colle del Piccolo San Bernardo! Mi aspettavo di trovare gli omonimi cani, ma a quanto pare li tengono nascosti da qualche parte...
 
@@ -128,9 +118,7 @@ Molto bella la discesa dal colle a La Thuile: **divertente, varia, asfaltata ben
 
 All'inizio bisogna stare un po' attenti al freddo (si parte da 2188 m), poi le temperature cominciano a salire ed è meglio togliersi qualche strato.
 
-```grid|1
-![Muro di neve! Fortunatamente c'era una piccola variante della strada...](./galleries/5/0.jpg)
-```
+![Muro di neve! Fortunatamente c'era una piccola variante della strada...](./galleries/5/0.jpg "Muro di neve! Fortunatamente c'era una piccola variante della strada...")
 Ci si diverte ancora fino a Prè Saint Didier, poi il mio consiglio è di andare in statale fino ad Aosta per evitare il salasso dell'autostrada del Monte Bianco, da lì proseguire per Torino in autostrada: sono 100km per circa 16€ di pedaggi, ma dopo 3 colli e svariate ora in sella è giusto rilassarsi un po'!
 
 ## Un consiglio finale

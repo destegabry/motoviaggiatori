@@ -68,17 +68,12 @@ module.exports = {
             }
           },
           {
-            resolve: `gatsby-remark-images-grid`,
-            options: {
-              gridGap: `5px`,
-            }
-          },
-          {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 1164,
               tracedSVG: true,
-              showCaptions: true
+              showCaptions: true,
+              linkImagesToOriginal: false
             },
           },
           {

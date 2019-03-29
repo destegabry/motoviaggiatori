@@ -1,5 +1,10 @@
 import { css } from 'emotion'
 import { SMALL_SCREEN_ONLY } from './breakpoints'
+import {
+  ICON_ARROW_LEFT,
+  ICON_ARROW_RIGHT,
+  ICON_CLOSE
+} from './icons';
 
 const GalleryLightboxCSS = css`
   background: rgba(0, 0, 0, .95);
@@ -27,7 +32,9 @@ const GalleryLightboxCSS = css`
     width: 100%;
 
     img {
+      height: auto!important;
       width: auto!important;
+      position: static!important;
       max-height: 80vh;
       margin: 0;
     }
@@ -119,8 +126,9 @@ class GalleryLightbox {
     this.viewport.className = 'gallery-lightbox-viewport';
 
     this.gallery.items.forEach(item => {
-      const figure = item.element.cloneNode(true);
-      figure.removeAttribute('style');
+      const figure = document.createElement('figure');
+      figure.appendChild(item.element.querySelector('img').cloneNode(true));
+      figure.appendChild(item.element.querySelector('figcaption').cloneNode(true));
       this.viewport.appendChild(figure);
     })
 
@@ -129,20 +137,20 @@ class GalleryLightbox {
 
     const close = document.createElement('span');
     close.className = 'control control-close';
-    close.innerHTML = '&times;';
+    close.innerHTML = ICON_CLOSE;
     close.addEventListener('click', this.close);
     controls.appendChild(close);
 
     if (this.gallery.items.length > 1) {
       const next = document.createElement('span');
       next.className = 'control control-next';
-      next.innerHTML = '&rsaquo;';
+      next.innerHTML = ICON_ARROW_RIGHT;
       next.addEventListener('click', this.next);
       controls.appendChild(next);
 
       const prev = document.createElement('span');
       prev.className = 'control control-prev';
-      prev.innerHTML = '&lsaquo;';
+      prev.innerHTML = ICON_ARROW_LEFT;
       prev.addEventListener('click', this.prev);
       controls.appendChild(prev);
     }

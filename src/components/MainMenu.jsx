@@ -31,7 +31,7 @@ const MainMenu = () => {
             to={getCategoryUrl(categories.romania.slug)}
           >{categories.romania.name}</Link>
         </nav>
-      </span>
+      </span> */}
       <span>
         <Link
           className={categories.recensioni.slug}
@@ -39,10 +39,10 @@ const MainMenu = () => {
         >{categories.recensioni.name}</Link>
         <nav>
           <Link
-            className={categories['protezione-moto'].slug}
-            to={getCategoryUrl(categories['protezione-moto'].slug)}
-          >{categories['protezione-moto'].name}</Link>
-          <Link
+            className={categories['recensioni/protezione-moto'].slug}
+            to={getCategoryUrl(categories['recensioni/protezione-moto'].slug)}
+          >{categories['recensioni/protezione-moto'].name}</Link>
+          {/* <Link
             className={categories['valigie-e-borse-moto'].slug}
             to={getCategoryUrl(categories['valigie-e-borse-moto'].slug)}
           >{categories['valigie-e-borse-moto'].name}</Link>
@@ -53,9 +53,9 @@ const MainMenu = () => {
           <Link
             className={categories.gadget.slug}
             to={getCategoryUrl(categories.gadget.slug)}
-          >{categories.gadget.name}</Link>
+          >{categories.gadget.name}</Link> */}
         </nav>
-      </span> */}
+      </span>
       <Link to="/foto">Foto</Link>
       {/* <Link
         className={categories.video.slug}
