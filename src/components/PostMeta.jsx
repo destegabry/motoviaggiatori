@@ -35,8 +35,8 @@ const PostMeta = props => {
     return (
       <Wrapper className={className}>
         {!showDate ? null :
-          <span itemProp="datePublished" content={post.date}>
-            {moment(post.date).format('DD MMM YYYY')}
+          <span itemProp="datePublished" content={post.frontmatter.date}>
+            {moment(post.frontmatter.date).format('DD MMM YYYY')}
           </span>
         }
         {!showAuthor ? null : <span>
@@ -50,7 +50,7 @@ const PostMeta = props => {
           </Link>
         ))}</span>}
         <meta itemProp="image" content={ post.frontmatter.featured_image.publicURL } />
-        <meta itemProp="dateModified" content={ post.modified } />
+        { !post.frontmatter.modified ? null: <meta itemProp="dateModified" content={ post.frontmatter.modified } /> }
         <meta itemProp="publisher" itemRef="global-org" />
       </Wrapper>
     );

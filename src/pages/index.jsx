@@ -149,9 +149,15 @@ export default IndexPage;
 
 export const pageQuery = graphql`
   {
-    allMarkdownRemark(filter: {
-      fields: {sourceInstanceName:{eq:"post"}}
-    }) {
+    allMarkdownRemark(
+      filter: {
+        fields: {sourceInstanceName:{eq:"post"}}
+      }
+      sort: {
+        fields: frontmatter___date
+        order: DESC
+      }
+    ) {
       edges {
         node {
           frontmatter {
