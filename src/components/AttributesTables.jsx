@@ -2,8 +2,9 @@ import React from 'react'
 import PropTypes from 'prop-types'
 
 const AttributesTable = ({ attributes }) => {
-  if (attributes.length === 0)
+  if (attributes.length === 0) {
     return null;
+  }
 
   return (
     <table>
@@ -11,7 +12,7 @@ const AttributesTable = ({ attributes }) => {
         { attributes.map(({key, value}, index) => (
           <tr key={index}>
             <th>{ key }</th>
-            <td>{ value }</td>
+            <td dangerouslySetInnerHTML={{__html: value}} />
           </tr>
         )) }
       </tbody>

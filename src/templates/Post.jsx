@@ -185,7 +185,7 @@ class PageTemplate extends Component {
                 css={ featuredMediaSyle }
               />
             }
-            { !frontmatter.opening ? null : <p>{ frontmatter.opening }</p> }
+            { !frontmatter.opening ? null : <p dangerouslySetInnerHTML={{ __html: frontmatter.opening }} /> }
             { !currentPost.tableOfContents ? null :
               <div dangerouslySetInnerHTML={{ __html: currentPost.tableOfContents }} />
             }
