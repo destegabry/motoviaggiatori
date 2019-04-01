@@ -7,14 +7,12 @@ const getAuthorUrl = require('./src/utils/getAuthorUrl');
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 
-// You can delete this file if you're not using it
-
 exports.createPages = async ({graphql, actions}) => {
   const { createPage } = actions
   const result = await graphql(`{
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      limit: 1000
+      limit: 10000
     ) {
       edges {
         node {
@@ -34,10 +32,26 @@ exports.createPages = async ({graphql, actions}) => {
     throw result.errors;
   }
 
-  const posts = result.data.allMarkdownRemark.edges.filter(edge => edge.node.fields.sourceInstanceName === 'post');
-  const categories = result.data.allMarkdownRemark.edges.filter(edge => edge.node.fields.sourceInstanceName === 'category');
-  const authors = result.data.allMarkdownRemark.edges.filter(edge => edge.node.fields.sourceInstanceName === 'author');
-  const tags = result.data.allMarkdownRemark.edges.filter(edge => edge.node.fields.sourceInstanceName === 'tag');
+  const posts = [];
+  const categories = [];
+  const authors = [];
+  const tags = [];
+  result.data.allMarkdownRemark.edges.forEach(edge => {
+    switch (edge.node.fields.sourceInstanceName) {
+      case 'post':
+        posts.push(edge);
+        break;
+      case 'category':
+        categories.push(edge);
+        break;
+      case 'author':
+        authors.push(edge);
+        break;
+      case 'tag':
+        tags.push(edge);
+        break;
+    }
+  });
 
   const postTemplate = path.resolve('./src/templates/Post.jsx');
   const categoryTemplate = path.resolve('./src/templates/Category.jsx');
