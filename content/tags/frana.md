@@ -1,4 +1,4 @@
 ---
-slug: frana
+slug: tag/frana
 name: Frana
 ---

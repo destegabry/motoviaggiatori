@@ -1,4 +1,4 @@
 ---
-slug: col-basset
+slug: tag/col-basset
 name: Col Basset
 ---

@@ -45,6 +45,7 @@ export const pageQuery = graphql`
             slug
             title
             excerpt
+            date
             featured_image {
               publicURL
               childImageSharp {

@@ -1,4 +1,4 @@
 ---
-slug: vino
+slug: tag/vino
 name: Vino
 ---

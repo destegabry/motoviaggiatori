@@ -11,19 +11,19 @@ categories:
 - itinerari/italia
 - itinerari/italia/nord-ovest
 tags:
-- 250-km
-- 2-giorni
-- appennino
-- cibo
-- cuneo
-- langhe
-- liguria
-- piemonte
-- mangiare-bene
-- roero
-- savona
-- vino
-- weekend
+- tag/250-km
+- tag/2-giorni
+- tag/appennino
+- tag/cibo
+- tag/cuneo
+- tag/langhe
+- tag/liguria
+- tag/piemonte
+- tag/mangiare-bene
+- tag/roero
+- tag/savona
+- tag/vino
+- tag/weekend
 attributes:
 - key: Percorrenza
   value: 250 km

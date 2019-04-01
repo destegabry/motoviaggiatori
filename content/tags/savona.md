@@ -1,4 +1,4 @@
 ---
-slug: savona
+slug: tag/savona
 name: Savona
 ---

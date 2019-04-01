@@ -1,6 +1,5 @@
 const path = require('path');
 const getCategoryUrl = require('./src/utils/getCategoryUrl');
-const getTagUrl = require('./src/utils/getTagUrl');
 const getAuthorUrl = require('./src/utils/getAuthorUrl');
 /**
  * Implement Gatsby's Node APIs in this file.
@@ -72,7 +71,7 @@ exports.createPages = async ({graphql, actions}) => {
 
   tags.forEach(({node}) => {
     createPage({
-      path: getTagUrl(node.frontmatter.slug),
+      path: node.frontmatter.slug,
       component: tagTemplate,
       context: {
         slug: node.frontmatter.slug

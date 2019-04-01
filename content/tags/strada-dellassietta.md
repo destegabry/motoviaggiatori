@@ -1,4 +1,4 @@
 ---
-slug: strada-dellassietta
+slug: tag/strada-dellassietta
 name: Strada dell'Assietta
 ---

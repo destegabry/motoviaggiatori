@@ -14,28 +14,28 @@ categories:
 - itinerari/italia/nord-ovest
 - resoconti
 tags:
-- 250-km
-- 1-giorno
-- bmw-r1200gs
-- col-basset
-- alpi-cozie
-- colle-dellassietta
-- strada-dellassietta
-- colle-delle-finestre
-- frana
-- italia
-- off-road
-- piemonte
-- torino
-- val-chisone
-- val-di-susa
-- gopro
-- ktm-250-exc-f
-- sestriere
-- strada-bianca
-- video
-- xiaomi-yi
-- yamaha-mt-03
+- tag/250-km
+- tag/1-giorno
+- tag/bmw-r1200gs
+- tag/col-basset
+- tag/alpi-cozie
+- tag/colle-dellassietta
+- tag/strada-dellassietta
+- tag/colle-delle-finestre
+- tag/frana
+- tag/italia
+- tag/off-road
+- tag/piemonte
+- tag/torino
+- tag/val-chisone
+- tag/val-di-susa
+- tag/gopro
+- tag/ktm-250-exc-f
+- tag/sestriere
+- tag/strada-bianca
+- tag/video
+- tag/xiaomi-yi
+- tag/yamaha-mt-03
 attributes:
 - key: Percorrenza
   value: 220 km (di cui circa 60km su strade bianche)

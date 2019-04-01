@@ -63,6 +63,7 @@ export const pageQuery = graphql`
           frontmatter {
             slug
             title
+            date
             excerpt
             featured_image {
               publicURL

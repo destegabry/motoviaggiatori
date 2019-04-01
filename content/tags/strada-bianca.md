@@ -1,4 +1,4 @@
 ---
-slug: strada-bianca
+slug: tag/strada-bianca
 name: Strada Bianca
 ---

@@ -1,4 +1,4 @@
 ---
-slug: heed
+slug: tag/heed
 name: HEED
 ---

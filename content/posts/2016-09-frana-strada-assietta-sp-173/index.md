@@ -9,18 +9,18 @@ excerpt: Frana sulla SP 173 Strada dell’Assietta tra il Colle delle Finestre e
 categories:
 - avvisi
 tags:
-- alpi-cozie
-- colle-dellassietta
-- strada-dellassietta
-- colle-delle-finestre
-- frana
-- italia
-- off-road
-- piemonte
-- torino
-- val-chisone
-- viabilita
-- val-di-susa
+- tag/alpi-cozie
+- tag/colle-dellassietta
+- tag/strada-dellassietta
+- tag/colle-delle-finestre
+- tag/frana
+- tag/italia
+- tag/off-road
+- tag/piemonte
+- tag/torino
+- tag/val-chisone
+- tag/viabilita
+- tag/val-di-susa
 ---
 
 <div class="message warning">

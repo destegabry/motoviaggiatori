@@ -1,4 +1,4 @@
 ---
-slug: roero
+slug: tag/roero
 name: Roero
 ---

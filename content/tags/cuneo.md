@@ -1,4 +1,4 @@
 ---
-slug: cuneo
+slug: tag/cuneo
 name: Cuneo
 ---

@@ -1,4 +1,4 @@
 ---
-slug: liguria
+slug: tag/liguria
 name: Liguria
 ---

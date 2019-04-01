@@ -1,1 +1,0 @@
-module.exports = slug => `/tag/${slug}`

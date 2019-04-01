@@ -1,4 +1,4 @@
 ---
-slug: mangiare-bene
+slug: tag/mangiare-bene
 name: Mangiare bene
 ---

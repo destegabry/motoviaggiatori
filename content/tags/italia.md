@@ -1,4 +1,4 @@
 ---
-slug: italia
+slug: tag/italia
 name: Italia
 ---

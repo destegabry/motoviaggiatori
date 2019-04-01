@@ -13,18 +13,18 @@ categories:
 - itinerari/italia
 - itinerari/italia/nord-ovest
 tags:
-- 500-km
-- 1-giorno
-- alpi-cozie
-- col-de-liseran
-- colle-del-moncenisio
-- francia
-- italia
-- kawasaki-versys
-- piemonte
-- rhone-alpes
-- torino
-- valle-daosta
+- tag/500-km
+- tag/1-giorno
+- tag/alpi-cozie
+- tag/col-de-liseran
+- tag/colle-del-moncenisio
+- tag/francia
+- tag/italia
+- tag/kawasaki-versys
+- tag/piemonte
+- tag/rhone-alpes
+- tag/torino
+- tag/valle-daosta
 attributes:
 - key: Percorrenza
   value: 350 km

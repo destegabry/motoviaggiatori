@@ -1,4 +1,4 @@
 ---
-slug: torino
+slug: tag/torino
 name: Torino
 ---

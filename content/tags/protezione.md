@@ -1,4 +1,4 @@
 ---
-slug: protezione
+slug: tag/protezione
 name: Protezione
 ---

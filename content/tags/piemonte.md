@@ -1,4 +1,4 @@
 ---
-slug: piemonte
+slug: tag/piemonte
 name: Piemonte
 ---

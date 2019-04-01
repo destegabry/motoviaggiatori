@@ -1,4 +1,4 @@
 ---
-slug: off-road
+slug: tag/off-road
 name: Off-road
 ---

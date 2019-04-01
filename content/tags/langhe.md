@@ -1,4 +1,4 @@
 ---
-slug: langhe
+slug: tag/langhe
 name: Langhe
 ---

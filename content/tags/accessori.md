@@ -1,4 +1,4 @@
 ---
-slug: accessori
+slug: tag/accessori
 name: Accessori
 ---

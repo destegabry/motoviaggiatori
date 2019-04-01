@@ -1,4 +1,4 @@
 ---
-slug: paramotore
+slug: tag/paramotore
 name: Paramotore
 ---

@@ -1,4 +1,4 @@
 ---
-slug: alpi-cozie
+slug: tag/alpi-cozie
 name: Alpi Cozie
 ---

@@ -1,4 +1,4 @@
 ---
-slug: colle-dellassietta
+slug: tag/colle-dellassietta
 name: Colle dell'Assietta
 ---

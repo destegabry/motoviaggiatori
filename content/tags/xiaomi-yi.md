@@ -1,4 +1,4 @@
 ---
-slug: xiaomi-yi
+slug: tag/xiaomi-yi
 name: Xiaomi Yi
 ---

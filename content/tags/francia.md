@@ -1,4 +1,4 @@
 ---
-slug: francia
+slug: tag/francia
 name: Francia
 ---

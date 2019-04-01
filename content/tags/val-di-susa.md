@@ -1,4 +1,4 @@
 ---
-slug: val-di-susa
+slug: tag/val-di-susa
 name: Val di Susa
 ---

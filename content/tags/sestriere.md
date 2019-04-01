@@ -1,4 +1,4 @@
 ---
-slug: sestriere
+slug: tag/sestriere
 name: Sestriere
 ---

@@ -1,4 +1,4 @@
 ---
-slug: cibo
+slug: tag/cibo
 name: Cibo
 ---

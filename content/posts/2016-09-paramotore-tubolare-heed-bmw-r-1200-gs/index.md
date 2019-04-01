@@ -11,12 +11,12 @@ categories:
 - recensioni
 - recensioni/protezione-moto
 tags:
-- accessori
-- protezione
-- paramotore
-- HEED
-- BMW R1200GS
-- istruzioni
+- tag/accessori
+- tag/protezione
+- tag/paramotore
+- tag/HEED
+- tag/BMW R1200GS
+- tag/istruzioni
 ---
 Da poco ho comprato una BMW R 1200 GS MY 2008 già provvista delle barre paramotore originali, molto solide e dall'aspetto poco invasivo.
 

@@ -57,10 +57,10 @@ const MainMenu = () => {
         </nav>
       </span>
       <Link to="/foto">Foto</Link>
-      {/* <Link
+      <Link
         className={categories.video.slug}
         to={getCategoryUrl(categories.video.slug)}
-      >{categories.video.name}</Link> */}
+      >{categories.video.name}</Link>
     </nav>
   );
 }

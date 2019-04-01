@@ -1,4 +1,4 @@
 ---
-slug: gopro
+slug: tag/gopro
 name: GoPro
 ---

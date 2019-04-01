@@ -1,4 +1,4 @@
 ---
-slug: istruzioni
+slug: tag/istruzioni
 name: Istruzioni
 ---

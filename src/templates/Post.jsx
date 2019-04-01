@@ -5,7 +5,6 @@ import styled from '@emotion/styled'
 import { css } from '@emotion/core'
 import YouTube from 'react-youtube-embed'
 
-import getTagUrl from '../utils/getTagUrl'
 import { palette } from '../utils/colors'
 import {
   SMALL_SCREEN_ONLY,
@@ -200,7 +199,7 @@ class PageTemplate extends Component {
             <TagSection>
               <h3>Tags</h3>
               { frontmatter.tags.map(({frontmatter}) => (
-                <Link key={frontmatter.slug} to={getTagUrl(frontmatter.slug)}>
+                <Link key={frontmatter.slug} to={frontmatter.slug}>
                   {frontmatter.name}
                 </Link>
               )) }
