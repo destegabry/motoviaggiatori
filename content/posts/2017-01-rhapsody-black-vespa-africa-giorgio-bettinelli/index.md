@@ -3,9 +3,10 @@ title: "Rhapsody in black: In Vespa dall’Angola allo Yemen"
 date: "2017-04-23:30:00.000Z"
 modified: "2019-04-01T13:41:00.000Z"
 author: gabriele
-slug: /2017/01/rhapsody-black-vespa-africa-giorgio-bettinelli/
+slug: /2017/01/rhapsody-black-vespa-africa-giorgio-bettinelli
 featured_image: ./featured_image.jpg
 excerpt: Giorgio Bettinelli racconta 20.000 km di Africa in Vespa
+opening: <p>A Torino la stagione invernale lascia poche giornate alla moto… E così, un po’ per organizzare il nostro <a href="/categoria/viaggi/marocco">#MaroccoInMoto</a>, un po’ per sognare a due ruote, mi sono procurato qualche libro di viaggio.</p><p>Inauguriamo la rubrica con il racconto di un motociclista atipico.</p>
 categories:
 - recensioni
 - recensioni/libri
@@ -16,10 +17,6 @@ tags:
 - tag/letture
 - tag/vespa
 ---
-A Torino la stagione invernale lascia poche giornate alla moto… E così, un po’ per organizzare il nostro [#MaroccoInMoto](/categoria/viaggi/marocco), un po’ per sognare a due ruote, mi sono procurato qualche libro di viaggio.
-
-Inauguriamo la rubrica con il racconto di un motociclista atipico.
-
 
 ## Giorgio Bettinelli
 
