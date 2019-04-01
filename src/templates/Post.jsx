@@ -3,6 +3,7 @@ import { graphql, Link } from 'gatsby'
 import Img from 'gatsby-image'
 import styled from '@emotion/styled'
 import { css } from '@emotion/core'
+import YouTube from 'react-youtube-embed'
 
 import getTagUrl from '../utils/getTagUrl'
 import { palette } from '../utils/colors'
@@ -178,13 +179,14 @@ class PageTemplate extends Component {
           <Article>
             <h1 dangerouslySetInnerHTML={{ __html: frontmatter.title }} itemProp="name headline" />
             <PostMeta post={currentPost} css={ postMetaStyle } />
-            { frontmatter.categories.find(category => category.frontmatter.slug === 'video') ? null :
-              <Img
-                fluid={ frontmatter.featured_image.childImageSharp.fluid }
-                alt={ frontmatter.title }
-                css={ featuredMediaSyle }
-              />
-            }
+            <div css={ featuredMediaSyle }>
+              { frontmatter.featured_youtube ? <YouTube id={ frontmatter.featured_youtube } /> :
+                <Img
+                  fluid={ frontmatter.featured_image.childImageSharp.fluid }
+                  alt={ frontmatter.title }
+                />
+              }
+            </div>
             { !frontmatter.opening ? null : <p dangerouslySetInnerHTML={{ __html: frontmatter.opening }} /> }
             { !currentPost.tableOfContents ? null :
               <div dangerouslySetInnerHTML={{ __html: currentPost.tableOfContents }} />
@@ -280,6 +282,7 @@ export const pageQuery = graphql`
             }
           }
         }
+        featured_youtube
         featured_image {
           publicURL
           childImageSharp {

@@ -5,7 +5,7 @@ modified: "2019-03-29T15:21:00.000Z"
 author: gabriele
 slug: /2016/09/strada-assietta-off-road-alta-quota
 featured_image: "./galleries/0/0.jpg"
-featured_youtube: "https://youtu.be/-A0hRkNO8WE"
+featured_youtube: "-A0hRkNO8WE"
 excerpt: Frana sulla SP 173 Strada dell’Assietta tra il Colle delle Finestre ed il Colle dell’Assetta, strada chiusa dal 16 settembre 2016 a data indefinita
 opening: "Itinerario mototuristico di 220km con partenza da Torino, 60 km di off-road leggero adatto a tutte le moto.<br/>È il percorso militare più alto d’Europa, tocca la quota di 2550m alla Testa dell’Assietta."
 categories:
