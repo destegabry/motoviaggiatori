@@ -54,10 +54,16 @@ export const pageQuery = graphql`
         }
       }
     }
-    allMarkdownRemark(filter: {
-      fields: {sourceInstanceName: {eq: "post"}},
-      frontmatter: { author: { frontmatter:{slug: {eq: $slug}}}}
-    }) {
+    allMarkdownRemark(
+      filter: {
+        fields: {sourceInstanceName: {eq: "post"}},
+        frontmatter: { author: { frontmatter:{slug: {eq: $slug}}}}
+      }
+      sort: {
+        fields: frontmatter___date
+        order: DESC
+      }
+    ) {
       edges {
         node {
           frontmatter {
