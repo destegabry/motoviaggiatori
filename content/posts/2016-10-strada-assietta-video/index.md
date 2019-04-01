@@ -3,8 +3,8 @@ title: "Strada dell’Assietta: il video!"
 date: "2016-10-06T14:57:00.000Z"
 modified: "2019-04-01T13:14:00.000Z"
 author: gabriele
-slug: ./featured_image.jpg
-featured_image: "../2016-09-strada-assietta-off-road-alta-quota/galleries/0/0.jpg"
+slug: /2016/10/strada-assietta-video
+featured_image: ./featured_image.jpg
 featured_youtube: "-A0hRkNO8WE"
 excerpt: Il video dell’uscita alla Strada dell’Assietta, tutto in soggettiva dalla mia BMW R1200GS
 categories:

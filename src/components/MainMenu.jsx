@@ -45,12 +45,12 @@ const MainMenu = () => {
           {/* <Link
             className={categories['valigie-e-borse-moto'].slug}
             to={getCategoryUrl(categories['valigie-e-borse-moto'].slug)}
-          >{categories['valigie-e-borse-moto'].name}</Link>
+          >{categories['valigie-e-borse-moto'].name}</Link> */}
           <Link
-            className={categories.libri.slug}
-            to={getCategoryUrl(categories.libri.slug)}
-          >{categories.libri.name}</Link>
-          <Link
+            className={categories['recensioni/libri'].slug}
+            to={getCategoryUrl(categories['recensioni/libri'].slug)}
+          >{categories['recensioni/libri'].name}</Link>
+          {/* <Link
             className={categories.gadget.slug}
             to={getCategoryUrl(categories.gadget.slug)}
           >{categories.gadget.name}</Link> */}
