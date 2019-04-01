@@ -1,6 +1,6 @@
 ---
 title: "Rhapsody in black: In Vespa dall’Angola allo Yemen"
-date: "2017-04-23:30:00.000Z"
+date: "2017-01-03T23:30:00.000Z"
 modified: "2019-04-01T13:41:00.000Z"
 author: gabriele
 slug: /2017/01/rhapsody-black-vespa-africa-giorgio-bettinelli

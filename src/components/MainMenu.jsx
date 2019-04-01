@@ -50,10 +50,10 @@ const MainMenu = () => {
             className={categories['recensioni/libri'].slug}
             to={getCategoryUrl(categories['recensioni/libri'].slug)}
           >{categories['recensioni/libri'].name}</Link>
-          {/* <Link
-            className={categories.gadget.slug}
-            to={getCategoryUrl(categories.gadget.slug)}
-          >{categories.gadget.name}</Link> */}
+          <Link
+            className={categories['recensioni/gadget'].slug}
+            to={getCategoryUrl(categories['recensioni/gadget'].slug)}
+          >{categories['recensioni/gadget'].name}</Link>
         </nav>
       </span>
       <Link to="/foto">Foto</Link>
