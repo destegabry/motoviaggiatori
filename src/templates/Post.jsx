@@ -237,6 +237,7 @@ export const pageQuery = graphql`
       html
       tableOfContents(
         pathToSlugField: "frontmatter.slug"
+        maxDepth: 2
       )
       frontmatter {
         title
