@@ -16,22 +16,22 @@ const MainMenu = () => {
         className={categories.itinerari.slug}
         to={getCategoryUrl(categories.itinerari.slug)}
       >{categories.itinerari.name}</Link>
-      {/* <span>
+      <span>
         <Link
           className={categories.viaggi.slug}
           to={getCategoryUrl(categories.viaggi.slug)}
         >{categories.viaggi.name}</Link>
         <nav>
           <Link
-            className={categories.marocco.slug}
-            to={getCategoryUrl(categories.marocco.slug)}
-          >{categories.marocco.name}</Link>
+            className={categories['viaggi/marocco'].slug}
+            to={getCategoryUrl(categories['viaggi/marocco'].slug)}
+          >{categories['viaggi/marocco'].name}</Link>
           <Link
-            className={categories.romania.slug}
-            to={getCategoryUrl(categories.romania.slug)}
-          >{categories.romania.name}</Link>
+            className={categories['viaggi/romania'].slug}
+            to={getCategoryUrl(categories['viaggi/romania'].slug)}
+          >{categories['viaggi/romania'].name}</Link>
         </nav>
-      </span> */}
+      </span>
       <span>
         <Link
           className={categories.recensioni.slug}

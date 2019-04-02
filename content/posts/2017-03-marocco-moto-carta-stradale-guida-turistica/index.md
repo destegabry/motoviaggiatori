@@ -16,6 +16,8 @@ tags:
 - tag/carta-stradale
 - tag/cartina
 - tag/guida
+- tag/informazioni-pratiche
+- tag/marocco
 - tag/marocco-in-moto
 - tag/turismo
 ---
