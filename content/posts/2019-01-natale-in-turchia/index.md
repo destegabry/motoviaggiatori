@@ -15,6 +15,7 @@ tags:
 - tag/cappadocia
 - tag/efeso
 - tag/eubea
+- tag/europa-orientale
 - tag/grecia
 - tag/istanbul
 - tag/magnesia

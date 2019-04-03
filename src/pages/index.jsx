@@ -64,7 +64,7 @@ const cardCss = css`
 
 const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
   const filteredPosts = posts.filter(({ node }) => (
-    node.frontmatter.categories.filter(category => category === categoryFilter).length > 0
+    node.frontmatter.categories.filter(({slug}) => slug === categoryFilter).length > 0
   )).slice(0, 5);
 
 
