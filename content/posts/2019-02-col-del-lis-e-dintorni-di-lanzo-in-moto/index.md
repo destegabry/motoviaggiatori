@@ -12,7 +12,7 @@ categories:
 - itinerari/italia
 - itinerari/italia/nord-ovest
 tags:
-- tag/250-km
+- tag/150-km
 - tag/alpi
 - tag/alpi-cozie
 - tag/bmw-f800gs
