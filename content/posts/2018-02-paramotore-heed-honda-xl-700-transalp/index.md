@@ -1,6 +1,6 @@
 ---
 title: Paramotore tubolare HEED per Honda XL 700 Transalp
-date: "2018-03-07T08:43:25.000Z"
+date: "2018-02-12T23:07:26.000Z"
 modified: "2019-04-03T09:18:00.000Z"
 slug: /2018/02/paramotore-heed-honda-xl-700-transalp
 featured_image: ./featured_image.jpg
