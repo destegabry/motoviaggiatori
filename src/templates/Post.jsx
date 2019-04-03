@@ -162,14 +162,13 @@ class PageTemplate extends Component {
   }
 
   componentWillUnmount() {
-    // this.galleries.forEach(gallery => gallery.destroy());
+    this.galleries.forEach(gallery => gallery.destroy());
   }
 
   render() {
     const currentPost = this.props.data.markdownRemark
     const { frontmatter } = currentPost;
     const { previous, next } = this.props.pageContext;
-    console.log(previous, next);
 
     return (
       <Layout itemScope itemType="http://schema.org/Article">
@@ -199,7 +198,7 @@ class PageTemplate extends Component {
             <TagSection>
               <h3>Tags</h3>
               { frontmatter.tags.map(({frontmatter}) => (
-                <Link key={frontmatter.slug} to={frontmatter.slug}>
+                <Link key={frontmatter.slug} to={`/${frontmatter.slug}`}>
                   {frontmatter.name}
                 </Link>
               )) }
