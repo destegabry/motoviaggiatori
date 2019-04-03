@@ -17,7 +17,7 @@ tags:
 - tag/bmw-r1200gs
 - tag/marocco
 - tag/deserto
-- tag/fune
+- tag/dune
 - tag/off-road
 - tag/video
 - tag/xiaomi-yi
