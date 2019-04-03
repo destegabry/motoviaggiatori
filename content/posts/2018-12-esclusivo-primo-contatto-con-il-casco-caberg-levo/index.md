@@ -17,7 +17,6 @@ tags:
 - tag/made-in-italy
 - tag/sicurezza
 ---
-
 ## Caberg: una storia italiana
 
 La società nasce a Bergamo nel 1974, il nome apparentemente straniero è in realtà l’azzeccata combinazione delle parole **CA**schi e **BERG**amo. 
@@ -34,7 +33,7 @@ Durante la visita conosciamo il direttore commerciale Andrea Donghi, che ideato 
 
 ## Levo: nato per viaggiare
 
-Il punto forte di questo casco è la **visiera panoramica **che offre un campo visivo pari a 338cm2 ed un angolo di visione verticale di 82°; queste cifre dicono poco se non confrontate con altri caschi modulari, che solitamente offrono rispettivamente meno di 300cm2 e 60°.
+Il punto forte di questo casco è la **visiera panoramica** che offre un campo visivo pari a 338cm2 ed un angolo di visione verticale di 82°; queste cifre dicono poco se non confrontate con altri caschi modulari, che solitamente offrono rispettivamente meno di 300cm2 e 60°.
 
 Basta indossare il casco per capire come questi numeri si traducano in vantaggi concreti per il motoviaggiatore: si prova subito una sensazione di apertura, il campo visivo è molto più ampio, si riesce a guardare bene il quadro della moto senza bisogno di abbassare la testa.
 
@@ -44,11 +43,11 @@ L’equipaggiamento di serie del Caberg LEVO è completato da **visiera parasol
 
 La **calotta** esterna del LEVO è realizzata in fibre composite (fibra di vetro e kevlar), il LEVO CARBON è interamente in fibra di carbonio (mentoniera in policarbonato). Per entrambe le versioni sono disponibili due misure di calotta esterna che coprono rispettivamente le taglie XS-S-M e L-XL-XXL.
 
-Gli **interni **sono ipoallergenici, completamente asportabili e lavabili. La spugna dei guanciali ha una forma anatomica e sono ricoperti da uno strato di tessuto Coolmax®, materiale fresco e traspirante.
+Gli **interni** sono ipoallergenici, completamente asportabili e lavabili. La spugna dei guanciali ha una forma anatomica e sono ricoperti da uno strato di tessuto Coolmax®, materiale fresco e traspirante.
 
 La calotta interna del casco ospita i canali del **sistema di ventilazione**, composto da due prese d’aria anteriori e due estrattori posteriori che possono essere chiusi in caso di pioggia. 
 
-Il Caberg LEVO permette di **viaggiare in sicurezza **anche con la mentoniera aperta: ha superato i test di omologazione sia per i caschi integrali che per quelli jet (normativa ECE 22.05 P/J).
+Il Caberg LEVO permette di **viaggiare in sicurezza** anche con la mentoniera aperta: ha superato i test di omologazione sia per i caschi integrali che per quelli jet (normativa ECE 22.05 P/J).
 
 Sono presenti alloggiamenti per ospitare altoparlanti e microfono dei più diffusi modelli di **interfoni**, il profilo dei guanciali permette di indossare occhiali con facilità. L’**ergonomia** è ben studiata e l’utilizzo del casco è molto intuitivo: non sarà un problema aprire la mentoniera, regolare la visiera parasole, bloccare la mentoniera in posizione aperta o gestire le prese d’aria.
 
