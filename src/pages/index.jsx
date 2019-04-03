@@ -64,7 +64,7 @@ const cardCss = css`
 
 const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
   const filteredPosts = posts.filter(({ node }) => (
-    node.frontmatter.categories.filter(({slug}) => slug === categoryFilter).length > 0
+    node.frontmatter.categories.filter(({ frontmatter }) => frontmatter.slug === categoryFilter).length > 0
   )).slice(0, 5);
 
 
@@ -99,7 +99,7 @@ const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
           <PostPreviewFull post={filteredPosts[0].node} />
         </div>
         <div className="older-posts">
-          { filteredPosts.slice(1, 5).map(({node}) => <PostPreviewList key={node.slug} post={node} />) }
+          { filteredPosts.slice(1, 5).map(({node}, index) => <PostPreviewList key={index} post={node} />) }
         </div>
       </div>
     </Card>
