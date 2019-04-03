@@ -2,7 +2,7 @@
 title: Borse laterali in alluminio Heavy Duties per R1200GS
 slug: /2018/04/borse-alluminio-heavy-duties-bmw-r1200gs
 date: "2018-04-12T00:13:06.000Z"
-modified: "2019-04-11:02:00.000Z"
+modified: "2019-04-03T11:02:00.000Z"
 author: gabriele
 featured_image: ./galleries/3/11.jpg
 excerpt: "Recensione ed indicazioni per il montaggio delle borse laterali in alluminio Heavy Duties per BMW R1200GS: ottima qualità e capienza al prezzo giusto!"
