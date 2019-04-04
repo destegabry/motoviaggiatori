@@ -9,8 +9,14 @@ import { palette } from '../utils/colors'
 import {
   SMALL_SCREEN_ONLY,
   MEDIUM_SCREEN_UP,
-  SMALL_SCREEN_MAX_SIZE
+  SMALL_SCREEN_MAX_SIZE,
+  MEDIUM_SCREEN_DOWN,
+  LARGE_SCREEN_UP
 } from '../utils/breakpoints';
+import {
+  ICON_ARROW_LEFT,
+  ICON_ARROW_RIGHT
+} from '../utils/icons'
 import Gallery from '../utils/Gallery';
 import AttributesTable from '../components/AttributesTables'
 import AuthorBox from '../components/AuthorBox'
@@ -19,11 +25,6 @@ import Flex from '../components/Flex'
 import SEO from '../components/seo'
 import Card from '../components/Card'
 import PostMeta from '../components/PostMeta'
-import {
-  IconArrowLeft,
-  IconArrowRight
-} from '../components/Icons'
-
 
 const cardCss = css`
   ${SMALL_SCREEN_ONLY} {
@@ -137,7 +138,71 @@ const featuredMediaSyle = css`
 const NextPrevWrapper = styled.nav`
   display: flex;
   justify-content: space-between;
+
+  ${MEDIUM_SCREEN_UP} {
+    margin: 0 1rem;
+  }
+
+  .label {
+    text-transform: uppercase;
+  }
+
+  .title {
+    font-size: .8em;
+  }
+
+  a:hover {
+    box-shadow: none;
+    text-decoration: underline;
+  }
+
+  .previous,
+  .next {
+    position: relative;
+
+    ${SMALL_SCREEN_ONLY} {
+      font-size: .9rem;
+    }
+    ${MEDIUM_SCREEN_DOWN} {
+      max-width: 49%;
+    }
+    ${LARGE_SCREEN_UP} {
+      max-width: 40%;
+    }
+
+    &::before,
+    &::after {
+      position: absolute;
+      top: 0;
+    }
+  }
+
+  .previous {
+    padding-left: 1rem;
+
+    &::before {
+      left: 0;
+      content: "${ICON_ARROW_LEFT}";
+    }
+  }
+
+  .next {
+    padding-right: 1rem;
+    text-align: right;
+
+    &::after {
+      right: 0;
+      content: "${ICON_ARROW_RIGHT}";
+    }
+  }
 `;
+
+const RelatedPost = ({label, title, slug, ...otherProps}) => (
+  <Link to={slug} {...otherProps}>
+    <div className="label">{ label }</div>
+    <div className="title">{ title }</div>
+  </Link>
+)
 
 class PageTemplate extends Component {
   componentDidMount() {
@@ -210,17 +275,19 @@ class PageTemplate extends Component {
         </Card>
         <NextPrevWrapper>
           { !previous ? null :
-            <Link to={previous.frontmatter.slug}>
-              <IconArrowLeft />
-              Post precedente
-            </Link>
+            <RelatedPost
+              label="Post precedente"
+              className="previous"
+              {...previous.frontmatter}
+            />
           }
           <Flex />
           { !next ? null :
-            <Link to={next.frontmatter.slug}>
-              Post successivo
-              <IconArrowRight />
-            </Link>
+            <RelatedPost
+              label="Prossimo post"
+              className="next"
+              {...next.frontmatter}
+            />
           }
         </NextPrevWrapper>
       </Layout>
