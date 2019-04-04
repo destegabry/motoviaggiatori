@@ -3,8 +3,8 @@ import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import { css } from '@emotion/core';
 import Img from 'gatsby-image'
+import YouTube from 'react-youtube-embed'
 
-import getPostUrl from '../utils/getPostUrl'
 import PostMeta from './PostMeta'
 
 const postPreviewStyle = css`
@@ -27,14 +27,20 @@ const postPreviewStyle = css`
 
 
 const FeaturedMedia = ({post, version}) => {
-  if (!post['featured_media'] || !version) {
+  if (!post.frontmatter.featured_image || !version) {
     return null;
   }
   return (
-    <Img
-      fluid={post['featured_media'].localFile.childImageSharp[version]}
-      alt={post['featured_media']['alt_text']}
-    />
+    <Link
+      to={post.frontmatter.slug}
+      title={post.frontmatter.title}
+      itemProp="url"
+    >
+      <Img
+        fluid={post.frontmatter.featured_image.childImageSharp[version]}
+        alt={post.frontmatter.title}
+      />
+    </Link>
   );
 };
 
@@ -49,27 +55,29 @@ const PostPreview = props => {
   } = props;
 
   const post = props.post.node || props.post;
+  const {frontmatter} = post;
 
   return (
     <article css={postPreviewStyle} className={className} itemScope itemType="http://schema.org/Article">
       <div className="featured-media">
-        <Link
-          to={getPostUrl(post)}
-          title={post.title}
-          itemProp="url"
-        >
+        { frontmatter.featured_youtube && featuredImage === 'wide' ?
+          <YouTube id={ frontmatter.featured_youtube } /> :
           <FeaturedMedia post={post} version={featuredImage} />
-        </Link>
+        }
       </div>
       <div className="post-info">
         <Link
-          to={getPostUrl(post)}
-          title={post.title}
+          to={frontmatter.slug}
+          title={frontmatter.title}
         >
-          <h3 dangerouslySetInnerHTML={{ __html: post.title }} itemProp="name headline" />
+          <h3 itemProp="name headline">{frontmatter.title}</h3>
         </Link>
         <PostMeta post={post} showAuthor={showAuthor} showDate={showDate} showCategories={showCategories} />
-        { !showExcerpt ? null : <div className="excerpt" itemProp="description" dangerouslySetInnerHTML={{ __html: post.excerpt }} /> }
+        { !showExcerpt ? null :
+          <div className="excerpt" itemProp="description">
+            <p>{frontmatter.excerpt}</p>
+          </div>
+        }
       </div>
     </article>
   )

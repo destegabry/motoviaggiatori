@@ -1,3 +1,1 @@
-module.exports = (authorNode) => {
-  return `/author/${authorNode.slug}/`
-}
+module.exports = slug => `/author/${slug}`

@@ -10,20 +10,19 @@ import AuthorBox from '../components/AuthorBox';
 
 class AuthorTemplate extends Component {
   render() {
-    const currentAuthor = this.props.data.wordpressWpUsers;
-    const posts = currentAuthor['authored_wordpress__POST'];
+    const currentAuthor = this.props.data.markdownRemark;
 
     return (
       <Layout>
         <SEO
-          title={currentAuthor.name}
-          description={currentAuthor.description}
-          image={ currentAuthor.acf.avatar.source_url }
+          title={currentAuthor.frontmatter.name}
+          description={currentAuthor.excerpt}
+          image={ currentAuthor.frontmatter.avatar ? currentAuthor.frontmatter.avatar.publicURL : null }
         />
         <Card>
          <AuthorBox author={currentAuthor} />
         </Card>
-        <PagedPosts posts={posts} />
+        <PagedPosts posts={this.props.data.allMarkdownRemark.edges} />
       </Layout>
     )
   }
@@ -32,54 +31,66 @@ class AuthorTemplate extends Component {
 export default AuthorTemplate
 
 export const pageQuery = graphql`
-  query($id: String!) {
-    wordpressWpUsers(id: { eq: $id }) {
-      name
-      description
-      url
-      acf {
+  query AuthorBySlug($slug: String!) {
+    markdownRemark(frontmatter: {slug: {eq: $slug}}) {
+      html
+      excerpt
+      frontmatter {
+        name
+        website
+        facebook {
+          name
+          url
+        }
+        instagram {
+          name
+          url
+        }
+        youtube {
+          name
+          url
+        }
         avatar {
-          source_url
-          localFile {
-            childImageSharp {
-              fluid(
-                maxWidth: 300,
-                maxHeight: 300,
-                cropFocus: CENTER
-              ) {
-                src
-                srcSet
-                aspectRatio
-                sizes
-              }
+          publicURL
+          childImageSharp {
+            fluid(
+              maxWidth: 300,
+              maxHeight: 300,
+              cropFocus: CENTER
+            ) {
+              src
+              srcSet
+              aspectRatio
+              sizes
             }
           }
-          alt_text
         }
       }
-      authored_wordpress__POST {
-        title
-          slug
-          date
-          author {
-            name
+    }
+    allMarkdownRemark(
+      filter: {
+        fields: {sourceInstanceName: {eq: "post"}},
+        frontmatter: { author: { frontmatter:{slug: {eq: $slug}}}}
+      }
+      sort: {
+        fields: frontmatter___date
+        order: DESC
+      }
+    ) {
+      edges {
+        node {
+          frontmatter {
             slug
-          }
-          excerpt
-          categories {
-            id
-            name
-            slug
-            parent_element {
-              id
-            }
-          }
-          featured_media {
-            localFile {
+            title
+            date
+            excerpt
+            featured_youtube
+            featured_image {
+              publicURL
               childImageSharp {
                 wide: fluid(
-                  maxWidth: 600,
-                  maxHeight: 350,
+                  maxWidth: 480,
+                  maxHeight: 270,
                   cropFocus: CENTER
                 ) {
                   src
@@ -89,8 +100,20 @@ export const pageQuery = graphql`
                 }
               }
             }
-            alt_text
+            categories {
+              frontmatter {
+                name
+                slug
+              }
+            }
+            author {
+              frontmatter {
+                name
+                slug
+              }
+            }
           }
+        }
       }
     }
   }

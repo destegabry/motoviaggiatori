@@ -1,10 +1,9 @@
 import React from 'react'
-import { Link, StaticQuery, graphql } from 'gatsby'
 import styled from '@emotion/styled'
 import { InView } from 'react-intersection-observer'
 import Color from 'color'
 
-import Logo from '../images/motoviaggiatori_logo.svg'
+import Logo from './Logo'
 import Wrapper from './Wrapper'
 import MainMenu from './MainMenu'
 import SocialLinks from './SocialLinks'
@@ -15,6 +14,8 @@ import {
   MEDIUM_SCREEN_UP
 } from '../utils/breakpoints'
 import { palette } from '../utils/colors';
+import { IconArrowLeft } from './Icons';
+import { ICON_HAMBURGER, ICON_CLOSE } from '../utils/icons';
 
 const headerHeightDesktopNormal = 100;
 const headerHeightDesktopCollapsed = 60;
@@ -211,7 +212,7 @@ const HeaderElement = styled.header`
 
       &::before {
         display: block;
-        content: '≡';
+        content: '${ICON_HAMBURGER}';
         font-size: 3rem;
       }
     }
@@ -224,7 +225,7 @@ const HeaderElement = styled.header`
   &.mobile-menu-open {
     .mobile-menu-opener {
       &::before {
-        content: '×';
+        content: '${ICON_CLOSE}';
       }
     }
 
@@ -246,11 +247,15 @@ const HeaderElement = styled.header`
     }
 
     .instagram > svg {
-      margin: 1px;
+      margin: 2px;
     }
 
     .facebook > svg {
       margin: -2px 0 0;
+    }
+
+    .youtube > svg {
+      margin: 1px;
     }
   }
 `;
@@ -270,50 +275,26 @@ const toggleMobileMenu = event => {
   document.querySelector('html').classList.toggle('modal-open');
 }
 
-const Header = ({site}) => {
-  return (
-    <InView>
-      {({ inView, ref }) => (
-        <HeaderElement id="header-menu" className={inView ? '' : 'sticky '}>
-          <div className="header-wrapper">
-            <Wrapper className="nav-wrapper">
-              <Link
-                className="logo"
-                to="/"
-                alt={ site.siteMetadata.name }
-              >
-                <Logo />
-              </Link>
-              <Flex />
-              <MainMenu />
-              <SocialLinks size={24} hideMail />
-              <div className="mobile-menu-opener" onClick={toggleMobileMenu} />
-            </Wrapper>
-          </div>
-          <div className="in-view-ref" ref={ref} />
-          <span className="back-to-top" onClick={scrollTop}>
-            &lsaquo;
-          </span>
-        </HeaderElement>
-      )}
-    </InView>
-  );
-};
+const Header = () => (
+  <InView>
+    {({ inView, ref }) => (
+      <HeaderElement id="header-menu" className={inView ? '' : 'sticky '}>
+        <div className="header-wrapper">
+          <Wrapper className="nav-wrapper">
+            <Logo />
+            <Flex />
+            <MainMenu />
+            <SocialLinks size={24} hideMail />
+            <div className="mobile-menu-opener" onClick={toggleMobileMenu} />
+          </Wrapper>
+        </div>
+        <div className="in-view-ref" ref={ref} />
+        <span className="back-to-top" onClick={scrollTop}>
+          <IconArrowLeft />
+        </span>
+      </HeaderElement>
+    )}
+  </InView>
+);
 
-const HeaderContainer = () => (
-  <StaticQuery
-    query={graphql`
-      query headerQuery {
-        site {
-          siteMetadata {
-            siteUrl
-            name
-          }
-        }
-      }
-    `}
-    render={Header}
-  />
-)
-
-export default HeaderContainer
+export default Header

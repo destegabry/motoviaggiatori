@@ -2,17 +2,22 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
-import showdown from 'showdown'
 import styled from '@emotion/styled'
+import { css } from '@emotion/core'
 
-import getAuthorUrl from '../utils/getAuthorUrl';
+import getAuthorUrl from '../utils/getAuthorUrl'
+import {palette} from '../utils/colors'
 import ResponsiveFlexBox from '../components/ResponsiveFlexBox'
+import {
+  Instagram,
+  Facebook,
+  Website,
+  Youtube
+} from '../components/SocialLinks'
 import {
   SMALL_SCREEN_ONLY,
   MEDIUM_SCREEN_UP
 } from '../utils/breakpoints'
-
-const converter = new showdown.Converter();
 
 const ImgWrapper = styled.div`
   ${SMALL_SCREEN_ONLY} {
@@ -25,39 +30,103 @@ const ImgWrapper = styled.div`
   }
 `;
 
+const LinkWrapper = styled.div`
+  margin-top: .5rem;
+
+  a:hover {
+    box-shadow: none;
+  }
+`;
+
+const socialIcon = css`
+  width: 1rem;
+  margin-right: .5rem;
+  fill: ${palette.secondary.dark};
+`;
+
 
 function AuthorBox({ author, showProfileLink }) {
+  const {
+    name,
+    slug,
+    avatar,
+    website,
+    instagram,
+    facebook,
+    youtube
+  } = author.frontmatter;
+
   return (
     <ResponsiveFlexBox className="content">
-      { !author.acf || !author.acf.avatar ? null :
+      { !avatar ? null :
         <ImgWrapper>
           <Img
-            fluid={author.acf.avatar.localFile.childImageSharp.fluid}
-            alt={author.acf.avatar.localFile.childImageSharp.alt_text}
+            fluid={avatar.childImageSharp.fluid}
+            alt={avatar.childImageSharp.alt_text}
           />
         </ImgWrapper>
       }
       <div>
-        <h1 dangerouslySetInnerHTML={{ __html: author.name }} />
-        <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(author.description) }} />
-        { !author.url ? null :
-          <p>
+        <h1>{ name }</h1>
+        <div dangerouslySetInnerHTML={{ __html: author.html }} />
+        { !website ? null :
+          <LinkWrapper>
             <a
-              href={author.url}
+              href={website}
               target="_blank"
               rel="noopener noreferrer"
+              title="Sito web"
             >
-              { author.url }
+              <Website css={socialIcon} />
+              { website }
             </a>
-          </p>
+          </LinkWrapper>
         }
-        { !showProfileLink || !author.slug ? null :
+        { !facebook || !facebook.url ? null :
+          <LinkWrapper>
+            <a
+              href={facebook.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Facebook"
+            >
+              <Facebook css={socialIcon} />
+              { facebook.name }
+            </a>
+          </LinkWrapper>
+        }
+        { !instagram || !instagram.url ? null :
+          <LinkWrapper>
+            <a
+              href={instagram.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Instagram"
+            >
+              <Instagram css={socialIcon} />
+              { instagram.name }
+            </a>
+          </LinkWrapper>
+        }
+        { !youtube || !youtube.url ? null :
+          <LinkWrapper>
+            <a
+              href={youtube.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="YouTube"
+            >
+              <Youtube css={socialIcon} />
+              { youtube.name }
+            </a>
+          </LinkWrapper>
+        }
+        { !showProfileLink || !slug ? null :
           <p>
             <Link
-              to={getAuthorUrl(author)}
-              title={author.name}
+              to={getAuthorUrl(slug)}
             >
-              Tutti i post di {author.name}
+              Tutti i post di {name}
             </Link>
           </p>
         }
@@ -68,13 +137,13 @@ function AuthorBox({ author, showProfileLink }) {
 
 AuthorBox.propTypes = {
   author: PropTypes.shape({
-    name: PropTypes.string.isRequired,
-    description: PropTypes.string.isRequired,
-    url: PropTypes.string,
-    acf: PropTypes.shape({
+    html: PropTypes.string,
+    frontmatter: PropTypes.shape({
+      name: PropTypes.string.isRequired,
+      slug: PropTypes.string,
+      website: PropTypes.string,
       avatar: PropTypes.object,
-    }),
-    slug: PropTypes.string,
+    }).isRequired,
   }).isRequired,
   showProfileLink: PropTypes.bool,
 }

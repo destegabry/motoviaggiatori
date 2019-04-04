@@ -1,22 +1,30 @@
 import React, { Component } from 'react'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 import Img from 'gatsby-image'
 import styled from '@emotion/styled'
 import { css } from '@emotion/core'
+import YouTube from 'react-youtube-embed'
 
-import Layout from '../components/Layout'
-import SEO from '../components/seo'
-import Card from '../components/Card'
-import PostMeta from '../components/PostMeta'
-import TagLink from '../components/TagLink'
+import { palette } from '../utils/colors'
 import {
   SMALL_SCREEN_ONLY,
   MEDIUM_SCREEN_UP,
-  SMALL_SCREEN_MAX_SIZE
+  SMALL_SCREEN_MAX_SIZE,
+  MEDIUM_SCREEN_DOWN,
+  LARGE_SCREEN_UP
 } from '../utils/breakpoints';
+import {
+  ICON_ARROW_LEFT,
+  ICON_ARROW_RIGHT
+} from '../utils/icons'
 import Gallery from '../utils/Gallery';
+import AttributesTable from '../components/AttributesTables'
 import AuthorBox from '../components/AuthorBox'
-
+import Layout from '../components/Layout'
+import Flex from '../components/Flex'
+import SEO from '../components/seo'
+import Card from '../components/Card'
+import PostMeta from '../components/PostMeta'
 
 const cardCss = css`
   ${SMALL_SCREEN_ONLY} {
@@ -97,8 +105,13 @@ const Article = styled.article`
 `;
 
 const TagSection = styled.section`
-  a:not(:last-child)::after {
-    content: ', ';
+  a {
+    display: inline-block;
+    padding: .25rem 1rem;
+    background: ${palette.grey.light};
+    border-radius: 1.5rem;
+    margin-bottom: .25rem;
+    margin-left: .25rem;
   }
 `;
 
@@ -122,14 +135,95 @@ const featuredMediaSyle = css`
   }
 `;
 
+const NextPrevWrapper = styled.nav`
+  display: flex;
+  justify-content: space-between;
+
+  ${MEDIUM_SCREEN_UP} {
+    margin: 0 1rem;
+  }
+
+  .label {
+    text-transform: uppercase;
+  }
+
+  .title {
+    font-size: .8em;
+  }
+
+  a:hover {
+    box-shadow: none;
+    text-decoration: underline;
+  }
+
+  .previous,
+  .next {
+    position: relative;
+
+    ${SMALL_SCREEN_ONLY} {
+      font-size: .9rem;
+    }
+    ${MEDIUM_SCREEN_DOWN} {
+      max-width: 49%;
+    }
+    ${LARGE_SCREEN_UP} {
+      max-width: 40%;
+    }
+
+    &::before,
+    &::after {
+      position: absolute;
+      top: 0;
+    }
+  }
+
+  .previous {
+    padding-left: 1rem;
+
+    &::before {
+      left: 0;
+      content: "${ICON_ARROW_LEFT}";
+    }
+  }
+
+  .next {
+    padding-right: 1rem;
+    text-align: right;
+
+    &::after {
+      right: 0;
+      content: "${ICON_ARROW_RIGHT}";
+    }
+  }
+`;
+
+const RelatedPost = ({label, title, slug, ...otherProps}) => (
+  <Link to={slug} {...otherProps}>
+    <div className="label">{ label }</div>
+    <div className="title">{ title }</div>
+  </Link>
+)
+
 class PageTemplate extends Component {
   componentDidMount() {
-    const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 4;
-    this.galleries = [];
-    document.querySelectorAll('.wp-block-gallery')
-      .forEach(wpGallery => {
-        this.galleries.push(new Gallery(wpGallery, rowRatio));
-      });
+    const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 5;
+    const rawFigures = document.querySelectorAll('.gatsby-resp-image-figure');
+    const galleries = [];
+    if (rawFigures.length > 0) {
+      // good old for-loop as querySelectorAll doesn't return an iterable
+      for (let i = 0, galleryWrapper; i < rawFigures.length; i++) {
+        const figure = rawFigures[i];
+        if (figure.previousElementSibling.className !== 'gallery-wrapper') {
+          galleryWrapper = document.createElement('div');
+          galleryWrapper.className = 'gallery-wrapper';
+          figure.parentElement.insertBefore(galleryWrapper, figure);
+          galleries.push(galleryWrapper);
+        }
+        galleryWrapper.appendChild(figure);
+      }
+
+      this.galleries = galleries.map(gallery => new Gallery(gallery, rowRatio));
+    }
   }
 
   componentWillUnmount() {
@@ -137,34 +231,65 @@ class PageTemplate extends Component {
   }
 
   render() {
-    const currentPost = this.props.data.wordpressPost
+    const currentPost = this.props.data.markdownRemark
+    const { frontmatter } = currentPost;
+    const { previous, next } = this.props.pageContext;
 
     return (
       <Layout itemScope itemType="http://schema.org/Article">
-        <SEO title={currentPost.title} description={currentPost.excerpt} image={ currentPost.featured_media.source_url } />
+        <SEO title={frontmatter.title} description={frontmatter.excerpt} image={ frontmatter.featured_image.publicURL } />
         <Card css={cardCss}>
           <Article>
-            <h1 dangerouslySetInnerHTML={{ __html: currentPost.title }} itemProp="name headline" />
+            <h1 dangerouslySetInnerHTML={{ __html: frontmatter.title }} itemProp="name headline" />
             <PostMeta post={currentPost} css={ postMetaStyle } />
-            { currentPost.categories.find(category => category.slug === 'video') ? null :
-              <Img
-                fluid={ currentPost.featured_media.localFile.childImageSharp.fluid }
-                alt={ currentPost.featured_media.alt_text }
-                css={ featuredMediaSyle }
-              />
+            <div css={ featuredMediaSyle }>
+              { frontmatter.featured_youtube ? <YouTube id={ frontmatter.featured_youtube } /> :
+                <Img
+                  fluid={ frontmatter.featured_image.childImageSharp.fluid }
+                  alt={ frontmatter.title }
+                />
+              }
+            </div>
+            { !frontmatter.opening ? null : <p dangerouslySetInnerHTML={{ __html: frontmatter.opening }} /> }
+            { !currentPost.tableOfContents ? null :
+              <div dangerouslySetInnerHTML={{ __html: currentPost.tableOfContents }} />
             }
-            <div dangerouslySetInnerHTML={{ __html: currentPost.content }} itemProp="articleBody" />
+            { !frontmatter.attributes? null : <AttributesTable attributes={ frontmatter.attributes } /> }
+            <div dangerouslySetInnerHTML={{ __html: currentPost.html }} itemProp="articleBody" />
           </Article>
         </Card>
-        <Card css={cardCss}>
-          <TagSection>
-            <h3>Tags</h3>
-            { currentPost.tags.map(tag => <TagLink key={tag.slug} tag={tag} />) }
-          </TagSection>
-        </Card>
+        { !frontmatter.tags ? null :
+          <Card css={cardCss}>
+            <TagSection>
+              <h3>Tags</h3>
+              { frontmatter.tags.map(({frontmatter}) => (
+                <Link key={frontmatter.slug} to={`/${frontmatter.slug}`}>
+                  {frontmatter.name}
+                </Link>
+              )) }
+            </TagSection>
+          </Card>
+        }
         <Card css={cardCss} itemProp="author" itemScope="itemscope" itemType="http://schema.org/Person">
-          <AuthorBox author={currentPost.author} showProfileLink={true} />
+          <AuthorBox author={frontmatter.author} showProfileLink={true} />
         </Card>
+        <NextPrevWrapper>
+          { !previous ? null :
+            <RelatedPost
+              label="Post precedente"
+              className="previous"
+              {...previous.frontmatter}
+            />
+          }
+          <Flex />
+          { !next ? null :
+            <RelatedPost
+              label="Prossimo post"
+              className="next"
+              {...next.frontmatter}
+            />
+          }
+        </NextPrevWrapper>
       </Layout>
     )
   }
@@ -173,20 +298,41 @@ class PageTemplate extends Component {
 export default PageTemplate
 
 export const pageQuery = graphql`
-  query($id: String!) {
-    wordpressPost(id: { eq: $id }) {
-      title
-      content
-      excerpt
-      author {
-        slug,
-        name,
-        description
-        url,
-        acf {
-          avatar {
-            source_url
-            localFile {
+  query BlogPostBySlug($slug: String!) {
+    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
+      html
+      tableOfContents(
+        pathToSlugField: "frontmatter.slug"
+        maxDepth: 2
+      )
+      frontmatter {
+        title
+        date
+        excerpt
+        opening
+        attributes {
+          key
+          value
+        }
+        categories {
+          frontmatter {
+            slug
+            name
+          }
+        }
+        tags {
+          frontmatter {
+            slug
+            name
+          }
+        }
+        author {
+          html
+          frontmatter {
+            name
+            slug
+            avatar {
+              publicURL
               childImageSharp {
                 fluid(
                   maxWidth: 300,
@@ -200,27 +346,11 @@ export const pageQuery = graphql`
                 }
               }
             }
-            alt_text
           }
         }
-      }
-      categories {
-        id
-        name
-        slug
-        parent_element {
-          id
-        }
-      }
-      tags {
-        name
-        slug
-      }
-      date
-      modified
-      featured_media {
-        source_url
-        localFile {
+        featured_youtube
+        featured_image {
+          publicURL
           childImageSharp {
             fluid(
               maxWidth: 1240,

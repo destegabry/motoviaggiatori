@@ -1,20 +1,21 @@
 import React from 'react'
-import { StaticQuery, graphql, withPrefix } from 'gatsby'
+import { Link, withPrefix } from 'gatsby'
 import styled from '@emotion/styled'
 import { css } from '@emotion/core'
 import Color from 'color'
 
+import { useSiteMetadata } from '../hooks/use-site-metadata'
+import { useAllPosts } from '../hooks/use-all-posts'
 import {
   SMALL_SCREEN_ONLY,
   MEDIUM_SCREEN_UP
 } from '../utils/breakpoints'
 import headerFooterStyle from '../utils/headerFooterStyle'
 import colors from '../utils/colors'
-import Logo from '../images/motoviaggiatori_logo.svg'
+import Logo from './Logo'
 import MainMenu from './MainMenu'
 import Wrapper from './Wrapper'
 import Sponsors from './Sponsors'
-import PostLink from './PostLink'
 import SocialLinks from './SocialLinks'
 
 const FooterWrapper = styled.footer`${headerFooterStyle}`;
@@ -98,73 +99,57 @@ const sponsorsCss = css`
   }
 `;
 
-const Footer = ({site, allWordpressPost}) => (
-  <FooterWrapper itemProp="publisher" itemScope itemType="http://schema.org/Organization" id="global-org">
-    <meta itemProp="logo" content={ withPrefix('/images/motoviaggiatori_logo.png') } />
-    <Wrapper css={wrapperCss}>
-      <FooterColumn>
-        <a itemProp="url" href={ site.siteMetadata.siteUrl }>
+const Footer = () => {
+  const { name, version, siteUrl } = useSiteMetadata();
+  const allPosts = useAllPosts();
+
+  return (
+    <FooterWrapper itemProp="publisher" itemScope itemType="http://schema.org/Organization" id="global-org">
+      <meta itemProp={ withPrefix('/images/motoviaggiatori_logo.png') } />
+      <meta itemProp="url" content={ siteUrl } />
+      <Wrapper css={wrapperCss}>
+        <FooterColumn>
           <Logo css={logoCss} />
-        </a>
-        <SocialLinks size={32} />
-        <Sponsors css={sponsorsCss} />
-      </FooterColumn>
-      <FooterColumn>
-        <h4>Site map</h4>
-        <MainMenu />
-      </FooterColumn>
-      <FooterColumn>
-        <h4>Post recenti</h4>
-        <nav>
-          {allWordpressPost.edges.slice(0, 10).map(({node}) => (
-            <PostLink key={node.id} post={node} />
-          ))}
-        </nav>
-      </FooterColumn>
-    </Wrapper>
-    <Credits>
-      <Wrapper css={{justifyContent: 'center'}}>
-        <span>
-          <span>©{new Date().getFullYear()}</span> <span itemProp="name">
-            {site.siteMetadata.name}</span> | <span>v{site.siteMetadata.version}
-          </span> | Powered by <a
-            href="https://www.topsolution.it"
-            target="_blank"
-            rel="noopener noreferrer nofollow"
-          >
-            Top Solution
-          </a>
-        </span>
+          <SocialLinks size={32} />
+          <Sponsors css={sponsorsCss} />
+        </FooterColumn>
+        <FooterColumn>
+          <h4>Site map</h4>
+          <MainMenu />
+        </FooterColumn>
+        <FooterColumn>
+          <h4>Post recenti</h4>
+          <nav>
+            {allPosts.slice(0, 10).map(({node}, index) => (
+              <Link
+                key={index}
+                to={node.frontmatter.slug}
+                title={node.frontmatter.title}
+              >
+                {node.frontmatter.title}
+              </Link>
+            ))}
+          </nav>
+        </FooterColumn>
       </Wrapper>
-    </Credits>
-  </FooterWrapper>
-);
+      <Credits>
+        <Wrapper css={{justifyContent: 'center'}}>
+          <span>
+            <span>©{new Date().getFullYear()}</span> <span itemProp="name">
+              {name}</span> | <span>v{version}
+            </span> | Powered by <a
+              href="https://www.topsolution.it"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+            >
+              Top Solution
+            </a>
+          </span>
+        </Wrapper>
+      </Credits>
+    </FooterWrapper>
+  );
+}
 
-const FooterContainer = () => (
-  <StaticQuery
-    query={graphql`
-      query footerQuery {
-        site {
-          siteMetadata {
-            siteUrl
-            name
-            version
-          }
-        }
-        allWordpressPost {
-          edges {
-            node {
-              id
-              title
-              slug
-              date
-            }
-          }
-        }
-      }
-    `}
-    render={Footer}
-  />
-)
 
-export default FooterContainer
+export default Footer

@@ -39,7 +39,7 @@ const galleryCSS = css`
     background: rgba(255, 255, 255, .6);
     padding: ${galleryPadding}px;
     position: absolute;
-    bottom: -10em;
+    bottom: -20em;
     left: 0;
     right: 0;
     transition: bottom .3s;
@@ -49,16 +49,14 @@ const galleryCSS = css`
 class Gallery {
   constructor(container, rowRatio) {
     this.container = container;
-    this.swipeOrigin = null;
-
     // wait until all images are loaded to avoid sizing issues
-    imagesLoaded(container, () => {
-      const items = container.querySelectorAll('figure');
+    imagesLoaded(this.container, () => {
+      const items = this.container.querySelectorAll('figure');
       const rows = [];
       this.items = [];
       let prevRowItem;
       items.forEach((element, index) => {
-        const { width, height } = element.childNodes[0];
+        const { width, height } = element.querySelector('img');
         const ratio = width / height;
         if (rows.length === 0 || Math.round(rows[rows.length - 1].ratio + ratio) > rowRatio) {
           rows.push({ items: [], ratio: 0 });
@@ -70,7 +68,6 @@ class Gallery {
         this.items.push(item);
         prevRowItem = item;
         row.ratio += ratio;
-        element.parentElement.remove();
         element.addEventListener('click', () => {
           new GalleryLightbox(this, index);
         });
@@ -101,7 +98,7 @@ class Gallery {
 
     this.rows.forEach(row => {
       row.height = (this.container.clientWidth - galleryPadding * (row.items.length - 1)) / row.ratio;
-      row.height = Math.min(row.height, 500); // this is to avoid huge vertical images
+      row.height = Math.min(row.height, 450); // this is to avoid huge vertical images
       const galleryRow = document.createElement('div');
       galleryRow.className = 'gallery-row';
       galleryRow.style.height = `${row.height}px`;

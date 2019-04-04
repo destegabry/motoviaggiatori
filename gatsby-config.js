@@ -1,6 +1,5 @@
 require('dotenv').config();
-const  he = require('he');
-const  stripHtml = require('string-strip-html');
+const mime = require('mime');
 
 const name = `MotoViaggiatori`;
 const title = name;
@@ -17,8 +16,7 @@ module.exports = {
     version,
     description,
     title,
-    site_url: siteUrl,
-    image_url: `https://motoviaggiatori.it/images/motoviaggiatori_icon_small.png`,
+    image_url: `https://motoviaggiatori.it/images/static/motoviaggiatori_icon_small.png`,
     language
   },
   plugins: [
@@ -26,10 +24,77 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
-        path: `${__dirname}/src/images`,
+        name: `post`,
+        path: `${__dirname}/content/posts`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `author`,
+        path: `${__dirname}/content/authors`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `tag`,
+        path: `${__dirname}/content/tags`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `category`,
+        path: `${__dirname}/content/categories`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `image`,
+        path: `${__dirname}/content/images`,
+      },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-external-links`,
+            options: {
+              target: `_blank`,
+              rel: `noopener norefferer`
+            }
+          },
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1920,
+              tracedSVG: true,
+              showCaptions: true,
+              linkImagesToOriginal: false
+            },
+          },
+          `gatsby-remark-embed-video`,
+          {
+            resolve: `gatsby-remark-responsive-iframe`,
+            options: {
+              wrapperStyle: `margin-bottom: 1.5rem`,
+            },
+          },
+          `gatsby-remark-copy-linked-files`,
+          `gatsby-remark-smartypants`,
+          {
+            resolve: `gatsby-remark-autolink-headers`,
+            options: {
+              offsetY: 90 // header collapsed height + 30px
+            }
+          },
+        ],
+      },
+    },
+    `gatsby-source-instance-name-for-remark`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-react-svg`,
@@ -52,49 +117,11 @@ module.exports = {
         icon: `static/images/motoviaggiatori_icon.png`, // This path is relative to the root of the site.
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.app/offline
-    // 'gatsby-plugin-offline',
-    // In your gatsby-config.js
-
-    /*
-    * Gatsby's data processing layer begins with “source”
-    * plugins. Here the site sources its data from Wordpress.
-    */
-
     {
       resolve: `gatsby-source-instagram-all`,
       options: {
         access_token: process.env.INSTAGRAM_ACCESS_TOKEN
       }
-    },
-    {
-      resolve: "gatsby-source-wordpress",
-      options: {
-        baseUrl: "edit.motoviaggiatori.it",
-        protocol: "https",
-        hostingWPCOM: false,
-        useACF: true,
-        acfOptionPageIds: [],
-        auth: {
-        },
-        verboseOutput: false,
-        perPage: 100,
-        concurrentRequests: 10,
-        includedRoutes: [
-          "/*/*/categories",
-          "/*/*/posts",
-          "/*/*/pages",
-          "/*/*/media",
-          "/*/*/tags",
-          "/*/*/taxonomies",
-          "/*/*/users",
-        ],
-        auth: {
-          htaccess_user: process.env.HTACCESS_USER,
-          htaccess_pass: process.env.HTACCESS_PASS,
-        }
-      },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -115,65 +142,61 @@ module.exports = {
                 siteUrl
                 site_url: siteUrl
                 image_url
-                language
               }
             }
           }
         `,
         feeds: [
           {
-            serialize: ({ query: { allWordpressPost } }) => {
-              return allWordpressPost.edges.map(({ node }) => {
-                return {
-                  title: he.decode(node.title),
-                  description: he.decode(stripHtml(node.excerpt)),
-                  date: node.date,
-                  author: node.author.name,
-                  url: `${siteUrl}/${node.slug}`,
-                  guid: `${siteUrl}/${node.slug}`,
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.edges.map(edge => {
+                return Object.assign({}, edge.node.frontmatter, {
+                  description: edge.node.frontmatter.excerpt,
+                  date: edge.node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + edge.node.frontmatter.slug,
+                  guid: site.siteMetadata.siteUrl + edge.node.frontmatter.slug,
+                  custom_elements: [],
                   enclosure: {
-                    url: siteUrl + node.featured_media.localFile.childImageSharp.fixed.src,
-                    title: node.featured_media.title,
+                    url: site.siteMetadata.siteUrl + edge.node.frontmatter.featured_image.publicURL,
+                    type: mime.getType(edge.node.frontmatter.featured_image.ext)
                   }
-                }
+                })
               })
             },
             query: `
               {
-                allWordpressPost {
+                allMarkdownRemark(
+                  limit: 10000
+                  filter: { fields: { sourceInstanceName:{ eq: "post" } } }
+                  sort: { fields: [frontmatter___date], order: DESC }
+                ) {
                   edges {
                     node {
-                      title
-                      slug
-                      date
-                      excerpt
-                      featured_media {
-                        localFile {
-                          childImageSharp {
-                            fixed(
-                              width: 256,
-                              height: 256,
-                              cropFocus: CENTER
-                            ) {
-                              src
-                            }
-                          }
-                        }
+                      frontmatter {
+                        slug
                         title
-                      }
-                      author {
-                        name
+                        excerpt
+                        date
+                        featured_image {
+                          publicURL
+                          ext
+                        }
                       }
                     }
                   }
                 }
               }
             `,
-            output: `/rss.xml`,
-            title: `Feed RSS MotoViaggiatori`,
+            output: "/rss.xml",
+            title: "MotoViaggiatori",
           },
-        ],
+        ]
       }
     }
   ],
+  mapping: {
+    'MarkdownRemark.frontmatter.author': `MarkdownRemark.frontmatter.slug`,
+    'MarkdownRemark.frontmatter.categories': `MarkdownRemark.frontmatter.slug`,
+    'MarkdownRemark.frontmatter.tags': `MarkdownRemark.frontmatter.slug`,
+  },
 }
