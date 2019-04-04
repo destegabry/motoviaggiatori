@@ -10,7 +10,7 @@
     "color": "^3.1.0",
     "debounce": "^1.2.0",
     "emotion": "^10.0.9",
-    "gatsby": "^2.3.7",
+    "gatsby": "^2.3.11",
     "gatsby-cli": "^2.5.4",
     "gatsby-image": "^2.0.37",
     "gatsby-plugin-emotion": "^4.0.6",
