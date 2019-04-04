@@ -1,4 +1,5 @@
 require('dotenv').config();
+const mime = require('mime');
 
 const name = `MotoViaggiatori`;
 const title = name;
@@ -15,8 +16,7 @@ module.exports = {
     version,
     description,
     title,
-    site_url: siteUrl,
-    image_url: `https://motoviaggiatori.it/images/motoviaggiatori_icon_small.png`,
+    image_url: `https://motoviaggiatori.it/images/static/motoviaggiatori_icon_small.png`,
     language
   },
   plugins: [
@@ -130,7 +130,69 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    // `gatsby-plugin-feed`
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+                image_url
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.edges.map(edge => {
+                return Object.assign({}, edge.node.frontmatter, {
+                  description: edge.node.frontmatter.excerpt,
+                  date: edge.node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + edge.node.frontmatter.slug,
+                  guid: site.siteMetadata.siteUrl + edge.node.frontmatter.slug,
+                  custom_elements: [],
+                  enclosure: {
+                    url: site.siteMetadata.siteUrl + edge.node.frontmatter.featured_image.publicURL,
+                    type: mime.getType(edge.node.frontmatter.featured_image.ext)
+                  }
+                })
+              })
+            },
+            query: `
+              {
+                allMarkdownRemark(
+                  limit: 10000
+                  filter: { fields: { sourceInstanceName:{ eq: "post" } } }
+                  sort: { fields: [frontmatter___date], order: DESC }
+                ) {
+                  edges {
+                    node {
+                      frontmatter {
+                        slug
+                        title
+                        excerpt
+                        date
+                        featured_image {
+                          publicURL
+                          ext
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss.xml",
+            title: "MotoViaggiatori",
+          },
+        ]
+      }
+    }
   ],
   mapping: {
     'MarkdownRemark.frontmatter.author': `MarkdownRemark.frontmatter.slug`,
