@@ -163,7 +163,7 @@ Seguiamo a lungo il percorso del fiume Todra sulla R703, superiamo diversi passi
 ![Bucato Marocco](./galleries/9/GAB3474.jpg "Il bucato in Marocco asciuga MOLTO in fretta")
 ![Riding Gorges du Todra](./galleries/9/GAB3477.jpg "Percorrendo il fondo delle Gorges du Todra")
 ![BMW R 1200 GS Gorges du Todra](./galleries/9/GAB3483.jpg "Le nostre BMW R 1200 GS incastonate nel punto più profondo delle Gorges du Todra")
-![Curve camion Gorges du Todra](./galleries/1/YDXJ0150.jpg "Curve e camion nelle affascinanti Gorges du Todra")
+![Curve camion Gorges du Todra](./galleries/9/YDXJ0150.jpg "Curve e camion nelle affascinanti Gorges du Todra")
 ![Dromedari berberi](./galleries/9/GAB3517.jpg "Famiglia di berberi nomado in viaggio con i dromedari")
 ![Mucca, berberi e dromedari](./galleries/9/GAB3508.jpg "Mucca, berberi e dromedari")
 ![Pastore berbero a 2700 metri](./galleries/9/GAB3524.jpg "Pastore berbero incontrato a 2700 metri")
