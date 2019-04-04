@@ -37,6 +37,19 @@ export const pageQuery = graphql`
       excerpt
       frontmatter {
         name
+        website
+        facebook {
+          name
+          url
+        }
+        instagram {
+          name
+          url
+        }
+        youtube {
+          name
+          url
+        }
         avatar {
           publicURL
           childImageSharp {

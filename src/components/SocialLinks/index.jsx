@@ -6,6 +6,8 @@ import styled from '@emotion/styled'
 import Facebook from './facebook.svg'
 import Instagram from './instagram.svg'
 import Email from './gmail.svg'
+import Youtube from './youtube.svg'
+import Website from './website.svg'
 
 const Wrapper = styled.div`
   display: flex;
@@ -39,6 +41,14 @@ const facebookStyle = css`
   }
 `
 
+const youtubeStyle = css`
+  background: #D14836;
+
+  svg {
+    margin: 10%;
+  }
+`
+
 const mailStyle = css`
   background: #D14836;
 
@@ -56,24 +66,6 @@ const SocialLinks = ({size, hideMail}) => {
 
   return (
     <Wrapper className="social-links">
-      <Link
-        href="https://instagram.com/motoviaggiatori"
-        title="Instagram"
-        style={iconStyle}
-        css={instagramStyle}
-        className="instagram"
-      >
-        <Instagram />
-      </Link>
-      <Link
-        href="https://facebook.com/motoviaggiatori"
-        title="Facebook"
-        style={iconStyle}
-        css={facebookStyle}
-        className="facebook"
-      >
-        <Facebook />
-      </Link>
       { hideMail ? null :
         <Link
           href="mailto:info@motoviaggiatori.it"
@@ -85,6 +77,33 @@ const SocialLinks = ({size, hideMail}) => {
           <Email />
         </Link>
       }
+      <Link
+        href="https://facebook.com/motoviaggiatori"
+        title="Facebook"
+        style={iconStyle}
+        css={facebookStyle}
+        className="facebook"
+      >
+        <Facebook />
+      </Link>
+      <Link
+        href="https://instagram.com/motoviaggiatori"
+        title="Instagram"
+        style={iconStyle}
+        css={instagramStyle}
+        className="instagram"
+      >
+        <Instagram />
+      </Link>
+      <Link
+        href="https://www.youtube.com/channel/UCTa8R7tJ7GDWTVKh0CF9w2w"
+        title="YouTube"
+        style={iconStyle}
+        css={youtubeStyle}
+        className="youtube"
+      >
+        <Youtube />
+      </Link>
     </Wrapper>
   )
 }
@@ -102,7 +121,9 @@ SocialLinks.defaultProps = {
 export {
   Facebook,
   Instagram,
-  Email
+  Email,
+  Youtube,
+  Website
 }
 
 export default SocialLinks;

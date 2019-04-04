@@ -3,9 +3,17 @@ import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 import styled from '@emotion/styled'
+import { css } from '@emotion/core'
 
-import getAuthorUrl from '../utils/getAuthorUrl';
+import getAuthorUrl from '../utils/getAuthorUrl'
+import {palette} from '../utils/colors'
 import ResponsiveFlexBox from '../components/ResponsiveFlexBox'
+import {
+  Instagram,
+  Facebook,
+  Website,
+  Youtube
+} from '../components/SocialLinks'
 import {
   SMALL_SCREEN_ONLY,
   MEDIUM_SCREEN_UP
@@ -22,13 +30,30 @@ const ImgWrapper = styled.div`
   }
 `;
 
+const LinkWrapper = styled.div`
+  margin-top: .5rem;
+
+  a:hover {
+    box-shadow: none;
+  }
+`;
+
+const socialIcon = css`
+  width: 1rem;
+  margin-right: .5rem;
+  fill: ${palette.secondary.dark};
+`;
+
 
 function AuthorBox({ author, showProfileLink }) {
   const {
     name,
     slug,
     avatar,
-    website
+    website,
+    instagram,
+    facebook,
+    youtube
   } = author.frontmatter;
 
   return (
@@ -45,21 +70,61 @@ function AuthorBox({ author, showProfileLink }) {
         <h1>{ name }</h1>
         <div dangerouslySetInnerHTML={{ __html: author.html }} />
         { !website ? null :
-          <p>
+          <LinkWrapper>
             <a
               href={website}
               target="_blank"
               rel="noopener noreferrer"
+              title="Sito web"
             >
+              <Website css={socialIcon} />
               { website }
             </a>
-          </p>
+          </LinkWrapper>
+        }
+        { !facebook || !facebook.url ? null :
+          <LinkWrapper>
+            <a
+              href={facebook.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Facebook"
+            >
+              <Facebook css={socialIcon} />
+              { facebook.name }
+            </a>
+          </LinkWrapper>
+        }
+        { !instagram || !instagram.url ? null :
+          <LinkWrapper>
+            <a
+              href={instagram.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Instagram"
+            >
+              <Instagram css={socialIcon} />
+              { instagram.name }
+            </a>
+          </LinkWrapper>
+        }
+        { !youtube || !youtube.url ? null :
+          <LinkWrapper>
+            <a
+              href={youtube.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="YouTube"
+            >
+              <Youtube css={socialIcon} />
+              { youtube.name }
+            </a>
+          </LinkWrapper>
         }
         { !showProfileLink || !slug ? null :
           <p>
             <Link
               to={getAuthorUrl(slug)}
-              title={name}
             >
               Tutti i post di {name}
             </Link>

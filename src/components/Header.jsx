@@ -247,11 +247,15 @@ const HeaderElement = styled.header`
     }
 
     .instagram > svg {
-      margin: 1px;
+      margin: 2px;
     }
 
     .facebook > svg {
       margin: -2px 0 0;
+    }
+
+    .youtube > svg {
+      margin: 1px;
     }
   }
 `;
