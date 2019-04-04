@@ -52,12 +52,13 @@ export const pageQuery = graphql`
             title
             date
             excerpt
+            featured_youtube
             featured_image {
               publicURL
               childImageSharp {
                 wide: fluid(
-                  maxWidth: 600,
-                  maxHeight: 350,
+                  maxWidth: 480,
+                  maxHeight: 270,
                   cropFocus: CENTER
                 ) {
                   src

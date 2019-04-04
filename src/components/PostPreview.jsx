@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import { css } from '@emotion/core';
 import Img from 'gatsby-image'
+import YouTube from 'react-youtube-embed'
 
 import PostMeta from './PostMeta'
 
@@ -30,10 +31,16 @@ const FeaturedMedia = ({post, version}) => {
     return null;
   }
   return (
-    <Img
-      fluid={post.frontmatter.featured_image.childImageSharp[version]}
-      alt={post.frontmatter.title}
-    />
+    <Link
+      to={post.frontmatter.slug}
+      title={post.frontmatter.title}
+      itemProp="url"
+    >
+      <Img
+        fluid={post.frontmatter.featured_image.childImageSharp[version]}
+        alt={post.frontmatter.title}
+      />
+    </Link>
   );
 };
 
@@ -53,13 +60,10 @@ const PostPreview = props => {
   return (
     <article css={postPreviewStyle} className={className} itemScope itemType="http://schema.org/Article">
       <div className="featured-media">
-        <Link
-          to={frontmatter.slug}
-          title={frontmatter.title}
-          itemProp="url"
-        >
+        { frontmatter.featured_youtube && featuredImage === 'wide' ?
+          <YouTube id={ frontmatter.featured_youtube } /> :
           <FeaturedMedia post={post} version={featuredImage} />
-        </Link>
+        }
       </div>
       <div className="post-info">
         <Link
