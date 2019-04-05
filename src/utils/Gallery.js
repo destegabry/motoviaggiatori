@@ -1,4 +1,4 @@
-import imagesLoaded from 'imagesloaded'
+// import imagesLoaded from 'imagesloaded'
 import { debounce } from 'debounce'
 import { css } from 'emotion'
 
@@ -50,7 +50,7 @@ class Gallery {
   constructor(container, rowRatio) {
     this.container = container;
     // wait until all images are loaded to avoid sizing issues
-    imagesLoaded(this.container, () => {
+    // imagesLoaded(this.container, () => {
       const items = this.container.querySelectorAll('figure');
       const rows = [];
       this.items = [];
@@ -78,7 +78,7 @@ class Gallery {
       // listen for window resize to trigger gallery redraws
       this.debouncedResize = debounce(() => this.draw(), 100).bind(this);
       window.addEventListener('resize', this.debouncedResize);
-    });
+    // });
   }
 
   destroy() {

@@ -6,7 +6,7 @@ const title = name;
 const description = `Due ruote, infinite emozioni`;
 const language = `it`;
 const colors = require('./src/utils/colors');
-const siteUrl = `https://motoviaggiatori.it`;
+const siteUrl = `https://dbkw3cz129vwg.cloudfront.net`;
 const {version} = require('./package.json');
 
 module.exports = {
@@ -16,7 +16,7 @@ module.exports = {
     version,
     description,
     title,
-    image_url: `https://motoviaggiatori.it/images/static/motoviaggiatori_icon_small.png`,
+    image_url: `${siteUrl}/images/static/motoviaggiatori_icon_small.png`,
     language
   },
   plugins: [
@@ -192,7 +192,15 @@ module.exports = {
           },
         ]
       }
-    }
+    },
+    {
+      resolve: `gatsby-plugin-s3`,
+      options: {
+        bucketName: `motoviaggiatori`,
+        protocol: `https`,
+        hostname: siteUrl,
+      },
+    },
   ],
   mapping: {
     'MarkdownRemark.frontmatter.author': `MarkdownRemark.frontmatter.slug`,

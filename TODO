@@ -1,0 +1,2 @@
+- Traced SVG for all images (not only inside post content)
+- Start gallery evene if images are not loaded (test it in slow 3G)
