@@ -1,6 +1,6 @@
 # MotoViaggiatori
 
-[Gatsby](https://www.gatsbyjs.org/) + [Wordpress](https://wordpress.org) powered blog.
+[Gatsby](https://www.gatsbyjs.org/) powered blog. Content is stored as Markdown + Frontmatter files.
 
 ## Install
 
