@@ -300,71 +300,7 @@ export default PageTemplate
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
     markdownRemark(frontmatter: { slug: { eq: $slug } }) {
-      html
-      tableOfContents(
-        pathToSlugField: "frontmatter.slug"
-        maxDepth: 2
-      )
-      frontmatter {
-        title
-        date
-        excerpt
-        opening
-        attributes {
-          key
-          value
-        }
-        categories {
-          frontmatter {
-            slug
-            name
-          }
-        }
-        tags {
-          frontmatter {
-            slug
-            name
-          }
-        }
-        author {
-          html
-          frontmatter {
-            name
-            slug
-            avatar {
-              publicURL
-              childImageSharp {
-                fluid(
-                  maxWidth: 300,
-                  maxHeight: 300,
-                  cropFocus: CENTER
-                ) {
-                  src
-                  srcSet
-                  aspectRatio
-                  sizes
-                }
-              }
-            }
-          }
-        }
-        featured_youtube
-        featured_image {
-          publicURL
-          childImageSharp {
-            fluid(
-              maxWidth: 1240,
-              maxHeight: 620,
-              cropFocus: CENTER
-            ) {
-              src
-              srcSet
-              aspectRatio
-              sizes
-            }
-          }
-        }
-      }
+      ...PostData
     }
   }
 `

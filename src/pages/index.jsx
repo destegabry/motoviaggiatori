@@ -8,8 +8,7 @@ import {
   MEDIUM_SCREEN_DOWN,
   MEDIUM_SCREEN_ONLY,
   MEDIUM_SCREEN_UP,
-} from '../utils/breakpoints';
-
+} from '../utils/breakpoints'
 import Layout from '../components/Layout'
 import Card from '../components/Card'
 import SEO from '../components/seo'
@@ -160,51 +159,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          frontmatter {
-            title
-            slug
-            date
-            modified
-            author {
-              frontmatter {
-                name
-                slug
-              }
-            }
-            excerpt
-            categories {
-              frontmatter {
-                name
-                slug
-              }
-            }
-            featured_youtube
-            featured_image {
-              publicURL
-              childImageSharp {
-                wide: fluid(
-                  maxWidth: 480,
-                  maxHeight: 270,
-                  cropFocus: CENTER
-                ) {
-                  src
-                  srcSet
-                  aspectRatio
-                  sizes
-                },
-                square: fluid(
-                  maxWidth: 80,
-                  maxHeight: 80,
-                  cropFocus: CENTER
-                ) {
-                  src
-                  srcSet
-                  aspectRatio
-                  sizes
-                }
-              }
-            }
-          }
+          ...PostPreviewData
         }
       }
     }
