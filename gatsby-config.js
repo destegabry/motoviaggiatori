@@ -6,7 +6,7 @@ const title = name;
 const description = `Due ruote, infinite emozioni`;
 const language = `it`;
 const colors = require('./src/utils/colors');
-const siteUrl = `https://dbkw3cz129vwg.cloudfront.net`;
+const siteUrl = `https://github.motoviaggiatori.it`;
 const {version} = require('./package.json');
 
 module.exports = {
@@ -192,14 +192,6 @@ module.exports = {
           },
         ]
       }
-    },
-    {
-      resolve: `gatsby-plugin-s3`,
-      options: {
-        bucketName: `motoviaggiatori`,
-        protocol: `https`,
-        hostname: siteUrl,
-      },
     },
   ],
   mapping: {
