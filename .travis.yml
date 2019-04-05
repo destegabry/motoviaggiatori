@@ -12,10 +12,11 @@ deploy:
   keep-history: true
   on:
     branch: master
-before_script:
+before_install:
   - "npm i -g gatsby"
+install:
   - "npm i"
 script:
   - "npm run build"
-after_success:
+deploy:
   - "npm run deploy"
