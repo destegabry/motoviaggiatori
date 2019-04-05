@@ -3,8 +3,8 @@ import { graphql } from 'gatsby'
 export const thumbnailWide = graphql`
   fragment ThumbnailWide on ImageSharp {
     wide: fluid(
-      maxWidth: 480,
-      maxHeight: 270,
+      maxWidth: 640,
+      maxHeight: 360,
       cropFocus: CENTER
     ) {
       src
