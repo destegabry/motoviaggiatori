@@ -17,8 +17,6 @@ const cardCss = css`
 
 const sponsorsCss = css`
   color: ${Color(palette.primary.contrast).alpha(.65).string()};
-  flex-flow: row wrap;
-  justify-content: space-around;
   margin: 0 auto 1rem;
 
   ${SMALL_SCREEN_ONLY} {
@@ -35,9 +33,10 @@ const sponsorsCss = css`
   }
 
   a {
+    flex: 1 0 20%;
     display: block;
-    margin: .5rem 0;
     padding: 1rem;
+    max-width: 150px;
 
     ${SMALL_SCREEN_ONLY} {
       flex: 1 0 45%;

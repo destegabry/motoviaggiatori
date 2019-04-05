@@ -83,19 +83,8 @@ const logoCss = css`
 `;
 
 const sponsorsCss = css`
-  ${MEDIUM_SCREEN_UP} {
-    display: flex;
-    flex-flow: row wrap;
-    align-items: center;
-    justify-content: space-between;
-
-    h4 {
-      flex: 1 0 100%;
-    }
-
-    > a {
-      flex: 0 1 48%;
-    }
+  h4 {
+    flex: 1 0 100%;
   }
 `;
 
