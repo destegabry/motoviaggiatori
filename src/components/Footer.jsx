@@ -7,8 +7,7 @@ import Color from 'color'
 import { useSiteMetadata } from '../hooks/use-site-metadata'
 import { useAllPosts } from '../hooks/use-all-posts'
 import {
-  SMALL_SCREEN_ONLY,
-  MEDIUM_SCREEN_UP
+  SMALL_SCREEN_ONLY
 } from '../utils/breakpoints'
 import headerFooterStyle from '../utils/headerFooterStyle'
 import colors from '../utils/colors'
