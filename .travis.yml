@@ -9,6 +9,7 @@ cache:
   - node_modules
 deploy:
   provider: pages
+  fqdn: motoviaggiatori.it
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   local_dir: public
