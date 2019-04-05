@@ -138,6 +138,7 @@ const HeaderElement = styled.header`
 
   .header-wrapper {
     ${headerFooterStyle}
+    box-shadow: ${Color(palette.primary.main).darken(.6).string()} 0 0 .5rem;
     position: fixed;
     top: 0;
     left: 0;
