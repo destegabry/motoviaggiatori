@@ -31,7 +31,7 @@ const ImgWrapper = styled.div`
 `;
 
 const LinkWrapper = styled.div`
-  margin-top: .5rem;
+  margin-bottom: .5rem;
 
   a:hover {
     box-shadow: none;

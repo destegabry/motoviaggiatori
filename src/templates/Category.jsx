@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { graphql } from 'gatsby'
+
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import Card from '../components/Card'
@@ -47,40 +48,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          frontmatter {
-            slug
-            title
-            date
-            excerpt
-            featured_youtube
-            featured_image {
-              publicURL
-              childImageSharp {
-                wide: fluid(
-                  maxWidth: 480,
-                  maxHeight: 270,
-                  cropFocus: CENTER
-                ) {
-                  src
-                  srcSet
-                  aspectRatio
-                  sizes
-                }
-              }
-            }
-            author {
-              frontmatter {
-                slug
-                name
-              }
-            }
-            categories {
-              frontmatter {
-                slug
-                name
-              }
-            }
-          }
+          ...PostPreviewData
         }
       }
     }

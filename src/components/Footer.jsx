@@ -7,8 +7,7 @@ import Color from 'color'
 import { useSiteMetadata } from '../hooks/use-site-metadata'
 import { useAllPosts } from '../hooks/use-all-posts'
 import {
-  SMALL_SCREEN_ONLY,
-  MEDIUM_SCREEN_UP
+  SMALL_SCREEN_ONLY
 } from '../utils/breakpoints'
 import headerFooterStyle from '../utils/headerFooterStyle'
 import colors from '../utils/colors'
@@ -83,19 +82,8 @@ const logoCss = css`
 `;
 
 const sponsorsCss = css`
-  ${MEDIUM_SCREEN_UP} {
-    display: flex;
-    flex-flow: row wrap;
-    align-items: center;
-    justify-content: space-between;
-
-    h4 {
-      flex: 1 0 100%;
-    }
-
-    > a {
-      flex: 0 1 48%;
-    }
+  h4 {
+    flex: 1 0 100%;
   }
 `;
 

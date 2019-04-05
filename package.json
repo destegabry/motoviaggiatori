@@ -2,7 +2,7 @@
   "name": "motoviaggiatori",
   "private": true,
   "description": "Gatsby + Frontmatter powered blog MotoViaggiatori.it",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "Gabriele Destefanis <g.destefanis@topsolution.it>",
   "dependencies": {
     "@emotion/core": "^10.0.10",
@@ -59,12 +59,13 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "clear-cache": "rm -Rf .cache",
-    "deploy": "rsync -rtv public/ motoviaggiatori.it:/var/www/motoviaggiatori.it/",
+    "deploy": "gh-pages -d public",
     "format": "prettier --write \"src/**/*.js\"",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "devDependencies": {
-    "eslint-plugin-graphql": "^3.0.3"
+    "eslint-plugin-graphql": "^3.0.3",
+    "gh-pages": "^2.0.1"
   },
   "repository": {
     "type": "git",

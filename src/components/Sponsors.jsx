@@ -73,15 +73,17 @@ const Sponsors = (props) => (
     css={css`
       display: flex;
       align-items: center;
-      flex-direction: column;
+      flex-flow: row wrap;
+      justify-content: space-around;
       text-align: center;
 
       a {
         max-width: 120px;
+        padding: .5rem;
 
         > img,
         > svg {
-          margin: 5px 0;
+          margin: 0;
         }
 
         > svg {

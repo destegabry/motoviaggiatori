@@ -5,7 +5,6 @@ import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import Card from '../components/Card'
 import PagedPosts from '../components/PagedPosts'
-
 import AuthorBox from '../components/AuthorBox';
 
 class AuthorTemplate extends Component {
@@ -33,10 +32,8 @@ export default AuthorTemplate
 export const pageQuery = graphql`
   query AuthorBySlug($slug: String!) {
     markdownRemark(frontmatter: {slug: {eq: $slug}}) {
-      html
-      excerpt
+      ...AuthorData
       frontmatter {
-        name
         website
         facebook {
           name
@@ -49,21 +46,6 @@ export const pageQuery = graphql`
         youtube {
           name
           url
-        }
-        avatar {
-          publicURL
-          childImageSharp {
-            fluid(
-              maxWidth: 300,
-              maxHeight: 300,
-              cropFocus: CENTER
-            ) {
-              src
-              srcSet
-              aspectRatio
-              sizes
-            }
-          }
         }
       }
     }
@@ -79,40 +61,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          frontmatter {
-            slug
-            title
-            date
-            excerpt
-            featured_youtube
-            featured_image {
-              publicURL
-              childImageSharp {
-                wide: fluid(
-                  maxWidth: 480,
-                  maxHeight: 270,
-                  cropFocus: CENTER
-                ) {
-                  src
-                  srcSet
-                  aspectRatio
-                  sizes
-                }
-              }
-            }
-            categories {
-              frontmatter {
-                name
-                slug
-              }
-            }
-            author {
-              frontmatter {
-                name
-                slug
-              }
-            }
-          }
+          ...PostPreviewData
         }
       }
     }

@@ -1,4 +1,3 @@
-import imagesLoaded from 'imagesloaded'
 import { debounce } from 'debounce'
 import { css } from 'emotion'
 
@@ -49,36 +48,33 @@ const galleryCSS = css`
 class Gallery {
   constructor(container, rowRatio) {
     this.container = container;
-    // wait until all images are loaded to avoid sizing issues
-    imagesLoaded(this.container, () => {
-      const items = this.container.querySelectorAll('figure');
-      const rows = [];
-      this.items = [];
-      let prevRowItem;
-      items.forEach((element, index) => {
-        const { width, height } = element.querySelector('img');
-        const ratio = width / height;
-        if (rows.length === 0 || Math.round(rows[rows.length - 1].ratio + ratio) > rowRatio) {
-          rows.push({ items: [], ratio: 0 });
-          prevRowItem = null;
-        }
-        const row = rows[rows.length - 1];
-        const item = {element, width, height, ratio, prevRowItem}
-        row.items.push(item);
-        this.items.push(item);
-        prevRowItem = item;
-        row.ratio += ratio;
-        element.addEventListener('click', () => {
-          new GalleryLightbox(this, index);
-        });
+    const items = this.container.querySelectorAll('figure');
+    const rows = [];
+    this.items = [];
+    let prevRowItem;
+    items.forEach((element, index) => {
+      const { width, height } = element.querySelector('img');
+      const ratio = width / height;
+      if (rows.length === 0 || Math.round(rows[rows.length - 1].ratio + ratio) > rowRatio) {
+        rows.push({ items: [], ratio: 0 });
+        prevRowItem = null;
+      }
+      const row = rows[rows.length - 1];
+      const item = {element, width, height, ratio, prevRowItem}
+      row.items.push(item);
+      this.items.push(item);
+      prevRowItem = item;
+      row.ratio += ratio;
+      element.addEventListener('click', () => {
+        new GalleryLightbox(this, index);
       });
-      this.rows = rows;
-
-      this.draw();
-      // listen for window resize to trigger gallery redraws
-      this.debouncedResize = debounce(() => this.draw(), 100).bind(this);
-      window.addEventListener('resize', this.debouncedResize);
     });
+    this.rows = rows;
+
+    this.draw();
+    // listen for window resize to trigger gallery redraws
+    this.debouncedResize = debounce(() => this.draw(), 100).bind(this);
+    window.addEventListener('resize', this.debouncedResize);
   }
 
   destroy() {
