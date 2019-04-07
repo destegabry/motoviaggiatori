@@ -13,7 +13,7 @@ import {
 function InstagramPost({ post }) {
   return (
     <a
-      href={`https://www.instagram.com/p/${post.id}`}
+      href={post.link}
       title={post.caption.text}
       target="_blank"
       rel="noopener noreferrer"
@@ -73,6 +73,7 @@ function InstagramFeedContainer({ limit, size }) {
         edges {
           node {
             id
+            link
             created_time
             caption {
               text
