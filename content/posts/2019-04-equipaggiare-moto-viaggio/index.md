@@ -65,32 +65,11 @@ Nota di demerito per la borsa da serbatoio originale [BMW R1200GS](/tag/bmw-r120
 ![GIVI EA118 cinghia](./galleries/serbatoio/DSC00989.jpeg "La cinghia per il trasporto a tracolla è pensata per essere legata al manubrio come ulteriore sicurezza")
 ![GIVI EA118 cartina](./galleries/serbatoio/DSC00964.jpeg "Sul dorso della borsa c'è una pratica tasca per la carta stradale")
 
-## Comfort e sicurezza
-
-Dato che mi piace macinare migliaia di chilometri in sella alla moto, preferisco *investire* in comfort e sicurezza di guida piuttosto che nell'aumento delle prestazioni e del rumore.
-
-Il cupolino alto (che piaccia o no) permette di rilassarsi parecchio quando si viaggia a velocità sostenute, alleggerendo il carico sulla muscolatura cervicale e riducendo il rumore causato dalla turbolenza. Sulla mia maxi-enduro ho montato un [cupolino maggiorato WRS](https://www.wrs.it/it/400-prodotti-wrs-cupolini), realizzato in Italia utilizzando plexiglass di alta qualità.
-
-In molti consigliano l'utilizzo di tappi auricolari, ho provato gli [Alpine MotoSafe Pro](https://amzn.to/2UCkKSR) (riducono il rumore del vento lasciando passare la voce dell'interfono) ma a lungo andare li trovo fastidiosi.
-
-Con la [S.M.A.R.T. IAT di Belinassu](http://www.belinassu.it) sono migliorati molto fluidità e tiro della mia [maxi-bicilindrica](/2018/12/bmw-r1200gs-2008-recensione-fuori-tempo-massimo) ai bassi regimi, ritrovandomi spesso ad utilizzare un rapporto più lungo di quanto facessi prima di averla. Si monta facilmente e l'intervento è reversibile, va segnalato che si perde un po' di freno motore.
-
-Ho sostituito le pastiglie dei freni originali con le [Brembo mescola LA](http://mqmoto.it/brembo-pastiglie-mescola-sinterizzata-la/), che promettono una resa chilometrica molto alta e prestazioni di assoluto rispetto già alle basse temperature. Devo ammettere che la potenza frenante è davvero alta in tutte le condizioni e mi sono bastate poche *pinzate* per rodarle a dovere. Per avere conferma sulla durata dovrete darmi il tempo di utilizzarle un po'!
-
-Sostituendo le molle dei miei ammortizzatori con le [Hyperpro](https://hyperpro.com/about-us/) ho cambiato radicalmente il comportamento della moto in strada. Il coefficiente elastico di queste molle aumenta proporzionalmente al carico che viene applicato su di esse, ovvero: più la molla si comprime, più diventa dura da comprimere. Grazie a questo effetto la moto diventa più stabile in curva ed in frenata, senza perdere in comfort sulle piccole asperità. Provare per credere, [fino al 30 aprile 2018 puoi ricevere uno sconto del 10%](https://www.facebook.com/motoviaggiatori/posts/1523802234427770) grazie al distributore italiano [Rinolfi](https://www.rinolfi.it/hyperpro-lista-applicazioni).
-
-Spesso i chilometri da percorrere sono tanti ed il tempo a disposizione è limitato, l'autostrada diventa una scelta obbligata: per evitare di passare ore con la mano destra in tensione nella stessa posizione vale la pena montare un [semplice ed economico riposa polso](https://amzn.to/2WVOJTp).
-
-![Cupolino WRS Touring](./galleries/accessori/IMG_2805.jpg "Cupolino maggiorato WRS Touring")
-![Brembo mescola LA](./galleries/accessori/DSC00862.JPG "Pastiglie Brembo in mescola LA")
-![Molle progressive Hyperpro](./galleries/accessori/IMG_2843.jpg "Le molle Hyperpro (oltre ad essere progressive) sono decisamente viola!")
-![Montaggio SMART IAT](../2019-02-col-del-lis-e-dintorni-di-lanzo-in-moto/galleries/51616429_1514076425400351_9146450744541446144_o.jpg "Montaggio S.M.A.R.T. IAT direttamente sul campo")
-
 ## Navigazione, comunicazione e documentazione
 
 Perdersi è un buon modo per scoprire posti belli e autentici, ma non sempre è auspicabile. Il mercato mette a disposizione del motociclista moderno navigatori GPS (i più gettonati sono [Garmin Zumo](https://amzn.to/2D3BU1J) e [TomTom Rider](https://amzn.to/2YXmCET)), però io preferisco avere sott'occhio la buona vecchia cartina cartacea per capire esattamente dove sono e cosa ho attorno. Seguire pedestremente le indicazioni di un navigatore toglie sapore all'avventura e non mi dà la possibilità di capire se con una breve deviazione posso raggiungere luoghi interessanti ma fuori programma.
 
-Questo non è un invito a rinunciare alla tecnologia (sono uno sviluppatore software), ma a risparmiare 400-500€ da investire in altro. Al giorno d'occhi chi è che non possiede uno smartphone che potrebbe benissimo assolvere allo scopo? All'uso della cartina affianco l'app OsmAnd (disponibile per smartphone [iOS](https://itunes.apple.com/app/apple-store/id934850257) e [Android](https://play.google.com/store/apps/details?id=net.osmand)) che permette di scaricare le mappe sul telefono e risparmiare sul consumo di dati.
+Questo non è un invito a rinunciare alla tecnologia (sono uno sviluppatore software), ma a risparmiare 400-500€ da investire in altro. Al giorno d'oggi chi è che non possiede uno smartphone che potrebbe benissimo assolvere allo scopo? Alla cartina affianco l'app OsmAnd (disponibile per smartphone [iOS](https://itunes.apple.com/app/apple-store/id934850257) e [Android](https://play.google.com/store/apps/details?id=net.osmand)) che permette di scaricare le mappe sul telefono e risparmiare sul consumo di dati.
 
 Le carte stradali che preferisco sono le [Reise Know-How Landkarte](https://amzn.to/2uTbuet), nonostante siano plastificate ed impermeabili permettono di prendere appunti a matita e sono quasi indistruttibili.
 
@@ -123,13 +102,15 @@ Per le riprese video in 4K utilizzo sia la [Sony RX100M4](https://amzn.to/2KehkS
 
 Solitamente viaggio con i bagagli personali nella valigia laterale destra e nel bauletto, mentre la borsa sinistra viene usata per tenere tutta l'attrezzatura per affrontare gli imprevisti di un viaggio in moto.
 
-Il [kit pronto soccorso omologato](https://amzn.to/2YX4Hyd) per le moto andrebbe sempre portato con sè, soprattutto perché in alcuni Paesi è obbligatorio (assieme alle [bretelle rinfrangenti](https://amzn.to/2I8UpWM) da indossare anche durante la guida diurna).
+Il [kit pronto soccorso omologato](https://amzn.to/2YX4Hyd) per le moto andrebbe sempre portato con sè, soprattutto perché in alcuni Paesi è obbligatorio (assieme alle [bretelle rifrangenti](https://amzn.to/2I8UpWM) da indossare anche durante la guida diurna).
 
 Purtroppo una foratura può sempre capitare, un [kit per la riparazione pneumatici tubeless](https://amzn.to/2U1EYB6) può evitare la chiamata ad un carroattrezzi; se la moto utilizza le camere d'aria è meglio portarne un paio di scorta, assieme a [leve smontagomme](https://amzn.to/2IaTGEf) e [attrezzo universale per smontare la ruota anteriore](https://amzn.to/2uUokJo).
 
-Per rigonfiare la gomma sconsiglio le bombolette usa e getta (ovviamente perché sono monouso) ed il compressore 12V (pesa molto ed è ingombrante), mi trovo benissimo con una [mini pompa a pedale](https://amzn.to/2I8Tiq8) (completa di manometro), volendo esiste anche con [manometro digitale](https://amzn.to/2VzaDeS.
+Per rigonfiare la gomma sconsiglio le bombolette usa e getta (ovviamente perché sono monouso) ed il compressore 12V (pesa molto ed è ingombrante), mi trovo benissimo con una [mini pompa a pedale](https://amzn.to/2I8Tiq8) (completa di manometro analogico, volendo esiste anche con [manometro digitale](https://amzn.to/2VzaDeS)).
 
-Porto sempre con me anche un piccolo e leggero set di [cavi di avviamento moto](https://amzn.to/2VukbYA), in caso di batteria KO permetterà di raggiungere un'officina per la sostituzione.
+Porto sempre con me un piccolo e leggero set di [cavi avviamento moto](https://amzn.to/2VukbYA), in caso di batteria KO permette di raggiungere un'officina per la sostituzione. Dopo aver rischiato di rimanere a secco tra i Monti Apuseni in [Romania](/categoria/viaggi/romania) mi sono dotato anche di una [tanica di emergenza](https://amzn.to/2D2PvX2) da 2 litri montata direttamente sul retro della valigia laterale destra (e di un piccolo [imbuto pieghevole in silicone](https://amzn.to/2P324X5)).
+
+
 
 Ogni moto ha bisogno di chiavi specifiche, ma solitamente porto con me:
 * [pinza](https://amzn.to/2UFcYYv) o [coltello](https://amzn.to/2Kld2sh) multiuso
@@ -146,6 +127,27 @@ Ogni moto ha bisogno di chiavi specifiche, ma solitamente porto con me:
 ![Cavi avviamento moto](./galleries/attrezzatura/DSC01022.jpeg "Cavi per l'avviamento della moto in caso di batteria KO")
 ![Mini pompa a pedale](./galleries/attrezzatura/DSC01024.jpeg "Mini pompa a pedale con manometro")
 ![Pinza e attrezzo smonta ruota](./galleries/attrezzatura/DSC01028.jpeg "Pinza multiuso e attrezzo universale per ruote anteriori")
-![Tanica benzina e imbuto](./galleries/attrezzatura/DSC01026.jpeg "Tanica per la benzina di scorta (2 litri) e imbuto pieghevole in silicoone")
+![Tanica benzina e imbuto](./galleries/attrezzatura/DSC01026.jpeg "Tanica per la benzina di scorta (2 litri) e imbuto pieghevole in silicone")
+
+## Comfort e sicurezza
+
+Dato che mi piace macinare migliaia di chilometri in sella alla moto, preferisco *investire* in comfort e sicurezza di guida piuttosto che nell'aumento delle prestazioni e del rumore.
+
+Il cupolino alto (che piaccia o no) permette di rilassarsi parecchio quando si viaggia a velocità sostenute, alleggerendo il carico sulla muscolatura cervicale e riducendo il rumore causato dalla turbolenza. Sulla mia maxi-enduro ho montato un [cupolino maggiorato WRS](https://www.wrs.it/it/400-prodotti-wrs-cupolini), realizzato in Italia utilizzando plexiglass di alta qualità.
+
+In molti consigliano l'utilizzo di tappi auricolari, ho provato gli [Alpine MotoSafe Pro](https://amzn.to/2UCkKSR) (riducono il rumore del vento lasciando passare la voce dell'interfono) ma a lungo andare li trovo fastidiosi.
+
+Con la [S.M.A.R.T. IAT di Belinassu](http://www.belinassu.it) sono migliorati molto fluidità e tiro della mia [maxi-bicilindrica](/2018/12/bmw-r1200gs-2008-recensione-fuori-tempo-massimo) ai bassi regimi, ritrovandomi spesso ad utilizzare un rapporto più lungo di quanto facessi prima di averla. Si monta facilmente e l'intervento è reversibile, va segnalato che si perde un po' di freno motore.
+
+Ho sostituito le pastiglie dei freni originali con le [Brembo mescola LA](http://mqmoto.it/brembo-pastiglie-mescola-sinterizzata-la/), che promettono una resa chilometrica molto alta e prestazioni di assoluto rispetto già alle basse temperature. Devo ammettere che la potenza frenante è davvero alta in tutte le condizioni e mi sono bastate poche *pinzate* per rodarle a dovere. Per avere conferma sulla durata dovrete darmi il tempo di utilizzarle un po'!
+
+Sostituendo le molle dei miei ammortizzatori con le [Hyperpro](https://hyperpro.com/about-us/) ho cambiato radicalmente il comportamento della moto in strada. Il coefficiente elastico di queste molle aumenta proporzionalmente al carico che viene applicato su di esse, ovvero: più la molla si comprime, più diventa dura da comprimere. Grazie a questo effetto la moto diventa più stabile in curva ed in frenata, senza perdere in comfort sulle piccole asperità. Provare per credere, [fino al 30 aprile 2018 puoi ricevere uno sconto del 10%](https://www.facebook.com/motoviaggiatori/posts/1523802234427770) grazie al distributore italiano [Rinolfi](https://www.rinolfi.it/hyperpro-lista-applicazioni).
+
+Spesso i chilometri da percorrere sono tanti ed il tempo a disposizione è limitato, l'autostrada diventa una scelta obbligata: per evitare di passare ore con la mano destra in tensione nella stessa posizione vale la pena montare un [semplice ed economico riposa polso](https://amzn.to/2WVOJTp).
+
+![Cupolino WRS Touring](./galleries/accessori/IMG_2805.jpg "Cupolino maggiorato WRS Touring")
+![Brembo mescola LA](./galleries/accessori/DSC00862.JPG "Pastiglie Brembo in mescola LA")
+![Molle progressive Hyperpro](./galleries/accessori/IMG_2843.jpg "Le molle Hyperpro (oltre ad essere progressive) sono decisamente viola!")
+![Montaggio SMART IAT](../2019-02-col-del-lis-e-dintorni-di-lanzo-in-moto/galleries/51616429_1514076425400351_9146450744541446144_o.jpg "Montaggio S.M.A.R.T. IAT direttamente sul campo")
 
 Buon viaggio!
