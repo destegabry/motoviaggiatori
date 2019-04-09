@@ -7,6 +7,7 @@ export const useSiteMetadata = () => {
         site {
           siteMetadata {
             siteUrl,
+            repositoryUrl
             name,
             version,
             description,
