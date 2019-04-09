@@ -88,7 +88,7 @@ const sponsorsCss = css`
 `;
 
 const Footer = () => {
-  const { name, version, siteUrl } = useSiteMetadata();
+  const { name, version, siteUrl, repositoryUrl } = useSiteMetadata();
   const allPosts = useAllPosts();
 
   return (
@@ -124,11 +124,16 @@ const Footer = () => {
         <Wrapper css={{justifyContent: 'center'}}>
           <span>
             <span>©{new Date().getFullYear()}</span> <span itemProp="name">
-              {name}</span> | <span>v{version}
-            </span> | Powered by <a
+              {name}</span> | <a
+              href={repositoryUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              v{version}
+            </a> | Powered by <a
               href="https://www.topsolution.it"
               target="_blank"
-              rel="noopener noreferrer nofollow"
+              rel="noopener noreferrer"
             >
               Top Solution
             </a>

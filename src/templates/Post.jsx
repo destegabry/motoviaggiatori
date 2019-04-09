@@ -205,6 +205,8 @@ const RelatedPost = ({label, title, slug, ...otherProps}) => (
 )
 
 class PageTemplate extends Component {
+  galleries = [];
+
   componentDidMount() {
     const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 5;
     const rawFigures = document.querySelectorAll('.gatsby-resp-image-figure');

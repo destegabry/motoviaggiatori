@@ -12,6 +12,12 @@ categories:
 - recensioni/moto
 tags:
 - tag/bmw-r1200gs
+- tag/wrs
+- tag/hyperpro
+- tag/heed
+- tag/heavy-duties
+- tag/givi
+- tag/belinassu
 ---
 
 ## Un po’ di storia
@@ -76,13 +82,15 @@ I **tagliandi ogni 10.000km** sono abbastanza semplici da effettuare anche nel p
 
 **Consumi contenuti** e circa 400km di autonomia in viaggio: meno di 6l/100km in autostrada a 130km/h, meno di 5l/100km per l’andatura turistica a pieno carico. Uso la moto come mezzo di trasporto principale e pur vivendo in una città trafficata (Torino) ho una [media totale di circa 5,6l/100km](https://www.spritmonitor.de/en/detail/780855.html).
 
-I cavalli non sono mai troppi, ma non ho mai sentito la necessità di avere maggiori prestazioni in termini di potenza massima. **Migliorabile la fluidità ai bassi regimi**: non sarebbe male avere un motore più reattivo nel range 1500-2500 giri (aspetto ampiamente migliorato nei modelli con motore raffreddato a liquido).
+I cavalli non sono mai troppi, ma non ho mai sentito la necessità di avere maggiori prestazioni in termini di potenza massima. **Migliorabile la fluidità ai bassi regimi**: non sarebbe male avere un motore più reattivo nel range 1500-2500 giri (aspetto ampiamente migliorato nei modelli con motore raffreddato a liquido). 
+
+Ho ottenuto un notevole incremento di fluidità ai bassi regimi, motore più pieno tra i 4500-5000 giri (al costo di una leggera perdita di freno motore) montando la [S.M.A.R.T. IAT di Belinassu](http://www.belinassu.it). L'operazione è davvero semplice e reversibile.
 
 La **trasmissione cardanica** ha il pregio di necessitare di poca manutenzione, se tutto va bene dovrete soltanto cambiare l’olio della coppia conica ogni 40.000km; se le cose vanno meno bene, dovrete cambiare i cuscinetti della coppia conica perché usurati (fatto a 68.000km). In ogni caso questo tipo di trasmissione vi eviterà di viaggiare con l’assillo di pulire, ingrassare e registrare la classica catena.
 
 Gli innesti del cambio sono abbastanza rumorosi ma precisi, il contamarce integrato nella dashboard è una bella comodità. I rapporti sono ben distanziati, anche se mi piacerebbe che la sesta marcia fosse più lunga per abbassare ulteriormente i consumi in autostrada. L’azionamento della **frizione** è idraulico, la sostituzione dei dischi usurati necessita di smontare gran parte del retrotreno della moto, richiedendo un bell’esborso in manodopera.
 
-![](./galleries/IMG_4074.jpg)
+![BMW R1200GS Colle del Sommeiller](./galleries/IMG_4074.jpg "Mucca bicilindrica al pascolo sui single track del Colle del Sommeiller in Piemonte")
 
 La **ciclistica** è particolare per via della sospensione anteriore **paralever** posto di una tradizionale forcella telescopica. Questa soluzione rende la R 1200 GS **molto stabile** in curva ed evita l’impuntamento in frenata, anche se non è l’ideale per l’offroad estremo. La ruota anteriore da 19″ è un buon compromesso che permette agilità in strada e fuori (dove conviene abbassare la pressione degli pneumatici per aumentare il grip: 1,9 bar all’anteriore, 2 bar al posteriore).
 
@@ -129,7 +137,7 @@ Sicuramente avrete già sentito parlare di Öhlins, produce ammortizzatori di ri
 *   **molle a carico progressivo Hyperpro**: massima resa e minima spesa (meno di 300€), il coefficiente elastico progressivo permette di avere molle morbide durante la prima fase di compressione ma sempre più rigide all’aumentare della forza esercitata sulla molla… ovvero: la moto è confortevole ma si comporta molto meglio in curva!
 *   **Streetbox Hyperpro BMW** in versione ESA (circa 2.000€) e non (circa 1.000€): un kit per la sostituzione completa delle sospensioni originali, revisionabile, con idraulica sofisticata e molle progressive
 
-![](./galleries/IMG_1131.jpg)
+![BMW R1200GS Transalpina Romania](./galleries/IMG_1131.jpg "La mia fidata BMW R1200GS tra le curve della Transalpina in Romania")
 
 ### Scarico
 

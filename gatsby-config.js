@@ -7,11 +7,12 @@ const description = `Due ruote, infinite emozioni`;
 const language = `it`;
 const colors = require('./src/utils/colors');
 const siteUrl = `https://motoviaggiatori.it`;
-const {version} = require('./package.json');
+const {version, repository} = require('./package.json');
 
 module.exports = {
   siteMetadata: {
     siteUrl,
+    repositoryUrl: repository.url,
     name,
     version,
     description,

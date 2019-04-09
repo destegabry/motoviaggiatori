@@ -2,7 +2,7 @@
   "name": "motoviaggiatori",
   "private": true,
   "description": "Gatsby + Frontmatter powered blog MotoViaggiatori.it",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "author": "Gabriele Destefanis <g.destefanis@topsolution.it>",
   "dependencies": {
     "@emotion/core": "^10.0.10",
@@ -10,19 +10,19 @@
     "color": "^3.1.0",
     "debounce": "^1.2.0",
     "emotion": "^10.0.9",
-    "gatsby": "^2.3.11",
+    "gatsby": "^2.3.15",
     "gatsby-cli": "^2.5.4",
     "gatsby-image": "^2.0.37",
     "gatsby-plugin-emotion": "^4.0.6",
     "gatsby-plugin-feed": "^2.1.0",
     "gatsby-plugin-google-analytics": "^2.0.18",
-    "gatsby-plugin-manifest": "^2.0.26",
+    "gatsby-plugin-manifest": "^2.0.27",
     "gatsby-plugin-offline": "^2.0.25",
     "gatsby-plugin-react-helmet": "^3.0.11",
     "gatsby-plugin-react-svg": "^2.1.1",
     "gatsby-plugin-sharp": "^2.0.32",
-    "gatsby-plugin-sitemap": "^2.0.11",
-    "gatsby-plugin-typography": "^2.2.10",
+    "gatsby-plugin-sitemap": "^2.0.12",
+    "gatsby-plugin-typography": "^2.2.11",
     "gatsby-remark-autolink-headers": "^2.0.16",
     "gatsby-remark-copy-linked-files": "^2.0.11",
     "gatsby-remark-embed-video": "^1.7.1",
@@ -30,7 +30,7 @@
     "gatsby-remark-images": "^3.0.10",
     "gatsby-remark-responsive-iframe": "^2.1.1",
     "gatsby-remark-smartypants": "^2.0.9",
-    "gatsby-source-filesystem": "^2.0.28",
+    "gatsby-source-filesystem": "^2.0.29",
     "gatsby-source-instagram-all": "^2.0.5",
     "gatsby-source-instance-name-for-remark": "^0.1.1",
     "gatsby-transformer-remark": "^2.3.8",
@@ -69,9 +69,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/top-solution/motoviaggiatori"
+    "url": "https://github.com/destegabry/motoviaggiatori"
   },
   "bugs": {
-    "url": "https://gitlab.com/top-solution/motoviaggiatori/issues"
+    "url": "https://github.com/destegabry/motoviaggiatori/issues"
   }
 }
