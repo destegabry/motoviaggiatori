@@ -4,7 +4,7 @@ slug: /2019/04/equipaggiare-moto-viaggio
 date: "2019-04-07T21:59:00.000Z"
 author: gabriele
 featured_image: ./featured_image.jpeg
-excerpt: Dal weekend dietro casa al viaggio avventura, uno sguardo sul nostro equipaggiamento per essere pronti ad ogni evenienza
+excerpt: Dal weekend dietro casa al viaggio avventura, uno sguardo al nostro equipaggiamento per essere pronti ad ogni evenienza
 opening: Per quanto possano essere capienti le borse di una moto, bisogna razionalizzarne il contenuto per essere pronti ad ogni clima ed imprevisto. Ecco i nostri consigli!
 categories:
 - recensioni
@@ -12,15 +12,15 @@ tags:
 - tag/bmw-r1200gs
 - tag/wrs
 - tag/hyperpro
-- tag/heed
 - tag/heavy-duties
 - tag/givi
 - tag/belinassu
 - tag/midland
 - tag/xiaomi-yi
 - tag/sony-rx100
-- tag/quad-lock
+- tag/quadlock
 ---
+
 ## Valigie
 
 Borse laterali rigide o in tessuto? Di plastica o alluminio? Bauletto o borsone a rotolo? Borsa da serbatoio sì o no?
@@ -118,7 +118,8 @@ Per evitare di appesantirmi con voluminose fotocamere reflex o mirrorless, da po
 
 Per le riprese video in 4K utilizzo sia la [Sony RX100M4](https://amzn.to/2KehkS9) che una piccola [action camera Xiaomi YI](https://amzn.to/2WP44F6), ottima alternativa alle più blasonate [GoPro](https://amzn.to/2DdIq6j).
 
-# Attrezzatura
+
+## Attrezzatura
 
 Solitamente viaggio con i bagagli personali nella valigia laterale destra e nel bauletto, mentre la borsa sinistra viene usata per tenere tutta l'attrezzatura per affrontare gli imprevisti di un viaggio in moto.
 
