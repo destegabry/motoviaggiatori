@@ -14,13 +14,13 @@ function InstagramPost({ post }) {
   return (
     <a
       href={post.link}
-      title={post.caption.text}
+      title={post.caption ? post.caption.text : null}
       target="_blank"
       rel="noopener noreferrer"
     >
       <Img
         fluid={post.localImage.childImageSharp.fluid}
-        alt={post.caption.text}
+        alt={post.caption ? post.caption.text : null}
         />
     </a>
   );
@@ -82,7 +82,8 @@ function InstagramFeedContainer({ limit, size }) {
               childImageSharp {
                 fluid(
                   maxWidth: 300,
-                  maxHeight: 300
+                  maxHeight: 300,
+                  cropFocus: CENTER
                 ) {
                   src
                   srcSet
