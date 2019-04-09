@@ -88,3 +88,11 @@ Per evitare di appesantirmi con voluminose fotocamere reflex o mirrorless, da po
 
 Per le riprese video in 4K utilizzo sia la [Sony RX100M4](https://amzn.to/2KehkS9) che una piccola [action camera Xiaomi YI](https://amzn.to/2WP44F6), ottima alternativa alle più blasonate [GoPro](https://amzn.to/2DdIq6j).
 
+
+
+
+Da aggiungere:
+- gilet catarinfrangente
+- chiave universale ruota anteriore
+- possibilità attacco borrace e accessori alle valigie in alluminio
+- 
