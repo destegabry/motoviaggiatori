@@ -85,10 +85,7 @@ function InstagramFeedContainer({ limit, size }) {
                   maxHeight: 300,
                   cropFocus: CENTER
                 ) {
-                  src
-                  srcSet
-                  aspectRatio
-                  sizes
+                  ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
             }
