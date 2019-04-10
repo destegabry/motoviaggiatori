@@ -197,6 +197,11 @@ const NextPrevWrapper = styled.nav`
   }
 `;
 
+const Disclaimer = styled.p`
+  font-size: .8rem;
+  font-style: italic;
+`;
+
 const RelatedPost = ({label, title, slug, ...otherProps}) => (
   <Link to={slug} {...otherProps}>
     <div className="label">{ label }</div>
@@ -236,6 +241,12 @@ class PageTemplate extends Component {
     const currentPost = this.props.data.markdownRemark
     const { frontmatter } = currentPost;
     const { previous, next } = this.props.pageContext;
+    const disclaimers = currentPost.frontmatter.categories.reduce((disclaimers, {frontmatter}) => {
+      if(frontmatter.disclaimer) {
+        disclaimers.push(frontmatter.disclaimer);
+      }
+      return disclaimers;
+    }, [])
 
     return (
       <Layout itemScope itemType="http://schema.org/Article">
@@ -259,6 +270,9 @@ class PageTemplate extends Component {
             { !frontmatter.attributes? null : <AttributesTable attributes={ frontmatter.attributes } /> }
             <div dangerouslySetInnerHTML={{ __html: currentPost.html }} itemProp="articleBody" />
           </Article>
+          { disclaimers.length === 0 ? null :
+            disclaimers.map(disclaimer => <Disclaimer dangerouslySetInnerHTML={{ __html: disclaimer }} />)
+          }
         </Card>
         { !frontmatter.tags ? null :
           <Card css={cardCss}>

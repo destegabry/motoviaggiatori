@@ -39,6 +39,11 @@ export const postData = graphql`
         value
       }
       ...CategoriesPreview
+      categories {
+        frontmatter {
+          disclaimer
+        }
+      }
       ...TagsPreview
       author {
         ...AuthorData
