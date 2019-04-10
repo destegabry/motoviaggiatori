@@ -271,7 +271,7 @@ class PageTemplate extends Component {
             <div dangerouslySetInnerHTML={{ __html: currentPost.html }} itemProp="articleBody" />
           </Article>
           { disclaimers.length === 0 ? null :
-            disclaimers.map(disclaimer => <Disclaimer dangerouslySetInnerHTML={{ __html: disclaimer }} />)
+            disclaimers.map((disclaimer, index) => <Disclaimer key={index} dangerouslySetInnerHTML={{ __html: disclaimer }} />)
           }
         </Card>
         { !frontmatter.tags ? null :
