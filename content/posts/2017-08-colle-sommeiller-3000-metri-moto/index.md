@@ -132,7 +132,7 @@ Il ritorno si fa per forza sulla stessa strada dell’andata: il Colle del Somme
 Scendendo *taglio* un paio di tornanti sui sentieri single track che abbondando prima del Pian dei Frati e scopro che i canali di scolo si prestano meglio ai salti rispetto alla salita.
 
 ![Single track Sommeiller](./galleries/7/0.jpg "Single track Sommeiller")
-![Rododendri Scarfiotti](./galleries/7/1.jpg "I rododendri che colorano i tornanti "la rousse" tra il Pian dei Morti ed il rifugio Scarfiotti")
+![Rododendri Scarfiotti](./galleries/7/1.jpg "I rododendri che colorano i tornanti “la rousse” tra il Pian dei Morti ed il rifugio Scarfiotti")
 ![Discesa Scarfiotti](./galleries/7/2.jpg "Scendendo allo Scarfiotti")
 
 Ci fermiamo al rifugio Scarfiotti per un caffè (non male) e poi a Bardonecchia per mangiare un gelato alla pasticceria Ugetti, che sconsigliamo: gelato caro e per nulla buono! Meglio tenersi la voglia fino all’[agrigelateria di Villar Focchiardo](https://www.google.it/maps/place/Azienda+agricola+Re+Piera/@45.1173697,7.2322836,17z/data=!3m1!4b1!4m5!3m4!1s0x47884bb0761d912b:0xcc7a9de5fd1a461!8m2!3d45.1173697!4d7.2344776), oltre al gelato è possibile acquistare formaggi prodotti in loco.
