@@ -74,9 +74,7 @@ const Layout = ({ children, ...otherProps }) => {
   return (
     <OuterWrapper {...otherProps}>
       <Helmet>
-        <script>{`window._epn = {campaign: 5337960068};`}</script>
-        <script src="https://epnt.ebay.com/static/epn-smart-tools.js" async></script>
-        <script src={withPrefix('/pace.min.js')}></script>
+        <script src={withPrefix('/pace.min.js')} async></script>
       </Helmet>
       <Global styles={globalStyles} />
       <Header />
