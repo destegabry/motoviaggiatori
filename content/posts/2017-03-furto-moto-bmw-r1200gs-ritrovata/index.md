@@ -65,10 +65,10 @@ Controllo danni:
 
 *   il bloccasterzo è andato
 *   il serbatoio è stato praticamente svuotato ed il tappo fozato
-*   ci sono righe sul lato sinistro della moto, in particolare su [paramotore](/2016/09/paramotore-tubolare-heed-bmw-r-1200-gs/), paramani, specchietto e [cupolino WRS Touring](https://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5337960068&mpre=http%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dp2050601.m570.l1313.TR0.TRC0.H0.Xcupolino%2BWRS%2BR%2B1200%2BGS.TRS0%26_nkw%3Dcupolino%2BWRS%2BR%2B1200%2BGS%26_sacat%3D0)
+*   ci sono righe sul lato sinistro della moto, in particolare su [paramotore](/2016/09/paramotore-tubolare-heed-bmw-r-1200-gs/), paramani, specchietto e [cupolino WRS Touring](https://www.ebay.it/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=wrs+touring&_sacat=0)
 *   la chiusura del bauletto [Kappa Garda 52](http://amzn.to/2m5nrdt) è stata forzata malamente e si apre senza bisogno di chiave
 *   la [rete portabagli elastica](http://amzn.to/2mnKalS) ed il [sottocasco Tucano Urbano](http://amzn.to/2lFjxoa) che tenevo all’interno sono spariti, al loro posto trovo vari attrezzi usati per forzare le serrature
-*   svanite anche le [borse laterali del paramotore HEED](https://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5337960066&mpre=http%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_odkw%3Dheed%2Bborse%2Bbmw%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR0.TRC0.H0.Xheed%2Bborse%2Bbmw%2Br%2B1200%2Bgs.TRS0%26_nkw%3Dheed%2Bborse%2Bbmw%2Br%2B1200%2Bgs%26_sacat%3D0), il [pronto soccorso](http://amzn.to/2mnKCR6), il [kit riparazione pneumatici](http://amzn.to/2mW71lo), i [cavi per la batteria](http://amzn.to/2mWprSO).
+*   svanite anche le [borse laterali del paramotore HEED](https://www.ebay.it/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=borse+heed&_sacat=0), il [pronto soccorso](http://amzn.to/2mnKCR6), il [kit riparazione pneumatici](http://amzn.to/2mW71lo), i [cavi per la batteria](http://amzn.to/2mWprSO).
 
 La moto è stata ritrovata in un garage. Gli agenti non hanno voluto spiegarmi come sono riusciti a rintracciarla. Quando faccio presente la mancanza delle borse laterali, uno di loro si avvicina all’auto d’ordinanza e comincia a chiedere ad una persona seduta all’interno dove potessero essere: ma quindi è appena successo tutto, il ladro/ricettatore/complice o non so che altro è appena stato arrestato ed è ancora qui!
 

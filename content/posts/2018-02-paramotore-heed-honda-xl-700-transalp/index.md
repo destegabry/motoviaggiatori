@@ -22,11 +22,11 @@ Da pochi giorni il team MotoViaggiatori si è allargato, una Honda Transalp del 
 
 ## Paramotore HEED Honda XL 700 Transalp (08-15)
 
-L’ultima incarnazione della mitica Honda Transalp ripropone il classico motore Honda a V ben protetto dalla carenatura della moto. Allora perché montare un paramotore tubolare? In effetti le [protezioni tubolari HEED](http://amzn.to/2H9B8kd) (156€) servono soprattutto a proteggere la carenatura in caso di caduta, oltre ad offrire un buon punto di ancoraggio per le ottime [borse impermeabili in tessuto](http://www.ebay.it/itm/Borse-di-paramotore-HEED-HONDA-XL-XLV-700-TRANSALP-08-15/292424797200?hash=item4415e04c10:g:29UAAOSwC-tZ8ZUu) (50€ la coppia) sempre offerte dalla polacca HEED.
+L’ultima incarnazione della mitica Honda Transalp ripropone il classico motore Honda a V ben protetto dalla carenatura della moto. Allora perché montare un paramotore tubolare? In effetti le [protezioni tubolari HEED](http://amzn.to/2H9B8kd) (156€) servono soprattutto a proteggere la carenatura in caso di caduta, oltre ad offrire un buon punto di ancoraggio per le ottime [borse impermeabili in tessuto](https://www.ebay.it/sch/i.html?_odkw=heed+transalp+700&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=heed+transalp+700+borse&_sacat=0) (50€ la coppia) sempre offerte dalla polacca HEED.
 
 Le barre vengono prodotte utilizzando macchinari CNC per la piegatura e tagliate con il laser; saldatura TIG e verniciatura a polvere completano un prodotto dall’ottimo rapporto qualità/prezzo.
 
-Riverniciare o sostituire le carene ha un costo ben superiore a quello del [kit barre tubolari comprensivo di borse](http://www.ebay.it/itm/Paramotore-Crash-Bars-HEED-HONDA-XL-XLV-700-TRANSALP-2008-2015-Borse/183067606090?hash=item2a9fadfc4a:g:TioAAOSwiIxaHWZz) (meno di 180€). Il paramotore allarga leggermente la moto senza essere troppo intrusivo, oltre a proteggere maggiormente i carter del cambio.
+Riverniciare o sostituire le carene ha un costo ben superiore a quello del [kit barre tubolari comprensivo di borse](https://www.ebay.it/sch/i.html?_odkw=heed+transalp+700&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=heed+transalp+700+borse&_sacat=0) (meno di 180€). Il paramotore allarga leggermente la moto senza essere troppo intrusivo, oltre a proteggere maggiormente i carter del cambio.
 
 La spedizione è davvero veloce, dopo aver effettuato l’acquisto sul [negozio eBay HEED ufficiale](https://www.ebay.it/usr/heed_heed) e pagato in totale sicurezza con PayPal, ho ricevuto il codice di tracking GLS: in soli 3 giorni il pacco è arrivato direttamente dalla fabbrica situata in Polonia.
 
@@ -80,7 +80,7 @@ Serriamo saldamente tutte le viti, rimontiamo la carena inferiore, piazziamo le 
 
 ## Considerazioni e prodotti alternativi
 
-Abbiamo montato le [barre paramotore HEED](http://www.ebay.it/itm/Paramotore-Crash-Bars-HEED-HONDA-XL-XLV-700-TRANSALP-2008-2015-Borse/183067606090?hash=item2a9fadfc4a:g:TioAAOSwiIxaHWZz) da pochi giorni, ma possiamo già fare qualche considerazione:
+Abbiamo montato le [barre paramotore HEED](https://www.ebay.it/sch/i.html?_odkw=heed+transalp+700&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=heed+transalp+700+borse&_sacat=0) da pochi giorni, ma possiamo già fare qualche considerazione:
 
 *   completano il look adventure della Honda XL 700 Transalp
 *   sembrano molto solide, quelle [testate su BMW R1200GS](/2016/09/paramotore-tubolare-heed-bmw-r-1200-gs/) hanno salvato i paracilindri ben 3 volte
@@ -95,4 +95,4 @@ In alternative a quelle montate da noi, sono disponibili
 *   [Givi TN455](https://www.ebay.it/sch/i.html?_odkw=paramotore+honda+transalp+700&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xparamotore+honda+transalp+700+tn455.TRS0&_nkw=paramotore+honda+transalp+700+tn455&_sacat=0): prezzo simile, Made in Italy, purtroppo non permettono di montare borse
 *   [SW Motech](http://amzn.to/2CfERct): un po’ più care, anche qui niente borse da serbatoio
 
-Il nostro verdetto è ovviamente a favore delle crash bar HEED, [comprale su Amazon](http://amzn.to/2o5MAVt) oppure su [su eBay con il kit borse laterali](http://www.ebay.it/itm/Paramotore-Crash-Bars-HEED-HONDA-XL-XLV-700-TRANSALP-2008-2015-Borse/183067606090?hash=item2a9fadfc4a:g:TioAAOSwiIxaHWZz).
+Il nostro verdetto è ovviamente a favore delle crash bar HEED, [comprale su Amazon](http://amzn.to/2o5MAVt) oppure su [su eBay con il kit borse laterali](https://www.ebay.it/sch/i.html?_odkw=heed+transalp+700&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=heed+transalp+700+borse&_sacat=0).

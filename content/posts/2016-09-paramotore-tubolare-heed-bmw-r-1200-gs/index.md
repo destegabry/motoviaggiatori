@@ -88,4 +88,4 @@ Ho considerato diverse alternative prima di effettuare questo acquisto. Ne elenc
 
 ## Update
 
-Abbiamo montato anche il [paramotore HEED per Honda Transalp](https://www.ebay.it/itm/173102504516)! [Leggi l'articolo](/2018/02/paramotore-heed-honda-xl-700-transalp/).
+Abbiamo montato anche il [paramotore HEED per Honda Transalp](https://www.ebay.it/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=heed+transalp&_sacat=0)! [Leggi l'articolo](/2018/02/paramotore-heed-honda-xl-700-transalp/).
