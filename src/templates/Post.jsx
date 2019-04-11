@@ -209,10 +209,21 @@ const RelatedPost = ({label, title, slug, ...otherProps}) => (
   </Link>
 )
 
-class PageTemplate extends Component {
+class PostTemplate extends Component {
   galleries = [];
 
   componentDidMount() {
+    // Remove and add again EPN script to trigger link replacement
+    let epn = document.getElementById('epn');
+    if (epn) {
+      epn.remove();
+    }
+    window._epn = {campaign: process.env.GATSBY_EPN_CAMPAIGN_ID};
+    epn = document.createElement('script');
+    epn.id = 'epn';
+    epn.setAttribute('src', 'https://epnt.ebay.com/static/epn-smart-tools.js');
+    document.querySelector('body').appendChild(epn);
+
     const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 5;
     const rawFigures = document.querySelectorAll('.gatsby-resp-image-figure');
     const galleries = [];
@@ -311,7 +322,7 @@ class PageTemplate extends Component {
   }
 }
 
-export default PageTemplate
+export default PostTemplate
 
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
