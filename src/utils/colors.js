@@ -1,11 +1,9 @@
-// colors: {
-//   cello: '#3a4e5f',
-//   accent: '#6bfda7',
-//   blue: '#00a8ff',
-//   green: '#8bd623',
-//   white: '#fff',
-// }
 let colors = {
+  red: '#c20000',
+  pink: '#a3226b',
+  green: '#1d6900',
+  blue: '#31708f',
+  azure: '#d9edf7',
   palette: {
     primary: {
       light: '#ecf0f5',
