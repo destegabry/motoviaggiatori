@@ -30,6 +30,7 @@ export const postData = graphql`
       maxDepth: 2
     )
     frontmatter {
+      slug
       title
       date
       excerpt

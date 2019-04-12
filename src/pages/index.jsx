@@ -9,6 +9,11 @@ import {
   MEDIUM_SCREEN_ONLY,
   MEDIUM_SCREEN_UP,
 } from '../utils/breakpoints'
+import {
+  green,
+  pink,
+  blue
+} from '../utils/colors'
 import Layout from '../components/Layout'
 import Card from '../components/Card'
 import SEO from '../components/seo'
@@ -113,17 +118,17 @@ const IndexPage = ({ data }) => (
       <PostPreviewsByCategory
         posts={data.allMarkdownRemark.edges}
         categoryFilter="viaggi"
-        color="#00a8ff"
+        color={blue}
       />
       <PostPreviewsByCategory
         posts={data.allMarkdownRemark.edges}
         categoryFilter="itinerari"
-        color="#db509f"
+        color={pink}
       />
       <PostPreviewsByCategory
         posts={data.allMarkdownRemark.edges}
         categoryFilter="recensioni"
-        color="#689c1f"
+        color={green}
       />
     </CategorizedPostsSection>
 

@@ -5,7 +5,7 @@ import styled from '@emotion/styled'
 import { css } from '@emotion/core'
 import YouTube from 'react-youtube-embed'
 
-import { palette } from '../utils/colors'
+import { blue, azure, palette } from '../utils/colors'
 import {
   SMALL_SCREEN_ONLY,
   MEDIUM_SCREEN_UP,
@@ -25,6 +25,7 @@ import Flex from '../components/Flex'
 import SEO from '../components/seo'
 import Card from '../components/Card'
 import PostMeta from '../components/PostMeta'
+import Vote from '../components/Vote'
 
 const cardCss = css`
   ${SMALL_SCREEN_ONLY} {
@@ -78,18 +79,18 @@ const Article = styled.article`
     &.info {
       background-color: #d9edf7;
       border: 1px solid #bce8f1;
-      color: #31708f;
+      color: ${blue};
     }
 
     &.pro-tip {
-      background-color: #d9edf7;
-      border: 1px solid #31708f;
-      color: #31708f;
+      background-color: ${azure};
+      border: 1px solid ${blue};
+      color: ${blue};
       padding-top: 1.25em;
 
       &:before {
         content: "Pro Tip";
-        background: #31708f;
+        background: ${blue};
         border-radius: .4em 0;
         color: white;
         fontSize: 12px;
@@ -249,7 +250,7 @@ class PostTemplate extends Component {
   }
 
   render() {
-    const currentPost = this.props.data.markdownRemark
+    const currentPost = this.props.data.markdownRemark;
     const { frontmatter } = currentPost;
     const { previous, next } = this.props.pageContext;
     const disclaimers = currentPost.frontmatter.categories.reduce((disclaimers, {frontmatter}) => {
@@ -281,6 +282,10 @@ class PostTemplate extends Component {
             { !frontmatter.attributes? null : <AttributesTable attributes={ frontmatter.attributes } /> }
             <div dangerouslySetInnerHTML={{ __html: currentPost.html }} itemProp="articleBody" />
           </Article>
+          <p>
+            Ti è piaciuto questo articolo?
+            <Vote campaign={ frontmatter.slug } />
+          </p>
           { disclaimers.length === 0 ? null :
             disclaimers.map((disclaimer, index) => <Disclaimer key={index} dangerouslySetInnerHTML={{ __html: disclaimer }} />)
           }
