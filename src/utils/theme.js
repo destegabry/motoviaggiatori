@@ -1,5 +1,6 @@
 import gray from 'gray-percentage'
 import Color from 'color'
+import WebFont from 'webfontloader'
 
 import { SMALL_SCREEN_ONLY } from '../utils/breakpoints'
 import colors from './colors'
@@ -7,20 +8,16 @@ import colors from './colors'
 export const mainFontStack = ['Merriweather', 'serif'];
 export const altFontStack = ['Open Sans', 'sans-serif'];
 
+WebFont.load({
+  google: {
+    families: ['Open Sans:400,600', 'Merriweather:400,400i,700,700i']
+  }
+});
+
 const theme = {
   title: 'MotoViaggiatori',
   baseFontSize: '16px',
   baseLineHeight: 1.7,
-  googleFonts: [
-    {
-      name: 'Open Sans',
-      styles: ['400', '600'],
-    },
-    {
-      name: 'Merriweather',
-      styles: ['400', '400i', '700', '700i'],
-    },
-  ],
   headerFontFamily: altFontStack,
   bodyFontFamily: mainFontStack,
   headerColor: Color(colors.text.primary).alpha(0.9).string(),
