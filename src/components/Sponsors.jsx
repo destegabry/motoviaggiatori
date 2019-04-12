@@ -14,7 +14,7 @@ const openSponsorLink = url => {
 
 const Sponsors = (props) => {
   const sponsors = useAllSponsors().map(({node}) => node.frontmatter);
-  console.log(sponsors);
+
   return (
     <div
       css={css`
@@ -42,7 +42,7 @@ const Sponsors = (props) => {
       {...props}
     >
       <h4>Technical sponsors</h4>
-      { sponsors.map(({url, name, image, svg}, index) => (
+      { sponsors.map(({url, name, image}, index) => (
           <a
             href={url}
             key={index}
@@ -51,7 +51,11 @@ const Sponsors = (props) => {
             onClick={ () => openSponsorLink(url) }
             rel="noopener noreferrer"
           >
-            { svg ? <img src={svg.publicURL} alt={name} /> : <Img fluid={image.childImageSharp.fluid} alt={name} />}
+            {
+              !image.childImageSharp ?
+              <img src={image.publicURL} alt={name} /> :
+              <Img fluid={image.childImageSharp.fluid} alt={name} />
+            }
           </a>
         ))
       }
