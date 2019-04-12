@@ -119,8 +119,10 @@ Ogni moto ha bisogno di chiavi specifiche, ma solitamente porto con me:
 * [chiave bobine](https://amzn.to/2uVzDRH)
 * [chiave filtro olio](https://amzn.to/2I8UycQ)
 * [borsa a rotolo](https://amzn.to/2KjJQSp) per contenere tutti gli attrezzi
+* [fascette](https://amzn.to/2KwIm7t), [fil di ferro](https://amzn.to/2X6Msou) e [nastro telato](https://amzn.to/2D9vpur) per riparazioni di fortuna
+* [stucco epossidico bicomponente](https://amzn.to/2UeI1pA) permette di riparare un carter bucato
 
-*Last but not least*: [filo per stendere](https://amzn.to/2uWfRpi) e sapone di marsiglia!
+*Last but not least*: [filo per stendere elastico](https://amzn.to/2uWfRpi) e sapone di marsiglia!
 
 ![Kit pronto soccorso](./galleries/attrezzatura/DSC01025.jpeg "Kit pronto soccorso")
 ![Kit riparazione pneumatici tubeless](./galleries/attrezzatura/DSC01020.jpeg "Kit riparazione pneumatici tubeless")
