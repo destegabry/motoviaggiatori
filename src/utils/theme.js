@@ -1,18 +1,11 @@
 import gray from 'gray-percentage'
 import Color from 'color'
-import WebFont from 'webfontloader'
 
 import { SMALL_SCREEN_ONLY } from '../utils/breakpoints'
 import colors from './colors'
 
 export const mainFontStack = ['Merriweather', 'serif'];
 export const altFontStack = ['Open Sans', 'sans-serif'];
-
-WebFont.load({
-  google: {
-    families: ['Open Sans:400,600', 'Merriweather:400,400i,700,700i']
-  }
-});
 
 const theme = {
   title: 'MotoViaggiatori',
