@@ -48,7 +48,8 @@
     "react-youtube-embed": "^1.0.2",
     "smoothscroll-polyfill": "^0.4.4",
     "typography": "^0.16.19",
-    "typography-breakpoint-constants": "^0.16.19"
+    "typography-breakpoint-constants": "^0.16.19",
+    "webfontloader": "^1.6.28"
   },
   "keywords": [
     "gatsby"
