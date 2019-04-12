@@ -1,5 +1,5 @@
 ---
-svg: ./midland.svg
+image: ./midland.svg
 url: https://www.midlandeurope.com/it
 name: Midland
 order: 3

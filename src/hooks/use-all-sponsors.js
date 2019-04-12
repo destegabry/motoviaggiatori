@@ -20,10 +20,8 @@ export default () => {
               frontmatter {
                 url
                 name
-                svg {
-                  publicURL
-                }
                 image {
+                  publicURL
                   childImageSharp {
                     fluid(
                       maxWidth: 120

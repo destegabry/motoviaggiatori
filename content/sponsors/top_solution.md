@@ -1,5 +1,5 @@
 ---
-svg: ./top_solution.svg
+image: ./top_solution.svg
 url: https://topsolution.it
 name: Top Solution
 order: 0
