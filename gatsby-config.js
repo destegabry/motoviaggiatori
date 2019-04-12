@@ -100,6 +100,14 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-react-svg`,
     {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Open Sans:400,600', 'Merriweather:400,400i,700,700i']
+        }
+      }
+    },
+    {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
