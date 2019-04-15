@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import styled from '@emotion/styled'
 import { css } from '@emotion/core'
@@ -37,68 +37,53 @@ const VoteContainer = styled.span`
 
 const LS_VOTES_KEY = 'votes';
 
-class Vote extends Component {
-  constructor(props) {
-    super(props);
-    this.campaign = props.campaign;
-    const votes = this.getSavedVotes();
-    this.state = {
-      voted: votes[this.campaign] || 0
-    };
-    this.vote = this.vote.bind(this);
+function Vote({ campaign }) {
+  let votes;
+  try {
+    votes = JSON.parse(window.localStorage.getItem(LS_VOTES_KEY)) || {};
+  } catch (err) {
+    votes = {};
   }
+  const [voted, setVoted] = useState(votes[campaign] || 0);
 
-  getSavedVotes() {
+  function vote(value) {
     try {
-      return JSON.parse(window.localStorage.getItem(LS_VOTES_KEY)) || {};
-    } catch (err) {
-      return {};
-    }
-  }
-
-  vote(value) {
-    if (window.localStorage) {
-      const votes = this.getSavedVotes();
-      if (votes[this.campaign] === value) {
+      if (votes[campaign] === value) {
         return; // can't repeat the vote, bye!
-      } else {
-        votes[this.campaign] = value;
       }
+      votes[campaign] = value;
       window.localStorage.setItem(LS_VOTES_KEY, JSON.stringify(votes));
-    }
-    if (window.ga) {
-      window.ga('send', 'event', this.campaign, {
+
+      setVoted(value);
+
+      window.ga('send', 'event', campaign, {
         eventCategory: 'vote',
         eventAction: 'click',
-        eventLabel: this.campaign,
+        eventLabel: campaign,
         eventValue: value,
         transport: 'beacon'
       });
-    }
-
-    this.setState({ voted: value });
+    } catch (err) {}
   }
 
-  render() {
-    return (
-      <VoteContainer>
-        <button
-          aria-label="Mi è piaciuto"
-          disabled={ this.state.voted !== 0 }
-          onClick={ () => this.vote(+1) }
-        >
-          <UpVote css={ this.state.voted < 1 ? null : css`fill: ${green};` } />
-        </button>
-        <button
-          aria-label="Non mi è piaciuto"
-          disabled={ this.state.voted !== 0 }
-          onClick={ () => this.vote(-1) }
-        >
-          <DownVote css={ this.state.voted > -1 ? null : css`fill: ${red};` } />
-        </button>
-      </VoteContainer>
-    )
-  }
+  return (
+    <VoteContainer>
+      <button
+        aria-label="Mi è piaciuto"
+        disabled={ voted !== 0 }
+        onClick={ () => vote(+1) }
+      >
+        <UpVote css={ voted < 1 ? null : css`fill: ${green};` } />
+      </button>
+      <button
+        aria-label="Non mi è piaciuto"
+        disabled={ voted !== 0 }
+        onClick={ () => vote(-1) }
+      >
+        <DownVote css={ voted > -1 ? null : css`fill: ${red};` } />
+      </button>
+    </VoteContainer>
+  )
 }
 
 Vote.propTypes = {

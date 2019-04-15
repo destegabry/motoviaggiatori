@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { useEffect } from 'react'
 import { graphql, Link } from 'gatsby'
 import Img from 'gatsby-image'
 import styled from '@emotion/styled'
@@ -210,15 +210,12 @@ const RelatedPost = ({label, title, slug, ...otherProps}) => (
   </Link>
 )
 
-class PostTemplate extends Component {
-  galleries = [];
+function PostTemplate (props) {
+  let galleries = [];
+  let epn;
 
-  componentDidMount() {
-    // Remove and add again EPN script to trigger link replacement
-    let epn = document.getElementById('epn');
-    if (epn) {
-      epn.remove();
-    }
+  useEffect(() => {
+    // Adding EPN script after page render will trigger link replacement
     window._epn = {campaign: process.env.GATSBY_EPN_CAMPAIGN_ID};
     epn = document.createElement('script');
     epn.id = 'epn';
@@ -227,104 +224,105 @@ class PostTemplate extends Component {
 
     const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 5;
     const rawFigures = document.querySelectorAll('.gatsby-resp-image-figure');
-    const galleries = [];
+    const adjacentFiguresGroups = [];
     if (rawFigures.length > 0) {
-      // good old for-loop as querySelectorAll doesn't return an iterable
+      // good old for-loop as querySelectorAll doesn't return an iterable :,(
       for (let i = 0, galleryWrapper; i < rawFigures.length; i++) {
         const figure = rawFigures[i];
-        if (figure.previousElementSibling.className !== 'gallery-wrapper') {
+        if (!figure.previousElementSibling || figure.previousElementSibling.className !== 'gallery-wrapper') {
           galleryWrapper = document.createElement('div');
           galleryWrapper.className = 'gallery-wrapper';
           figure.parentElement.insertBefore(galleryWrapper, figure);
-          galleries.push(galleryWrapper);
+          adjacentFiguresGroups.push(galleryWrapper);
         }
         galleryWrapper.appendChild(figure);
       }
-
-      this.galleries = galleries.map(gallery => new Gallery(gallery, rowRatio));
+      galleries = adjacentFiguresGroups.map(gallery => new Gallery(gallery, rowRatio));
     }
-  }
 
-  componentWillUnmount() {
-    this.galleries.forEach(gallery => gallery.destroy());
-  }
+    return () => {
+      // Remove galleries listeners
+      galleries.forEach(gallery => gallery.destroy());
+      // Remove EPN script
+      epn.remove();
+      document.querySelectorAll('img[src^="https://rover.ebay.com"]').forEach(node => node.remove())
+    };
+  });
 
-  render() {
-    const currentPost = this.props.data.markdownRemark;
-    const { frontmatter } = currentPost;
-    const { previous, next } = this.props.pageContext;
-    const disclaimers = currentPost.frontmatter.categories.reduce((disclaimers, {frontmatter}) => {
-      if(frontmatter.disclaimer) {
-        disclaimers.push(frontmatter.disclaimer);
-      }
-      return disclaimers;
-    }, [])
+  const currentPost = props.data.markdownRemark;
+  const { frontmatter } = currentPost;
+  const { previous, next } = props.pageContext;
+  const disclaimers = currentPost.frontmatter.categories.reduce((disclaimers, {frontmatter}) => {
+    if(frontmatter.disclaimer) {
+      disclaimers.push(frontmatter.disclaimer);
+    }
+    return disclaimers;
+  }, [])
 
-    return (
-      <Layout itemScope itemType="http://schema.org/Article">
-        <SEO title={frontmatter.title} description={frontmatter.excerpt} image={ frontmatter.featured_image.publicURL } />
-        <Card css={cardCss}>
-          <Article>
-            <h1 dangerouslySetInnerHTML={{ __html: frontmatter.title }} itemProp="name headline" />
-            <PostMeta post={currentPost} css={ postMetaStyle } />
-            <div css={ featuredMediaSyle }>
-              { frontmatter.featured_youtube ? <YouTube id={ frontmatter.featured_youtube } /> :
-                <Img
-                  fluid={ frontmatter.featured_image.childImageSharp.fluid }
-                  alt={ frontmatter.title }
-                />
-              }
-            </div>
-            { !frontmatter.opening ? null : <p dangerouslySetInnerHTML={{ __html: frontmatter.opening }} /> }
-            { !currentPost.tableOfContents ? null :
-              <div dangerouslySetInnerHTML={{ __html: currentPost.tableOfContents }} />
+  return (
+    <Layout itemScope itemType="http://schema.org/Article">
+      <SEO title={frontmatter.title} description={frontmatter.excerpt} image={ frontmatter.featured_image.publicURL } />
+      <Card css={cardCss}>
+        <Article>
+          <h1 dangerouslySetInnerHTML={{ __html: frontmatter.title }} itemProp="name headline" />
+          <PostMeta post={currentPost} css={ postMetaStyle } />
+          <div css={ featuredMediaSyle }>
+            { frontmatter.featured_youtube ? <YouTube id={ frontmatter.featured_youtube } /> :
+              <Img
+                fluid={ frontmatter.featured_image.childImageSharp.fluid }
+                alt={ frontmatter.title }
+              />
             }
-            { !frontmatter.attributes? null : <AttributesTable attributes={ frontmatter.attributes } /> }
-            <div dangerouslySetInnerHTML={{ __html: currentPost.html }} itemProp="articleBody" />
-          </Article>
-          <p>
-            Ti è piaciuto questo articolo?
-            <Vote campaign={ frontmatter.slug } />
-          </p>
-          { disclaimers.length === 0 ? null :
-            disclaimers.map((disclaimer, index) => <Disclaimer key={index} dangerouslySetInnerHTML={{ __html: disclaimer }} />)
+          </div>
+          { !frontmatter.opening ? null : <p dangerouslySetInnerHTML={{ __html: frontmatter.opening }} /> }
+          { !currentPost.tableOfContents ? null :
+            <div dangerouslySetInnerHTML={{ __html: currentPost.tableOfContents }} />
           }
-        </Card>
-        { !frontmatter.tags ? null :
-          <Card css={cardCss}>
-            <TagSection>
-              <h3>Tags</h3>
-              { frontmatter.tags.map(({frontmatter}) => (
-                <Link key={frontmatter.slug} to={`/${frontmatter.slug}`}>
-                  {frontmatter.name}
-                </Link>
-              )) }
-            </TagSection>
-          </Card>
+          { !frontmatter.attributes? null : <AttributesTable attributes={ frontmatter.attributes } /> }
+          <div dangerouslySetInnerHTML={{ __html: currentPost.html }} itemProp="articleBody" />
+        </Article>
+        <p>
+          Ti è piaciuto questo articolo?
+          <Vote campaign={ frontmatter.slug } />
+        </p>
+        { disclaimers.length === 0 ? null :
+          disclaimers.map((disclaimer, index) => <Disclaimer key={index} dangerouslySetInnerHTML={{ __html: disclaimer }} />)
         }
-        <Card css={cardCss} itemProp="author" itemScope="itemscope" itemType="http://schema.org/Person">
-          <AuthorBox author={frontmatter.author} showProfileLink={true} />
+      </Card>
+      { !frontmatter.tags ? null :
+        <Card css={cardCss}>
+          <TagSection>
+            <h3>Tags</h3>
+            { frontmatter.tags.map(({frontmatter}) => (
+              <Link key={frontmatter.slug} to={`/${frontmatter.slug}`}>
+                {frontmatter.name}
+              </Link>
+            )) }
+          </TagSection>
         </Card>
-        <NextPrevWrapper>
-          { !previous ? null :
-            <RelatedPost
-              label="Post precedente"
-              className="previous"
-              {...previous.frontmatter}
-            />
-          }
-          <Flex />
-          { !next ? null :
-            <RelatedPost
-              label="Prossimo post"
-              className="next"
-              {...next.frontmatter}
-            />
-          }
-        </NextPrevWrapper>
-      </Layout>
-    )
-  }
+      }
+      <Card css={cardCss} itemProp="author" itemScope="itemscope" itemType="http://schema.org/Person">
+        <AuthorBox author={frontmatter.author} showProfileLink={true} />
+      </Card>
+      <NextPrevWrapper>
+        { !previous ? null :
+          <RelatedPost
+            label="Post precedente"
+            className="previous"
+            {...previous.frontmatter}
+          />
+        }
+        <Flex />
+        { !next ? null :
+          <RelatedPost
+            label="Prossimo post"
+            className="next"
+            {...next.frontmatter}
+          />
+        }
+      </NextPrevWrapper>
+    </Layout>
+  )
 }
 
 export default PostTemplate

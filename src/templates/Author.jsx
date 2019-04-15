@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
@@ -7,24 +7,22 @@ import Card from '../components/Card'
 import PagedPosts from '../components/PagedPosts'
 import AuthorBox from '../components/AuthorBox';
 
-class AuthorTemplate extends Component {
-  render() {
-    const currentAuthor = this.props.data.markdownRemark;
+function AuthorTemplate({ data }) {
+  const currentAuthor = data.markdownRemark;
 
-    return (
-      <Layout>
-        <SEO
-          title={currentAuthor.frontmatter.name}
-          description={currentAuthor.excerpt}
-          image={ currentAuthor.frontmatter.avatar ? currentAuthor.frontmatter.avatar.publicURL : null }
-        />
-        <Card>
-         <AuthorBox author={currentAuthor} />
-        </Card>
-        <PagedPosts posts={this.props.data.allMarkdownRemark.edges} />
-      </Layout>
-    )
-  }
+  return (
+    <Layout>
+      <SEO
+        title={ currentAuthor.frontmatter.name }
+        description={ currentAuthor.excerpt }
+        image={ currentAuthor.frontmatter.avatar ? currentAuthor.frontmatter.avatar.publicURL : null }
+      />
+      <Card>
+        <AuthorBox author={ currentAuthor } />
+      </Card>
+      <PagedPosts posts={ data.allMarkdownRemark.edges } />
+    </Layout>
+  )
 }
 
 export default AuthorTemplate

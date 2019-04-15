@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
@@ -6,23 +6,21 @@ import SEO from '../components/seo'
 import Card from '../components/Card'
 import PagedPosts from '../components/PagedPosts'
 
-class TagTemplate extends Component {
-  render() {
-    const currentCategory = this.props.data.markdownRemark;
+function TagTemplate({ data }) {
+  const currentCategory = data.markdownRemark;
 
-    return (
-      <Layout>
-        <SEO title={currentCategory.frontmatter.name} description={currentCategory.excerpt} />
-        <Card>
-          <div className="content">
-            <h1>{currentCategory.frontmatter.name}</h1>
-            <div dangerouslySetInnerHTML={{ __html: currentCategory.html }} />
-          </div>
-        </Card>
-        <PagedPosts posts={this.props.data.allMarkdownRemark.edges} />
-      </Layout>
-    )
-  }
+  return (
+    <Layout>
+      <SEO title={currentCategory.frontmatter.name} description={currentCategory.excerpt} />
+      <Card>
+        <div className="content">
+          <h1>{currentCategory.frontmatter.name}</h1>
+          <div dangerouslySetInnerHTML={{ __html: currentCategory.html }} />
+        </div>
+      </Card>
+      <PagedPosts posts={data.allMarkdownRemark.edges} />
+    </Layout>
+  )
 }
 
 export default TagTemplate
