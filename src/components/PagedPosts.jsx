@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { useState, useEffect } from 'react'
 import PropTypes from 'prop-types'
 import styled from '@emotion/styled'
 
@@ -49,95 +49,108 @@ const Pagination = styled.nav`
   }
 `;
 
-class PagedPosts extends Component {
-  state = { width: 0, page: 0 };
+const ref = React.createRef();
 
-  constructor(props) {
-    super(props);
-    this.myRef = React.createRef();
-    this.updateDimensions = this.updateDimensions.bind(this)
+function PagedPosts (props) {
+  const [width, setWidth] = useState(0);
+  const [page, setPage] = useState(0);
+
+  function updateDimensions() {
+    setWidth(document.body.clientWidth)
   }
 
-  updateDimensions() {
-    this.setState({ width: document.body.clientWidth });
-  }
+  useEffect(() => {
+    updateDimensions();
+    window.addEventListener('resize', updateDimensions);
 
-  setPage(page) {
-    this.scrollToSectionTop();
-    this.setState({ page });
-  }
+    return () => {
+      window.removeEventListener('resize', updateDimensions);
+    };
+  });
 
-  scrollToSectionTop() {
+  function scrollToSectionTop() {
     window.scrollTo({
-      top: this.myRef.current.offsetTop - 100,
+      top: ref.current.offsetTop - 100,
       behavior: 'smooth'
     })
   }
 
-  componentDidMount() {
-    this.updateDimensions();
-    window.addEventListener('resize', this.updateDimensions);
+  function changePage(page) {
+    scrollToSectionTop();
+    setPage(page);
   }
 
-  componentWillUnmount() {
-    window.removeEventListener('resize', this.updateDimensions);
+
+  const { posts, pageSize, className } = props;
+
+  let columns;
+
+  if (width <= SMALL_SCREEN_MAX_SIZE) {
+    columns = 1;
+  } else if (width <= LARGE_SCREEN_MAX_SIZE) {
+    columns = 2;
+  } else {
+    columns = 3;
   }
 
-  render() {
-    const { posts, pageSize, className } = this.props;
-    const { page, width } = this.state;
-    let columns;
+  const totalPages = Math.ceil(posts.length / pageSize);
+  const pages = [];
+  for(let index = 0; index < totalPages; index++) {
+    pages.push(index + 1);
+  }
 
-    if (width <= SMALL_SCREEN_MAX_SIZE) {
-      columns = 1;
-    } else if (width <= LARGE_SCREEN_MAX_SIZE) {
-      columns = 2;
-    } else {
-      columns = 3;
-    }
+  const groupedPosts = posts.slice(page * pageSize, page * pageSize + pageSize).reduce((groupedPosts, node, index) => {
+    const post = node.post || node;
+    const column = index % columns;
+    groupedPosts[column] = groupedPosts[column] || [];
+    groupedPosts[column].push(post);
+    return groupedPosts;
+  }, []);
 
-    const totalPages = Math.ceil(posts.length / pageSize);
-    const pages = [];
-    for(let index = 0; index < totalPages; index++) {
-      pages.push(index + 1);
-    }
-
-    const groupedPosts = posts.slice(page * pageSize, page * pageSize + pageSize).reduce((groupedPosts, node, index) => {
-      const post = node.post || node;
-      const column = index % columns;
-      groupedPosts[column] = groupedPosts[column] || [];
-      groupedPosts[column].push(post);
-      return groupedPosts;
-    }, []);
-
-    return (
-      <section ref={this.myRef} className={className}>
-        <PagedPostsWrapper>
-          {
-            groupedPosts.map((column, index) => (
-              <div key={index}>
-                {
-                  column.map((post, index) => (
-                    <Card key={index}>
-                      <PostPreviewFull post={post.node || post} />
-                    </Card>
-                  ))
-                }
-              </div>
-            ))
-
-          }
-        </PagedPostsWrapper>
-        { totalPages === 1 ? null :
-          <Pagination>
-            <button onClick={() => this.setPage(page - 1)} disabled={page === 0}>&lt;</button>
-            { pages.map((label, index) => <button key={index} onClick={() => this.setPage(index)} disabled={page === index}>{label}</button>) }
-            <button onClick={() => this.setPage(page + 1)} disabled={page === totalPages - 1}>&gt;</button>
-          </Pagination>
+  return (
+    <section ref={ref} className={className}>
+      <PagedPostsWrapper>
+        {
+          groupedPosts.map((column, index) => (
+            <div key={index}>
+              {
+                column.map((post, index) => (
+                  <Card key={index}>
+                    <PostPreviewFull post={post.node || post} />
+                  </Card>
+                ))
+              }
+            </div>
+          ))
         }
-      </section>
-    );
-  }
+      </PagedPostsWrapper>
+      { totalPages === 1 ? null :
+        <Pagination>
+          <button
+            onClick={() => changePage(page - 1)}
+            disabled={page === 0}
+          >
+            &lt;
+          </button>
+          { pages.map((label, index) => (
+            <button
+              key={index}
+              onClick={() => changePage(index)}
+              disabled={page === index}
+            >
+              {label}
+            </button>
+          ))}
+          <button
+            onClick={() => changePage(page + 1)}
+            disabled={page === totalPages - 1}
+          >
+            &gt;
+          </button>
+        </Pagination>
+      }
+    </section>
+  );
 }
 
 PagedPosts.propTypes = {

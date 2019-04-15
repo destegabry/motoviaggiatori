@@ -1,8 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
+import DangerousHTML from '../DangerousHTML'
+
 const AttributesTable = ({ attributes }) => {
-  if (attributes.length === 0) {
+  if (!attributes || attributes.length === 0) {
     return null;
   }
 
@@ -12,7 +14,7 @@ const AttributesTable = ({ attributes }) => {
         { attributes.map(({key, value}, index) => (
           <tr key={index}>
             <th>{ key }</th>
-            <td dangerouslySetInnerHTML={{__html: value}} />
+            <DangerousHTML component="td" html={ value } />
           </tr>
         )) }
       </tbody>
@@ -26,7 +28,7 @@ AttributesTable.propTypes = {
       key: PropTypes.string.isRequired,
       value: PropTypes.string.isRequired,
     }),
-  ).isRequired,
+  ),
 }
 
 export default AttributesTable

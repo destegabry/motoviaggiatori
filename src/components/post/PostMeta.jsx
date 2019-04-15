@@ -4,8 +4,8 @@ import styled from '@emotion/styled';
 import moment from 'moment'
 import { Link } from 'gatsby'
 
-import getCategoryUrl from '../utils/getCategoryUrl';
-import getAuthorUrl from '../utils/getAuthorUrl';
+import getCategoryUrl from '../../utils/getCategoryUrl';
+import getAuthorUrl from '../../utils/getAuthorUrl';
 
 const Wrapper = styled.div`
   font-size: .7rem;
