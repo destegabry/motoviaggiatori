@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import styled from '@emotion/styled'
 import { css } from '@emotion/core'
 
-import { green, red, palette } from '../../utils/colors'
+import { green, red, palette } from '../../../utils/colors'
 import UpVote from './up.svg';
 import DownVote from './down.svg';
 
@@ -37,7 +37,7 @@ const VoteContainer = styled.span`
 
 const LS_VOTES_KEY = 'votes';
 
-function Vote({ campaign }) {
+function Vote({ campaign, children }) {
   let votes;
   try {
     votes = JSON.parse(window.localStorage.getItem(LS_VOTES_KEY)) || {};
@@ -67,22 +67,25 @@ function Vote({ campaign }) {
   }
 
   return (
-    <VoteContainer>
-      <button
-        aria-label="Mi è piaciuto"
-        disabled={ voted !== 0 }
-        onClick={ () => vote(+1) }
-      >
-        <UpVote css={ voted < 1 ? null : css`fill: ${green};` } />
-      </button>
-      <button
-        aria-label="Non mi è piaciuto"
-        disabled={ voted !== 0 }
-        onClick={ () => vote(-1) }
-      >
-        <DownVote css={ voted > -1 ? null : css`fill: ${red};` } />
-      </button>
-    </VoteContainer>
+    <>
+      {children}
+      <VoteContainer>
+        <button
+          aria-label="Mi è piaciuto"
+          disabled={ voted !== 0 }
+          onClick={ () => vote(+1) }
+        >
+          <UpVote css={ voted < 1 ? null : css`fill: ${green};` } />
+        </button>
+        <button
+          aria-label="Non mi è piaciuto"
+          disabled={ voted !== 0 }
+          onClick={ () => vote(-1) }
+        >
+          <DownVote css={ voted > -1 ? null : css`fill: ${red};` } />
+        </button>
+      </VoteContainer>
+    </>
   )
 }
 

@@ -5,6 +5,7 @@ import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import Card from '../components/Card'
 import PagedPosts from '../components/PagedPosts'
+import DangerousHTML from '../components/DangerousHTML'
 
 function CategoryTemplate({ data }) {
   const currentCategory = data.markdownRemark;
@@ -15,7 +16,7 @@ function CategoryTemplate({ data }) {
       <Card>
         <div className="content">
           <h1>{currentCategory.frontmatter.name}</h1>
-          <div dangerouslySetInnerHTML={{ __html: currentCategory.html }} />
+          <DangerousHTML html={ currentCategory.html } />
         </div>
       </Card>
       <PagedPosts posts={data.allMarkdownRemark.edges} />

@@ -5,17 +5,18 @@ import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import Card from '../components/Card'
 import PagedPosts from '../components/PagedPosts'
+import DangerousHTML from '../components/DangerousHTML'
 
 function TagTemplate({ data }) {
-  const currentCategory = data.markdownRemark;
+  const currentTag = data.markdownRemark;
 
   return (
     <Layout>
-      <SEO title={currentCategory.frontmatter.name} description={currentCategory.excerpt} />
+      <SEO title={currentTag.frontmatter.name} description={currentTag.excerpt} />
       <Card>
         <div className="content">
-          <h1>{currentCategory.frontmatter.name}</h1>
-          <div dangerouslySetInnerHTML={{ __html: currentCategory.html }} />
+          <h1>{currentTag.frontmatter.name}</h1>
+          <DangerousHTML html={ currentTag.html } />
         </div>
       </Card>
       <PagedPosts posts={data.allMarkdownRemark.edges} />

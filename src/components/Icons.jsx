@@ -6,12 +6,13 @@ import {
   ICON_ARROW_RIGHT,
   ICON_CLOSE
 } from '../utils/icons'
+import DangerousHTML from './DangerousHTML'
 
 const Icon = styled.span`
   display: inline-block;
   margin: 0 .2rem
 `;
 
-export const IconArrowLeft = () => <Icon dangerouslySetInnerHTML={{__html: ICON_ARROW_LEFT}} />
-export const IconArrowRight = () => <Icon dangerouslySetInnerHTML={{__html: ICON_ARROW_RIGHT}} />
-export const IconClose = () => <Icon dangerouslySetInnerHTML={{__html: ICON_CLOSE}} />
+export const IconArrowLeft = () => <DangerousHTML component={ Icon } html={ ICON_ARROW_LEFT } />
+export const IconArrowRight = () => <DangerousHTML component={ Icon } html={ ICON_ARROW_RIGHT } />
+export const IconClose = () => <DangerousHTML component={ Icon } html={ ICON_CLOSE } />

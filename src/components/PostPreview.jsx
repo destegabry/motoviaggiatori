@@ -5,7 +5,7 @@ import { css } from '@emotion/core';
 import Img from 'gatsby-image'
 import YouTube from 'react-youtube-embed'
 
-import PostMeta from './PostMeta'
+import PostMeta from './post/PostMeta'
 
 const postPreviewStyle = css`
   padding: 10px;

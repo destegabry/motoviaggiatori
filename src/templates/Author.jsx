@@ -3,7 +3,6 @@ import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
-import Card from '../components/Card'
 import PagedPosts from '../components/PagedPosts'
 import AuthorBox from '../components/AuthorBox';
 
@@ -17,9 +16,7 @@ function AuthorTemplate({ data }) {
         description={ currentAuthor.excerpt }
         image={ currentAuthor.frontmatter.avatar ? currentAuthor.frontmatter.avatar.publicURL : null }
       />
-      <Card>
-        <AuthorBox author={ currentAuthor } />
-      </Card>
+      <AuthorBox author={ currentAuthor } />
       <PagedPosts posts={ data.allMarkdownRemark.edges } />
     </Layout>
   )
