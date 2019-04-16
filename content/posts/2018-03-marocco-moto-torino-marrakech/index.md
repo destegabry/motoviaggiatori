@@ -19,7 +19,7 @@ tags:
 - tag/tangeri
 ---
 
-![Percorso Marocco Tangeri Marrakech](./galleries/0/0.png "Dal porto di Tangeri Med a Marrakech in circa 600km di autostrade")
+![Percorso Marocco Tangeri Marrakech](./galleries/0/0.png)
 
 ## Giorno 0: l’imbarco a Savona
 

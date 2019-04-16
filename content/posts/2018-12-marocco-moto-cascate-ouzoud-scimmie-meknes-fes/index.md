@@ -27,7 +27,7 @@ tags:
 - tag/tbourida
 ---
 
-![Percorso Marocco cascate Ouzoud città imperiali](./galleries/maroccoinmoto-percorso-3.png "A spasso per il versante Nord dell’Alto Atlante marocchino")
+![Percorso Marocco cascate Ouzoud città imperiali](./galleries/maroccoinmoto-percorso-3.png)
 
 ## Giorno 6: la Tbourida a Beni Mellal
 
@@ -158,3 +158,5 @@ Terminiamo la giornata ammirando il tramonto da uno dei ristoranti panoramici ch
 ![Concerie Chouara Fes](./galleries/GAB4139.jpg "Le concerie Chouara sono tra le più famose del Marocco e simbolo di Fes")
 ![Moschea-Università al-Qarawiyyin](./galleries/GAB4149.jpg "Scorcio del cortile della moschea-università al-Qarawiyyin di Fes")
 ![Bab Bou Jeloud Fes](./galleries/IMG_3438.jpg "La porta Bab Bou Jeloud al tramonto")
+
+[Il viaggio prosegue nella quarte parte: dalle dune di sabbia di Merzouga al Rif di Chefchaouen](/2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen)

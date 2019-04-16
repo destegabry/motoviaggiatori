@@ -21,12 +21,13 @@ tags:
 - tag/marocco
 - tag/marrakech
 - tag/montagna
+- tag/sahara
 - tag/off-road
 - tag/tizi-ntichka
 - tag/valle-delle-rose
 ---
 
-![Percorso Marocco Marrakech Alto Atlante](./galleries/0/0.png "Girovagando nel deserto roccioso dell'Alto Atlante con partenza da Marrakech")
+![Percorso Marocco Marrakech Alto Atlante](./galleries/0/0.png)
 
 ## Giorno 2: esplorando Marrakech
 
