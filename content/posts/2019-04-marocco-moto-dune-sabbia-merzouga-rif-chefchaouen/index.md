@@ -36,14 +36,14 @@ Per Stefania è giunto il momento di rientrare in Italia, ma abbiamo ancora gran
 
 Torniamo nella medina per girovagare senza meta, pranzare nel posto più lurido che riusciamo a trovare, incontrare una tatuatrice per realizzare un temporaneo disegno all'henné. A metà pomeriggio raggiungiamo le moto (lasciando trasportare armi e bagagli ad un carrettiere) e ci dirigiamo all'aeroporto internazionale di Fes, da dove Stefania raggiugerà Bergamo e poi Torino.
 
-![Panorama Fes](./galleries/fes/_GAB4154.jpg "Panorama di Fes dalle Rovine delle Tombe Merinidi")
-![Porta dorata Palazzo Reale di Fes](./galleries/fes/_GAB4164.jpg "Porta dorata del Palazzo Reale di Fes")
-![Artigiano laboratorio ceramica](./galleries/fes/_GAB4178.jpg "Un artigiano dipinge con precisione geometrica le ceramiche prima della seconda cottura")
-![Ceramiche pronte alla seconda cottura](./galleries/fes/_GAB4180.jpg "Ceramiche decorate pronte per la seconda cottura che farà virare i colori")
-![Ceramiche in vendita](./galleries/fes/_GAB4189.jpg "Le ceramiche prodotte dal laboratorio in vendita")
-![Pranzo lurido](./galleries/fes/_GAB4207.jpg "Pranzo raffinato")
-![Tatuaggio Henné](./galleries/fes/_GAB4211.jpg "Tatuaggio temporaneo realizzato con l'henné")
-![Carretto trasporto bagagli](./galleries/fes/IMG_3450.jpg "Lasciamo trasportare i bagagli ad un carrettiere")
+![Panorama Fes](./galleries/fes/4154.jpg "Panorama di Fes dalle Rovine delle Tombe Merinidi")
+![Porta dorata Palazzo Reale di Fes](./galleries/fes/4164.jpg "Porta dorata del Palazzo Reale di Fes")
+![Artigiano laboratorio ceramica](./galleries/fes/4178.jpg "Un artigiano dipinge con precisione geometrica le ceramiche prima della seconda cottura")
+![Ceramiche pronte alla seconda cottura](./galleries/fes/4180.jpg "Ceramiche decorate pronte per la seconda cottura che farà virare i colori")
+![Ceramiche in vendita](./galleries/fes/4189.jpg "Le ceramiche prodotte dal laboratorio in vendita")
+![Pranzo lurido](./galleries/fes/4207.jpg "Pranzo raffinato")
+![Tatuaggio Henné](./galleries/fes/4211.jpg "Tatuaggio temporaneo realizzato con l'henné")
+![Carretto trasporto bagagli](./galleries/fes/3450.jpg "Lasciamo trasportare i bagagli ad un carrettiere")
 
 Io e Paolo imbocchiamo la N8 in direzione Sud, il sensore RDC della mia moto comincia a segnalare una leggera perdita di pressione al posteriore: incrocio le dita sperando di non aver forato… ma in una rotonda della città di Ifrane perdo completamente aderenza e in un'istante mi ritrovo sdraiato a terra: complice la bassa velocità me la cavo con una leggera grattata di valigia sinistra e paramotore, io sono completamente illeso e la giacca [Acerbis Creek](https://www.ebay.it/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=acerbis+creek&_sacat=0) non ha un graffio.
 
@@ -55,18 +55,18 @@ Attraversiamo di nuovo la stupenda foresta di cedri per poi proseguire sulla N13
 
 Ci svegliamo di buon'ora e dopo la colazione troviamo il foro nello pneumatico posteriore. Anche questa volta il [kit ripara tubeless](https://amzn.to/2U1EYB6) fa la sua bella figura, lo stesso non si può dire del mini compressore 12V da 10€ che arranca e si surriscalda… fortunatamente allo Ksar Timnay sono ben organizzati e risolvono la situazione prestandoci un compressore degno di questo nome. Per evitare problemi simili mi sono poi dotato di [pompa a pedale](https://amzn.to/2I8Tiq8): compatta, leggera e sempre funzionante!
 
-![Foratura](./galleries/foratura/IMG_3476.jpg "Troviamo il foro proprio nel mezzo del copertone")
-![Riparazione pneumatico](./galleries/foratura/IMG_3477.jpg "Il kit per la riparazione tubless colpisce ancora!")
-![Compressori a confronto](./galleries/foratura/IMG_3479.jpg "Un compressore 12V con il complesso di inferiorità")
+![Foratura](./galleries/foratura/3476.jpg "Troviamo il foro proprio nel mezzo del copertone")
+![Riparazione pneumatico](./galleries/foratura/3477.jpg "Il kit per la riparazione tubless colpisce ancora!")
+![Compressori a confronto](./galleries/foratura/3479.jpg "Un compressore 12V con il complesso di inferiorità")
 
 Poco dopo Midelt la N13 serpeggia un po' per arrivare al passo Tizi-n-Tlghoumte, ma i panorami più spettacolari li troviamo dopo Kerrandou, subito dopo aver attraversato il **Tunnel del Legionario** (o Tunnel Zaabal): una galleria lunga 60 metri realizzata dalla Legione Straniera francese tra il 1927 ed il 1928 utilizzando picconi, badili e tanto sudore.
 
 Da qui si entra nella splendida **Valle dello Ziz**, la strada diventa sinuosa ed è un piacere pennellare i curvoni che seguono il percorso dell'omonimo fiume. Finalmente tornaniamo a viaggiare lungo i bordi di oasi rigogliose che creano un contrasto fortissimo tra il verde della vegetazione rigogliosa e la terra ocra arsa dal sole.
 
-![Ingresso Tunnel del Legionario](./galleries/ziz/_GAB4217.jpg "Entrando nel Tunnel del Legionario")
-![Valle dello Ziz](./galleries/ziz/_GAB4214.jpg "Il fiume Ziz nei pressi del Tunnel del Legionario")
-![Oasi Ziz](./galleries/ziz/IMG_3483.jpg "Oasi lungo il fiume Ziz")
-![Pranzo Ziz](./galleries/ziz/IMG_3481.jpg "Pranzo lungo le oasi dello Ziz")
+![Ingresso Tunnel del Legionario](./galleries/ziz/4217.jpg "Entrando nel Tunnel del Legionario")
+![Valle dello Ziz](./galleries/ziz/4214.jpg "Il fiume Ziz nei pressi del Tunnel del Legionario")
+![Oasi Ziz](./galleries/ziz/3483.jpg "Oasi lungo il fiume Ziz")
+![Pranzo Ziz](./galleries/ziz/3481.jpg "Pranzo lungo le oasi dello Ziz")
 
 Nei pressi di Erfoud lo Ziz si inabissa nel terreno lasciando il posto ad uno *oued*, il letto secco di un fiume fossile: fortunatamente sotto l'arida crosta del Sahara l'acqua scorre e rende possibile la vita in questo ambiente apparentemente inabitabile.
 
@@ -82,17 +82,17 @@ Dopo aver superato 4 o 5 dune lo ksar non si vede più, siamo finalmente immersi
 
 Purtroppo non sono in grado di descrivere le sensazioni provate davanti ad un paesaggio così affascinante, lascio che siano le foto ad ispirarvi.
 
-![Dune Erg Chebbi](./galleries/erg-chebbi/_GAB4255.jpg "Dune dell'Erg Chebbi")
-![Dune Merzouga](./galleries/erg-chebbi/_GAB4245.jpg "Le Dune nei pressi di Merzouga raggiungono i 150 metri di altezza")
-![Turisti dromedari](./galleries/erg-chebbi/_GAB4261.jpg "Carovana di turisti in sella ai dromedari")
-![Gabriele Erg Chebbi](./galleries/erg-chebbi/_GAB4264.jpg "Gabriele prende l'ultimo sole tra le dune dell'Erg Chebbi")
-![Paolo Merzouga](./galleries/erg-chebbi/_GAB4268.jpg "Paolo tra le dune di Merzouga")
-![Moto rally deserto](./galleries/erg-chebbi/_GAB4286.jpg "Allenamento in vista del rally tra le dune di Merzuga")
+![Dune Erg Chebbi](./galleries/erg-chebbi/4255.jpg "Dune dell'Erg Chebbi")
+![Dune Merzouga](./galleries/erg-chebbi/4245.jpg "Le Dune nei pressi di Merzouga raggiungono i 150 metri di altezza")
+![Turisti dromedari](./galleries/erg-chebbi/4261.jpg "Carovana di turisti in sella ai dromedari")
+![Gabriele Erg Chebbi](./galleries/erg-chebbi/4264.jpg "Gabriele prende l'ultimo sole tra le dune dell'Erg Chebbi")
+![Paolo Merzouga](./galleries/erg-chebbi/4268.jpg "Paolo tra le dune di Merzouga")
+![Moto rally deserto](./galleries/erg-chebbi/4286.jpg "Allenamento in vista del rally tra le dune di Merzuga")
 
 Tornati allo ksar troviamo il nostro bucato asciutto come non mai: i tessuti si sono essicati completamente nel giro di un paio d'ore e sembrano fatti di carta. Ceniamo nel ristorante dello Ksar e prima di dormire andiamo a fare altri due passi tra le dune, dove rimaniamo senza fiato: si vedono un numero impressionante di stelle, bastano pochi minuti per abituare gli occhi a "vedere al buio" grazie alla poca luce riflessa dalle nubi.
 
-![Notte stellata Sahara](./galleries/erg-chebbi/_GAB4293.jpg "Notte stellata nel Sahara")
-![Piscina nel Sahara](./galleries/erg-chebbi/IMG_3535.jpg "La piscina dell'Hotel Yasmina, nel bel mezzo del deserto del Sahara")
+![Notte stellata Sahara](./galleries/erg-chebbi/4293.jpg "Notte stellata nel Sahara")
+![Piscina nel Sahara](./galleries/erg-chebbi/3535.jpg "La piscina dell'Hotel Yasmina, nel bel mezzo del deserto del Sahara")
 
 ## Giorno 12: gioie e fatiche tra le dune di Merzouga
 
@@ -103,14 +103,14 @@ Dato che siamo gli unici due europei del gruppo (il resto della comitiva è comp
 
 L'**alba è uno spettacolo mangnifico** e nel giro di un paio d'ore vediamo le dune assumere decine di gradazioni di colore diverse.
 
-![Notte stellata prima dell'alba](./galleries/alba-sahara/_GAB4296.jpg "La notte stellata prima dell'alba")
-![Dromedari Merzouga](./galleries/alba-sahara/_GAB4306.jpg "Dalle mucche bavaresi ai dromedari berberi")
-![Venere duna Erg Chebbi](./galleries/alba-sahara/_GAB4308.jpg "Venere fa capolino su una duna dell'Erg Chebbi")
-![Erg Chebbi alba rosso fuoco](./galleries/alba-sahara/_GAB4313.jpg "La sabbia rosso fuoco illuminata dai primi raggi del sole")
-![Gabriele Paolo alba Erg Chebbi](./galleries/alba-sahara/_GAB4340.jpg "Il sole sorge dietro a Paolo e Gabriele")
-![Saluto al sole Sahara](./galleries/alba-sahara/_GAB4328.jpg "Saluto al sole del Sahara")
-![Turbante guida berbera](./galleries/alba-sahara/IMG_3552.jpg "Il turbante della nostra guida berbera")
-![Ombre dromedari alba deserto](./galleries/alba-sahara/_GAB4349.jpg "Le ombre dei dromedari proiettate sulla sabbia dal sole africano")
+![Notte stellata prima dell'alba](./galleries/alba-sahara/4296.jpg "La notte stellata prima dell'alba")
+![Dromedari Merzouga](./galleries/alba-sahara/4306.jpg "Dalle mucche bavaresi ai dromedari berberi")
+![Venere duna Erg Chebbi](./galleries/alba-sahara/4308.jpg "Venere fa capolino su una duna dell'Erg Chebbi")
+![Erg Chebbi alba rosso fuoco](./galleries/alba-sahara/4313.jpg "La sabbia rosso fuoco illuminata dai primi raggi del sole")
+![Gabriele Paolo alba Erg Chebbi](./galleries/alba-sahara/4340.jpg "Il sole sorge dietro a Paolo e Gabriele")
+![Saluto al sole Sahara](./galleries/alba-sahara/4328.jpg "Saluto al sole del Sahara")
+![Turbante guida berbera](./galleries/alba-sahara/3552.jpg "Il turbante della nostra guida berbera")
+![Ombre dromedari alba deserto](./galleries/alba-sahara/4349.jpg "Le ombre dei dromedari proiettate sulla sabbia dal sole africano")
 
 Rientriamo all'Hotel Yasmina giusto in tempo per la colazione, dopodichè decido di tentare la sorte sulle dune di sabbia in groppa alla mia bicilindrica bavarese; Paolo osserva le mie gomme 90% stradali e decide di abbandonarmi al mio destino. Cerco di alleggerire il mio destriero smontando il tris di valigie, ma la mia [BMW R1200GS](/tag/bmw-r1200gs) continua a pesare più di 200 kg.
 
@@ -118,15 +118,15 @@ Abbasso un po' la pressione degli pneumatici, disattivo l'elettronica di control
 
 È arrivato il momento di affrontare la sabbia, quella vera. Inizio ad aggredire il margine del deserto salendo su piccole dune, rendendomi subito conto della necessità di avere gomme molto (ma MOLTO!) più tassellate delle [Michelin Anakee III](https://www.ebay.it/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=michelin+anakee+3&_sacat=0) e un mezzo molto (ma MOLTO MOLTO!) più leggero.  Dopo aver preso un po' di confidenza decido di sgasare in prima per affondare la ruota posteriore nella sabbia e fermarmi a fare qualche scatto: le foto sono eccezionali, mai quanto la fatica che ho dovuto fare per uscirne! Senza gomme tassellate non c'è modo di tirarsi fuori con il motore, ho dovuto **scavare a mano per liberare la moto dalle sabbie del deserto**. Madido di sudore e con una sete pazzesca me ne torno all'hotel con la coda tra le gambe.
 
-![BMW R1200GS insabbiata Merzouga](./galleries/sabbiature/IMG_3558.jpg "BMW R1200GS insabbiata tra le dune di Merzouga")
-![BMW R1200GS insabbiata Erg Chebbi](./galleries/sabbiature/IMG_3556.jpg "BMW R1200GS insabbiata nell'Erg Chebbi")
-![BMW R1200GS deserto Sahara Marocco](./galleries/sabbiature/IMG_3563.jpg "La BMW R1200GS liberata dalle sabbie del Sahara marocchino")
+![BMW R1200GS insabbiata Merzouga](./galleries/sabbiature/3558.jpg "BMW R1200GS insabbiata tra le dune di Merzouga")
+![BMW R1200GS insabbiata Erg Chebbi](./galleries/sabbiature/3556.jpg "BMW R1200GS insabbiata nell'Erg Chebbi")
+![BMW R1200GS deserto Sahara Marocco](./galleries/sabbiature/3563.jpg "La BMW R1200GS liberata dalle sabbie del Sahara marocchino")
 
 Purtroppo dobbiamo caricare i nostri bagagli e ripartire, abbiamo un traghetto che ci aspetta. Verso le 11 ci rimettiamo in viaggio raggiungendo l'abitato di Merzouga, un villaggio abbastanza insignificante che non aggiunge niente alla magnificenza delle dune. Torniamo sulla N13, questa volta per percorrerla in tutta la sua lunghezza dall'estremo meridionale a quello settentrionale, la città blu di Chefchaouen.
 
-![Dune dromedari Merzouga](./galleries/merzouga/_GAB4363.jpg "Dune di sabbia e dromedari a Merzouga")
-![Lasciando Merzouga](./galleries/merzouga/_GAB4368.jpg "A malincuore dobbiamo lasciare le dune dell'Erg Chebbi alle nostre spalle")
-![Oasi valle dello Ziz](./galleries/merzouga/_GAB4371.jpg "Oasi nella valle dello Ziz")
+![Dune dromedari Merzouga](./galleries/merzouga/4363.jpg "Dune di sabbia e dromedari a Merzouga")
+![Lasciando Merzouga](./galleries/merzouga/4368.jpg "A malincuore dobbiamo lasciare le dune dell'Erg Chebbi alle nostre spalle")
+![Oasi valle dello Ziz](./galleries/merzouga/4371.jpg "Oasi nella valle dello Ziz")
 
 Il nostro poetico intento di percorrere una strada da un capo all'altro si scontra molto presto con la dura realtà: mettersi in viaggio nelle ore centrali in pieno deserto del Sahara non è una grande idea. In breve tempo ci sentiamo disidratati e ogni mezz'ora ci fermiamo a scolare un buon litro d'acqua nel primo bar che troviamo, seguito da una *copiosa pisciata* nel giro di pochi chilometri. L'unica è fermarsi a recuperare l'equilibrio idrico mangiando frutta, bevendo té e spremute d'arancia.
 
@@ -147,14 +147,14 @@ Siamo partiti dal deserto roccioso ed in meno di 400 km abbiamo raggiunto le ver
 
 Una buona dormita rende sicuramente tutto più bello, ma il fascino di Chefchaouen, con il suo centro storico completamente dipinto di blu, è oggettivamente altissimo. È un'antico insediamento arroccato sul fianco di una montagna, fondato nel 1471 da esuli andalusi di fede ebraica e musulmana, per anni chiuso al turismo perché considerato sacro. Non si conosce esattamente il motivo del colore blu: noi ci accontentiamo di perderci nel labirinto delle sue viuzze e contemplarla dall'alto dopo una breve camminata fuori dalle mura.
 
-![Panorama Chefchaouen](./galleries/chefchaouen/_GAB4407.jpg "Chefchaouen, la perla blu del Marocco")
-![Vicoli Chefchaouen](./galleries/chefchaouen/_GAB4432.jpg "Cartoline dai vicoli di Chefchaouen")
-![Vicoli Chefchaouen](./galleries/chefchaouen/_GAB4417.jpg "Cartoline dai vicoli di Chefchaouen")
-![Vicoli Chefchaouen](./galleries/chefchaouen/_GAB4383.jpg "Cartoline dai vicoli di Chefchaouen")
-![Vicoli Chefchaouen](./galleries/chefchaouen/_GAB4391.jpg "Cartoline dai vicoli di Chefchaouen")
-![Vicoli Chefchaouen](./galleries/chefchaouen/_GAB4430.jpg "Cartoline dai vicoli di Chefchaouen")
-![Vicoli Chefchaouen](./galleries/chefchaouen/_GAB4431.jpg "Cartoline dai vicoli di Chefchaouen")
-![Vicoli Chefchaouen](./galleries/chefchaouen/_GAB4388.jpg "Cartoline dai vicoli di Chefchaouen")
+![Panorama Chefchaouen](./galleries/chefchaouen/4407.jpg "Chefchaouen, la perla blu del Marocco")
+![Vicoli Chefchaouen](./galleries/chefchaouen/4432.jpg "Cartoline dai vicoli di Chefchaouen")
+![Vicoli Chefchaouen](./galleries/chefchaouen/4417.jpg "Cartoline dai vicoli di Chefchaouen")
+![Vicoli Chefchaouen](./galleries/chefchaouen/4383.jpg "Cartoline dai vicoli di Chefchaouen")
+![Vicoli Chefchaouen](./galleries/chefchaouen/4391.jpg "Cartoline dai vicoli di Chefchaouen")
+![Vicoli Chefchaouen](./galleries/chefchaouen/4430.jpg "Cartoline dai vicoli di Chefchaouen")
+![Vicoli Chefchaouen](./galleries/chefchaouen/4431.jpg "Cartoline dai vicoli di Chefchaouen")
+![Vicoli Chefchaouen](./galleries/chefchaouen/4388.jpg "Cartoline dai vicoli di Chefchaouen")
 
 Vogliamo pranzare guardando il Mar Mediterraneo, e su consiglio dell'albergatore ci muoviamo verso Oued Laou: la strada P4105 corre lungo una stretta valle molto scenografica, ma raggiunta la costa troviamo spiaggioni di sabbia grigia ed una città piuttosto deludente. Un panino farcito con sardine cotte alla brace ci risolleva l'animo.
 
@@ -162,10 +162,10 @@ Costeggiamo il Mediterraneo sulla N16, nastro di asfalto perfetto che ci regala 
 
 Ci arrendiamo a prenotare tramite Booking.com, dove troviamo una stanza ad un prezzo decente al Restingua Smir ([sconto del 10% prenotando da questo link](https://www.booking.com/s/34_6/desteg10)). L'architettura moderna e minimal ci fa già sentire fuori dal Marocco.
 
-![Strada P4105](./galleries/costa/IMG_3589.jpg "La spettacolare vallata lungo la P4105")
-![Restingua Smir](./galleries/costa/IMG_3610.jpg "L'architettura fuori posto del Restingua Smir")
-![Conchiglie spiaggia Restingua Smir](./galleries/costa/IMG_3609.jpg "Migliaia di conchiglie ricoprono la spiaggia Restingua Smir")
-![Tappeto conchiglie Restingua Smir](./galleries/costa/IMG_3608.jpg "Tappeto di conchiglie bivalve")
+![Strada P4105](./galleries/costa/3589.jpg "La spettacolare vallata lungo la P4105")
+![Restingua Smir](./galleries/costa/3610.jpg "L'architettura fuori posto del Restingua Smir")
+![Conchiglie spiaggia Restingua Smir](./galleries/costa/3609.jpg "Migliaia di conchiglie ricoprono la spiaggia Restingua Smir")
+![Tappeto conchiglie Restingua Smir](./galleries/costa/3608.jpg "Tappeto di conchiglie bivalve")
 
 ## Giorno 15: arrivederci Marocco!
 
@@ -173,13 +173,13 @@ Ci svegliamo con calma e io ne approfitto per fare una passeggiata sulla spiaggi
 
 Seguiamo la N16 e raggiungiamo la Plage Dalia, scenico porticciolo naturale a due passi dall'enorme porto di Tangier Med e da cui si possono ammirare la costa spagnola e la rocca di Gibilterra. Facciamo qualche foto e ci spostiamo per il pranzo in una taverna per camionisti poco distante dal porto industriale.
 
-![Plage Dalia](./galleries/dalia/_GAB4441.jpg "Dal porticciolo di Plage Dalia si vede la rocca di Gibilterra")
-![BMW R1200GS Colonne d'Ercole](./galleries/dalia/_GAB4437.jpg "Le nostre BMW R1200GS alle Colonne d'Ercole")
+![Plage Dalia](./galleries/dalia/4441.jpg "Dal porticciolo di Plage Dalia si vede la rocca di Gibilterra")
+![BMW R1200GS Colonne d'Ercole](./galleries/dalia/4437.jpg "Le nostre BMW R1200GS alle Colonne d'Ercole")
 
 Spendiamo gli ultimi Dirham bevendo spremute d'arancia, guardando il mare dalla spiaggia di Ksar es Seghir con il cuore pesante per quel che dovrà inevitabilmente accadere da qui in poi: i controlli e l'attesa per l'imbarco, il parcheggio delle moto nel ventre di metallo della nave GNV, le 56 ore di navigazione per arrivare a Genova, il viaggio verso Torino in autostrada sotto la pioggia, le telefonate di lavoro, il rientro nella quotidianità...
 
-![BMW R1200GS coda imbarco Tangeri Med](./galleries/partenza/IMG_3616.jpg "A Tangeri Med in coda per l'imbarco, si torna a casa")
-![Arrivederci Marocco](./galleries/partenza/_GAB4450.jpg "Arrivederci Marocco!")
-![Maliconia Marocco](./galleries/partenza/_GAB4454.jpg "Non siamo gli unici a provare malinconia lasciando il Marocco")
+![BMW R1200GS coda imbarco Tangeri Med](./galleries/partenza/3616.jpg "A Tangeri Med in coda per l'imbarco, si torna a casa")
+![Arrivederci Marocco](./galleries/partenza/4450.jpg "Arrivederci Marocco!")
+![Maliconia Marocco](./galleries/partenza/4454.jpg "Non siamo gli unici a provare malinconia lasciando il Marocco")
 
 Arrivederci Marocco, non dimenticheremo facilmente questi 5500 km di esperienze e strade fantastiche!
