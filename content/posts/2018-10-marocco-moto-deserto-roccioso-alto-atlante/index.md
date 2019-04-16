@@ -21,6 +21,7 @@ tags:
 - tag/marocco
 - tag/marrakech
 - tag/montagna
+- tag/sahara
 - tag/off-road
 - tag/tizi-ntichka
 - tag/valle-delle-rose

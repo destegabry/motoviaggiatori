@@ -15,9 +15,13 @@ tags:
 - tag/marocco-in-moto
 - tag/africa
 - tag/bmw-r1200gs
-- tag/marocco
+- tag/erg-chebbi
 - tag/deserto
 - tag/dune
+- tag/marocco
+- tag/merzouga
+- tag/sabbia
+- tag/sahara
 - tag/off-road
 - tag/video
 - tag/xiaomi-yi
