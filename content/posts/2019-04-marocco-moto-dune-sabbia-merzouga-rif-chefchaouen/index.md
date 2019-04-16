@@ -1,5 +1,5 @@
 ---
-title: "#MaroccoInMoto: falle dune di sabbia di Merzouga al Rif di Chefchaouen"
+title: "#MaroccoInMoto: dalle dune di sabbia di Merzouga al Rif di Chefchaouen"
 slug: /2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen
 date: "2019-04-16T11:31:00.000Z"
 author: gabriele
@@ -30,7 +30,7 @@ tags:
 
 ![Percorso Marocco Merzouga Chefchaouen Tangeru](./galleries/percorso.png "Dalle sune di sabbia dell'Erg Chebbi a Tangeri, passando per Chefchaouen")
 
-## Giorno 10: Da Fes a Midelt
+## Giorno 10: da Fes a Midelt
 
 Per Stefania è giunto il momento di rientrare in Italia, ma abbiamo ancora gran parte della giornata per esplorare i dintorni di Fes. Il Riad Meski ci propone una gita di un paio d'ore in auto con sosta panoramica alle **Rovine delle Tombe Merinidi**, foto davanti ad una porta dorata del Palazzo Reale, visita guidata di un laboratorio dove si producono le tradizionali ceramiche marocchine.
 
@@ -42,7 +42,7 @@ Vogliamo raggiungere Midelt prima che faccia buio, per cui ripartiamo dopo aver 
 
 Attraversiamo di nuovo la stupenda foresta di cedri per poi proseguire sulla N13, lasciandoci il verde alle spalle. Percorriamo un altipiano che diventa sempre più arido man mano che procediamo verso Sud. Arriviamo allo Ksar Timnay di Midelt ([sconto del 10% prenotando da questo link](https://www.booking.com/s/34_6/desteg10)) che è quasi buio, controlleremo il mio pneumatico posteriore l'indomani.
 
-## Giorno 11: Le dune di sabbia dell'Erg Chebbi
+## Giorno 11: le dune di sabbia dell'Erg Chebbi
 
 Ci svegliamo di buon'ora e dopo la colazione troviamo il foro nello pneumatico posteriore. Anche questa volta il [kit ripara tubeless](https://amzn.to/2U1EYB6) fa la sua bella figura, lo stesso non si può dire del mini compressore 12V da 10€ che arranca e si surriscalda… fortunatamente allo Ksar Timnay sono ben organizzati e risolvono la situazione prestandoci un compressore degno di questo nome. Per evitare problemi simili mi sono poi dotato di [pompa a pedale](https://amzn.to/2I8Tiq8): compatta, leggera e sempre funzionante!
 
@@ -72,7 +72,7 @@ Purtroppo non sono in grado di descrivere le sensazioni provate davanti ad un pa
 
 Tornati allo ksar troviamo il nostro bucato asciutto come non mai: i tessuti si sono essicati completamente nel giro di un paio d'ore e sembrano fatti di carta. Ceniamo nel ristorante dello Ksar e prima di dormire andiamo a fare altri due passi tra le dune, dove rimaniamo senza fiato: si vedono un numero impressionante di stelle, bastano pochi minuti per abituare gli occhi a "vedere al buio" grazie alla poca luce riflessa dalle nubi.
 
-## Giorno 12: Gioie e fatiche tra le dune di Merzouga
+## Giorno 12: gioie e fatiche tra le dune di Merzouga
 
 Nonostante i tentativi di rimbalzare le varie offerte propinate dai berberi, abbiamo ceduto alla proposta di ammirare l'alba dall'alto di una duna… e così alle cinque del mattino siamo di nuovo con i piedi nella sabbia in attesa di montare sulle selle di una coppia di dromedari. Le poche nuvole della sera precedente sono scomparse, rendendo il cielo notturno ancora più emozionante.
 
@@ -103,7 +103,7 @@ Si potrebbero visitare le rovine romane di Volubilis, ma decidiamo di dare una r
 
 Siamo partiti dal deserto roccioso ed in meno di 400 km abbiamo raggiunto le verdissime montagne intorno a Chefchaouen attraverso una **varietà di paesaggi inimmaginabile**. Complice la giornata precedente piuttosto impegnativa, arriviamo alla *perla blu* solo per mangiare una rapida cena e crollare nel primo hotel in cui troviamo una stanza libera.
 
-## Giorno 14: La perla blu, Chefchaouen
+## Giorno 14: la perla blu, Chefchaouen
 
 Una buona dormita rende sicuramente tutto più bello, ma il fascino di Chefchaouen, con il suo centro storico completamente dipinto di blu, è oggettivamente altissimo. È un'antico insediamento arroccato sul fianco di una montagna, fondato nel 1471 da esuli andalusi di fede ebraica e musulmana, per anni chiuso al turismo perché considerato sacro. Non si conosce esattamente il motivo del colore blu: noi ci accontentiamo di perderci nel labirinto delle sue viuzze e contemplarla dall'alto dopo una breve camminata fuori dalle mura.
 
@@ -127,4 +127,4 @@ Spendiamo gli ultimi Dirham bevendo spremute d'arancia, guardando il mare dalla 
 
 [foto traghetto]
 
-Arrivederci Marocco, torneremo sicuramente a percorrere le tue strade meravigliose!
+Arrivederci Marocco, non dimenticheremo facilmente questi 5500 km di esperienze e strade fantastiche!
