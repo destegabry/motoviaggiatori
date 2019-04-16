@@ -9,6 +9,7 @@ excerpt: Seguiteci per non perdere i racconti ed i progetti di promozione social
 categories:
 - resoconti
 tags:
+- tag/deserto
 - tag/letture
 - tag/marocco
 - tag/miral

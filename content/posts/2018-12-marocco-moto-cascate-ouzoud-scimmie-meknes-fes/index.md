@@ -27,7 +27,7 @@ tags:
 - tag/tbourida
 ---
 
-![Percorso Marocco cascate Ouzoud città imperiali](./galleries/maroccoinmoto-percorso-3.png "A spasso per il versante Nord dell’Alto Atlante marocchino")
+![Percorso Marocco cascate Ouzoud città imperiali](./galleries/maroccoinmoto-percorso-3.png)
 
 ## Giorno 6: la Tbourida a Beni Mellal
 
