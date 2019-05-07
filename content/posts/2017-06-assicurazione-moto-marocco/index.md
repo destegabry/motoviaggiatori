@@ -23,7 +23,7 @@ Vuoi viaggiare per il Marocco in sella alla tua moto? La prima cosa da fare è v
 Da quando la Carta Verde non è più necessaria per viaggiare nei Paesi UE, le assicurazioni tendono a rilasciarla solo su richiesta: se prevedi di viaggiare molto all’estero <strong>chiedi il rilascio gratuito della Carta Verde ad ogni rinnovo</strong> per evitare di scoprire sul più bello di non poter entrare in qualche nazione extra-UE.
 </div>
 
-![Carta Verde Marocco](https://edit.motoviaggiatori.it/wp-content/uploads/2017/06/carta-verde-no-marocco-1024x714.jpg "Le assicurazioni italiane raramente rilasciano una Carta Verde valida per il Marocco")
+![Carta Verde Marocco](./galleries/0/0.jpg "Le assicurazioni italiane raramente rilasciano una Carta Verde valida per il Marocco")
 
 ## Prezzo e documenti necessari
 
@@ -59,7 +59,7 @@ Pagata la quota, verrà rilasciato un foglietto rosa con tutti i dettagli della 
 
 Se dovessi smarrire qualche documento presenza denuncia il prima possibile alla *police touristique*.
 
-![Assicurazione moto Marocco](https://edit.motoviaggiatori.it/wp-content/uploads/2017/06/Assicurazione-Marocco-1024x747.jpg "La mia assicurazione moto per il Marocco, rilasciata dall’Assurance aux Frontieres al porto di Tangeri Med")
+![Assicurazione moto Marocco](./galleries/1/0.jpg "La mia assicurazione moto per il Marocco, rilasciata dall’Assurance aux Frontieres al porto di Tangeri Med")
 
 ## Ufficio Tangeri Med
 
