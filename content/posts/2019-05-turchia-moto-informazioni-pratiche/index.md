@@ -67,7 +67,7 @@ Nonostante quel che potrebbe dire [mio cuggino](https://www.youtube.com/watch?v=
 
 I pericoli più importanti per gli stranieri sono episodi di microcriminalità come borseggi e piccole truffe, che possono verificarsi soprattutto nei luoghi turistici e nelle grandi città. Non ci sono particolari precauzioni da prendere rispetto a quelle che utilizzereste nei luoghi affollati di ogni grande città europea. Prima di ordinare al ristorante **verificate i prezzi se non sono esposti chiaramente**: potreste trovare un'amara sorpresa sul conto.
 
-La maggior parte degli alberghi non dispone di parcheggio privato e chiuso. Ad Istabul abbiamo parcheggiato davanti alla reception fidandoci della sorveglianza H24; dove possibile abbiamo spinto le moto nel cortile interno dell'albergo, altrove ci siamo armati di lucchetti, catene e talismani portafortuna. Fortunatamente non è successo nulla!
+La maggior parte degli alberghi non dispone di parcheggio privato e chiuso. Ad Istanbul abbiamo parcheggiato davanti alla reception fidandoci della sorveglianza H24; dove possibile abbiamo spinto le moto nel cortile interno dell'albergo, altrove ci siamo armati di lucchetti, catene e talismani portafortuna. Fortunatamente non è successo nulla!
 
 ## Strade e rifornimento
 
@@ -90,3 +90,10 @@ Non mancano formaggi e prodotti da forno, su tutti vale la pena citare il simit 
 La Turchia è un Paese a maggioranza musulmana, per cui può capitare di non trovare alcolici in alcuni locali. Vengono prodotti ottimi vini e birre, ma troverete soprattutto çay (té), caffé turco (la prima volta sorprende parecchio…), spremute d’arancia e melograno fresche, bibite in bottiglia.
 
 Gli alberghi sono molto economici, le categorie corrispondono abbastanza a quelle europee. È possibile prenotare con Booking.com dall'estero ma non dalla Turchia per ragioni fiscali (limite aggirabile con una VPN come [F-Secure Freedome](https://www.f-secure.com/en/home/products/freedome)), non dovrebbero esserci problemi con Airbnb.
+
+## Attrazioni turistiche particolari
+
+**Volare in mongolfiera** tra i camini delle fate è un sogno condiviso da molti, purtroppo non è così semplice da realizzare: i posti sono limitati e i voli vengono annullati in caso di condizioni meteorologiche incerte. Si vola al mattino presto per godere della vista mozzafiato delle falesie illuminate dalle prime luci dell’alba, per cui tutti i tour prevedono pick-up in hotel verso le 4 del mattino e colazione vicino al punto di decollo. I prezzi variano tra 150 e 250€ a persona (da pagare in euro e rimborsati in caso di volo annullato), il periodo di alta stagione è da aprile a giugno. Prenotazioni con almeno un mese di anticipo all’email <a href=“mailto:fly@turquazballoons.com“>fly@turquazballoons.com</a>. Si possono ammirare le mongolfiere in volo da Sunset Point a Göreme.
+
+Un altro classico turco è lo spettacolo dei **dervisci roteanti**, setta di monaci sufisti che cercano di raggiungere uno stato di estasi mistica danzando vorticosamente su se stessi. Per assistere ad un’autentica esibizione bisogna recarsi a Konya il sabato sera o durante il festival che si tiene a Dicembre. Nei luoghi turistici è possibile vedere la danza dei Dervisci tutti i giorni, in Cappadocia è possibile farlo al Saruhan Kervansaray di Avanos.
+
