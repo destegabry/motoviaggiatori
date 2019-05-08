@@ -3,7 +3,7 @@ node_js:
   - "stable"
 branches:
   only:
-  - master  
+  - master
 cache:
   directories:
   - node_modules
@@ -22,5 +22,3 @@ install:
   - "npm i"
 script:
   - "npm run build"
-after_success:
-  - "npm run deploy"

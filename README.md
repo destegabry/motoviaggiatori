@@ -21,4 +21,12 @@ To query the data you can use GraphQL syntax on http://localhost:8000/___graphql
 
 ## Build
 
-Run `npm run build` or `gatsby build`. User `gatsby serve` to test the production build.
+Run `npm run build` or `gatsby build`. Use `gatsby serve` to test the production build.
+
+## Deploy
+
+Built files are deployed to GitHub Pages running `npm run deploy`.
+
+## Deploy & Continuous Delivery
+
+The website is automatically built and deployed to GitHub Pages by [Travis CI](https://travis-ci.org) on each PR pushed on `master` branch.
