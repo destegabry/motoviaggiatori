@@ -3,7 +3,7 @@ title: "Turchia In Moto: informazioni pratiche"
 date: "2019-05-08T10:30:00.000Z"
 author: gabriele
 slug: /2019/05/turchia-in-moto-informazioni-pratiche
-featured_image: ./track.png
+featured_image: ./featured.jpg
 excerpt: "Informazioni su documenti necessari, assicurazione, cultura, economia, lingua, valuta, salute, strade, cibo e hotel per viaggiare in Turchia con la tua moto"
 opening: "<p>Terra di meraviglie e contrasti, la Turchia è una nazione affascinante a cavallo tra Asia ed Europa. Viaggiare sulle sue arterie stradali permette di affacciarsi su una grande varietà di paesaggi e raggiungere luoghi imperdibili.</p><p>In questo articolo non ci dilungheremo sulle meraviglie dell'Asia Minore per concentrarci sulle informazioni necessarie ad organizzare il tuo viaggio in Turchia.</p>"
 categories:
@@ -43,6 +43,9 @@ Oggi la Turchia possiede un'economia vivace e molto legata all'export verso l'Un
 Le moschee sono visitabili dai turisti (non durante l'orario di preghiera), a patto di rispettare le norme sull'abbigliamento: niente scarpe, spalle e caviglie coperte, velo sulla testa delle donne. La maggior parte delle grandi moschee fornisce gratuitamente velo e caffettano per chi avesse la necessità di coprirsi.
 
 **In Turchia è possibile vistare numerosi patrimoni dell'umanità UNESCO**, tra cui alcune aree di Istanbul, i siti rupestri della Cappadocia, le terrazze di travertino di Pamukkale, il sito archeologico di Troia, l'antica città di Efeso con la Biblioteca di Celso (una delle Sette Meraviglie del mondo antico).
+
+<!-- ![Moschea Eşrefoğlu di Beyşehir](./galleries/1/0.jpg "La moschea Eşrefoğlu di Beyşehir è la più grande e meglio conservata moschea in legno del mondo islamico")
+![Interno Agia Sofia, Istanbul](./galleries/1/1.jpg "Nella basilica di Agia Sofia a Istanbul convivono la storia di Cristianesimo e Islam, Impero Bizantino e Ottomano") -->
 
 ## Lingua
 
