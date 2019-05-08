@@ -26,6 +26,9 @@ const MainMenu = () => {
           <Link to={getCategoryUrl(categories['viaggi/romania'].slug)}>
             {categories['viaggi/romania'].name}
           </Link>
+          <Link to={getCategoryUrl(categories['viaggi/turchia'].slug)}>
+            {categories['viaggi/turchia'].name}
+          </Link>
         </nav>
       </span>
       <span>
