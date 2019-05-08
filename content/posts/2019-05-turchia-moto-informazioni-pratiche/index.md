@@ -10,8 +10,11 @@ categories:
 - viaggi
 - viaggi/turchia
 tags:
-- tag/europa-orientale
 - tag/asia
+- tag/cappadocia
+- tag/europa-orientale
+- tag/istanbul
+- tag/pamukkale
 - tag/turchia
 - tag/informazioni-pratiche
 - tag/turchia-in-moto
@@ -97,11 +100,11 @@ Gli alberghi sono molto economici, le categorie corrispondono abbastanza a quell
 
 ## Cappadocia in Mongolfiera
 
-Volare in mongolfiera tra i camini delle fate è un sogno condiviso da molti, purtroppo non è così semplice da realizzare: **i posti sono limitati** e i voli vengono annullati in caso di condizioni meteorologiche incerte.
+Volare in mongolfiera tra i *camini delle fate* del Göreme Milli Parkı è un sogno condiviso da molti, purtroppo non è così semplice da realizzare: **i posti sono limitati** e i voli vengono annullati in caso di condizioni meteorologiche incerte.
 
 Si vola al mattino presto per godere della vista mozzafiato delle falesie illuminate dalle prime luci dell’alba, per cui tutti i tour prevedono pick-up in hotel verso le 4 del mattino e colazione vicino al punto di decollo.
 
-I prezzi variano tra 150 e 250€ a persona (a seconda di stagione e dimensione della gondola), il periodo di alta stagione è da aprile a giugno.
+I prezzi variano tra 150 e 250€ a persona (a seconda di periodo e dimensione gondola), l'alta stagione è da aprile a giugno.
 
 Meglio prenotare con almeno un mese di anticipo all’email <a href=“mailto:fly@turquazballoons.com“>fly@turquazballoons.com</a>. Nel caso arrivaste in Cappadocia senza prenotazione chiedete all'hotel di essere inseriti in una lista d'attesa (qualche rinunciatario c'è sempre), dovrete pagare in contanti (preferibilmente euro) che vi saranno restituiti nel caso fosse impossibile volare.
 
@@ -112,3 +115,13 @@ Nel caso non si riuscisse ad ottenere un posto, è possibile ammirare le mongolf
 Un altro classico turco è la cerimonia del Samāʿ, rito effettuato dai monaci sufisti che cercano di raggiungere uno stato di estasi mistica danzando vorticosamente su se stessi.
 
 Per assistere ad un’autentico rito bisogna recarsi a Konya il sabato sera o durante il festival che si tiene a dicembre. Nei luoghi turistici è possibile vedere la danza dei Dervisci praticamente tutti i giorni; in Cappadocia li trovate al *Saruhan Kervansaray* di Avanos.
+
+## Pamukkale
+
+Famosissima per le vasche naturali di acqua termale, a Pamukkale si trovano anche le rovine dell'antica Hierapolis, importante città ellenistica e poi Romana.
+
+Sulla sommità del *castello di cotone* si possono ammirare un teatro romano, le rovine del *martyrion* dell'apostolo Filippo, una vasta necropoli e le sorgenti di acqua calda che sgorgano dal terreno e danno vita alle curiose formazioni di calcare e travertino.
+
+Dall'abitato di Pamukkale è possibile raggiungere le vasche pagando un biglietto e **camminando a piedi nudi** sulla roccia bianca. Nelle vasche è possible fare il bagno, l'acqua più calda si trova in quelle situate vicino alla sorgente (ovvero quelle più in alto). Se avete intenzione di visitare le rovine ricordatevi di portare un paio di scarpe con voi.
+
+Il momento migliore per visitare Pamukkale è nel tardo pomeriggio: in questo modo potrete ammirare il bianco calcare tramutare in oro al tramonto.

@@ -178,7 +178,7 @@ Torniamo in hotel per le ore 11.30 e partiamo in moto direzione Bodrum. Le strad
 
 Il giorno seguente ci dirigiamo verso Alacati e lungo il percorso andiamo a visitare il sito archeologico di *Magnesia* e successivamente quello di *Efeso*.
 
-L’entrata a Magnesia è gratuita ed è possibile visitare l’antico tempio dedicato ad Artemide, l’Altare di Pergamo, il tempio dedicato a Zeus, dell’agorà, il teatro e il *prytaneion *(ovvero l’edificio in cui veniva custodito il fuoco sacro che non poteva mai essere spento). Si tratta di un sito all’aperto, che potrebbe essere curato meglio.
+L’entrata a Magnesia è gratuita ed è possibile visitare l’antico tempio dedicato ad Artemide, l’Altare di Pergamo, il tempio dedicato a Zeus, dell’agorà, il teatro e il *prytaneion* (ovvero l’edificio in cui veniva custodito il fuoco sacro che non poteva mai essere spento). Si tratta di un sito all’aperto, che potrebbe essere curato meglio.
 
 ![Sito archeologico di Magnesia](./galleries/IMG_9607.jpeg "Sito archeologico di Magnesia")
 ![Sito archeologico di Magnesia](./galleries/IMG_9609.jpeg "Sito archeologico di Magnesia")
