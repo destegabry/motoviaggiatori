@@ -30,6 +30,22 @@ Tutte le assicurazioni italiane dovrebbero offrire copertura per la Turchia per 
 
 Prima di partire è sempre meglio controllare la valitità di queste informazioni sul sito della Farnesina [Viaggiare Sicuri](http://www.viaggiaresicuri.it/paesi/dettaglio/turchia.html).
 
+## Traghetti
+
+Viaggiare in traghetto permette di risparmiare parecchie centinaia di chilometri di guida, ma soprattutto viaggiare di notte dormendo *comodamente*. 
+
+Dall'Italia non esistono traghetti che portano direttamente in Turchia, ma è possibile accorciare un po' il percorso con le rotte che dal porto di Ancona, Bari e Brindisi portano in Croazia, Montenegro, Albania e Grecia. Nel nostro viaggio abbiamo navigato sulle tratte Ancona-Spalato ([SNAV](https://www.snav.it)) e Igoumenitsa-Ancona ([Grimaldi Lines](https://www.grimaldi-lines.com/it) o [ANEK](https://anekitalia.com)).
+
+Per raggiungere la costa asiatica della Turchia dalla Grecia bisgona tribolare un po': purtroppo non esistono traghetti che fanno la tratta diretta da Salonicco o Atene, bisogna per foza arrivare su un'isola greca vicina alla costa turca e poi fare una seconda traversata (molto rapida).
+
+Nel viaggio di ritorno abbiamo optato per la rotta **Çeşme-Atene passando per l'isola di Chios** (che è bellissima e le sue spiagge meritano una giornata di riposo). 
+
+La tratta Çeşme-Chios dura mezz'ora, in bassa stagione ci sono solamente 2 traghetti, al mattino presto e nel tardo pomeriggio. Abbiamo comprato i biglietti sul sito turco [Feribot.net](https://www.feribot.net/en/), funziona bene ed è in lingua inglese. La prenotazione non è istantanea: un operatore dovrà verificare la disponibilità di spazio per le moto sul piccolo traghetto e poi vi invierà conferma e link per il pagamento via email. **Sia all'imbarco che allo sbarco bisogna superare i controlli di frontiera**.
+
+La nave Chios-Atene parte la sera ed il viaggio dura tutta la notte; la tratta è operata dalla greca [Blue Star Ferries](https://www.bluestarferries.com/en/), si può effettuare la prenotazione online ma i biglietti vanno tassativamente ritirati all'agenzia Michalakis Travel di Chios (si trova proprio davanti al porto).
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_C_KSPVQPnCCr8QRrWxVw1vN2InomfrE" width="640" height="300"></iframe>
+
 ## Storia, cultura ed economia
 
 La penisola anatolica fu parte della *Mezzaluna Fertile*, culla di molte civiltà già in epoca preistorica. Il sito archeologico di Çatalhöyük fu la sede di una delle prime città della Storia, abitata da almeno diecimila persone nel 7000 AC. Nell'odierna Turchia si svilupparono Ittiti, Frigi, Traci, Lidi, Armeni ed Elleni (Greci). Incorporata negli Imperi persiano, macedone, romano e bizantino, l'Asia Minore rimase sotto l'egemonia ottomana dal XIV al XX secolo.
