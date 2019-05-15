@@ -39,7 +39,6 @@ Muore all’età di 64 per un incidente di caccia, sua grande passione.
 
 ## Avventura Brasiliana
 
-
 [Avventura Brasiliana](http://amzn.to/2jMIRJb) è lo strampalato racconto della strampalata spedizione di ricerca dello strampalato esploratore britannico Percy Fawcett, dato per scomparso nella giungla Brasiliana dal 1926.
 
 > *Questo libro si distingue anche dalla maggior parte dei libri ambientati nell’entroterra brasiliano. Lo fa attenendosi strettamente alla verità, da capo a fondo. \[…\] Il lettore mi perdonerà, dunque, se la mia raffigurazione del Mato Grosso non quadra con le sue idee preconcette e melodrammatiche.*
@@ -64,19 +63,19 @@ Per questo è un libro che consiglio ad ogni aspirante MotoViaggiatore: spesso�
 
 ## Dello stesso autore
 
-*   *[Avventura Brasiliana](http://amzn.to/2jMIRJb)* (1932 – edizione italiana del 2013) — esplorazione della giungla brasiliana alla ricerca dello scomparso colonnello Percy Fawcett
-*   [*One’s Company: A Journey to China in 1933*](http://amzn.to/2jyIWTM) (1934) — viaggio attraverso la Manciuria, ristampato assieme a *Travels in Tartary*
-*   [*News from Tartary: A Journey from Peking to Kashmir*](http://amzn.to/2k5z6JN) (1936) — viaggio da Pechino a Srinagar attraverso lo Xinjiang in compagnia della scrittrice Ella Maillart, ripubblicato assieme a *Travels in Tartary*
-*   [*The Flying Visit*](http://amzn.to/2jaCv5F) (1940) — romanzo umoristico su un involontario viaggio di Adolf Hitler in Gran Bretagna
-*   [*A Story to Tell: And Other Tales*](http://amzn.to/2japxVP) (1942) — raccolta di racconti brevi
-*   [*The Sixth Column: “A Singular Tale of Our Times”*](http://amzn.to/2jpglh9) (1952) — una spy-story ambientata durante la Guerra Fredda
-*   [*A Forgotten Journey*](http://amzn.to/2jprtKS) (1952) — diario che Fleming tenne durante il viaggio attraverso la Russia e la Manciuria nel 1934
-*   [*My Aunt’s Rhinoceros: And Other Reflections*](http://amzn.to/2jN4Srw) (1956) — raccolta di saggi scritti per The Spectator
-*   [*Operation Sea Lion*](http://amzn.to/2jaxB8G) (1957) — relazione sull’Operazione Seelöwe (del 1940)
-*   [*Invasion 1940*](http://amzn.to/2iDhi8m) (1957) — relazione sui piani anti-invasione britannici durante la Seconda guerra mondiale
-*   [*With the Guards to Mexico: And Other Excursions*](http://amzn.to/2iDbyM0) (1957) — raccolta di saggi scritti per The Spectator
-*   [*The Gower Street Poltergeist*](http://amzn.to/2iDdJyZ) (1958) — raccolta di saggi scritti per The Spectator
-*   [*The Siege at Peking*](http://amzn.to/2jMVNip) (1959) — relazione sulla Ribellione dei Boxer e l’assedio di Pechino
-*   [*Bayonets to Lhasa: The First Full Account of the British Invasion of Tibet in 1904*](http://amzn.to/2iD7uez) (1961)
-*   [*Goodbye to the Bombay Bowler*](http://amzn.to/2jyViel) (1961) — raccolta di saggi scritti per The Spectator
-*   [*The Fate of Admiral Kolchak*](http://amzn.to/2iDgzny) (1963) — indagine su Aleksandr Vasil’evič Kolčak, comandante in capo dell’Armata Bianca che tentò di salvare la famiglia imperiale russa a Ekaterinburg nel 1918.
+- *[Avventura Brasiliana](http://amzn.to/2jMIRJb)* (1932 – edizione italiana del 2013) — esplorazione della giungla brasiliana alla ricerca dello scomparso colonnello Percy Fawcett
+- [*One’s Company: A Journey to China in 1933*](http://amzn.to/2jyIWTM) (1934) — viaggio attraverso la Manciuria, ristampato assieme a *Travels in Tartary*
+- [*News from Tartary: A Journey from Peking to Kashmir*](http://amzn.to/2k5z6JN) (1936) — viaggio da Pechino a Srinagar attraverso lo Xinjiang in compagnia della scrittrice Ella Maillart, ripubblicato assieme a *Travels in Tartary*
+- [*The Flying Visit*](http://amzn.to/2jaCv5F) (1940) — romanzo umoristico su un involontario viaggio di Adolf Hitler in Gran Bretagna
+- [*A Story to Tell: And Other Tales*](http://amzn.to/2japxVP) (1942) — raccolta di racconti brevi
+- [*The Sixth Column: “A Singular Tale of Our Times”*](http://amzn.to/2jpglh9) (1952) — una spy-story ambientata durante la Guerra Fredda
+- [*A Forgotten Journey*](http://amzn.to/2jprtKS) (1952) — diario che Fleming tenne durante il viaggio attraverso la Russia e la Manciuria nel 1934
+- [*My Aunt’s Rhinoceros: And Other Reflections*](http://amzn.to/2jN4Srw) (1956) — raccolta di saggi scritti per The Spectator
+- [*Operation Sea Lion*](http://amzn.to/2jaxB8G) (1957) — relazione sull’Operazione Seelöwe (del 1940)
+- [*Invasion 1940*](http://amzn.to/2iDhi8m) (1957) — relazione sui piani anti-invasione britannici durante la Seconda guerra mondiale
+- [*With the Guards to Mexico: And Other Excursions*](http://amzn.to/2iDbyM0) (1957) — raccolta di saggi scritti per The Spectator
+- [*The Gower Street Poltergeist*](http://amzn.to/2iDdJyZ) (1958) — raccolta di saggi scritti per The Spectator
+- [*The Siege at Peking*](http://amzn.to/2jMVNip) (1959) — relazione sulla Ribellione dei Boxer e l’assedio di Pechino
+- [*Bayonets to Lhasa: The First Full Account of the British Invasion of Tibet in 1904*](http://amzn.to/2iD7uez) (1961)
+- [*Goodbye to the Bombay Bowler*](http://amzn.to/2jyViel) (1961) — raccolta di saggi scritti per The Spectator
+- [*The Fate of Admiral Kolchak*](http://amzn.to/2iDgzny) (1963) — indagine su Aleksandr Vasil’evič Kolčak, comandante in capo dell’Armata Bianca che tentò di salvare la famiglia imperiale russa a Ekaterinburg nel 1918.

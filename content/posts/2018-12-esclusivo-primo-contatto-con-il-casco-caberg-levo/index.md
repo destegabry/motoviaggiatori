@@ -19,9 +19,9 @@ tags:
 ---
 ## Caberg: una storia italiana
 
-La società nasce a Bergamo nel 1974, il nome apparentemente straniero è in realtà l’azzeccata combinazione delle parole **CA**schi e **BERG**amo. 
+La società nasce a Bergamo nel 1974, il nome apparentemente straniero è in realtà l’azzeccata combinazione delle parole **CA**schi e **BERG**amo.
 
-Da sempre specializzata in caschi da moto realizzati a mano in Italia, Caberg Helmets è ancora oggi un’azienda familiare amministrata da manager esterni di provata esperienza. 
+Da sempre specializzata in caschi da moto realizzati a mano in Italia, Caberg Helmets è ancora oggi un’azienda familiare amministrata da manager esterni di provata esperienza.
 
 Visitiamo la sede di Azzano San Paolo, situata a pochi chilometri dalla città alta di Bergamo. Qui avvengono tutte le fasi di produzione dei caschi: dagli sketch preparatori ai prototipi stampati in 3D, dalla produzione delle calotte al completo assemblaggio.
 
@@ -45,7 +45,7 @@ La **calotta** esterna del LEVO è realizzata in fibre composite (fibra di vet
 
 Gli **interni** sono ipoallergenici, completamente asportabili e lavabili. La spugna dei guanciali ha una forma anatomica e sono ricoperti da uno strato di tessuto Coolmax®, materiale fresco e traspirante.
 
-La calotta interna del casco ospita i canali del **sistema di ventilazione**, composto da due prese d’aria anteriori e due estrattori posteriori che possono essere chiusi in caso di pioggia. 
+La calotta interna del casco ospita i canali del **sistema di ventilazione**, composto da due prese d’aria anteriori e due estrattori posteriori che possono essere chiusi in caso di pioggia.
 
 Il Caberg LEVO permette di **viaggiare in sicurezza** anche con la mentoniera aperta: ha superato i test di omologazione sia per i caschi integrali che per quelli jet (normativa ECE 22.05 P/J).
 
@@ -61,7 +61,7 @@ Continuate a seguirci, nei prossimi mesi il Caberg LEVO ci accompagnerà in tutt
 
 Mentre scriviamo questo articolo Caberg non ha ancora avviato la produzione di massa del LEVO, le unità che abbiamo ricevuto per i test sono versioni di pre-produzione.
 
-Al momento del rilascio ufficiale il LEVO sarà disponibile nei colori bianco, nero opaco, giallo alta visibilità, grafica flow; la versione LEVO CARBON avrà la calotta con la trama del carbonio a vista e la mentoniera nera opaca. 
+Al momento del rilascio ufficiale il LEVO sarà disponibile nei colori bianco, nero opaco, giallo alta visibilità, grafica flow; la versione LEVO CARBON avrà la calotta con la trama del carbonio a vista e la mentoniera nera opaca.
 
 ![Caberg Levo – White Metal](./galleries/Caberg-Levo-White-Metal-1.jpg "Caberg Levo – White Metal")
 ![Caberg Levo – Black Matt](./galleries/Caberg-Levo-Black-Matt.jpg "Caberg Levo – Black Matt")
@@ -71,21 +71,21 @@ Al momento del rilascio ufficiale il LEVO sarà disponibile nei colori bianco, n
 
 Taglie calotta piccola:
 
-*   **S** 53/54cm
-*   **S** 55/56cm
-*   **M** 57/58cm
+- **S** 53/54cm
+- **S** 55/56cm
+- **M** 57/58cm
 
 Taglie calotta grande:
 
-*   **L** 59/60cm
-*   **XL** 61/62cm
-*   **XXL** 63/64cm
+- **L** 59/60cm
+- **XL** 61/62cm
+- **XXL** 63/64cm
 
 I prezzi (IVA inclusa) consigliati al pubblico sono:
 
-*   **€389,99** Levo composite fibre 
-*   **€409,99** Levo composite fibre HI VIZION
-*   **€429,99** Levo composite fibre FLOW graphic
-*   **€479,99** Levo CARBON
+- **€389,99** Levo composite fibre
+- **€409,99** Levo composite fibre HI VIZION
+- **€429,99** Levo composite fibre FLOW graphic
+- **€479,99** Levo CARBON
 
 Di certo il LEVO non è economico, ma le caratteristiche uniche e la qualità di materiali e finiture lo rendono un prodotto dal **rapporto qualità/prezzo decisamente elevato** ed in grado di competere con caschi di prezzo superiore.

@@ -38,9 +38,9 @@ Purtroppo le istruzioni fornite da HEED sono molto sintetiche e sospetto che sia
 
 Il montaggio è un’operazione a portata di chiunque, si può tranquillamente effettuare da soli. Non servono attrezzi particolari:
 
-*   [cacciavite a stella medio](http://amzn.to/2Hb0mys)
-*   [chiavi fisse da 12 e 13](http://amzn.to/2o2H85t) (meglio averne una coppia per ogni misura)
-*   [chiavi esagonali da 5 e 6](http://amzn.to/2EDFth5)
+- [cacciavite a stella medio](http://amzn.to/2Hb0mys)
+- [chiavi fisse da 12 e 13](http://amzn.to/2o2H85t) (meglio averne una coppia per ogni misura)
+- [chiavi esagonali da 5 e 6](http://amzn.to/2EDFth5)
 
 Consigliamo l’acquisto di un [set di inserti con chiavi a bussola](http://amzn.to/2nV4Ml4): velocizza e semplifica le operazioni, oltre ad essere più economico rispetto alle singole chiavi.
 
@@ -82,17 +82,17 @@ Serriamo saldamente tutte le viti, rimontiamo la carena inferiore, piazziamo le 
 
 Abbiamo montato le [barre paramotore HEED](https://www.ebay.it/sch/i.html?_odkw=heed+transalp+700&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=heed+transalp+700+borse&_sacat=0) da pochi giorni, ma possiamo già fare qualche considerazione:
 
-*   completano il look adventure della Honda XL 700 Transalp
-*   sembrano molto solide, quelle [testate su BMW R1200GS](/2016/09/paramotore-tubolare-heed-bmw-r-1200-gs/) hanno salvato i paracilindri ben 3 volte
-*   le borse laterali sono di ottima fattura e sono l’ideale per trasportare un [kit di pronto](http://amzn.to/2nUFRye) soccorso e le camere d’aria di scorta, ma non contate sull’impermeabilità dato che le cerniere sono di tipo tradizionale
-*   la verniciatura è ben fatta, ma si fa in fretta ad intaccarla
+- completano il look adventure della Honda XL 700 Transalp
+- sembrano molto solide, quelle [testate su BMW R1200GS](/2016/09/paramotore-tubolare-heed-bmw-r-1200-gs/) hanno salvato i paracilindri ben 3 volte
+- le borse laterali sono di ottima fattura e sono l’ideale per trasportare un [kit di pronto](http://amzn.to/2nUFRye) soccorso e le camere d’aria di scorta, ma non contate sull’impermeabilità dato che le cerniere sono di tipo tradizionale
+- la verniciatura è ben fatta, ma si fa in fretta ad intaccarla
 
 HEED produce [barre paramotore per tutte le serie di Honda Transalp](https://www.ebay.it/sch/i.html?_odkw=paramotore+heed+transalp&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xparamotore+heed+honda+xl+transalp.TRS0&_nkw=paramotore+heed+honda+xl+transalp&_sacat=0).
 
 In alternative a quelle montate da noi, sono disponibili
 
-*   [PM Company](http://amzn.to/2nVjhW2): leggermente più economiche ma meno protettive, non permettono di montare borse
-*   [Givi TN455](https://www.ebay.it/sch/i.html?_odkw=paramotore+honda+transalp+700&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xparamotore+honda+transalp+700+tn455.TRS0&_nkw=paramotore+honda+transalp+700+tn455&_sacat=0): prezzo simile, Made in Italy, purtroppo non permettono di montare borse
-*   [SW Motech](http://amzn.to/2CfERct): un po’ più care, anche qui niente borse da serbatoio
+- [PM Company](http://amzn.to/2nVjhW2): leggermente più economiche ma meno protettive, non permettono di montare borse
+- [Givi TN455](https://www.ebay.it/sch/i.html?_odkw=paramotore+honda+transalp+700&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xparamotore+honda+transalp+700+tn455.TRS0&_nkw=paramotore+honda+transalp+700+tn455&_sacat=0): prezzo simile, Made in Italy, purtroppo non permettono di montare borse
+- [SW Motech](http://amzn.to/2CfERct): un po’ più care, anche qui niente borse da serbatoio
 
 Il nostro verdetto è ovviamente a favore delle crash bar HEED, [comprale su Amazon](http://amzn.to/2o5MAVt) oppure su [su eBay con il kit borse laterali](https://www.ebay.it/sch/i.html?_odkw=heed+transalp+700&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=heed+transalp+700+borse&_sacat=0).

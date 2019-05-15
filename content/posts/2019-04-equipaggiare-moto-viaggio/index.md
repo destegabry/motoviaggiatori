@@ -97,7 +97,6 @@ Per evitare di appesantirmi con voluminose fotocamere reflex o mirrorless, da po
 
 Per le riprese video in 4K utilizzo sia la [Sony RX100M4](https://amzn.to/2KehkS9) che una piccola [action camera Xiaomi YI](https://amzn.to/2WP44F6), ottima alternativa alle più blasonate [GoPro](https://amzn.to/2DdIq6j).
 
-
 ## Attrezzatura
 
 Solitamente viaggio con i bagagli personali nella valigia laterale destra e nel bauletto, mentre la borsa sinistra viene usata per tenere tutta l'attrezzatura per affrontare gli imprevisti di un viaggio in moto.
@@ -111,6 +110,7 @@ Per rigonfiare la gomma sconsiglio le bombolette usa e getta (ovviamente perché
 Porto sempre con me un piccolo e leggero set di [cavi avviamento moto](https://amzn.to/2VukbYA) e, dopo aver rischiato di rimanere a secco tra i Monti Apuseni in [Romania](/categoria/viaggi/romania), mi sono dotato anche di una [tanica di emergenza](https://amzn.to/2D2PvX2) da 2 litri montata direttamente sul retro della valigia laterale destra (e di un piccolo [imbuto pieghevole in silicone](https://amzn.to/2P324X5)).
 
 Ogni moto ha bisogno di chiavi specifiche, ma solitamente porto con me:
+
 * [pinza](https://amzn.to/2UFcYYv) o [coltello](https://amzn.to/2Kld2sh) multiuso
 * [set di chiavi esagonali](https://amzn.to/2VA45MX)
 * [set di chiavi torx](https://amzn.to/2uWy3io)
