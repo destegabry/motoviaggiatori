@@ -28,7 +28,7 @@ La Xiaomi Yi arriva sprovvista di [custodia subacquea](http://amzn.to/2jGKhqE): 
 
 Oltre a video camera e custodia, abbiamo acquistato un pratico set di [50 accessori con custodia](http://amzn.to/2kCNE0d) a **circa 20€,** un [kit di 2 batterie aggiuntive con caricatore USB](http://amzn.to/2jkl7Q3) ed una [micro SD SanDisk da 32 GB](http://amzn.to/2k6KORq).
 
-## Come va?
+## Come va
 
 Le prestazioni della Xiaomi Yi sono assolutamente paragonabili con la GoPro Hero 3 utilizzata per riprendere il [giro dell’Assietta](/2016/10/strada-assietta-video/).
 
@@ -46,14 +46,14 @@ La durata della batteria è di circa 40 minuti, ma il [caricatore USB da 2 bat
 
 Xiaomi produce anche
 
-*    [Yi 4K Action Camera](http://amzn.to/2nexmNn) che registra video a qualità decisamente superiore, è dotata di stabilizzatore, display touch retina e promette 2 ore di autonomia con i video 4K. Non l’abbiamo presa in considerazione per via dei file enormi che produce: viaggiando diverse settimane di fila senza portatile, avremmo bisogno di portare un sacco di schede micro SD
-*   [Yi 4K Plus Action Camera](http://amzn.to/2Eaj3Bm) come la precedente, ma qualità dell’immagine superiore e registrazione 4K/60fps
-*   [Yi 4K Lite Action Camera](http://amzn.to/2DFJEtf) è la versione 4K economica, offre la registrazione 4K a 20fps non stabilizzati o 1080p fino a 60fps stabilizzati, la stiamo provando e arriverà la nostra recensione!
+- [Yi 4K Action Camera](http://amzn.to/2nexmNn) che registra video a qualità decisamente superiore, è dotata di stabilizzatore, display touch retina e promette 2 ore di autonomia con i video 4K. Non l’abbiamo presa in considerazione per via dei file enormi che produce: viaggiando diverse settimane di fila senza portatile, avremmo bisogno di portare un sacco di schede micro SD
+- [Yi 4K Plus Action Camera](http://amzn.to/2Eaj3Bm) come la precedente, ma qualità dell’immagine superiore e registrazione 4K/60fps
+- [Yi 4K Lite Action Camera](http://amzn.to/2DFJEtf) è la versione 4K economica, offre la registrazione 4K a 20fps non stabilizzati o 1080p fino a 60fps stabilizzati, la stiamo provando e arriverà la nostra recensione!
 
 Ovviamente ci sono tutte le action camera della linea GoPro, se siete disposti a spendere MOLTO di più:
 
-*   [GoPro HERO](https://amzn.to/2FO4ZzP) video 4K, stabilizzatore, comandi vocali e display touch
-*   [GoPro HERO Session](https://amzn.to/2UhSrsM) video 4K, stabilizzatore, comandi vocali e form factor ultra compatto
+- [GoPro HERO](https://amzn.to/2FO4ZzP) video 4K, stabilizzatore, comandi vocali e display touch
+- [GoPro HERO Session](https://amzn.to/2UhSrsM) video 4K, stabilizzatore, comandi vocali e form factor ultra compatto
 
 ## Nota
 

@@ -47,12 +47,12 @@ Ho acquistato la [coppia di valigie HD panniers](http://www.heavyduties.ro/pann
 
 Ho pagato con bonifico e scelto di ritirare in agenzia: dopo circa 48h un SMS mi ha avvisato della possibilità di ritirare i 2 colli (una scatola per le valigie ed una per il telaio). L’imballaggio è molto curato, dubito che il trasporto possa danneggiare i prodotti.
 
-![](./galleries/1/0.jpg "La scatola contente le valigie laterali Heavy Duties")
-![](./galleries/1/1.jpg "Le valigie sono ben protette da uno spesso strato di pluriball")
-![](./galleries/1/2.jpg "Uno strato molto spesso di pellicola aggiunge ulteriore protezione")
-![](./galleries/1/3.jpg "La scatola contente le varie componenti del telaio")
-![](./galleries/1/4.jpg "Bonus: oltre a viti, staffe e adesivi Heavy Duties spedisce una barretta di cioccolato locale!")
-![](./galleries/1/5.jpg "Le valigie sono davvero belle!")
+![Heavy Duties - packaging](./galleries/1/0.jpg "La scatola contente le valigie laterali Heavy Duties")
+![Heavy Duties - packaging](./galleries/1/1.jpg "Le valigie sono ben protette da uno spesso strato di pluriball")
+![Heavy Duties - packaging](./galleries/1/2.jpg "Uno strato molto spesso di pellicola aggiunge ulteriore protezione")
+![Heavy Duties - packaging](./galleries/1/3.jpg "La scatola contente le varie componenti del telaio")
+![Heavy Duties - packaging](./galleries/1/4.jpg "Bonus: oltre a viti, staffe e adesivi Heavy Duties spedisce una barretta di cioccolato locale!")
+![Heavy Duties - valigie](./galleries/1/5.jpg "Le valigie sono davvero belle!")
 
 ### Montaggio e dettagli
 
@@ -98,23 +98,23 @@ Consiglio a tutti di comprare le valigie laterali in alluminio Heavy Duties: non
 
 Se come me possedete una coppia di valigie BMW Vario potrete venderle sul mercato dell’usato (Subito.it o Kijiji) e comprare le Heavy Duties aggiungendo una differenza minima.
 
-**Punti di forza**
+#### Punti di forza
 
-*   prezzo basso (meno di 600€ per il modello in alluminio non verniciato senza accessori con telaio specifico R1200GS spedite in agenzia Atlassib)
-*   ottima qualità costruttiva
-*   telaio discreto e senza sporgenze (al contrario del telaio Givi)
-*   larghezza complessiva della moto di soli 94cm
-*   capienza totale 88 litri contro i 78 delle Vario
+- prezzo basso (meno di 600€ per il modello in alluminio non verniciato senza accessori con telaio specifico R1200GS spedite in agenzia Atlassib)
+- ottima qualità costruttiva
+- telaio discreto e senza sporgenze (al contrario del telaio Givi)
+- larghezza complessiva della moto di soli 94cm
+- capienza totale 88 litri contro i 78 delle Vario
 
-**Migliorabile**
+#### Migliorabile
 
-*   serrature che agiscono da cerniera quando sono chiuse (come le [Givi Trekker Outback](https://www.ebay.it/sch/i.html?_nkw=givi+trekker+outback+bmw))
-*   possibilità di sostituire i pomelli interni con viti a testa piatta per guadagnare spazio interno (al costo di usare una chiave per smontare le valigie)
+- serrature che agiscono da cerniera quando sono chiuse (come le [Givi Trekker Outback](https://www.ebay.it/sch/i.html?_nkw=givi+trekker+outback+bmw))
+- possibilità di sostituire i pomelli interni con viti a testa piatta per guadagnare spazio interno (al costo di usare una chiave per smontare le valigie)
 
-**Cosa manca**
+#### Cosa manca
 
-*   un bauletto Heavy Duties in linea con le borse (e soprattutto con la stessa chiave)
-*   [cassetta porta attrezzi](https://amzn.to/2GQrPsN) da montare sul telaio dal lato senza marmitta
-*   borse interne di misura
+- un bauletto Heavy Duties in linea con le borse (e soprattutto con la stessa chiave)
+- [cassetta porta attrezzi](https://amzn.to/2GQrPsN) da montare sul telaio dal lato senza marmitta
+- borse interne di misura
 
 **Nota**: questo articolo è stato aggiornato il 18/05/2018 per aggiungere informazioni sul nuovo sito con e-commerce.

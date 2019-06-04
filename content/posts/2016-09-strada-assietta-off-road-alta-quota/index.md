@@ -55,17 +55,17 @@ Vale davvero la pena aspettare la giusta giornata di sole per godersi una strad
 
 Per chiudere la stagione estiva in bellezza, siamo partiti per il Colle dell’Assietta con uno strano assortimento di moto:
 
--   due adventure 1200cc (BMW R1200GS)
--   una naked 660cc (Yamaha MT-03)
--   una enduro 250cc (KTM 250 EXC-F)
+- due adventure 1200cc (BMW R1200GS)
+- una naked 660cc (Yamaha MT-03)
+- una enduro 250cc (KTM 250 EXC-F)
 
 ## Torino – Susa
 
 Da Torino si percorre la bassa Val di Susa, e qui sono possibili 3 opzioni:
 
--   per i frettolosi: si prende la tangenziale e poi l’autostrada Torino-Bardonecchia in direzione Frejus, si esce a Susa… oltre ad essere un po’ noiosa costa un sacco di soldi (€6,10 per 55km a settembre 2016)
--   per chi arriva da Torino Nord: SP 24 passando per Caselette (occhio agli autovelox fissi), Almese, a Borgone Susa si attraversa la Dora Riparia e si segue per Bussoleno e infine Susa
--   per chi arriva da Torino Sud: la strada che da Rivoli passa per Villarbasse, Reano e Buttigliera Alta è un po’ stretta ma davvero bella, poi ci si ricongiunge alla SP 24 (citata prima) attraverso la circonvallazione di Avigliana
+- per i frettolosi: si prende la tangenziale e poi l’autostrada Torino-Bardonecchia in direzione Frejus, si esce a Susa… oltre ad essere un po’ noiosa costa un sacco di soldi (€6,10 per 55km a settembre 2016)
+- per chi arriva da Torino Nord: SP 24 passando per Caselette (occhio agli autovelox fissi), Almese, a Borgone Susa si attraversa la Dora Riparia e si segue per Bussoleno e infine Susa
+- per chi arriva da Torino Sud: la strada che da Rivoli passa per Villarbasse, Reano e Buttigliera Alta è un po’ stretta ma davvero bella, poi ci si ricongiunge alla SP 24 (citata prima) attraverso la circonvallazione di Avigliana
 
 A Susa è quasi obbligatorio fermarsi al Panificio Favro (dentro il minimarket CRAI) per comprare i panini farciti con formaggi e affettati della Val Susa e la squisita focaccia dolce di Susa! Attenzione: chiude la domenica.
 
@@ -109,7 +109,6 @@ Arrivati al Col Basset (quota 2424 m) vale la pena fermarsi ad ammirare l’arc
 ![Le moto al Col Basset](./galleries/1/1.jpg "Le nostre 4 moto al Col Basset")
 ![Claudia e Paolo al Col Basset](./galleries/1/2.jpg "Le nostre 4 moto al Col Basset")
 ![Gabriele e Vittorio al Col Basset](./galleries/1/3.jpg "Gabriele e Vittorio al Col Basset")
-
 
 ## Col Basset – Colle dell’Assietta
 

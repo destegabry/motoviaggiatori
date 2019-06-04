@@ -61,11 +61,13 @@
     "clear-cache": "rm -Rf .cache",
     "deploy": "gh-pages -d public",
     "format": "prettier --write \"src/**/*.js\"",
+    "lint": "markdownlint content/**/*.md",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "devDependencies": {
     "eslint-plugin-graphql": "^3.0.3",
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.0.1",
+    "markdownlint-cli": "^0.16.0"
   },
   "repository": {
     "type": "git",

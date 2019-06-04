@@ -150,7 +150,7 @@ Fuori città si può alloggiare in alcune kasbah convertite ad albergo, oppure i
 
 Il mondo cambia in fretta e purtroppo alcune di queste informazioni potrebbero non essere più aggiornate tra qualche anno. In caso di dubbi puoi contattare gli uffici italiani dell’ambasciata e dei consolati marocchini.
 
-#### Ambasciata del Regno del Marocco
+### Ambasciata del Regno del Marocco
 
 Via Brenta n° 12/16
 00198, Roma
@@ -161,7 +161,7 @@ Fax: (+39) 06.4402695
 
 E-mail: [ambmaroccoroma@maec.gov.ma](mailto:ambmaroccoroma@maec.gov.ma)
 
-#### Consolato generale del Regno del Marocco: Bologna
+### Consolato generale del Regno del Marocco: Bologna
 
 Via Caduti di Imola, 30
 Borgo Panigale 40132 Bologna
@@ -172,7 +172,7 @@ Fax: 051 531863
 
 E-mail: [consolatobologna@maec.gov.ma](mailto:consolatobologna@maec.gov.ma)
 
-#### Consolato generale del Regno del Marocco: Milano
+### Consolato generale del Regno del Marocco: Milano
 
 Via Adele Martignoni, 10
 20124 Milano
@@ -183,7 +183,7 @@ Fax: 02 66825086
 
 E-mail: [consolatomilano@maec.gov.ma](mailto:consolatomilano@maec.gov.ma)
 
-#### Consolato generale del Regno del Marocco: Palermo
+### Consolato generale del Regno del Marocco: Palermo
 
 Via Nunzio Morello, 2/4
 90144, Palermo
@@ -194,7 +194,7 @@ Fax: 09 16881643
 
 E-mail: [consolatoparlermo@maec.gov.ma](mailto:consolatoparlermo@maec.gov.ma)
 
-#### Consolato generale del Regno del Marocco: Torino
+### Consolato generale del Regno del Marocco: Torino
 
 Via Belfiore, 27
 10126 Torino
@@ -205,7 +205,7 @@ Fax: 011 6596065
 
 E-mail: [consumaturin@maec.gov.ma](mailto:consumaturin@maec.gov.ma)
 
-#### Consolato generale del Regno del Marocco: Verona
+### Consolato generale del Regno del Marocco: Verona
 
 Via Torricelli, 49
 37136 Verona

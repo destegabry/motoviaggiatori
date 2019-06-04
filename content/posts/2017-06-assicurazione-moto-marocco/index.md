@@ -31,11 +31,11 @@ Acquistare un’assicurazione temporanea per il Marocco è abbastanza semplice e
 
 I documenti necessari per l’emissione della polizza sono:
 
-*   **passaporto** con visto valido (rilasciato in Dogana)
-*   dichiarazione di **importazione temporanea** del veicolo (rilasciato in Dogana)
-*   **certificato di proprietà** (o copia se elettronico)
-*   **carta di circolazione** (libretto della moto)
-*   delega a condurre (dal tono ufficiale e tradotta in francese se la moto non fosse di tua proprietà)
+- **passaporto** con visto valido (rilasciato in Dogana)
+- dichiarazione di **importazione temporanea** del veicolo (rilasciato in Dogana)
+- **certificato di proprietà** (o copia se elettronico)
+- **carta di circolazione** (libretto della moto)
+- delega a condurre (dal tono ufficiale e tradotta in francese se la moto non fosse di tua proprietà)
 
 Il prezzo dipende dalla permanenza della moto in Marocco e copre *responsabilità civile* (RC) e *tutela legale*. Le tariffe sono divise a scaglioni e **valide per tutte le moto di cilindrata superiore a 50cc**:
 

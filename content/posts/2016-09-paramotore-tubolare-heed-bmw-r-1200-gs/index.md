@@ -52,6 +52,7 @@ Si possono comprare anche su [Amazon Italia](http://amzn.to/2nUTLjQ) ad un prezz
 Assemblare le crash bar è molto semplice e alla portata di tutti. Per farsene un'idea ecco i PDF con le istruzioni di montaggio: [parte bassa](./Inst_Mont_BMW_R_1200_GS_04-12_down_PL-EN.pdf) e [paraserbatoio](./Inst_Mont_BMW_R_1200_GS_04-12_up_PL-EN.pdf).
 
 Per completare il lavoro servono diversi attrezzi:
+
 - [chiave TORX T55](https://amzn.to/2HyamFL)
 - [chiavi a brugola 10mm, 8mm, 6mm](https://amzn.to/2TqhFke) (quest'ultima deve essere abbastanza lunga da permettere di avvitare una piccola vite situata tra serbatoio e cilindro)
 - [chiave fissa 10mm](https://amzn.to/2WncsM1)
@@ -72,6 +73,7 @@ Non posso che consigliare l'acquisto delle [crash bar HEED Full Bunker](http://r
 Le foto non rendono giustizia a questo paramotore: sembra molto più ingombrante di quanto sia realmente! Il colore ed il diametro delle barre sono pressoché identici al telaio della moto, dando l'idea di essere parte integrante della moto e non un'aggiunta successiva. Il look del R 1200 GS normale si avvicina di più alla versione Adventure.
 
 Con il paraserbatoio arriva la possibilità di montare le borse laterali HEED. Hanno qualche difetto (si possono staccare facilmente e le cerniere non prevedono la possibilità di aggiungere un lucchetto), ma permettono di stipare alcuni accessori da avere sempre con sé. Nelle mie ho messo:
+
 - [kit pronto soccorso](https://amzn.to/2TVTfUH)
 - [kit riparazione pneumatici](https://amzn.to/2HyaZz7)
 - [rete portaoggetti](https://amzn.to/2WghvgY)

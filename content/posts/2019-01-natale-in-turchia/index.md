@@ -77,15 +77,15 @@ Noto che molte auto sono FIAT e riconosco vecchie 131, UNO e Regata, ma al posto
 
 Dopo il check-in in hotel porto la moto in garage e inizio il  giro della città a piedi. Alice arriverà domani pomeriggio e io voglio conoscere questa città per farle da “cicerone”. Uscito dall’hotel e percorse qualche centinaia di metri mi sorprende la pulizia, l’ordine, la presenza di forze dell’ordine ovunque ( in divisa o in borghese ). Ogni negoziante cura e pulisce il marciapiedi che si trova davanti al suo negozio.  Mi sorprende la copiosa presenza di gatti, tutti curati e ben sfamati. Attira la mia attenzione un gatto di colore bianco, sdraiato all’entrata di una casa che si lascia accarezzare dai raggi del sole. Ha un occhio verde e uno azzurro e indossa un collarino con l’occhio di Allah.
 
-![](./galleries/IMG_8719.jpeg "Instanbul – grande bazar")
-![](./galleries/IMG_8723.jpeg "Instanbul – grande bazar")
-![](./galleries/IMG_8724.jpeg "Instanbul – grande bazar")
-![](./galleries/IMG_8728.jpeg "Instanbul – grande bazar")
-![](./galleries/IMG_8742.jpeg "Instanbul – gatto di colore bianco con un occhio di colore verde e uno azzurro e indossa un collarino con l’occhio di Allah")
+![Instanbul – grande bazar](./galleries/IMG_8719.jpeg "Instanbul – grande bazar")
+![Instanbul – grande bazar](./galleries/IMG_8723.jpeg "Instanbul – grande bazar")
+![Instanbul – grande bazar](./galleries/IMG_8724.jpeg "Instanbul – grande bazar")
+![Instanbul – grande bazar](./galleries/IMG_8728.jpeg "Instanbul – grande bazar")
+![Instanbul – gatto](./galleries/IMG_8742.jpeg "Instanbul – gatto di colore bianco con un occhio di colore verde e uno azzurro e indossa un collarino con l’occhio di Allah")
 
 Noto che ci sono molti uomini che hanno la testa sanguinante e viaggiano per strada tranquillamente. Ne vedo molti e di varie nazionalità. La prima spiegazione che mi dò è che si tratti di un rito religioso. Cercando informazioni su Google vengo a sapere che Istanbul è il regno di trapianto dei capelli e qui vengono uomini da tutto il mondo perché è molto economico ( un trapianto dei capelli a Londra costa 25.000€ a Istanbul costa 2.500€ ). Improvvisamente prendo paura dal forte acuto di una sirena proveniente dall’auto della polizia, che costringe un tassista a spostare il taxi non parcheggiato correttamente dentro le strisce. Istanbul è una città enorme, piena di turisti. Non sento o vedo italiani, probabilmente arriveranno dopo il Natale.
 
-È il 22 Dicembre, finalmente Alice mi raggiungerà ad Istanbul. Prenderà un volo da Bergamo facendo scalo a Kiev. Desidero tanto riabbracciarla e raccontarle ciò che ho visto in questi giorni. Al mattino faccio una passeggiata al bazar egiziano. Alle 14.30 Alice scende dalla navetta che l’ha accompagnata dall’aeroporto all’hotel. Che emozione rivederci e quante cose abbiamo da raccontarci. Mettiamo i bagagli di Alice in stanza e poi partiamo per la visita della città passando per la zona universitaria, il mercato egiziano, il porto, il Gulhane Park, la moschea BLU, la basilica di Santa Sofia,  la cisterna, e per finire al grande bazar. Aver avuto modo di entrare nella Moschea Blu e nella Cisterna è stato molto bello e ci sentiamo molto fortunati perché la Cisterna alle ore 17.00 chiudeva al pubblico e noi siamo riusciti ad entrare pochi minuti prima della chiusura. 
+È il 22 Dicembre, finalmente Alice mi raggiungerà ad Istanbul. Prenderà un volo da Bergamo facendo scalo a Kiev. Desidero tanto riabbracciarla e raccontarle ciò che ho visto in questi giorni. Al mattino faccio una passeggiata al bazar egiziano. Alle 14.30 Alice scende dalla navetta che l’ha accompagnata dall’aeroporto all’hotel. Che emozione rivederci e quante cose abbiamo da raccontarci. Mettiamo i bagagli di Alice in stanza e poi partiamo per la visita della città passando per la zona universitaria, il mercato egiziano, il porto, il Gulhane Park, la moschea BLU, la basilica di Santa Sofia,  la cisterna, e per finire al grande bazar. Aver avuto modo di entrare nella Moschea Blu e nella Cisterna è stato molto bello e ci sentiamo molto fortunati perché la Cisterna alle ore 17.00 chiudeva al pubblico e noi siamo riusciti ad entrare pochi minuti prima della chiusura.
 
 Non pensavo che Istanbul fosse il regno della contraffazione. Ci sono imitazioni di qualsiasi genere, dai capi di vestiario, alle borse, agli orologi, e il tutto commercializzato regolarmente nei negozi. Incredibile. Istanbul è una città molto bella in cui sicuramente torneremo.
 
@@ -255,7 +255,7 @@ Arrivati a Kymi veniamo accolti nell’hotel PELAGOS dove il proprietario ci tra
 ![Eubea - Ponte per l'isola Eubea](./galleries/IMG_0089.jpeg "Eubea – Ponte per l’isola Eubea")
 ![Eubea - 200.000 km BMW R1200GS](./galleries/IMG_0092.jpeg "Eubea – L’ultimo giorno in Grecia ci regala i 200.000 km sulla nostra moto")
 
-Il giorno seguente è l’ultimo di permanenza in terra greca quindi andiamo a visitare il sito archeologico di Eretria dove sono presenti alcuni resti di case, l’agorà, il ginnasio, gli spazi riservati al culto, e alcune tombe. Vengono rinvenuti continuamente reperti in questo luogo, tanta è la stratificazione dei periodi. Eretria deve essere stata una grande città di mare. Gli oggetti sono visibili nel museo della città. 
+Il giorno seguente è l’ultimo di permanenza in terra greca quindi andiamo a visitare il sito archeologico di Eretria dove sono presenti alcuni resti di case, l’agorà, il ginnasio, gli spazi riservati al culto, e alcune tombe. Vengono rinvenuti continuamente reperti in questo luogo, tanta è la stratificazione dei periodi. Eretria deve essere stata una grande città di mare. Gli oggetti sono visibili nel museo della città.
 
 Il viaggio prosegue sotto la pioggia fino a Corinto dove ci fermiamo ad ammirare il canale, per poi raggiungere velocemente Patrasso dove riprenderemo la nave che ci riporterà in Italia.
 

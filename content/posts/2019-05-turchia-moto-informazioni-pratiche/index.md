@@ -32,13 +32,13 @@ Prima di partire è sempre meglio controllare la valitità di queste informazion
 
 ## Traghetti
 
-Viaggiare in traghetto permette di risparmiare parecchie centinaia di chilometri di guida, ma soprattutto viaggiare di notte dormendo *comodamente*. 
+Viaggiare in traghetto permette di risparmiare parecchie centinaia di chilometri di guida, ma soprattutto viaggiare di notte dormendo *comodamente*.
 
 Dall'Italia non esistono traghetti che portano direttamente in Turchia, ma è possibile accorciare un po' il percorso con le rotte che dal porto di Ancona, Bari e Brindisi portano in Croazia, Montenegro, Albania e Grecia. Nel nostro viaggio abbiamo navigato sulle tratte Ancona-Spalato ([SNAV](https://www.snav.it)) e Igoumenitsa-Ancona ([Grimaldi Lines](https://www.grimaldi-lines.com/it) o [ANEK](https://anekitalia.com)).
 
 Per raggiungere la costa asiatica della Turchia dalla Grecia bisgona tribolare un po': purtroppo non esistono traghetti che fanno la tratta diretta da Salonicco o Atene, bisogna per foza arrivare su un'isola greca vicina alla costa turca e poi fare una seconda traversata (molto rapida).
 
-Nel viaggio di ritorno abbiamo optato per la rotta **Çeşme-Atene passando per l'isola di Chios** (che è bellissima e le sue spiagge meritano una giornata di riposo). 
+Nel viaggio di ritorno abbiamo optato per la rotta **Çeşme-Atene passando per l'isola di Chios** (che è bellissima e le sue spiagge meritano una giornata di riposo).
 
 La tratta Çeşme-Chios dura mezz'ora, in bassa stagione ci sono solamente 2 traghetti, al mattino presto e nel tardo pomeriggio. Abbiamo comprato i biglietti sul sito turco [Feribot.net](https://www.feribot.net/en/), funziona bene ed è in lingua inglese. La prenotazione non è istantanea: un operatore dovrà verificare la disponibilità di spazio per le moto sul piccolo traghetto e poi vi invierà conferma e link per il pagamento via email. **Sia all'imbarco che allo sbarco bisogna superare i controlli di frontiera**.
 
@@ -125,7 +125,7 @@ Si vola al mattino presto per godere della vista mozzafiato delle falesie illumi
 
 I prezzi variano tra 150 e 250€ a persona (a seconda di periodo e dimensione gondola), l'alta stagione è da aprile a giugno.
 
-Meglio prenotare con almeno un mese di anticipo all’email <a href=“mailto:fly@turquazballoons.com“>fly@turquazballoons.com</a>. Nel caso arrivaste in Cappadocia senza prenotazione chiedete all'hotel di essere inseriti in una lista d'attesa (qualche rinunciatario c'è sempre), dovrete pagare in contanti (preferibilmente euro) che vi saranno restituiti nel caso fosse impossibile volare.
+Meglio prenotare con almeno un mese di anticipo all’email <fly@turquazballoons.com>. Nel caso arrivaste in Cappadocia senza prenotazione chiedete all'hotel di essere inseriti in una lista d'attesa (qualche rinunciatario c'è sempre), dovrete pagare in contanti (preferibilmente euro) che vi saranno restituiti nel caso fosse impossibile volare.
 
 Nel caso non si riuscisse ad ottenere un posto, è possibile ammirare le mongolfiere in volo da Sunset Point a Göreme.
 

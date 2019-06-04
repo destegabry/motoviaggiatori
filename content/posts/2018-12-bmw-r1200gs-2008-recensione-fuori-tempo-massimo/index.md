@@ -82,7 +82,7 @@ I **tagliandi ogni 10.000km** sono abbastanza semplici da effettuare anche nel p
 
 **Consumi contenuti** e circa 400km di autonomia in viaggio: meno di 6l/100km in autostrada a 130km/h, meno di 5l/100km per l’andatura turistica a pieno carico. Uso la moto come mezzo di trasporto principale e pur vivendo in una città trafficata (Torino) ho una [media totale di circa 5,6l/100km](https://www.spritmonitor.de/en/detail/780855.html).
 
-I cavalli non sono mai troppi, ma non ho mai sentito la necessità di avere maggiori prestazioni in termini di potenza massima. **Migliorabile la fluidità ai bassi regimi**: non sarebbe male avere un motore più reattivo nel range 1500-2500 giri (aspetto ampiamente migliorato nei modelli con motore raffreddato a liquido). 
+I cavalli non sono mai troppi, ma non ho mai sentito la necessità di avere maggiori prestazioni in termini di potenza massima. **Migliorabile la fluidità ai bassi regimi**: non sarebbe male avere un motore più reattivo nel range 1500-2500 giri (aspetto ampiamente migliorato nei modelli con motore raffreddato a liquido).
 
 Ho ottenuto un notevole incremento di fluidità ai bassi regimi, motore più pieno tra i 4500-5000 giri (al costo di una leggera perdita di freno motore) montando la [S.M.A.R.T. IAT di Belinassu](http://www.belinassu.it). L'operazione è davvero semplice e reversibile.
 
@@ -114,9 +114,9 @@ Il tris valigie BMW Vario è molto pratico in città, ma poco adatto al viaggio:
 
 I nostri consigli:
 
-*   [valigie laterali in alluminio Heavy Duties](/2018/04/borse-alluminio-heavy-duties-bmw-r1200gs/) (alternative più costose: [borse in alluminio BMW](https://www.bmw-motorrad-bohling.com/it/bmw-set-completo-valigie-laterali-alluminio-r1200gs-adventure-codificabile.html) o [Touratech Zega](https://shop.touratech.it/zega-pro2-sistema-speciale-and-s-45-45-litri-con-supporto-acciaio-inox-per-bmw-r1200gs-fino-a-2012-r1200gs-adventure-fino-a-2013.html))
-*   bauletto in alluminio [Givi Trekker Outback 58](https://amzn.to/2Adqsiz) (alternativa economica: [Kappa KGR52 Garda](https://amzn.to/2QLMAuA)), è possibile modificare la serratura di entrambi per utilizzare la chiave di accensione della moto
-*   borsa da serbatoio [Givi Tanklock EA118](https://amzn.to/2SlX9kM) con innesto rapido sul tappo del serbatoio
+- [valigie laterali in alluminio Heavy Duties](/2018/04/borse-alluminio-heavy-duties-bmw-r1200gs/) (alternative più costose: [borse in alluminio BMW](https://www.bmw-motorrad-bohling.com/it/bmw-set-completo-valigie-laterali-alluminio-r1200gs-adventure-codificabile.html) o [Touratech Zega](https://shop.touratech.it/zega-pro2-sistema-speciale-and-s-45-45-litri-con-supporto-acciaio-inox-per-bmw-r1200gs-fino-a-2012-r1200gs-adventure-fino-a-2013.html))
+- bauletto in alluminio [Givi Trekker Outback 58](https://amzn.to/2Adqsiz) (alternativa economica: [Kappa KGR52 Garda](https://amzn.to/2QLMAuA)), è possibile modificare la serratura di entrambi per utilizzare la chiave di accensione della moto
+- borsa da serbatoio [Givi Tanklock EA118](https://amzn.to/2SlX9kM) con innesto rapido sul tappo del serbatoio
 
 Trovo comodo caricare le valigie con [piccoli contenitori](https://amzn.to/2TcNtcL) piuttosto che grandi valigie morbide, in modo da trovare in fretta ciò che si cerca.
 
@@ -134,8 +134,8 @@ Come già detto, le sospensioni originali non sono il massimo, in caso di perdit
 
 Sicuramente avrete già sentito parlare di Öhlins, produce ammortizzatori di ricambio sia ESA che non: sono ottime ma il prezzo non è dei più bassi (oltre 3.000€ per la versione ESA Mechatronic). Se volete risparmiare, vi consigliamo qualche alternativa altrettanto valida:
 
-*   **molle a carico progressivo Hyperpro**: massima resa e minima spesa (meno di 300€), il coefficiente elastico progressivo permette di avere molle morbide durante la prima fase di compressione ma sempre più rigide all’aumentare della forza esercitata sulla molla… ovvero: la moto è confortevole ma si comporta molto meglio in curva!
-*   **Streetbox Hyperpro BMW** in versione ESA (circa 2.000€) e non (circa 1.000€): un kit per la sostituzione completa delle sospensioni originali, revisionabile, con idraulica sofisticata e molle progressive
+- **molle a carico progressivo Hyperpro**: massima resa e minima spesa (meno di 300€), il coefficiente elastico progressivo permette di avere molle morbide durante la prima fase di compressione ma sempre più rigide all’aumentare della forza esercitata sulla molla… ovvero: la moto è confortevole ma si comporta molto meglio in curva!
+- **Streetbox Hyperpro BMW** in versione ESA (circa 2.000€) e non (circa 1.000€): un kit per la sostituzione completa delle sospensioni originali, revisionabile, con idraulica sofisticata e molle progressive
 
 ![BMW R1200GS Transalpina Romania](./galleries/IMG_1131.jpg "La mia fidata BMW R1200GS tra le curve della Transalpina in Romania")
 
@@ -147,15 +147,15 @@ Il terminale di scarico originale è davvero pesante, sostituendolo con un after
 
 BMW fornisce uno striminzito kit attrezzi da riporre nel sottosella, in viaggio preferisco essere pronto ad ogni evenienza e porto sempre con me:
 
-*   [kit riparazione tubeless](https://amzn.to/2R9RXDu)
-*   [pompa a pedale](https://amzn.to/2PTDpmN) (efficace e molto più leggera di un compressore 12v)
-*   un [buon set di inserti torx](https://amzn.to/2T8Daq6) con [chiave a cricchetto](https://amzn.to/2T8wbx1) e [adattatore 1/2-1/4](https://amzn.to/2QJPY9o)
-*   [chiave universale per ruota anteriore](https://amzn.to/2Rgntj9)
-*   [estrattore bobine](https://amzn.to/2RcVRLJ)
-*   [kit pronto soccorso](https://amzn.to/2Cw4XLG) (obbligatorio in alcuni Paesi)
-*   [bretelle catarifrangenti](https://amzn.to/2QL59iT) (obbligatorie in alcuni Paesi)
-*   [stucco ipossidico](https://amzn.to/2GzGqcj) (per riparare carter crepati e non solo)
-*   [borsa attrezzi a rullo](https://amzn.to/2AcFg15)
+- [kit riparazione tubeless](https://amzn.to/2R9RXDu)
+- [pompa a pedale](https://amzn.to/2PTDpmN) (efficace e molto più leggera di un compressore 12v)
+- un [buon set di inserti torx](https://amzn.to/2T8Daq6) con [chiave a cricchetto](https://amzn.to/2T8wbx1) e [adattatore 1/2-1/4](https://amzn.to/2QJPY9o)
+- [chiave universale per ruota anteriore](https://amzn.to/2Rgntj9)
+- [estrattore bobine](https://amzn.to/2RcVRLJ)
+- [kit pronto soccorso](https://amzn.to/2Cw4XLG) (obbligatorio in alcuni Paesi)
+- [bretelle catarifrangenti](https://amzn.to/2QL59iT) (obbligatorie in alcuni Paesi)
+- [stucco ipossidico](https://amzn.to/2GzGqcj) (per riparare carter crepati e non solo)
+- [borsa attrezzi a rullo](https://amzn.to/2AcFg15)
 
 ### Varie
 
