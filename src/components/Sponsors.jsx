@@ -53,8 +53,8 @@ const Sponsors = (props) => {
           >
             {
               !image.childImageSharp ?
-              <img src={image.publicURL} alt={name} /> :
-              <Img fluid={image.childImageSharp.fluid} alt={name} />
+              <img src={image.publicURL} alt={name} loading="lazy" /> :
+              <Img fluid={image.childImageSharp.fluid} alt={name} loading="lazy" />
             }
           </a>
         ))

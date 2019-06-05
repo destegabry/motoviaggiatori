@@ -169,7 +169,7 @@ Ci arrendiamo a prenotare tramite Booking.com, dove troviamo una stanza ad un pr
 
 ## Giorno 15: arrivederci Marocco!
 
-Ci svegliamo con calma e io ne approfitto per fare una passeggiata sulla spiaggia, completamente coperta di grosse conchiglie bivalve. Questa sera ci aspetta l'imbarco per Genova e abbiamo tutto il tempo per un ultimo giretto in terra africana. Proviamo a raggiungere Ceuta, enclave Spagnola che assieme a Gibiliterra costitusice le Colonne d'Ercole, ma dobbiamo desistere: essendo territorio Schengen l'accesso è srettamente sorvegliato e sottoposto a lunghi controlli.
+Ci svegliamo con calma e io ne approfitto per fare una passeggiata sulla spiaggia, completamente coperta di grosse conchiglie bivalve. Questa sera ci aspetta l'imbarco per Genova e abbiamo tutto il tempo per un ultimo giretto in terra africana. Proviamo a raggiungere Ceuta, enclave Spagnola che assieme a Gibiliterra costitusice le Colonne d'Ercole, ma dobbiamo desistere: essendo territorio Schengen l'accesso è strettamente sorvegliato e sottoposto a lunghi controlli.
 
 Seguiamo la N16 e raggiungiamo la Plage Dalia, scenico porticciolo naturale a due passi dall'enorme porto di Tangier Med e da cui si possono ammirare la costa spagnola e la rocca di Gibilterra. Facciamo qualche foto e ci spostiamo per il pranzo in una taverna per camionisti poco distante dal porto industriale.
 

@@ -1,4 +1,4 @@
 ---
-slug: tag/rhone-alps
+slug: tag/rhone-alpes
 name: Rhône-Alpes
 ---
