@@ -1,4 +1,4 @@
 ---
-slug: tag/tursimo
+slug: tag/turismo
 name: Tursimo
 ---
