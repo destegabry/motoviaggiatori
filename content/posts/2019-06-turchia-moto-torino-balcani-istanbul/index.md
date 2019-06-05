@@ -181,3 +181,14 @@ Riattraversiamo il corno d'oro e risaliamo il capo del serraglio, visitando il B
 ![Labirinto Gran Bazar Istabul](./galleries/13/_GAB3447.JPG "I corridoi del labirintico Gran Bazar di Istanbul")
 ![Alice Stefania Gran Bazar Istanbul](./galleries/13/DSC01513.jpeg "Alice e Stefania tra le lampade vendurte al Gran Bazar di Istanbul")
 ![Agia Sofia sera](./galleries/13/DSC01519.jpeg "Agia Sofia vista dal terrazzo dell'hotel Burckin")
+
+In questo viaggio abbiamo messo alla prova alcuni prodotti dei nostri partner tecnici:
+
+- caschi modulari [Caberg Helmets](https://www.caberg.it/) Levo: leggeri, silenzionsi e dotati di una visiera panoramica favolosa, sono il top per il mototurismo a lungo raggio
+- interfoni [Midland](https://www.midlandeurope.com/it) BT Next Pro, BTX1 Pro S e BTX2 Pro S: audio chiarissimo a tutte le andature con la possibilità di parlare in conferenza tra i piloti delle moto, davvero ottimi e consigliati
+- molle progressive [Hyperpro](https://hyperpro.com): un upgrade enorme rispetto alle molle originali della BMW R1200GS, migliorano moltissimo il comportamento della moto in curva senza ridurre il comfort di marcia grazie al coefficiente elastico che cambia a seconda della forza esercitata sulla molla, costano poco ma rendono molto (distribuite da [Rinolfi](https://www.rinolfi.it))
+- pastiglie freno [Brembo](http://brembo.com/it) in mescola LA: sinterizzate e specifiche per i freni anteriori delle moto da turismo, frenano forte dopo pochi km di rodaggio e promettono durata superiore (distribuite da [Motorquality](http://www.motorquality.it))
+- cupolino maggiorato Adventure [WRS](https://wrs.it) per  BMW R1200GS: permette di rilassarsi parecchio quando si viaggia a velocità sostenute, alleggerendo il carico sulla muscolatura cervicale e riducendo il rumore causato dalla turbolenza, l'archetto di sostegno permette di montare navigatori&co senza ostruire la strumentazione della moto
+- olio motore [Putoline](https://www.putoline.com/) SPORT 4 15W-50: semi-sintetico (API SL, JASO MA2), la BMW R1200GS non ne ha *mangiato* una goccia nei 7000km percorsi dal tagliando (distribuito da [Rinolfi](https://www.rinolfi.it))
+- S.M.A.R.T. IAT di [Belinassu](http://www.belinassu.it): una sonda plug&play che migliora il tiro del motore ai bassi e medi regimi ingrassando la miscela, semplice da installare e completamente reversibile
+- pneumatici [Anlas](http://anlas.com/it/) Capra RD e Capra R: gomme stradali che non disdegnano off-road leggero, ottimo feeling anche su bagnato, il consumo nei 5500km del viaggio è stato regolare
