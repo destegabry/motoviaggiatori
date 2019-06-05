@@ -48,8 +48,8 @@ Ci fermiamo in una spiaggia a Podstrana e ci accomodiamo ai tavoli sul molo del 
 
 ![Arrivo a Spalato](./galleries/2/DSC01195.jpeg "Arriviamo a Spalato all'alba")
 ![Pontile Podstrana](./galleries/2/IMG_3010.jpeg "Il pontile di Villa Mario a Podstrana")
-![Mare Podstrana](./galleries/2/_DSF2288.jpeg "Mare cristallino a Podstrana")
-![Il ritorno del libretto](./galleries/2/_DSF2295.jpeg "Dopo sole 6 ore di attesa ritorniamo in possesso del libretto")
+![Mare Podstrana](./galleries/2/DSF2288.jpeg "Mare cristallino a Podstrana")
+![Il ritorno del libretto](./galleries/2/DSF2295.jpeg "Dopo sole 6 ore di attesa ritorniamo in possesso del libretto")
 
 Nel frattempo decidiamo di pranzare sul lungomare di Spalato, mentre aspettiamo che la situazione si sblocchi. Incredibilmente torniamo in possesso della carta di circolazione e, dopo "sole" 6 ore di ritardo, finalmente ripartiamo verso sud!
 
@@ -88,9 +88,9 @@ Ormai ben rifocillati, proseguiamo verso la seconda insenatura del fiordo, che r
 
 Senza fermarci, raggiungiamo la spettacolare Kotor Serpentine, detta *strada dei 50 tornanti*, e cominciamo a salire sul monte Lovćen. Man mano che si sale la vista sulle due anse del *fiordo* diventa sempre più mozzafiato. Dopo un paio di stop ai punti panoramici, arrivati in cima, ci si presenta il tipico paesaggio di alta montagna, prevalentemente brullo. Ci imbattiamo in un paesello con le case dai tetti spioventi. Simone ci fa sapere di averlo trovato molto inquietante e che ci fosse un po' troppo silenzio.
 
-![Bocche di Cattaro](./galleries/6/_DSF2317.jpeg "Le spettacolari Bocche di Cattaro")
+![Bocche di Cattaro](./galleries/6/DSF2317.jpeg "Le spettacolari Bocche di Cattaro")
 ![MotoViaggiatori Cattaro](./galleries/6/DSC01324.jpeg "MotoViaggiatori alle Bocche di Cattaro")
-![MotoViaggiatori Cattaro](./galleries/6/_DSF2322.jpeg "MotoViaggiatori alle Bocche di Cattaro")
+![MotoViaggiatori Cattaro](./galleries/6/DSF2322.jpeg "MotoViaggiatori alle Bocche di Cattaro")
 ![Baia Kotor](./galleries/6/DSC01331-DSC01334.jpeg "Panorama della baia di Kotor")
 ![Punto panoramico Kotor Serpentine](./galleries/6/DSC01335.jpeg "Punto panoramico della Kotor Serpentine")
 ![Adesivo 50 tornanti](./galleries/6/DSC01339.jpeg "L'adesivo MotoViaggiatori sulla strada dei 50 tornanti")
@@ -164,7 +164,7 @@ Questa giornata sarà l'unica di riposo per le nostre moto. Iniziamo visitando l
 ![Agia Sofia](./galleries/12/DSC01415.jpeg "Arturo e Stefania posano davanti alla basilica di Agia Sofia")
 ![Mosaici Agia Sofia](./galleries/12/DSC01444.jpeg "Simboli delle due grandi religioni convivono da secoli in Agia Sofia")
 ![Agia Sofia ristrutturazione](./galleries/12/DSC01451.jpeg "Purtroppo la basilica (e non solo!) era in ristrutturazione")
-![Torre di Galata](./galleries/12/_GAB3482.JPG "La Torre di Galata")
+![Torre di Galata](./galleries/12/GAB3482.JPG "La Torre di Galata")
 
 Pranziamo presso uno dei ristoranti di pesce sul bosforo e ci avviciniamo a vedere da vicino la torre di Galata. Il quartiere intorno è ricco di negozietti di souvenir e artigianato.
 
@@ -175,10 +175,10 @@ Riattraversiamo il corno d'oro e risaliamo il capo del serraglio, visitando il B
 ![Panorama Galata Pera](./galleries/13/DSC01473-DSC01477.jpeg "Panorama sui quartieri di Galata e Pera")
 ![Cimitero Suleymaniye](./galleries/13/DSC01487.jpeg "Il cimitero fiorito della moschea Suleymaniye")
 ![Cortile Suleymaniye](./galleries/13/DSC01501.jpeg "Il cortile della grande moschea Suleymaniye")
-![Gatti tappeti Istabul](./galleries/13/_GAB3466.JPG "Gatti oziano su fodere di cuscini prodotte con la stoffa di vecchi tappeti")
+![Gatti tappeti Istabul](./galleries/13/GAB3466.JPG "Gatti oziano su fodere di cuscini prodotte con la stoffa di vecchi tappeti")
 ![Spezie Bazar Egiziano](./galleries/13/DSC01463.jpeg "Spezie sui banchetti del Bazar Egiziano")
 ![Arturo Gran Bazar Istanbul](./galleries/13/DSC01506.jpeg "Arturo in uno degli innumerevoli negozi del Gran Bazar di Istanbul")
-![Labirinto Gran Bazar Istabul](./galleries/13/_GAB3447.JPG "I corridoi del labirintico Gran Bazar di Istanbul")
+![Labirinto Gran Bazar Istabul](./galleries/13/GAB3447.JPG "I corridoi del labirintico Gran Bazar di Istanbul")
 ![Alice Stefania Gran Bazar Istanbul](./galleries/13/DSC01513.jpeg "Alice e Stefania tra le lampade vendurte al Gran Bazar di Istanbul")
 ![Agia Sofia sera](./galleries/13/DSC01519.jpeg "Agia Sofia vista dal terrazzo dell'hotel Burckin")
 

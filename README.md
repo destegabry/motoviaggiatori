@@ -30,3 +30,7 @@ Built files are deployed to GitHub Pages running `npm run deploy`.
 ## Deploy & Continuous Delivery
 
 The website is automatically built and deployed to GitHub Pages by [Travis CI](https://travis-ci.org) on each PR pushed on `master` branch.
+
+## Troubleshooting
+
+If some random images aren't served by GHPages, check if the names starts with `_`.
