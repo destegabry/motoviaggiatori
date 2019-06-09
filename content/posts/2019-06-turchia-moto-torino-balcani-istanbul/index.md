@@ -128,7 +128,7 @@ Ci fermiamo al passo Qafë Thanë per una piccola sosta, facciamo merenda con le
 
 Raggiungiamo le sponde del Lago di Ohrida, uno dei maggiori bacini della penisola balcanica e considerato uno dei più antichi della Terra. Molti pescatori offrono il pesce appena catturato sul bordo della strada. Alcuni hanno delle vasche con il pesce vivo. Si tratta della *trota koran*, pesce endemico di queste acque. Ci fermiamo a pranzo nel primo borgo che incontriamo per assaggiarla, come suggerito da David.
 
-Dopo tutta la giornata in moto arriviamo finalmente nei sobborghi di Salonicco, dove passeremo la notte. Fa molto freddo e abbiamo preso un po' di pioggia. Per fortuna dopo una giornata un monotona e faticosa rimediamo un'ottima cena greca. In Grecia si può ancora fumare nei locali, scoperta che riempie di gioia Simone.
+Dopo tutta la giornata in moto arriviamo finalmente nei sobborghi di Salonicco, dove passeremo la notte. Fa molto freddo e abbiamo preso un po' di pioggia. Per fortuna dopo una giornata un po' monotona e faticosa rimediamo un'ottima cena greca. In Grecia si può ancora fumare nei locali, scoperta che riempie di gioia Simone.
 
 ![Fragole albanesi](/./galleries/9/DSC01380.jpeg "Gustose fragole albanesi al passo Qafë Thanë")
 ![Pranzo al lago di Ohrida](/./galleries/9/DSC01384.jpeg "Pranzo al lago di Ohrida")
