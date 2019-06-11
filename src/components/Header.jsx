@@ -285,7 +285,7 @@ const Header = () => (
             <Logo />
             <Flex />
             <MainMenu />
-            <SocialLinks size={24} hideMail />
+            <SocialLinks size={24} hideMail iconStyle={{ marginRight: 12 }} />
             <div className="mobile-menu-opener" onClick={toggleMobileMenu} />
           </Wrapper>
         </div>

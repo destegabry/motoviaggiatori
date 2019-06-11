@@ -57,11 +57,12 @@ const mailStyle = css`
   }
 `
 
-const SocialLinks = ({size, hideMail}) => {
-  const iconStyle = {
+const SocialLinks = ({size, hideMail, iconStyle}) => {
+  const style = {
     height: size,
     width: size,
-    margin: size / 8
+    margin: size / 8,
+    ...iconStyle
   };
 
   return (
@@ -70,7 +71,7 @@ const SocialLinks = ({size, hideMail}) => {
         <Link
           href="mailto:info@motoviaggiatori.it"
           title="Email"
-          style={iconStyle}
+          style={style}
           css={mailStyle}
           className="email"
         >
@@ -80,7 +81,7 @@ const SocialLinks = ({size, hideMail}) => {
       <Link
         href="https://facebook.com/motoviaggiatori"
         title="Facebook"
-        style={iconStyle}
+        style={style}
         css={facebookStyle}
         className="facebook"
       >
@@ -89,7 +90,7 @@ const SocialLinks = ({size, hideMail}) => {
       <Link
         href="https://instagram.com/motoviaggiatori"
         title="Instagram"
-        style={iconStyle}
+        style={style}
         css={instagramStyle}
         className="instagram"
       >
@@ -98,7 +99,7 @@ const SocialLinks = ({size, hideMail}) => {
       <Link
         href="https://www.youtube.com/channel/UCTa8R7tJ7GDWTVKh0CF9w2w"
         title="YouTube"
-        style={iconStyle}
+        style={style}
         css={youtubeStyle}
         className="youtube"
       >
@@ -111,6 +112,7 @@ const SocialLinks = ({size, hideMail}) => {
 SocialLinks.propTypes = {
   size: PropTypes.number.isRequired,
   hideMail: PropTypes.bool,
+  iconStyle: PropTypes.object,
 }
 
 
