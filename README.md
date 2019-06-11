@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/553b8ffb-84e7-4144-b813-48767420b680/deploy-status)](https://app.netlify.com/sites/motoviaggiatori/deploys)
+
 # MotoViaggiatori
 
 [Gatsby](https://www.gatsbyjs.org/) powered blog. Content is stored as Markdown + Frontmatter files.
