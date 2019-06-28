@@ -33,13 +33,13 @@ Durante la visita conosciamo il direttore commerciale Andrea Donghi, che ideato 
 
 ## Levo: nato per viaggiare
 
-Il punto forte di questo casco è la **visiera panoramica** che offre un campo visivo pari a 338cm2 ed un angolo di visione verticale di 82°; queste cifre dicono poco se non confrontate con altri caschi modulari, che solitamente offrono rispettivamente meno di 300cm2 e 60°.
+Il punto forte di questo casco è la **visiera panoramica** che offre un campo visivo pari a 338cm² ed un angolo di visione verticale di 82°; queste cifre dicono poco se non confrontate con altri caschi modulari, che solitamente offrono rispettivamente meno di 300cm2 e 60°.
 
 Basta indossare il casco per capire come questi numeri si traducano in vantaggi concreti per il motoviaggiatore: si prova subito una sensazione di apertura, il campo visivo è molto più ampio, si riesce a guardare bene il quadro della moto senza bisogno di abbassare la testa.
 
 ![Il punto forte del LEVO è la visiera panoramica](./galleries/Caberg-Levo-visor.jpg "Il punto forte del LEVO è la visiera panoramica")
 
-L’equipaggiamento di serie del Caberg LEVO è completato da **visiera parasole** a scomparsa e **lente antiappannamento** Pinlock Max Vision.
+L’equipaggiamento di serie del Caberg LEVO è completato da **visiera parasole** a scomparsa e **lente antiappannamento** Pinlock® Max Vision.
 
 La **calotta** esterna del LEVO è realizzata in fibre composite (fibra di vetro e kevlar), il LEVO CARBON è interamente in fibra di carbonio (mentoniera in policarbonato). Per entrambe le versioni sono disponibili due misure di calotta esterna che coprono rispettivamente le taglie XS-S-M e L-XL-XXL.
 
@@ -71,7 +71,7 @@ Al momento del rilascio ufficiale il LEVO sarà disponibile nei colori bianco, n
 
 Taglie calotta piccola:
 
-- **S** 53/54cm
+- **XS** 53/54cm
 - **S** 55/56cm
 - **M** 57/58cm
 
