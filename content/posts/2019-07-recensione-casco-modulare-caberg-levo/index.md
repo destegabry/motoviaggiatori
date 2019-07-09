@@ -4,7 +4,7 @@ slug: /2019/07/recensione-casco-modulare-caberg-levo
 author: gabriele
 featured_image: ../2018-12-esclusivo-primo-contatto-con-il-casco-caberg-levo/galleries/Caberg-Levo-wall.jpeg
 excerpt: "Le nostre impressioni dopo sei mesi, un viaggio in Turchia e decine di migliaia di km totali"
-opening: "<p>Sono passati più di 6 mesi dal <a href=\"/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo\">primo contatto</a> con il casco Caberg LEVO, lo abbiamo messo alla prova durante un <a href=\"/categoria/viaggi/turchia\">viaggio in Turchia</a> da 5500km in 18 giorni e in tutte le uscite del 2019: finalmente siamo pronti a raccontarvi come va!</p>"
+opening: "<p>Sono passati più di 6 mesi dal <a href=\"/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo\">primo contatto</a> con il casco Caberg LEVO, lo abbiamo messo alla prova durante un <a href=\"/categoria/viaggi/turchia\">viaggio in Turchia</a> da 5500km in 18 giorni e durante tutte le uscite del 2019: finalmente siamo pronti a raccontarvi come va!</p>"
 date: "2019-07-01T09:00:00.000Z"
 categories:
 - recensioni
@@ -17,19 +17,45 @@ tags:
 - tag/sicurezza
 ---
 
-LEVO è il casco modulare situato al vertice della gamma Caberg, concepito per il mototurismo e progettato per raggiungere alti livelli di leggerezza, silenziosità, ventilazione, visibilità e rapporto qualità/prezzo. Per cominciare vi lasciamo al video ufficiale girato a Bergamo e dintorni:
+LEVO è il casco modulare al vertice della gamma Caberg, concepito per il mototurismo e progettato per raggiungere alti livelli di leggerezza, silenziosità, ventilazione, visibilità e rapporto qualità/prezzo. Per cominciare vi lasciamo al video ufficiale girato a Bergamo e dintorni:
 
 `youtube:https://youtu.be/9fx8x4Kq1Yc`
 
 ## La prova
 
-La nostra prova di lunga durata inizia a dicembre 2019 con una [visita alla sede bergamasca di Caberg](/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo), dove riceviamo cinque unità di pre-produzione in varie taglie e colori. Ci stiamo preparando per un lungo viaggio in Turchia che ci permetterà di testare a fondo il casco.
+La nostra prova di lunga durata inizia a dicembre 2018 con una [visita alla sede bergamasca di Caberg](/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo), dove riceviamo cinque unità di pre-produzione in varie taglie e colori. Ci stiamo preparando per un lungo [viaggio in Turchia](/tag/turchia-in-moto) che permetterà di testare a fondo il casco.
 
-Le cinque *teste di MotoViaggiatori* coinvolte nella prova indossano caschi di varie marche e modelli, per cui avremo la possibilità di confrontare il LEVO con: Caberg Duke II, Givi X.21 Challenger, Nolan
+Partiamo dalla caratteristica principale, la **grande visiera panoramica**: il Caberg LEVO è il casco modulare con la visibilità più ampia del mercato. L'angolo di visione verticale di 82° permette di tenere d'occhio cruscotto e navigatore GPS, ma più semplicemente dà una sensazione di maggiore apertura e libertà, permettendo di immergersi ancora più nel paesaggio.
 
-L'inverno piemontese non è il massimo per viaggiare in moto, ma le basse temperature ed il clima poco clemente ci permettono di testare subito le caratteristiche di ventilazione e resistenza alla pioggia.
+L'inverno piemontese non è il massimo per viaggiare in moto, ma le basse temperature ed il clima poco clemente ci permettono di testare subito le caratteristiche di ventilazione e resistenza alla pioggia. Aprendo le prese d'aria frontali e posteriori si percepisce un **buon flusso d'aria** che attraversa la calotta del casco; lasciando la visiera appoggiata sul *dentino* di chiusura si crea una microventilazione sul viso del pilota.
+
+**Ottima resistenza all'acqua**, ma bisogna ricordarsi di chiudere per bene l'ampia visiera facendo scattare il suddetto *dentino*. Diverse ore di pioggia battente in autostrada non hanno messo in difficoltà il LEVO.
+
+Gli interni sono di alta qualità, completamente ipoallergenici, removibli e lavabili. Igiene e pulizia del casco sono molto semplici dato che visiera ed imbottiture si smontano facilmente. In viaggio abbiamo usato il [kit di pulizia Muc-Off](https://amzn.to/2G25C8Q) per le visiere e lo [spray Motul M2](https://amzn.to/2YH7Ph7) per igienizzare gli interni.
+
+I guanciali sono foderati in Coolmax®, un tessuto molto traspirante che **spinge l'umidità verso l'esterno** grazie all'elevata capillarità delle sue fibre. La vestibilità del casco ci ha messo un po' in difficoltà e 4 MotoViaggiatori su 5 si sono ritrovati ad utilizzare una taglia più gramde rispetto a quella indossata solitamente.
+
+I caschi modulari non brillano per leggerezza e silenziosità, tuttavia il Caberg LEVO non sfigura affatto con i suoi **1450 gr di peso** (nella versione CARBON) ed una ridotta rumorosità; l'aerodinamica del casco è ben studiata e l'imbottitura *taglia* le alte frequenze smorzando molto il fischio del vento. Le nostre maxi enduro sono dotate di alti cupolini che creano rumorose turbolenze e non sono il massimo per apprezzare la silenziosità di questo casco, ma basta alzarsi sulle pedane per rendersi conto di quanto filtri bene il vento.
+
+Il casco è **predisposto per l'utilizzo di interfoni** con centraline esterne, rimuovendo la fodera interna si trovano i passanti per i cavi e gli alloggiamenti per cuffie e microfono. Durante i test abbiamo utilizzato interfoni [Midland BT Next Pro](https://amzn.to/2YLHfDG): l'alta qualità degli speaker e la silenziosità del Caberg LEVO permettono di comunicare perfettamente tra piloti di moto diverse anche a velocità autostradali.
+
+L'ergonomia dei comandi è ben studiata, bastano pochi chilometri per imparare ad azionare correttamente l'apertura della mentoniera, la visiera parasole integrata ed il cursore che rende il casco omologato anche in posizione aperta.
+
+Il casco ci piace molto, ma vogliamo essere pignoli e segnalare qualche miglioria che ci piacerebbe vedere nei prossimi modelli:
+
+- sportello dedicato al passaggio dei cavi dell'interfono (Caberg lo ha evitato intenzionalmente per limitare rumorosità e ingresso acqua)
+- aletta parasole da enduro opzionale
+- microscatto della visiera aggiuntivo per permettere una ventilazione maggiore evitando di avere il bordo inferiore proprio davanti agli occhi
 
 ## Verdetto
+
+Il Caberg LEVO ci accompagna da oltre sei mesi e la nostra **valutazione è molto positiva**. Nonostante l'uso intenso (e qualche botta di troppo) il casco si comporta bene, dimostrando di essere realizzato con materiali resistenti ed una qualità di assemblaggio molto alta (100% Made in Italy).
+
+Non abbiamo avuto la possibilità di testare la versione CARBON, ma il LEVO in fibre composite è abbastanza leggero da non affaticare anche nelle tratte più lunghe.
+
+La calzata del casco è molto precisa, consigliamo di provarlo in negozio dato che gli interni non tendono a cedere molto.
+
+Se stai cercando un casco modulare di alta gamma per viaggiare, vallo a toccare con mano!
 
 ## Specifiche
 
