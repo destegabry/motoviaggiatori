@@ -33,7 +33,7 @@ L'inverno piemontese non è il massimo per viaggiare in moto, ma le basse temper
 
 Gli interni sono di alta qualità, completamente ipoallergenici, removibli e lavabili. Igiene e pulizia del casco sono molto semplici dato che visiera ed imbottiture si smontano facilmente. In viaggio abbiamo usato il [kit di pulizia Muc-Off](https://amzn.to/2G25C8Q) per le visiere e lo [spray Motul M2](https://amzn.to/2YH7Ph7) per igienizzare gli interni.
 
-I guanciali sono foderati in Coolmax®, un tessuto molto traspirante che **spinge l'umidità verso l'esterno** grazie all'elevata capillarità delle sue fibre. La vestibilità del casco ci ha messo un po' in difficoltà e 4 MotoViaggiatori su 5 si sono ritrovati ad utilizzare una taglia più gramde rispetto a quella indossata solitamente.
+I guanciali sono foderati in Coolmax®, un tessuto molto traspirante che **spinge l'umidità verso l'esterno** grazie all'elevata capillarità delle sue fibre. La vestibilità del casco ci ha messo un po' in difficoltà e 4 MotoViaggiatori su 5 si sono ritrovati ad utilizzare una taglia più grande rispetto a quella indossata solitamente.
 
 I caschi modulari non brillano per leggerezza e silenziosità, tuttavia il Caberg LEVO non sfigura affatto con i suoi **1450 gr di peso** (nella versione CARBON) ed una ridotta rumorosità; l'aerodinamica del casco è ben studiata e l'imbottitura *taglia* le alte frequenze smorzando molto il fischio del vento. Le nostre maxi enduro sono dotate di alti cupolini che creano rumorose turbolenze e non sono il massimo per apprezzare la silenziosità di questo casco, ma basta alzarsi sulle pedane per rendersi conto di quanto filtri bene il vento.
 
@@ -49,11 +49,15 @@ Il casco ci piace molto, ma vogliamo essere pignoli e segnalare qualche migliori
 
 ## Verdetto
 
-Il Caberg LEVO ci accompagna da oltre sei mesi e la nostra **valutazione è molto positiva**. Nonostante l'uso intenso (e qualche botta di troppo) il casco si comporta bene, dimostrando di essere realizzato con materiali resistenti ed una qualità di assemblaggio molto alta (100% Made in Italy).
+Il Caberg LEVO ci accompagna da oltre sei mesi, la nostra **valutazione è molto positiva**.
 
-Non abbiamo avuto la possibilità di testare la versione CARBON, ma il LEVO in fibre composite è abbastanza leggero da non affaticare anche nelle tratte più lunghe.
+Nonostante l'uso intenso (e qualche botta di troppo) il casco si comporta bene, dimostrando di essere realizzato con materiali resistenti ed una qualità di assemblaggio molto alta (100% Made in Italy).
+
+Non abbiamo avuto la possibilità di testare la versione CARBON, ma il LEVO in fibre composite è già abbastanza leggero da non affaticare il collo, nemmeno nelle tratte più lunghe.
 
 La calzata del casco è molto precisa, consigliamo di provarlo in negozio dato che gli interni non tendono a cedere molto.
+
+Il rapporto qualità/prezzo è ottimo, la lente antiappannamento Pinlock® in formato *extralarge* è di serie.
 
 Se stai cercando un casco modulare di alta gamma per viaggiare, vallo a toccare con mano!
 
