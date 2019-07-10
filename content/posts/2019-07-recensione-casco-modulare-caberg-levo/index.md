@@ -1,11 +1,11 @@
 ---
-title: "Recensione casco modulare Caberg LEVO"
+title: "Caberg LEVO: la recensione completa"
 slug: /2019/07/recensione-casco-modulare-caberg-levo
 author: gabriele
-featured_image: ../2018-12-esclusivo-primo-contatto-con-il-casco-caberg-levo/galleries/Caberg-Levo-wall.jpeg
+featured_image: ./galleries/girola/ORG_DSC02315.jpg
 excerpt: "Le nostre impressioni dopo sei mesi, un viaggio in Turchia e decine di migliaia di km totali"
 opening: "<p>Sono passati più di 6 mesi dal <a href=\"/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo\">primo contatto</a> con il casco Caberg LEVO, lo abbiamo messo alla prova durante un <a href=\"/categoria/viaggi/turchia\">viaggio in Turchia</a> da 5500km in 18 giorni e durante tutte le uscite del 2019: finalmente siamo pronti a raccontarvi come va!</p>"
-date: "2019-07-01T09:00:00.000Z"
+date: "2019-07-11T09:00:00.000Z"
 categories:
 - recensioni
 - recensioni/caschi
@@ -27,6 +27,11 @@ La nostra prova di lunga durata inizia a dicembre 2018 con una [visita alla sede
 
 Partiamo dalla caratteristica principale, la **grande visiera panoramica**: il Caberg LEVO è il casco modulare con la visibilità più ampia del mercato. L'angolo di visione verticale di 82° permette di tenere d'occhio cruscotto e navigatore GPS, ma più semplicemente dà una sensazione di maggiore apertura e libertà, permettendo di immergersi ancora più nel paesaggio.
 
+![Caberg LEVO Carbon - vista frontale](./galleries/carbon/Levo-Carbon-front.jpg)
+![Caberg LEVO Carbon - vista 3/4](./galleries/carbon/Levo-Carbon-3-4.jpg)
+![Caberg LEVO Carbon - vista laterale](./galleries/carbon/Levo-Carbon-profile.jpg)
+![Caberg LEVO Carbon - vista posteriore](./galleries/carbon/Levo-Carbon-rear.jpg)
+
 L'inverno piemontese non è il massimo per viaggiare in moto, ma le basse temperature ed il clima poco clemente ci permettono di testare subito le caratteristiche di ventilazione e resistenza alla pioggia. Aprendo le prese d'aria frontali e posteriori si percepisce un **buon flusso d'aria** che attraversa la calotta del casco; lasciando la visiera appoggiata sul *dentino* di chiusura si crea una microventilazione sul viso del pilota.
 
 **Ottima resistenza all'acqua**, ma bisogna ricordarsi di chiudere per bene l'ampia visiera facendo scattare il suddetto *dentino*. Diverse ore di pioggia battente in autostrada non hanno messo in difficoltà il LEVO.
@@ -34,6 +39,11 @@ L'inverno piemontese non è il massimo per viaggiare in moto, ma le basse temper
 Gli interni sono di alta qualità, completamente ipoallergenici, removibli e lavabili. Igiene e pulizia del casco sono molto semplici dato che visiera ed imbottiture si smontano facilmente. In viaggio abbiamo usato il [kit di pulizia Muc-Off](https://amzn.to/2G25C8Q) per le visiere e lo [spray Motul M2](https://amzn.to/2YH7Ph7) per igienizzare gli interni.
 
 I guanciali sono foderati in Coolmax®, un tessuto molto traspirante che **spinge l'umidità verso l'esterno** grazie all'elevata capillarità delle sue fibre. La vestibilità del casco ci ha messo un po' in difficoltà e 4 MotoViaggiatori su 5 si sono ritrovati ad utilizzare una taglia più grande rispetto a quella indossata solitamente.
+
+![Presa d'aria Caberg LEVO](./galleries/aerazione/IMG_3890.jpg "Presa d'aria principale sulla calotta del Caberg LEVO")
+![Presa d'aria mentoniera Caberg LEVO](./galleries/aerazione/IMG_3886.jpg "Presa d'aria sulla mentoniera del Caberg LEVO, notare il dentino di chiusura della visiera")
+![Estrattori aria Caberg LEVO](./galleries/aerazione/IMG_3892.jpg "Due estrattori posteriori lasciano fuoriuscire l'aria calda dal Caberg LEVO")
+![Interno calotta Caberg LEVO](./galleries/aerazione/IMG_3882.jpg "Smontando gli interni si possono vedere i canali per la circolazione dell'aria e la predisposizione per l'interfono")
 
 I caschi modulari non brillano per leggerezza e silenziosità, tuttavia il Caberg LEVO non sfigura affatto con i suoi **1450 gr di peso** (nella versione CARBON) ed una ridotta rumorosità; l'aerodinamica del casco è ben studiata e l'imbottitura *taglia* le alte frequenze smorzando molto il fischio del vento. Le nostre maxi enduro sono dotate di alti cupolini che creano rumorose turbolenze e non sono il massimo per apprezzare la silenziosità di questo casco, ma basta alzarsi sulle pedane per rendersi conto di quanto filtri bene il vento.
 
@@ -60,6 +70,12 @@ La calzata del casco è molto precisa, consigliamo di provarlo in negozio dato c
 Il rapporto qualità/prezzo è ottimo, la lente antiappannamento Pinlock® in formato *extralarge* è di serie.
 
 Se stai cercando un casco modulare di alta gamma per viaggiare, vallo a toccare con mano!
+
+![Caberg LEVO tra i vigneti delle Langhe](./galleries/girola/IMG_3639.jpg)
+![Caberg LEVO al lago del Moncenisio](./galleries/girola/IMG_3693.jpg)
+![Caberg LEVO in miniatura?](./galleries/girola/DSC00830.jpg)
+![Caberg LEVO alle Bocche di Cattaro](./galleries/girola/ORG_DSC01351.jpg)
+![Caberg LEVO: l'ideale per non prendere scottature in spiaggia!](./galleries/girola/ORG_DSC02315.jpg)
 
 ## Specifiche
 
