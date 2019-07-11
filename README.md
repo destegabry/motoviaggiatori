@@ -2,7 +2,7 @@
 
 # MotoViaggiatori
 
-[Gatsby](https://www.gatsbyjs.org/) powered blog. Content is stored as Markdown + Frontmatter files.
+[Gatsby](https://www.gatsbyjs.org/) powered blog. Content is stored as Markdown + Frontmatter files and continuously delivered to [Netlify CDN](https://www.netlify.com).
 
 ## Install
 
