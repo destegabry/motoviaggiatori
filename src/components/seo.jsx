@@ -3,14 +3,39 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql, withPrefix } from 'gatsby'
 
-function SEO({ description, lang, meta, keywords, title, children, image }) {
+function SEO({ description, meta, keywords, title, children, image }) {
   return (
     <StaticQuery
       query={detailsQuery}
       render={({ site: { siteMetadata } }) => {
         const metaDescription =description || siteMetadata.description
         const parsedTitle = title ? `${title} | ${siteMetadata.title}` : `${siteMetadata.title} | ${siteMetadata.description}`;
-        const previewImage = image || withPrefix('/images/motoviaggiatori_logo.png');
+        let opengraph = [
+          {
+            property: `og:title`,
+            content: parsedTitle,
+          },
+          {
+            property: `og:description`,
+            content: metaDescription,
+          },
+          {
+            property: `og:type`,
+            content: `website`,
+          },
+          {
+            property: `og:image`,
+            content: image ? image.publicUrl : withPrefix('/images/motoviaggiatori_logo.png')
+          },
+          {
+            property: `og:image:width`,
+            content: image ? image.childImageSharp.original.width : 910
+          },
+          {
+            property: `og:image:height`,
+            content: image ? image.childImageSharp.original.height : 512
+          }
+        ];
 
         return (
           <Helmet
@@ -22,22 +47,6 @@ function SEO({ description, lang, meta, keywords, title, children, image }) {
               {
                 name: `description`,
                 content: metaDescription,
-              },
-              {
-                property: `og:title`,
-                content: parsedTitle,
-              },
-              {
-                property: `og:description`,
-                content: metaDescription,
-              },
-              {
-                property: `og:type`,
-                content: `website`,
-              },
-              {
-                property: `og:image`,
-                content: previewImage
               },
               {
                 name: `twitter:card`,
@@ -60,7 +69,8 @@ function SEO({ description, lang, meta, keywords, title, children, image }) {
                     }
                   : []
               )
-              .concat(meta)}
+              .concat(meta)
+              .concat(opengraph)}
           >
             {children}
           </Helmet>
