@@ -46,6 +46,10 @@ export const postFeaturedImage = graphql`
     featured_image {
       publicURL
       childImageSharp {
+        original {
+          height
+          width
+        }
         fluid(
           maxWidth: 1240,
           maxHeight: 620,
