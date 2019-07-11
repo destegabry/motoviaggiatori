@@ -25,10 +25,9 @@ function SEO({ description, meta, keywords, title, children, image }) {
           },
           {
             property: `og:image`,
-            content: image ? image.publicUrl : withPrefix('/images/motoviaggiatori_logo.png')
+            content: siteMetadata.siteUrl + (image ? image.publicURL : withPrefix('/images/motoviaggiatori_logo.png'))
           }
         ];
-
         if (!image) {
           opengraph = opengraph.concat([
             {
@@ -117,6 +116,7 @@ const detailsQuery = graphql`
         title
         description
         language
+        siteUrl
       }
     }
   }
