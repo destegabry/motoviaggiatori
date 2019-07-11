@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql, withPrefix } from 'gatsby'
 
+
 function SEO({ description, meta, keywords, title, children, image, slug }) {
   return (
     <StaticQuery
@@ -28,6 +29,12 @@ function SEO({ description, meta, keywords, title, children, image, slug }) {
             content: siteMetadata.siteUrl + (image ? image.publicURL : withPrefix('/images/motoviaggiatori_logo.png'))
           }
         ];
+        if(process.env.GATSBY_FB_APP_ID) {
+          opengraph.push({
+            property: `fb:app_id`,
+            content: process.env.GATSBY_FB_APP_ID
+          });
+        }
         if (slug) {
           opengraph.push({
             property: `og:url`,
