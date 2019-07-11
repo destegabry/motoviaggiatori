@@ -26,16 +26,32 @@ function SEO({ description, meta, keywords, title, children, image }) {
           {
             property: `og:image`,
             content: image ? image.publicUrl : withPrefix('/images/motoviaggiatori_logo.png')
-          },
-          {
-            property: `og:image:width`,
-            content: image ? image.childImageSharp.original.width : 910
-          },
-          {
-            property: `og:image:height`,
-            content: image ? image.childImageSharp.original.height : 512
           }
         ];
+
+        if (!image) {
+          opengraph = opengraph.concat([
+            {
+              property: `og:image:width`,
+              content: 910
+            },
+            {
+              property: `og:image:height`,
+              content: 512
+            }
+          ]);
+        } else if(image.childImageSharp && image.childImageSharp.original) {
+          opengraph = opengraph.concat([
+            {
+              property: `og:image:width`,
+              content: image.childImageSharp.original.width
+            },
+            {
+              property: `og:image:height`,
+              content: image.childImageSharp.original.height
+            }
+          ]);
+        }
 
         return (
           <Helmet
