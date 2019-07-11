@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql, withPrefix } from 'gatsby'
 
-function SEO({ description, meta, keywords, title, children, image }) {
+function SEO({ description, meta, keywords, title, children, image, slug }) {
   return (
     <StaticQuery
       query={detailsQuery}
@@ -28,6 +28,12 @@ function SEO({ description, meta, keywords, title, children, image }) {
             content: siteMetadata.siteUrl + (image ? image.publicURL : withPrefix('/images/motoviaggiatori_logo.png'))
           }
         ];
+        if (slug) {
+          opengraph.push({
+            property: `og:url`,
+            content: siteMetadata.siteUrl + slug
+          });
+        }
         if (!image) {
           opengraph = opengraph.concat([
             {
@@ -105,6 +111,7 @@ SEO.propTypes = {
   meta: PropTypes.array,
   keywords: PropTypes.arrayOf(PropTypes.string),
   title: PropTypes.string,
+  slug:  PropTypes.string,
 }
 
 export default SEO

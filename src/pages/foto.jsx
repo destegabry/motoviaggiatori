@@ -15,7 +15,7 @@ const CTAWrapper = styled.p`
 
 const FotoPage = () => (
   <Layout>
-    <SEO title="Foto" description="Le ultime foto dal nostro feed Instagram" />
+    <SEO title="Foto" description="Le ultime foto dal nostro feed Instagram" slug="/foto" />
     <Card>
       <div className="content">
         <h1>Foto</h1>

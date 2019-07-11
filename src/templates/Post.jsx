@@ -89,7 +89,12 @@ function PostTemplate (props) {
 
   return (
     <Layout itemScope itemType="http://schema.org/Article">
-      <SEO title={frontmatter.title} description={frontmatter.excerpt} image={ frontmatter.featured_image } />
+      <SEO
+        title={frontmatter.title}
+        description={frontmatter.excerpt}
+        image={ frontmatter.featured_image }
+        slug={ frontmatter.slug }
+      />
       <Card css={cardCss}>
         <Article>
           <DangerousHTML component="h1" html={ frontmatter.title } itemProp="name headline" />

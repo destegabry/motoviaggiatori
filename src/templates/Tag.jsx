@@ -12,7 +12,11 @@ function TagTemplate({ data }) {
 
   return (
     <Layout>
-      <SEO title={currentTag.frontmatter.name} description={currentTag.excerpt} />
+      <SEO
+        title={currentTag.frontmatter.name}
+        description={currentTag.excerpt}
+        slug={ `/${currentTag.frontmatter.slug}` }
+      />
       <Card>
         <div className="content">
           <h1>{currentTag.frontmatter.name}</h1>
@@ -33,6 +37,7 @@ export const pageQuery = graphql`
       excerpt
       frontmatter {
         name
+        slug
       }
     }
     allMarkdownRemark(
