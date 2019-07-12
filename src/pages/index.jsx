@@ -112,7 +112,7 @@ const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
 
 const IndexPage = ({ data }) => (
   <Layout>
-    <SEO />
+    <SEO slug="/" />
     <h4>Ultimi articoli</h4>
     <CategorizedPostsSection>
       <PostPreviewsByCategory

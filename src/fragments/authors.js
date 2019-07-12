@@ -5,6 +5,7 @@ export const authorData = graphql`
     html
     excerpt
     frontmatter {
+      slug
       name
       ...AuthorAvatar
     }

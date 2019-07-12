@@ -15,6 +15,7 @@ function AuthorTemplate({ data }) {
         title={ currentAuthor.frontmatter.name }
         description={ currentAuthor.excerpt }
         image={ currentAuthor.frontmatter.avatar ? currentAuthor.frontmatter.avatar.publicURL : null }
+        slug={ `/author/${currentAuthor.frontmatter.slug}` }
       />
       <AuthorBox author={ currentAuthor } />
       <PagedPosts posts={ data.allMarkdownRemark.edges } />

@@ -12,7 +12,11 @@ function CategoryTemplate({ data }) {
 
   return (
     <Layout>
-      <SEO title={currentCategory.frontmatter.name} description={currentCategory.excerpt} />
+      <SEO
+        title={currentCategory.frontmatter.name}
+        description={currentCategory.excerpt}
+        slug={ `/categoria/${currentCategory.frontmatter.slug}` }
+      />
       <Card>
         <div className="content">
           <h1>{currentCategory.frontmatter.name}</h1>
@@ -33,6 +37,7 @@ export const pageQuery = graphql`
       excerpt
       frontmatter {
         name
+        slug
       }
     }
     allMarkdownRemark(
