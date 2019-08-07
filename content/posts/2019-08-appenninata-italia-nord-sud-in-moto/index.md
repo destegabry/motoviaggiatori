@@ -4,7 +4,7 @@ slug: /2019/08/appenninata-italia-nord-sud-in-moto
 author: arturo
 featured_image: ./galleries/2019-08-05T12.09.06.jpeg
 excerpt: "Da Torino a Brindisi, 1550 km di Appennini tra curve dolci e luoghi incredibili"
-opening: "Agosto, devi tornare in puglia dai parenti. <em>Giù</em> non hai la macchina o altri mezzi (forse una bici) e quindi non sai come muoverti. Che fai? Beh ci vai in moto"
+opening: "Agosto, devi tornare in puglia dai parenti. <em>Giù</em> non hai la macchina o altri mezzi (forse una bici) e quindi non sai come muoverti. Che fai? Beh ci vai in moto"
 date: 2019-08-07T14:30:00.000+2:00
 categories:
 - itinerari
@@ -31,7 +31,7 @@ tags:
 
 Torino – Brindisi, crica 1200 km di autostrada in estate… Una noia mortale specialmente in moto! Apro Google Maps e scelgo l’opzione evita autostrade e pedaggi, ma non sono convinto del percorso; Google suggerisce statali vicino al mare, ovvero: gente, gente, gente e caldo, caldo caldo! Poi penso alla bellissima catena montuosa situata al centro del nostro bellissimo Paese, inizio a spostare e forzare il percorso. Cosa vien fuori? 1400 km di statale montuosa, al fresco!
 
-Preparo il mio prima viaggio in solitaria all’avventura, pianificando il percorso per passare in parchi e riserve naturali. Decido di non prenotare nulla e improvvisare giorno per giorno dove e quando fermarmi. Cerco sulla rete quali sono i più bei passi degli Appennini e punti di interesse sulla strada. Ecco qui la perfetta ricetta per l’**Appenninata**. Cosa manca? Ah si, partire!
+Preparo il mio primo viaggio in solitaria all’avventura, pianificando il percorso per passare in parchi e riserve naturali. Decido di non prenotare nulla e improvvisare giorno per giorno dove e quando fermarmi. Cerco sulla rete quali sono i più bei passi degli Appennini e punti di interesse sulla strada. Ecco qui la perfetta ricetta per l’**Appenninata**. Cosa manca? Ah si, partire!
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=127wHoS681ckoG-gS6978i43xnWAQhhMh" width="100%" height="700"></iframe>
 
@@ -45,7 +45,7 @@ L’unica tappa prestabilita è il Passo del Bracco, indicato tra i più bei val
 ![Liguria Appennino Ligure](./galleries/GOPR0018.jpeg "Tipico panorama dell'Appennino Ligure")
 ![Liguria Passo del Bracco](./galleries/2019-08-03T13.11.34.jpeg "Liguria – Passo del Bracco")
 
-Mi fermo ad apprezzare il panorama, effettuo il mio fugace pranzo con focaccia di Recco comprata con sosta tattica in provincia di Genova, e prenoto l’hotel per passare la notte a Volterra. Imposto il navigatore e mi incammino. Inizio a macinare chilometri e dopo un po’ qualcosa inizia a turbarmi: le montagne alla mia sinistra sono sempre più lontane, mentre il mare alla mia destra sempre più vicino… Mi fermo a ricontrollare il navigatore, mi pare tutto giusto. Continuo macinare chilometri e la situazione peggiora. In men che non si dica mi ritrovo a Forte dei Marmi imbottigliato tra la gente che vuole andare al mare e inizio a patire il caldo. Le Alpi Apuane mi sbeffeggiano guardandomi dall’alto delle loro cime fresche. Ricontrollo il navigatore e ovviamente ho selezionato il percorso sbagliato…
+Mi fermo ad apprezzare il panorama, consumo il mio fugace pranzo con focaccia di Recco comprata con sosta tattica in provincia di Genova, e prenoto l’hotel per passare la notte a Volterra. Imposto il navigatore e mi incammino. Inizio a macinare chilometri e dopo un po’ qualcosa inizia a turbarmi: le montagne alla mia sinistra sono sempre più lontane, mentre il mare alla mia destra sempre più vicino… Mi fermo a ricontrollare il navigatore, mi pare tutto giusto. Continuo macinare chilometri e la situazione peggiora. In men che non si dica mi ritrovo a Forte dei Marmi imbottigliato tra la gente che vuole andare al mare e inizio a patire il caldo. Le Alpi Apuane mi sbeffeggiano guardandomi dall’alto delle loro cime fresche. Ricontrollo il navigatore e ovviamente ho selezionato il percorso sbagliato…
 
 <div class="message pro-tip">
 Per favore Google, se disegni un percorso puoi usare due colori diversi per evidenziare la strada che stai percorrendo e quella che dovresti seguire? Le tonalitaà di blu col sole battente non sono colori diversi!
@@ -90,7 +90,7 @@ Arrivo in loco in prima serata, effettuo la manutenzione della catena, doccia e 
 
 ## Giorno 3: Abruzzo, Campania, Basilicata, Puglia
 
-Mi sveglio alle 06.30, doccia, colazione e parto. Già dai primi chilometri capisco che sarà una giornata lunghissima, dovrò fermarmi ogni momento a fare foto… <em>Cammino con gli occhi sgranati, in ogni direzione foraggio per il mio sguardo di meravigie</em>.
+Mi sveglio alle 06.30, doccia, colazione e parto. Già dai primi chilometri capisco che sarà una giornata lunghissima, dovrò fermarmi ogni momento a fare foto… <em>Cammino con gli occhi sgranati, in ogni direzione foraggio per il mio sguardo affamato di meravigie</em>.
 
 <div class="message pro-tip">Se girovagando per il Centro Italia vi sale la vena poetica non preoccupatevi, a Taranto passa tutto.</div>
 
