@@ -31,7 +31,7 @@ tags:
 
 Torino – Brindisi, crica 1200 km di autostrada in estate… Una noia mortale specialmente in moto! Apro Google Maps e scelgo l’opzione evita autostrade e pedaggi, ma non sono convinto del percorso; Google suggerisce statali vicino al mare, ovvero: gente, gente, gente e caldo, caldo caldo! Poi penso alla bellissima catena montuosa situata al centro del nostro bellissimo Paese, inizio a spostare e forzare il percorso. Cosa vien fuori? 1400 km di statale montuosa, al fresco!
 
-Preparo il mio primo viaggio in solitaria all’avventura, pianificando il percorso per passare in parchi e riserve naturali. Decido di non prenotare nulla e improvvisare giorno per giorno dove e quando fermarmi. Cerco sulla rete quali sono i più bei passi degli Appennini e punti di interesse sulla strada. Ecco qui la perfetta ricetta per l’**Appenninata**. Cosa manca? Ah si, partire!
+Preparo il mio primo viaggio in solitaria all’avventura, pianificando il percorso per passare in parchi e riserve naturali. Decido di non prenotare nulla e improvvisare giorno per giorno dove e quando fermarmi. Cerco sulla Rete quali sono i più bei passi degli Appennini e punti di interesse sulla strada. Ecco qui la perfetta ricetta per l’**Appenninata**. Cosa manca? Ah si, partire!
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=127wHoS681ckoG-gS6978i43xnWAQhhMh" width="100%" height="700"></iframe>
 
@@ -48,7 +48,7 @@ L’unica tappa prestabilita è il Passo del Bracco, indicato tra i più bei val
 Mi fermo ad apprezzare il panorama, consumo il mio fugace pranzo con focaccia di Recco comprata con sosta tattica in provincia di Genova, e prenoto l’hotel per passare la notte a Volterra. Imposto il navigatore e mi incammino. Inizio a macinare chilometri e dopo un po’ qualcosa inizia a turbarmi: le montagne alla mia sinistra sono sempre più lontane, mentre il mare alla mia destra sempre più vicino… Mi fermo a ricontrollare il navigatore, mi pare tutto giusto. Continuo macinare chilometri e la situazione peggiora. In men che non si dica mi ritrovo a Forte dei Marmi imbottigliato tra la gente che vuole andare al mare e inizio a patire il caldo. Le Alpi Apuane mi sbeffeggiano guardandomi dall’alto delle loro cime fresche. Ricontrollo il navigatore e ovviamente ho selezionato il percorso sbagliato…
 
 <div class="message pro-tip">
-Per favore Google, se disegni un percorso puoi usare due colori diversi per evidenziare la strada che stai percorrendo e quella che dovresti seguire? Le tonalitaà di blu col sole battente non sono colori diversi!
+Per favore Google, se disegni un percorso puoi usare due colori diversi per evidenziare la strada che stai percorrendo e quella che dovresti seguire? Le tonalità di blu col sole battente non sono colori diversi!
 </div>
 
 Riesco a districarmi nel mare di gente e mi ridirigo verso le montagne speranzoso, in direzione Volterra passando per Lucca. Il panorama delle colline toscane è mozzafiato. **Girasoli, boschi e uliveti di stagliano in tutte le direzioni**, l’asfalto continua ad essere perfetto.
