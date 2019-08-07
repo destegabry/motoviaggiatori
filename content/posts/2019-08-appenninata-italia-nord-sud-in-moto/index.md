@@ -101,7 +101,7 @@ Arrivo alle **Gole del Sagittario**: Un posto stupendo in cui i paesini sono arr
 ![Abruzzo Gole del Saggittario](./galleries/2019-08-05T08.57.54.jpeg "Abruzzo - Finalmente arrivo alle Gole del Saggittario")
 ![Abruzzo Gole del Saggittario](./galleries/2019-08-05T09.05.41.jpeg "Abruzzo - Giochi di pietra e acqua tra le Gole del Saggittario")
 
-Continuo a salire di quota e dirigermi verso la Campania, arrivando al **Passo del Godi**, 1650 m slm… *not bad*! Scendo a valle, percorro un tratto di strada veloce (e qualche scorciatoia di campagna) per poi ricominciare ad arrampicarmi sul Parco Regionale del Matese in Campania. Tra laghi, pianure, cavalli e strade boscose, rimango estasiato e faccio il pieno di bellezza. Pranzo e mi riposo a San Gregorio. Ultimo paese pirma di scendere a valle e andare in direzione Benevento. è primo pomeriggio e la strada fino a Brindisi è lunga… Mi rimetto in viaggio per affrontare gli ultimi 330 km.
+Continuo a salire di quota e dirigermi verso la Campania, arrivando al **Passo del Godi**, 1650 m slm… *not bad*! Scendo a valle, percorro un tratto di strada veloce (e qualche scorciatoia di campagna) per poi ricominciare ad arrampicarmi sul Parco Regionale del Matese in Campania. Tra laghi, pianure, cavalli e strade boscose, rimango estasiato e faccio il pieno di bellezza. Pranzo e mi riposo a San Gregorio. Ultimo paese pirma di scendere a valle e andare in direzione Benevento. È primo pomeriggio e la strada fino a Brindisi è lunga… Mi rimetto in viaggio per affrontare gli ultimi 330 km.
 
 ![Campania Lago di Gallo Matese](./galleries/2019-08-05T11.55.35.jpeg "Campania – Lago di Gallo Matese")
 ![Campania Lago di Gallo Matese](./galleries/2019-08-05T12.09.06.jpeg "Campania – Lago di Gallo Matese")
