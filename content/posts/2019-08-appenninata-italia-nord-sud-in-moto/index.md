@@ -90,7 +90,7 @@ Arrivo in loco in prima serata, effettuo la manutenzione della catena, doccia e 
 
 ## Giorno 3: Abruzzo, Campania, Basilicata, Puglia
 
-Mi sveglio alle 06.30, doccia, colazione e parto. Già dai primi chilometri capisco che sarà una giornata lunghissima, dovrò fermarmi ogni momento a fare foto… <em>Cammino con gli occhi sgranati, in ogni direzione foraggio per il mio sguardo affamato di meravigie</em>.
+Mi sveglio alle 06.30, doccia, colazione e parto. Già dai primi chilometri capisco che sarà una giornata lunghissima, dovrò fermarmi ogni momento a fare foto… <em>Cammino con gli occhi sgranati, in ogni direzione foraggio per il mio sguardo affamato di meraviglie</em>.
 
 <div class="message pro-tip">Se girovagando per il Centro Italia vi sale la vena poetica non preoccupatevi, a Taranto passa tutto.</div>
 
