@@ -31,7 +31,7 @@ Siamo in largo anticipo e decidiamo di fare sosta al ristorante [Lo Scugnizzo](h
 
 Finito di cenare, cominciamo ad aggirarci invano per gli svincoli del porto di Vado in cerca dell’imbarco Grimaldi Lines Marocco. Il sospetto di aver sbagliato qualcosa aleggia nelle comunicazioni via [interfono](http://amzn.to/2oWzry7), dopo un qualche giro a vuoto ci decidiamo a chiedere aiuto telefonico: è ufficiale, **abbiamo sbagliato porto**!
 
-<p class="message pro-tip">Verificare da dove parte il traghetto prima di andare in pizzeria!</div>
+<div class="message pro-tip">Verificare da dove parte il traghetto prima di andare in pizzeria!</div>
 
 L’imbarco si trova nel porto vecchio di Savona, a soli 10 minuti di strada (percorsi in un silenzio imbarazzante).
 
