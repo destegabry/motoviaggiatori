@@ -3,7 +3,8 @@ title: "Recensione completa serie interfoni Midland BT PRO"
 slug: /2019/09/recensione-interfoni-midland-serie-bt-pro
 author: gabriele
 featured_image: ./galleries/pics/levo_bt_pro_beach.jpg
-excerpt: "Abbiamo messo alla prova l'intera gamma di interfoni Midland BT PRO (BTX1 PRO S, BTX2 PRO S, BT NEXT PRO), ecco la nostra recensione"
+excerpt: "Abbiamo testato in viaggio l'intera gamma di interfoni Midland: BTX1 PRO S, BTX2 PRO S, B NEXT PRO"
+disclaimer: "<strong>Nota<\/strong>: i dispositivi recensiti sono stati messi a disposizione da CTE International gratuitamente."
 date: "2019-09-01T08:00:00.000Z"
 categories:
 - recensioni
@@ -12,22 +13,21 @@ tags:
 - tag/midland
 - tag/interfoni
 - tag/casco
-transparency: I dispositivi recensiti sono stati messi a disposizione da CTE International gratuitamente.
 ---
 
 ## La gamma Midland
 
-Midland è un brand nato nel 1959 in una piccola fabbrica di Kansas City, è oggi leader mondiale nel settore della radiocomunicazione ed elettronica di consumo. L'italiana CTE International entra a far parte della sua storia negli anni ’70 grazie a una partnership commerciale europea e, negli anni ’90, acquisendo una quota significativa dell’azienda americana contribuendo al suo successo in tutto il mondo.
+Midland è un brand nato nel 1959 in una piccola fabbrica di Kansas City, oggi leader mondiale nel settore della radiocomunicazione ed elettronica di consumo. L'italiana CTE International entra a far parte della sua storia negli anni ’70 grazie a una partnership commerciale europea; negli anni ’90 acquisisce una quota significativa dell’azienda americana, contribuendo al suo successo in tutto il mondo.
 
-Oggi i prodotti Midland nascono in Italia, più precisamente nel quartier generale di Reggio Emilia, prima tappa del nostro [viaggio in Turchia](/categoria/viaggi/turchia) dove abbiamo preso contatto con gli interfoni che ci accompagnano da diversi mesi in tutti i nostri viaggi e gite: 3 [BT NEXT PRO](https://amzn.to/3491EWe) accompagnati da due esemplari di [BTX1 PRO S](https://amzn.to/2Zxo0gS) e [BTX2 PRO S](https://amzn.to/2zvzHdo) (che al momento del test non erano ancora disponibili sul mercato).
+Oggi gli interfoni moto Midland nascono in Italia, più precisamente nel quartier generale di Reggio Emilia, prima tappa del nostro [viaggio in Turchia](/categoria/viaggi/turchia), dove abbiamo preso contatto con gli interfoni che ci accompagnano da diversi mesi in tutti i nostri viaggi e gite: 3 [BT NEXT PRO](https://amzn.to/3491EWe) accompagnati da due esemplari di [BTX1 PRO S](https://amzn.to/2Zxo0gS) e [BTX2 PRO S](https://amzn.to/2zvzHdo) (che al momento del test non erano ancora disponibili sul mercato).
 
 ![Interfono Midland BTX1 PRO S](./galleries/hardware/midland_btx1_pro_s_side.jpg)
 ![Interfono Midland BTX2 PRO S](./galleries/hardware/midland_btx2_pro_s_side.jpg)
 ![Interfono Midland BT NEXT PRO](./galleries/hardware/midland_bt_next_pro_side.jpg)
 
-Il **BT NEXT PRO** è l'attuale top di gamma della linea Midland, mentre **BTX1 PRO S** e **BTX2 PRO S** sono un sostanzioso aggiornamento rispetto ai *vecchi* BTX1 PRO e BTX2 PRO: sono state migliorate di molto ergonomia, portata e funzionalità Bluetooth.
+Il **BT NEXT PRO** è l'attuale top di gamma, mentre **BTX1 PRO S** e **BTX2 PRO S** sono un sostanzioso aggiornamento rispetto ai *vecchi* BTX1 PRO e BTX2 PRO: sono migliorate di molto ergonomia, portata e funzionalità Bluetooth.
 
-Tutti gli interfoni della linea PRO condividono lo stesso kit audio da inserire nel casco e la slitta di connessione, rendendoli perfettamente intercambiabili tra loro (e permettendo di fare un upgrade senza dover mettere mano al setup del casco), permettono la comunicazione in modalità *punto-punto* e *conferenza*, sono dotati di radio FM e chip Bluetooth dual-core per una comunicazione stabile con cellulari, navigatori e sistemi di infotainment delle moto più moderne... le caratteristiche sono molte e il sistema più pratico per mostrarvele tutte è una buona, vecchia tabella corredata da spiegazione delle varie voci:
+Tutti gli interfoni della linea PRO condividono lo stesso kit audio da inserire nel casco e la slitta di connessione, rendendoli perfettamente intercambiabili tra loro; le caratteristiche sono molte e il sistema più pratico per mostrarvele tutte è una buona, vecchia tabella corredata da spiegazione delle varie voci:
 
 |                           |    BTX1 PRO S    |    BTX2 PRO S    |   BT  NEXT PRO   |
 |---------------------------|------------------|------------------|------------------|
@@ -77,7 +77,7 @@ Tutti gli interfoni della linea PRO condividono lo stesso kit audio da inserire 
 
 ## Installazione e funzionamento
 
-Il kit audio Midland è il medesimo per tutta la linea BT PRO, è composto da un paio di cuffie Hi-Fi molto potenti ed 1 micorofono (ad archetto o adesivo) da installare all'interno del casco. Sono universali ma prima di effettuare l'acquisto meglio verificare che il proprio casco sia completamente sfoderabile e abbia un po' di spazio libero in corrispondenza delle orecchie: per quanto sottili, gli altoparlanti potrebbero dare fastidio se il casco non è predisposto al loro alloggiamento.
+Il kit audio Midland è il medesimo per tutta la linea BT PRO, è composto da un paio di cuffie Hi-Fi molto potenti ed 1 microfono (ad archetto o adesivo) da installare all'interno del casco. Sono universali ma prima di effettuare l'acquisto meglio verificare che il proprio casco sia completamente sfoderabile e abbia un po' di spazio libero in corrispondenza delle orecchie: per quanto sottili, gli altoparlanti potrebbero dare fastidio se il casco non è predisposto al loro alloggiamento.
 
 Sulla calotta del casco va incollata una slitta adesiva con i contatti per la centralina che è il cuore vero e proprio del sistema. Rispetto alla serie precendete di interfoni Midland, questa slitta rende molto agevole rimuovere l'interfono dal casco per evitare di lasciarlo in bella vista mentre il casco "riposa" legato alla moto.
 
