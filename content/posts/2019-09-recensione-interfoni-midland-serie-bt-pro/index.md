@@ -117,11 +117,15 @@ In viaggio l'interfono serve a parlare comandamente con i propri compagni d'avve
 
 L'autonomia dei dispositivi è alta, permette sempre di arrivare a fine giornata anche se lo si utilizza molto. Nella pratica si traduce in 3-4 giorni di utilizzo reale in viaggio. Il livello stato batteria viene *annunciato* dagli altoparlanti delle cuffie ad ogni accensione. La ricarica basata su comuni cavi Micro USB ha il vantaggio di essere praticamente universale e permette di caricare l'interfono anche con con la presa 12V della moto o un powerbank.
 
-Abbiamo fatto qualche test della luce di stop di emergenza effettuando inchiodate in situazioni controllate, purtroppo l'accensione automatica ci è sembrata non molto affidabile. Potrebbe essere più utile impostare una modalità "lampeggiante" da attivare manualmente per essere più visibili di notte.
+Abbiamo fatto qualche test della luce di stop di emergenza effettuando inchiodate in situazioni controllate, purtroppo l'accensione automatica ci è sembrata poco affidabile. Potrebbe essere più utile una modalità "lampeggiante" da attivare manualmente per essere più visibili di notte.
 
-Dato che richiede una connessione ad internet, non abbiamo testato il BTT Button (permette di comunicare con un gruppo di motociclisti anche molto lontani tra loro); Sembra essere un dispositivo interessante, ma non è molto pratico in un viaggio all'estero dove la copertura di rete in roaming può essere molto costosa.
+Dato che richiede una connessione a Internet, non abbiamo testato il BTT Button (permette di comunicare con un gruppo di motociclisti anche molto lontani tra loro); Sembra essere un dispositivo interessante, ma non è molto pratico in un viaggio all'estero dove la copertura di rete in roaming può essere molto costosa.
 
 ## Verdetto
+
+Consigliamo l'acquisto dei dispositivi Midland della serie BT PRO, in particolare la versione **BTX1 PRO S** per via di un rapporto qualità/prezzo veramente alto; la versione **BTX2 PRO S** è da preferire da chi ha una moto recente dotata di infotainment Bluetooth o la necessità di comunicare con molte persone; la versione **BT NEXT PRO** è per chi ha bisogno di una portata molto alta, ma può rinunciare all'ergonomia migliorata delle due versioni più economiche.
+
+Tutti i dispositivi sono disponibili sullo [store ufficiale Midland](https://www.midlandeurope.com/it/c/prodotti/interfoni-2224.html) con spedizione gratuita.
 
 Pro:
 
@@ -137,8 +141,8 @@ Contro:
 - la gomma dei tasti si segna e consuma un po' troppo facilmente
 - la luce di stop è praticamente inutile
 
-Desiderata:
+Ci piacerebbe:
 
+- selettore modalità basato su cursore o *rotellona*
+- ricarica wireless o connettore USB-C
 - radio digitale Dab+
-- ricarica wireless
-- connettore USB-C
