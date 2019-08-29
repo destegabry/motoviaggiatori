@@ -35,6 +35,7 @@ export const postData = graphql`
       date
       excerpt
       opening
+      disclaimer
       attributes {
         key
         value
