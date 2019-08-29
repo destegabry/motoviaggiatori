@@ -72,5 +72,6 @@ export default styled.article`
   .disclaimer {
     font-size: .8rem;
     font-style: italic;
+    margin-bottom: .7rem;
   }
 `;

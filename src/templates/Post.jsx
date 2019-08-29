@@ -80,12 +80,16 @@ function PostTemplate (props) {
 
   const currentPost = props.data.markdownRemark;
   const { frontmatter } = currentPost;
-  const disclaimers = currentPost.frontmatter.categories.reduce((disclaimers, {frontmatter}) => {
+  let disclaimers = currentPost.frontmatter.categories.reduce((disclaimers, {frontmatter}) => {
     if(frontmatter.disclaimer) {
       disclaimers.push(frontmatter.disclaimer);
     }
     return disclaimers;
-  }, [])
+  }, []);
+
+  if (frontmatter.disclaimer) {
+    disclaimers = [frontmatter.disclaimer, ...disclaimers];
+  }
 
   return (
     <Layout itemScope itemType="http://schema.org/Article">

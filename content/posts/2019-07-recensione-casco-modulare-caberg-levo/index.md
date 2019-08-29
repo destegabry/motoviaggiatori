@@ -5,6 +5,7 @@ author: gabriele
 featured_image: ./galleries/girola/ORG_DSC02315.jpg
 excerpt: "Le nostre impressioni dopo sei mesi, un viaggio in Turchia e decine di migliaia di km totali"
 opening: "<p>Sono passati più di 6 mesi dal <a href=\"/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo\">primo contatto</a> con il casco Caberg LEVO, lo abbiamo messo alla prova durante un <a href=\"/categoria/viaggi/turchia\">viaggio in Turchia</a> da 5500km in 18 giorni e durante tutte le uscite del 2019: finalmente siamo pronti a raccontarvi come va!</p>"
+disclaimer: "<strong>Nota<\/strong>: I caschi recensiti sono stati messi a disposizione da Caberg Helmets gratuitamente."
 date: "2019-07-11T08:00:00.000Z"
 categories:
 - recensioni
