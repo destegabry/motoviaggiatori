@@ -46,7 +46,7 @@ Tutti gli interfoni della linea PRO condividono lo stesso kit audio da inserire 
 |      **Stop Light**       |        ✗         |        ✗         |        ✓         |
 |      **BTT button**       |        ✗         |        ✗         |        ✓         |
 |      **Autonomia**        |       23 ore     |      23 ore      |       20 ore     |
-|    **FW Aggiornabile**    |        ✓         |                  |        ✓         |
+|    **FW Aggiornabile**    |        ✓         |        ✓         |        ✓         |
 |    **Prezzo singolo**     |      €168,99     |     €228,99      |      €279,00     |
 |     **Prezzo TWIN**       |      €288,99     |     €419,00      |      €459,00     |
 
