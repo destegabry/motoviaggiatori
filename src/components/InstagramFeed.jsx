@@ -2,7 +2,7 @@ import React from 'react'
 import { StaticQuery, graphql } from 'gatsby'
 import styled from '@emotion/styled'
 import PropTypes from 'prop-types'
-import Img from 'gatsby-image'
+import Img from 'gatsby-image/withIEPolyfill'
 
 import {
   SMALL_SCREEN_ONLY,
@@ -85,7 +85,7 @@ function InstagramFeedContainer({ limit, size }) {
                   maxHeight: 300,
                   cropFocus: CENTER
                 ) {
-                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }

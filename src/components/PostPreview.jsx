@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import { css } from '@emotion/core';
-import Img from 'gatsby-image'
+import Img from 'gatsby-image/withIEPolyfill'
 import YouTube from 'react-youtube-embed'
 
 import PostMeta from './post/PostMeta'

@@ -7,7 +7,7 @@ export const thumbnailWide = graphql`
       maxHeight: 360,
       cropFocus: CENTER
     ) {
-      ...GatsbyImageSharpFluid_withWebp_tracedSVG
+      ...GatsbyImageSharpFluid_withWebp
     }
   }
 `
@@ -19,7 +19,7 @@ export const thumbnailSquare = graphql`
       maxHeight: 80,
       cropFocus: CENTER
     ) {
-      ...GatsbyImageSharpFluid_withWebp_tracedSVG
+      ...GatsbyImageSharpFluid_withWebp
     }
   }
 `
@@ -34,7 +34,7 @@ export const authorAvatar = graphql`
           maxHeight: 300,
           cropFocus: CENTER
         ) {
-          ...GatsbyImageSharpFluid_withWebp_tracedSVG
+          ...GatsbyImageSharpFluid_withWebp
         }
       }
     }
@@ -55,7 +55,7 @@ export const postFeaturedImage = graphql`
           maxHeight: 620,
           cropFocus: CENTER
         ) {
-          ...GatsbyImageSharpFluid_withWebp_tracedSVG
+          ...GatsbyImageSharpFluid_withWebp
         }
       }
     }

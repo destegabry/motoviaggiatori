@@ -40,10 +40,9 @@ const postMetaStyle = css`
 `
 
 function PostTemplate (props) {
-  let galleries = [];
-  let epn;
-
   useEffect(() => {
+    let galleries = [];
+    let epn;
     // Adding EPN script after page render will trigger link replacement
     window._epn = {campaign: process.env.GATSBY_EPN_CAMPAIGN_ID};
     epn = document.createElement('script');

@@ -21,6 +21,7 @@ module.exports = {
     language
   },
   plugins: [
+    `gatsby-plugin-netlify-cache`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -79,7 +80,7 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 1920,
-              tracedSVG: true,
+              // tracedSVG: true,
               showCaptions: true,
               linkImagesToOriginal: false
             },
