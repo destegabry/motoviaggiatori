@@ -1,5 +1,6 @@
 import { debounce } from 'debounce'
 import { css } from 'emotion'
+import imagesLoaded from 'imagesloaded'
 
 import GalleryLightbox from './GalleryLightbox'
 
@@ -47,9 +48,9 @@ const galleryCSS = css`
 
 class Gallery {
   constructor(container, rowRatio) {
-    setTimeout(() => { // This is to fix some random issues
-      this.container = container;
-      const items = this.container.querySelectorAll('figure');
+    this.container = container;
+    const items = this.container.querySelectorAll('figure');
+    imagesLoaded(items, () => {
       const rows = [];
       this.items = [];
       let prevRowItem;
@@ -76,7 +77,7 @@ class Gallery {
       // listen for window resize to trigger gallery redraws
       this.debouncedResize = debounce(() => this.draw(), 100).bind(this);
       window.addEventListener('resize', this.debouncedResize);
-    }, 50);
+    });
   }
 
   destroy() {
