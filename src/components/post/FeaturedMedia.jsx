@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from '@emotion/styled'
-import Img from 'gatsby-image'
+import Img from 'gatsby-image/withIEPolyfill'
 import YouTube from 'react-youtube-embed'
 
 import {

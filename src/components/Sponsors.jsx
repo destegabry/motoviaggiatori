@@ -1,5 +1,5 @@
 import React from 'react'
-import Img from 'gatsby-image'
+import Img from 'gatsby-image/withIEPolyfill'
 import { css } from '@emotion/core'
 
 import useAllSponsors from '../hooks/use-all-sponsors'
