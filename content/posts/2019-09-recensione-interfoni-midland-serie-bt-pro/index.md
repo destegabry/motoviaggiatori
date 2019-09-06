@@ -40,7 +40,7 @@ Tutti gli interfoni della linea PRO condividono lo stesso kit audio da inserire 
 |         **VOX**           |        ✓         |        ✓         |        ✓         |
 |    **Chip Bluetooth**     | v4.2 single chip |  v4.2 dual chip  |  v4.2 dual chip  |
 | **Dispositivi Bluetooth** |        2         |        2         |        2         |
-|    **Audio Background**   |        ✗         |        ✓         |        ✓         |
+|    **Audio Background**   |       mono       |       AD2P       |       AD2P       |
 |       **Radio FM**        |        ✓         |        ✓         |        ✓         |
 |      **Waterproof**       |       IPX6       |       IPX6       |       IPX6       |
 |      **Stop Light**       |        ✗         |        ✗         |        ✓         |
