@@ -123,20 +123,25 @@ const Footer = () => {
       <Credits>
         <Wrapper css={{justifyContent: 'center'}}>
           <span>
-            <span>©{new Date().getFullYear()}</span> <span itemProp="name">
-              {name}</span> | <a
+            <span>©{new Date().getFullYear()}</span>
+            &nbsp;
+            <span itemProp="name">{name}</span>
+            &nbsp;|&nbsp;
+            <a
               href={repositoryUrl}
               target="_blank"
               rel="noopener noreferrer"
             >
               v{version}
-            </a> | Powered by <a
+            </a>
+            &nbsp;|&nbsp;
+            <a href="/privacy-policy">Privacy policy</a>
+            &nbsp;|&nbsp;
+            Powered by <a
               href="https://www.topsolution.it"
               target="_blank"
               rel="noopener noreferrer"
-            >
-              Top Solution
-            </a>
+            >Top Solution</a>
           </span>
         </Wrapper>
       </Credits>
