@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react'
 import { graphql } from 'gatsby'
 import { css } from '@emotion/core'
+import { FacebookProvider, Like } from 'react-facebook';
 
 import {
   SMALL_SCREEN_ONLY,
@@ -121,6 +122,12 @@ function PostTemplate (props) {
         <Vote campaign={ frontmatter.slug }>
           Ti è piaciuto questo articolo?
         </Vote>
+        {
+          ! process.env.GATSBY_FB_APP_ID ? null :
+          <FacebookProvider appId={ process.env.GATSBY_FB_APP_ID }>
+            <Like href="http://www.facebook.com" colorScheme="light" showFaces share />
+          </FacebookProvider>
+        }
       </Card>
       <TagList
         tags={ frontmatter.tags }

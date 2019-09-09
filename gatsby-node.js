@@ -27,6 +27,7 @@ exports.createPages = async ({graphql, actions}) => {
       }
     }
   }`);
+
   if (result.errors) {
     console.error(result.errors);
     throw result.errors;
@@ -36,6 +37,8 @@ exports.createPages = async ({graphql, actions}) => {
   const categories = [];
   const authors = [];
   const tags = [];
+  const pages = [];
+
   result.data.allMarkdownRemark.edges.forEach(edge => {
     switch (edge.node.fields.sourceInstanceName) {
       case 'post':
@@ -50,6 +53,9 @@ exports.createPages = async ({graphql, actions}) => {
       case 'tag':
         tags.push(edge);
         break;
+      case 'page':
+        pages.push(edge);
+        break;
     }
   });
 
@@ -57,6 +63,7 @@ exports.createPages = async ({graphql, actions}) => {
   const categoryTemplate = path.resolve('./src/templates/Category.jsx');
   const authorTemplate = path.resolve('./src/templates/Author.jsx');
   const tagTemplate = path.resolve('./src/templates/Tag.jsx');
+  const pageTemplate = path.resolve('./src/templates/Page.jsx');
 
   posts.forEach(({node}, index) => {
     const previous = index === posts.length - 1 ? null : posts[index + 1].node;
@@ -97,6 +104,16 @@ exports.createPages = async ({graphql, actions}) => {
     createPage({
       path: getAuthorUrl(node.frontmatter.slug),
       component: authorTemplate,
+      context: {
+        slug: node.frontmatter.slug
+      }
+    });
+  });
+
+  pages.forEach(({node}) => {
+    createPage({
+      path: node.frontmatter.slug,
+      component: pageTemplate,
       context: {
         slug: node.frontmatter.slug
       }
