@@ -1,8 +1,11 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import moment from 'moment'
 
-import Layout from '../components/Layout'
 import SEO from '../components/seo'
+import Card from '../components/Card'
+import Layout from '../components/Layout'
+import DangerousHTML from '../components/DangerousHTML'
 
 function PageTemplate({ data }) {
   const { frontmatter, html } = data.markdownRemark;
@@ -13,8 +16,23 @@ function PageTemplate({ data }) {
         title={ frontmatter.title }
         slug={ frontmatter.slug }
       />
-      <DangerousHTML component="h1" html={ frontmatter.title } itemProp="name headline" />
-      <DangerousHTML html={ html } itemProp="articleBody" />
+      <Card>
+        <div class="content">
+          <DangerousHTML
+            component="h1"
+            html={ frontmatter.title }
+            css={{ textAlign: 'center' }}
+          />
+          <div css={{ padding: '20px' }}>
+            <DangerousHTML html={ html } />
+            <p css={{ fontStyle: 'italic', fontSize: '.8em', textAlign: 'center' }}>
+              Ultimo aggiornamento:
+              &nbsp;
+              {moment(frontmatter.modified || frontmatter.date).format('DD MMM YYYY')}
+            </p>
+          </div>
+        </div>
+      </Card>
     </Layout>
   )
 }
