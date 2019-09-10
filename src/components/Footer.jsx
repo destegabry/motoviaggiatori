@@ -87,6 +87,15 @@ const sponsorsCss = css`
   }
 `;
 
+const MobileLineBreaker = styled.span`
+  ${SMALL_SCREEN_ONLY} {
+    display: block;
+    visibility: hidden;
+    height: 0px;
+    width: 100%;
+  }
+`;
+
 const Footer = () => {
   const { name, version, siteUrl, repositoryUrl } = useSiteMetadata();
   const allPosts = useAllPosts();
@@ -125,19 +134,19 @@ const Footer = () => {
           <span>
             <span>©{new Date().getFullYear()}</span>
             &nbsp;
-            <span itemProp="name">{name}</span>
-            &nbsp;|&nbsp;
-            <a
+            <span itemProp="name">
+              {name}
+            </span> | <a
               href={repositoryUrl}
               target="_blank"
               rel="noopener noreferrer"
             >
               v{version}
             </a>
-            &nbsp;|&nbsp;
-            <a href="/privacy-policy">Privacy policy</a>
-            &nbsp;|&nbsp;
-            Powered by <a
+            <MobileLineBreaker> | </MobileLineBreaker>
+            <a href="/privacy-policy">
+              Privacy policy
+            </a> | Powered by <a
               href="https://www.topsolution.it"
               target="_blank"
               rel="noopener noreferrer"
