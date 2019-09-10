@@ -5,6 +5,7 @@ const name = `MotoViaggiatori`;
 const title = name;
 const description = `Due ruote, infinite emozioni`;
 const language = `it`;
+const languageCode = `it_IT`;
 const colors = require('./src/utils/colors');
 const siteUrl = `https://motoviaggiatori.it`;
 const {version, repository} = require('./package.json');
@@ -18,7 +19,8 @@ module.exports = {
     description,
     title,
     image_url: `${siteUrl}/images/static/motoviaggiatori_icon_small.png`,
-    language
+    language,
+    languageCode
   },
   plugins: [
     `gatsby-plugin-netlify-cache`,

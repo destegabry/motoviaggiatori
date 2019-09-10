@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react'
 import { graphql } from 'gatsby'
 import { css } from '@emotion/core'
-import { FacebookProvider, Like } from 'react-facebook';
 
 import {
   SMALL_SCREEN_ONLY,
@@ -21,7 +20,8 @@ import {
   TagList,
   NextPrev,
   FeaturedMedia,
-  AttributesTable
+  AttributesTable,
+  FacebookButtons
 } from '../components/post'
 
 const cardCss = css`
@@ -104,7 +104,9 @@ function PostTemplate (props) {
           <DangerousHTML component="h1" html={ frontmatter.title } itemProp="name headline" />
           <PostMeta post={currentPost} css={ postMetaStyle } />
           <FeaturedMedia { ...frontmatter } />
-          <DangerousHTML component="p" html={ frontmatter.opening } />
+          { !frontmatter.opening ? null :
+            <DangerousHTML component="p" html={ frontmatter.opening } />
+          }
           <DangerousHTML html={ currentPost.tableOfContents } />
           <AttributesTable attributes={ frontmatter.attributes } />
           <DangerousHTML html={ currentPost.html } itemProp="articleBody" />
@@ -122,12 +124,7 @@ function PostTemplate (props) {
         <Vote campaign={ frontmatter.slug }>
           Ti è piaciuto questo articolo?
         </Vote>
-        {
-          ! process.env.GATSBY_FB_APP_ID ? null :
-          <FacebookProvider appId={ process.env.GATSBY_FB_APP_ID }>
-            <Like href="http://www.facebook.com" colorScheme="light" showFaces share />
-          </FacebookProvider>
-        }
+        <FacebookButtons slug={frontmatter.slug} />
       </Card>
       <TagList
         tags={ frontmatter.tags }
