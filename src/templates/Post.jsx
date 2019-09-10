@@ -20,7 +20,8 @@ import {
   TagList,
   NextPrev,
   FeaturedMedia,
-  AttributesTable
+  AttributesTable,
+  FacebookButtons
 } from '../components/post'
 
 const cardCss = css`
@@ -103,7 +104,9 @@ function PostTemplate (props) {
           <DangerousHTML component="h1" html={ frontmatter.title } itemProp="name headline" />
           <PostMeta post={currentPost} css={ postMetaStyle } />
           <FeaturedMedia { ...frontmatter } />
-          <DangerousHTML component="p" html={ frontmatter.opening } />
+          { !frontmatter.opening ? null :
+            <DangerousHTML component="p" html={ frontmatter.opening } />
+          }
           <DangerousHTML html={ currentPost.tableOfContents } />
           <AttributesTable attributes={ frontmatter.attributes } />
           <DangerousHTML html={ currentPost.html } itemProp="articleBody" />
@@ -121,6 +124,7 @@ function PostTemplate (props) {
         <Vote campaign={ frontmatter.slug }>
           Ti è piaciuto questo articolo?
         </Vote>
+        <FacebookButtons slug={frontmatter.slug} />
       </Card>
       <TagList
         tags={ frontmatter.tags }

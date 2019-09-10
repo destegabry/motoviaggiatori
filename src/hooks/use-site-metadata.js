@@ -12,7 +12,8 @@ export const useSiteMetadata = () => {
             version,
             description,
             title,
-            language
+            language,
+            languageCode
           }
         }
       }
