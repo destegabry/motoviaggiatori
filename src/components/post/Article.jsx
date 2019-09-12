@@ -28,10 +28,23 @@ export default styled.article`
   .message {
     border-radius: .4em;
     margin: 1em 0;
-    padding: .5em;
+    padding: 1.5em .5em .5em;
     position: relative;
 
-    .p {
+    .message-title {
+      border-radius: .4em 0;
+      color: white;
+      fontSize: 12px;
+      line-height: 20px;
+      padding: 0 .75em;
+      position: absolute;
+      left: -1px;
+      top: -1px;
+      text-transform: uppercase;
+    }
+
+    p {
+      margin: 0;
       padding-bottom: .5em;
     }
 
@@ -39,6 +52,11 @@ export default styled.article`
       background-color: #fcf8e3;
       border: 1px solid #faebcc;
       color: #8a6d3b;
+
+      .message-title {
+        background: #faebcc;
+        color: #8a6d3b;
+      }
     }
 
     &.info {
@@ -51,7 +69,6 @@ export default styled.article`
       background-color: ${azure};
       border: 1px solid ${blue};
       color: ${blue};
-      padding-top: 1.25em;
 
       &:before {
         content: "Pro Tip";
