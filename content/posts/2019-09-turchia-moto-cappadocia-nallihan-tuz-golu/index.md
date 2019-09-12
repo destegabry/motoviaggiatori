@@ -1,7 +1,7 @@
 ---
 title: "#TurchiaInMoto: Nallıhan, Tuz Gölü e Cappadocia"
 date: "2019-09-20T23:30:00.000Z"
-slug: /2019/06/turchia-moto-cappadocia-nallihan-tuz-golu
+slug: /2019/09/turchia-moto-cappadocia-nallihan-tuz-golu
 featured_image: ../2019-06-turchia-moto-torino-balcani-istanbul/featured.jpg
 excerpt: Raggiungiamo Göreme e la Valle di Ihlara attraversando il colorato distretto di Nallıhan e il lago salato Tuz Gölü
 opening: "Dopo aver <a href=\"/2019/06/turchia-moto-torino-balcani-istanbul\">attraversato Penisola Balcanica ed esplorato Istanbul</a> è arrivato il momento di metterci in viaggio per raggiungere la Cappadocia e scoprire cosa ci riserva la penisola Anatolica!"
@@ -25,10 +25,47 @@ tags:
 
 ## Giorno 7: incontro con la Vera Turchia
 
+Ci sveglialmo all'alba convinti di poter scampare il traffico dell'ora di punta a Istanbul, ma appena iniziamo ad allontanarci dal Corno d'Oro rimaniamo imbottigliati in qualche incrocio… siamo stati davvero ingenui a pensare di poter sfuggire al traffico generato da una città con più di 15 milioni di abitanti!
+
+Per attraversare il Mar di Marmara evitiamo di asfissiare nell'Eurasia Tunnel e imbocchiamo la tangenziale interna O-1, una superstrada a 3 corsie sulla quale siamo costretti a muoverci molto lentamente tra le colonne un traffico apocalittico. Quando raggiungiamo il *Ponte dei Martiri del 15 luglio* ci rendiamo conto di essere in viaggio da più di un'ora.
+
+L'attraversamento del Bosforo dura poco, ma quando finalmente raggiungiamo la sponda asiatica c'è poco da festeggiare: il traffico non diminuisce e questo mostro di città non accenna a terminare. Quartieri poco affascinanti ci passando accanto senza sosta anche se imboccata l'autostrada E80. Dopo un'altra ora di viaggio il traffico comincia a diminuire, l'agglomerato urbano a diradare.
+
+<div class="message pro-tip">Istanbul non finisce mai, in moto va affrontata con pace interiore e rassegnazione</div>
+
+All'uscita di Akyazı il portale del casello ci ricorda che non abbiamo ancora comprato il [tagliando HGS](/2019/05/turchia-in-moto-informazioni-pratiche/#strade-e-rifornimento), fortunatamente abbiamo 15 giorni per regolarizzare il pagamento. Ci muoviamo sulla D140 verso Sud, in cerca di un bar dove fare una pausa e reidratarci dopo la sudata nel traffico. Ne troviamo uno ad Opet, dove scopriamo che è dura trovare un turco che parli l'inglese, ma tè nero e simit non mancano mai.
+
+Dopo pochi chilometri iniziano le colline e finiscono gli infiniti rettilinei che ci hanno annoiato fino ad ora. La strada si attorciglia attorno ai rilievi del Ponto, il manto di asfalto è in ottime condizioni, iniziamo a divertirci ammirando un paesaggio verdissimo e coperto di boschi. Ma il divertimento dura poco…
+
+<div class="message warning">
+  <h4 class="message-title">La versione di Gabriele e Stefania</h4>
+  <p>Non si sa esattamente come, ma una delle valigie laterali di Arturo si è scoperchiata senza che lui se ne accorgesse. Fortunatamente utilizza una borsa interna e il contenuto non è stato disperso sulla strada… considerando che ha già perso un paio di guanti il futuro del viaggio si prospetta roseo!</p>
+
+  <p>Simone e Alice proseguono in cerca di un ristorante per il pranzo, mentre noi torniamo indietro per aiutare a setacciare la strada in cerca del coperchio smarrito. Dopo 30 km desistiamo, mentre Arturo decide di fare un secondo tentativo. Ripartiamo in cerca di Simone e Alice, che nel frattempo hanno trovato ristoro in un capanno lontano dalla strada e fuori dal campo telefonico… non li vediamo affatto e finiamo per superarli e arrivare fino alla città di Nallıhan, dove ci fermeremo ad aspettare tutti davanti ad un pranzo a base di té e lahmacun.</p>
+</div>
+
+<div class="message warning">
+  <h4 class="message-title">La versione di Simone e Alice</h4>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<div class="message warning">
+  <h4 class="message-title">La versione di Arturo</h4>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<div class="message pro-tip">Lasciate perdere pianificazione, cautela, amuleti e scongiuri! Il miglior modo per viaggiare tranquilli è portarsi appresso Arturo: agendo da calamita per la sfiga, tutti gli inconvenienti si abbatteranno su di lui e voi potrete viaggiare in tutto relax.</div>
+
+Rifocillati e rassegnati a viaggiare con un pratico sacco di plastica tenuto da cinghie a posto di un coperchio in alluminio, proseguiamo il nostro viaggio in direzione Ankara. Percorsi pochi chilometri, i colori del paesaggio cambiano radicalmente: il verde della vegetazione si dirada e le colline spoglie mostrano stratificazioni rosse, grigie, bianche e azzurre. Di fronte a questo inatteso cambio di scenario non possiamo che deviare sulle strade bianche della zona e goderci questo posto idilliaco.
+
+Ci sforziamo di ripartire per cercare di raggiungere Ankara prima di sera, ma fatti pochi chilometri ci ritroviamo nel bel mezzo della Davutoğlan Kuş Cenneti, una riserva naturale dove trovano riparo centinaia di uccelli. Quando vediamo le indicazioni per una hotel con terme e ristorante finiamo per abbandonare tutti i programmi e passare la notte nel bel mezzo del nulla.
+
 - Istanbul non finisce mai
 - la D140 è molto bella
 - Arturo perde le valigie
-- riserva naturale (birds sanctuary) Davutoğlan Kuş Cenneti
+- riserva naturale (birds sanctuary)
 
 In questo viaggio abbiamo messo alla prova alcuni prodotti dei nostri partner tecnici:
 
