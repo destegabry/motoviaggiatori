@@ -1,7 +1,7 @@
 ---
 title: "#TurchiaInMoto: Nallıhan, Tuz Gölü e Cappadocia"
 date: "2019-09-20T23:30:00.000Z"
-slug: /2019/09/turchia-moto-cappadocia-nallihan-tuz-golu
+slug: /2019/09/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara
 featured_image: ../2019-06-turchia-moto-torino-balcani-istanbul/featured.jpg
 excerpt: Raggiungiamo Göreme e la Valle di Ihlara attraversando il colorato distretto di Nallıhan e il lago salato Tuz Gölü
 opening: "Dopo aver <a href=\"/2019/06/turchia-moto-torino-balcani-istanbul\">attraversato Penisola Balcanica ed esplorato Istanbul</a> è arrivato il momento di metterci in viaggio per raggiungere la Cappadocia e scoprire cosa ci riserva la penisola Anatolica!"
@@ -60,12 +60,33 @@ Dopo pochi chilometri iniziano le colline e finiscono gli infiniti rettilinei ch
 
 Rifocillati e rassegnati a viaggiare con un pratico sacco di plastica tenuto da cinghie a posto di un coperchio in alluminio, proseguiamo il nostro viaggio in direzione Ankara. Percorsi pochi chilometri, i colori del paesaggio cambiano radicalmente: il verde della vegetazione si dirada e le colline spoglie mostrano stratificazioni rosse, grigie, bianche e azzurre. Di fronte a questo inatteso cambio di scenario non possiamo che deviare sulle strade bianche della zona e goderci questo posto idilliaco.
 
-Ci sforziamo di ripartire per cercare di raggiungere Ankara prima di sera, ma fatti pochi chilometri ci ritroviamo nel bel mezzo della Davutoğlan Kuş Cenneti, una riserva naturale dove trovano riparo centinaia di uccelli. Quando vediamo le indicazioni per una hotel con terme e ristorante finiamo per abbandonare tutti i programmi e passare la notte nel bel mezzo del nulla.
+Ci sforziamo di ripartire per cercare di raggiungere Ankara prima di sera, ma fatti pochi chilometri ci ritroviamo nel bel mezzo della Davutoğlan Kuş Cenneti, una riserva naturale dove trovano riparo centinaia di uccelli. Quando vediamo le indicazioni per un hotel con terme e ristorante finiamo per abbandonare tutti i programmi e passare la notte nel bel mezzo del nulla.
 
-- Istanbul non finisce mai
-- la D140 è molto bella
-- Arturo perde le valigie
-- riserva naturale (birds sanctuary)
+## Giorno 8: il lago salato Tuz Gölü e l'arrivo a Uçhisar
+
+- giriamo attorno ad Ankara, assurda città di grattacieli in mezzo ai prati
+- il Tuz Gölü è quasi una trappola per turisti
+- arriviamo ad Uçhisar e visitiamo subito il suo "castello"
+
+## Giorno 9-10: le valli della Cappadocia
+
+- disavventure con le mongolfiere
+- sterrati pittoreschi
+- la valle dell'ammmmore
+- droni e padroni di droni
+- visita Open Air Museum
+- folla e frizioni bruciate a Sunset Point
+
+## Giorno 11: verso Ovest tra profonde vallate e immensi vulcani
+
+- spariscono i turisti e troviamo una natura immensa
+- risaliamo lughe vallate che assomigliano ai canyon americani
+- i grandi vulcani ci accompagnano all'orizzonte in un altopiano in quota
+- il profondo canyon della valle di Ihlara
+- pranzo sul fiume a Belisırma
+- noia mortale da Aksaray a Beyşehir, saltando Konya
+
+[Seguici su Facebook](https://facebook.com/motoviaggiatori/) per non perderti il prossimo epidosio!
 
 In questo viaggio abbiamo messo alla prova alcuni prodotti dei nostri partner tecnici:
 
