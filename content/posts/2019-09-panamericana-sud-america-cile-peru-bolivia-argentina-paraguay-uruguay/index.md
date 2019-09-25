@@ -3,7 +3,7 @@ title: "Panamericana: prima parte"
 date: "2019-09-20T23:30:00.000Z"
 slug: /2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay
 featured_image: ./foto/5_6.JPG
-excerpt: "X settimane in Sud America tra Cile, Perù, Bolivia, Argentina, Paraguay e Uruguay"
+excerpt: "30 giorni in Sud America tra Cile, Perù, Bolivia, Argentina, Paraguay e Uruguay"
 opening: "Quando un tempo pensavo ad un viaggio in moto in Sud America, lo vedevo come un’impresa per pochi, lontano dalle mie possibilità, lontano dai miei progetti… e oggi sono qui che scrivo di come ho vissuto questo viaggio. La vita è meravigliosa."
 author: miral
 categories:
@@ -66,6 +66,7 @@ Riprendiamo il viaggio dopo colazione, fa freddo e il cruscotto della moto segna
 Nel primo pomeriggio raggiungiamo la **Mano del Desierto**. L’abbiamo a lungo desiderata e, impazienti di raggiungerla, scrutiamo continuamente l'orizzonte a destra e sinistra ansiosi di veder comparire la meta. La presenza di numerosi turisti sulla nostra destra indica l’arrivo alla tanto attesa destinazione. Raggiunta la statua restriamo fermi ad osservarla per diversi minuti, rendendoci conto che è esattamente come ce l’aspettavamo. I turisti venuti fin qui in bus o auto ci guardano incuriositi, stringendosi nelle loro giacche a vento, chiedendosi se non avessimo freddo. Per fortuna dopo la foto di rito tutti risalgono in fretta sui mezzi, lasciandoci finalmente l’onore di poter scattare qualche foto davanti alle 5 dita più ammirate e fotografate al mondo. Dopo le foto, ci siamo concessi una passeggiata nei dintorni, riscaldandoci e lasciando la moto a disposizione degli obiettivi dei turisti.
 
 ![Mano del Desierto](./foto/5_5.JPG "Mano del Desierto")
+![5_6.JPG](./foto/5_6.JPG "5_6.JPG")
 
 Ci fermiamo ad osservare la **Valle di Arcoiris** da una collina, popolata da numerosi turisti accompagnati dai tour organizzati, che osservano il tramonto del sole consumando un aperitivo accompagnato da della frutta. Superiamo il tropico del Capricorno e nel tardo pomeriggio raggiungiamo San Pedro di Atacama. Il tramonto rende rossa tutta la valle. Scatteremo delle foto meravigliose.
 
@@ -81,16 +82,10 @@ La strada è percorsa da numerosi ciclisti, costretti a fersmarsi sulle lunghe s
 
 ![6_3.JPG](./foto/6_3.JPG)
 ![6_Valle.Arcoiris.JPG](./foto/6_Valle.Arcoiris.JPG)
-![6_6.JPG](./foto/6_6.JPG)
-![6_1.JPG](./foto/6_1.JPG)
-![6_14.JPG](./foto/6_14.JPG)
 ![6_15.JPG](./foto/6_15.JPG)
-![6_19.JPG](./foto/6_19.JPG)
-![6_22.JPG](./foto/6_22.JPG)
 ![6_24.JPG](./foto/6_24.JPG)
 ![6_27.JPG](./foto/6_27.JPG)
 ![6_28.JPG](./foto/6_28.JPG)
-![6_34.JPG](./foto/6_34.JPG)
 ![6_37.JPG](./foto/6_37.JPG)
 ![6_40.JPG](./foto/6_40.JPG)
 ![6_43.JPG](./foto/6_43.JPG)
@@ -114,17 +109,12 @@ In Perù veniamo attratti dall’intenso odore di zolfo e dalla presenza di un c
 
 ![8_8.JPG](./foto/8_8.JPG)
 ![7_8.JPG](./foto/7_8.JPG)
-
-![8_1.JPG](./foto/8_1.JPG)
 ![8_2.JPG](./foto/8_2.JPG)
 ![8_3.JPG](./foto/8_3.JPG)
-![8_4.JPG](./foto/8_4.JPG)
-![8_5.JPG](./foto/8_5.JPG)
-![8_6.JPG](./foto/8_6.JPG)
-![8_7.JPG](./foto/8_7.JPG)
-![8_9.JPG](./foto/8_9.JPG)
-![8_10.JPG](./foto/8_10.JPG)
+![8_1.JPG](./foto/8_1.JPG)
 ![8_11.JPG](./foto/8_11.JPG)
+![8_5.JPG](./foto/8_5.JPG)
+![8_10.JPG](./foto/8_10.JPG)
 
 In prossimità di Puno veniamo attratti dalla vista del lago navigabile più alto al mondo: il **Lago Titicaca**, situato alla quota di 3812 metri sul mare, dove ogni cosa appare piccola e insignificante dato che il paesaggio è rubato da questa enorme distesa d’acqua che riflette il cielo; le nuvole sembrano correre sullo specchio d'acqua contenuto dalle immense montagne della Cordillera Real. Il termine Titicaca significa *roccia del puma*, perché secondo le popolazioni indigene il lago ha la forma di un puma che caccia un coniglio.
 
@@ -136,55 +126,19 @@ Il giorno seguente ci dirigiamo al porto di Puno dove acquistiamo il biglietto d
 
 I nostri piedi sprofondano sulle canne di *totora* piegate e intrecciate fra loro per costituiscono un piano asciutto e pulito ma danno l’evidente impressione di galleggiare sull’acqua. Il capo villaggio ci accoglie con il tipico benvenuto e ci intrattiene raccontando le origini di quest’isola, nata per proteggere la gente del posto dagli attacchi bellicosi degli Inca che miravano alla conquista delle sponde del lago. Poi ci spiega l’organizzazione gerarchica dell’isola e i compiti di ogni abitante. Tutta la presentazione ha un prevedibile fine commerciale, che si conclude con la proposta di acquisto dell'artigianato locale. Preferiamo proseguire il viaggio su una tipica *Reed Boat*, barca tradizionale trainata sul fianco da un motoscafo, dove una ragazza si raccoglie i capelli annodandoli in una lunga treccia bagnata dalle acque del lago.
 
-![9_1.JPG](./foto/9_1.JPG)
-![9_2.JPG](./foto/9_2.JPG)
-![9_3.JPG](./foto/9_3.JPG)
-![9_4.JPG](./foto/9_4.JPG)
-![9_5.JPG](./foto/9_5.JPG)
-![9_6.JPG](./foto/9_6.JPG)
-![9_7.JPG](./foto/9_7.JPG)
-![9_8.JPG](./foto/9_8.JPG)
-![9_9.JPG](./foto/9_9.JPG)
-![9_10.JPG](./foto/9_10.JPG)
-![9_11.JPG](./foto/9_11.JPG)
-![9_12.JPG](./foto/9_12.JPG)
-![9_13.JPG](./foto/9_13.JPG)
+![9_48.JPG](./foto/9_48.JPG)
 ![9_14.JPG](./foto/9_14.JPG)
-![9_15.JPG](./foto/9_15.JPG)
-![9_16.JPG](./foto/9_16.JPG)
-![9_17.JPG](./foto/9_17.JPG)
-![9_18.JPG](./foto/9_18.JPG)
-![9_19.JPG](./foto/9_19.JPG)
-![9_20.JPG](./foto/9_20.JPG)
+![9_11.JPG](./foto/9_11.JPG)
+![9_8.JPG](./foto/9_8.JPG)
+![9_3.JPG](./foto/9_3.JPG)
 ![9_21.JPG](./foto/9_21.JPG)
 ![9_22.JPG](./foto/9_22.JPG)
 ![9_23.JPG](./foto/9_23.JPG)
-![9_24.JPG](./foto/9_24.JPG)
-![9_25.JPG](./foto/9_25.JPG)
-![9_26.JPG](./foto/9_26.JPG)
 ![9_27.JPG](./foto/9_27.JPG)
-![9_28.JPG](./foto/9_28.JPG)
-![9_29.JPG](./foto/9_29.JPG)
 ![9_30.JPG](./foto/9_30.JPG)
-![9_31.JPG](./foto/9_31.JPG)
-![9_32.JPG](./foto/9_32.JPG)
-![9_33.JPG](./foto/9_33.JPG)
-![9_34.JPG](./foto/9_34.JPG)
-![9_35.JPG](./foto/9_35.JPG)
-![9_36.JPG](./foto/9_36.JPG)
-![9_37.JPG](./foto/9_37.JPG)
-![9_38.JPG](./foto/9_38.JPG)
-![9_39.JPG](./foto/9_39.JPG)
-![9_40.JPG](./foto/9_40.JPG)
-![9_41.JPG](./foto/9_41.JPG)
-![9_42.JPG](./foto/9_42.JPG)
 ![9_43.JPG](./foto/9_43.JPG)
-![9_44.JPG](./foto/9_44.JPG)
 ![9_45.JPG](./foto/9_45.JPG)
 ![9_46.JPG](./foto/9_46.JPG)
-![9_47.JPG](./foto/9_47.JPG)
-![9_48.JPG](./foto/9_48.JPG)
-![9_49.JPG](./foto/9_49.JPG)
 
 Una lunga traversata ci separa dall’isola di Taquile, dove il turismo è strettamente controllato dagli anziani dell’isola col fine di mantenere la cultura della stessa. Per raggiungere il paese occorre affrontare 500 scalini. Certo gli oltre 3800 metri di quota non aiutano la salita, ma l’accoglienza e la gente del posto allietano la passeggiata, ammiriamo l’artigianato locale e le coltivazioni di patate, quinoa, fagioli e mais. Incuriosisce che tutti gli uomini e le donne indossino gli abiti tradizionali: gli uomini sposati portano un cappello rosso, quello dei celibi è rosso e bianco; le donne portano gonne multistrato e camicie ricamate.
 
@@ -194,15 +148,10 @@ Attorno alla grande piazza del paesetroviamo numerosi ristorantini e negozi, ma 
 
 Il giorno seguente ci rimettiamo in strada di buon mattino, scelta azzeccata per la lunga strada da percorrere, un po’ meno per il freddo pungente. Andiamo dritti verso la Bolivia senza accorgerci dell’indicazione per la dogana peruviana e, dopo qualche centinaio di metri, siamo costretti a tornare indietro. Le pratiche sono veloci e molto simili a quelle del confine con il Cile. Sorprende la fila interminabile di TIR che attendono il permesso di proseguire. Costeggiamo il lago Titicaca per qualche decina di chilometri, poi ci faranno compagnia solo lunghe distese di praterie e qualche piccolo agglomerato di case, vicino alle quali pascolano maiali di piccole dimensioni che inizialmente avevamo scambiato per cani.
 
-![10_1.JPG](./foto/10_1.JPG)
 ![10_2.JPG](./foto/10_2.JPG)
-![10_3.JPG](./foto/10_3.JPG)
 ![10_4.JPG](./foto/10_4.JPG)
-![10_5.JPG](./foto/10_5.JPG)
-![10_6.JPG](./foto/10_6.JPG)
-![10_7.JPG](./foto/10_7.JPG)
-![10_8.JPG](./foto/10_8.JPG)
 ![10_9.JPG](./foto/10_9.JPG)
+![10_8.JPG](./foto/10_8.JPG)
 
 Arrivati a La Paz siamo costretti ad entrare in città per cambiare un po’di soldi e per fare il pieno di benzina alla moto. Ci rendiamo subito conto di non aver fatto una buona scelta ad entrare in città: ci sono numerosi semafori che spesso non superiamo neanche con il colore verde a causa dell’intenso traffico. Centinaia di pulmini suonano il clacson, tutti vogliono passare, tutti chiedono di rimettersi in marcia o di fermarsi da un lato. Nella confusione veniamo tamponati, per fortuna senza conseguenze dato che avevamo freni e cambio a riposo e nessuno davanti.
 
@@ -216,40 +165,17 @@ Il modo più rapido per raggiungere il monumento **Dakar Bolivia** dalla strada 
 
 Quando finalmente la concentrazione nella guida viene ridotta dal miglioramento dello stato della pista ci accorgiamo che davanti a noi c’è *Lui*… siamo increduli, emozionati, ma siamo arrivati al **Salar de Uyuni**! È davvero commovente, ma non possiamo lasciarci trascinare dall’emozione perché bisogna rimanere concentrati nella guida perché. Lo strato di sale rende la superfice scivolosa ma non impedisce di accelerare, rendendo gli avvallamenti di sale sempre meno percettibili quasi come ci trovassimo a viaggiare su una nuvola: FANTASTICO.
 
-Percorsi alcuni chilometri sul lago salato, ci fermiamo ad osservare questa meraviglia che acceca e riflette il sole tiepido,  un vento leggero ci accarezza la pelle, raffreddandola e ricordandoci i 6°C di questa giornata. Sarà difficile togliere il casco, ma le foto in questo luogo sono la coronazione di un grande sogno, il risultato di tanti sacrifici. Risaliamo in sella per raggiungere il monumento di Dakar Bolivia. È una giornata strepitosa, la ricorderò per tutta la vita. **Nessuna parola può descrivere l’emozione di trovarsi qui**, davanti a questo monumento, in un luogo così magico, per non parlare della Plaza de Las Banderas Uyuni che si trova a qualche centinaio di metri dal monumento e che ospita numerose bandiere di varie dimensioni provenienti da tutto il mondo. Li vicino l’omonimo ristorante e museo con davanti una fontana.
+Percorsi alcuni chilometri sul lago salato, ci fermiamo ad osservare questa meraviglia che acceca e riflette il sole tiepido,  un vento leggero ci accarezza la pelle, raffreddandola e ricordandoci i 6°C di questa giornata. Sarà difficile togliere il casco, ma le foto in questo luogo sono la coronazione di un grande sogno, il risultato di tanti sacrifici. Risaliamo in sella per raggiungere il monumento di Dakar Bolivia. È una giornata strepitosa, la ricorderò per tutta la vita. **Nessuna parola può descrivere l’emozione di trovarsi qui**, davanti a questo monumento, in un luogo così magico, per non parlare della Plaza de Las Banderas Uyuni che si trova a qualche centinaio di metri dal monumento e che ospita numerose bandiere di varie dimensioni provenienti da tutto il mondo.
 
-![11_1.JPG](./foto/11_1.JPG)
-![11_2.JPG](./foto/11_2.JPG)
-![11_3.JPG](./foto/11_3.JPG)
-![11_4.JPG](./foto/11_4.JPG)
-![11_5.JPG](./foto/11_5.JPG)
-![11_6.JPG](./foto/11_6.JPG)
-![11_7.JPG](./foto/11_7.JPG)
-![11_8.JPG](./foto/11_8.JPG)
-![11_9.JPG](./foto/11_9.JPG)
-![11_10.JPG](./foto/11_10.JPG)
-![11_11.JPG](./foto/11_11.JPG)
-![11_12.JPG](./foto/11_12.JPG)
-![11_13.JPG](./foto/11_13.JPG)
-![11_14.JPG](./foto/11_14.JPG)
 ![11_15.JPG](./foto/11_15.JPG)
-![11_16.JPG](./foto/11_16.JPG)
-![11_17.JPG](./foto/11_17.JPG)
-![11_18.JPG](./foto/11_18.JPG)
-![11_19.JPG](./foto/11_19.JPG)
-![11_20.JPG](./foto/11_20.JPG)
 ![11_21.JPG](./foto/11_21.JPG)
-![11_22.JPG](./foto/11_22.JPG)
+![11_1.JPG](./foto/11_1.JPG)
+![11_3.JPG](./foto/11_3.JPG)
+![11_8.JPG](./foto/11_8.JPG)
+![11_10.JPG](./foto/11_10.JPG)
+![11_16.JPG](./foto/11_16.JPG)
 ![11_23.JPG](./foto/11_23.JPG)
-![11_24.JPG](./foto/11_24.JPG)
-![11_25.JPG](./foto/11_25.JPG)
-![11_26.JPG](./foto/11_26.JPG)
-![11_27.JPG](./foto/11_27.JPG)
-![11_28.JPG](./foto/11_28.JPG)
-![11_29.JPG](./foto/11_29.JPG)
-![11_30.JPG](./foto/11_30.JPG)
 ![11_31.JPG](./foto/11_31.JPG)
-![11_32.JPG](./foto/11_32.JPG)
 ![11_33.JPG](./foto/11_33.JPG)
 ![11_34.JPG](./foto/11_34.JPG)
 
@@ -263,18 +189,13 @@ Ci accordiamo di essere preceduti da un'auto che seguiamo fino a quando la strad
 
 Consultiamo la cartina, sembra proprio che per raggiungere il prossimo paese dovremo percorrerla tutta. Procedendo con cautela raggiungiamo la fine di quello che doveva essere un tratto di strada in manutenzione: 3 grandi mucchi di terra posti al centro della carreggiata bloccano l’accesso. Rimuovendo grossi massi riusciamo a superare l'ostacolo e arrivare in paese nel giro di una manciata di minuti. Ci fermiamo al primo autolavaggio, dove utilizziamo 4 litri di gasolio e molto olio di gomito per togliere il catrame appiccicato dappertutto.
 
-![12_1.JPG](./foto/12_1.JPG)
 ![12_2.JPG](./foto/12_2.JPG)
 ![12_3.JPG](./foto/12_3.JPG)
-![12_4.JPG](./foto/12_4.JPG)
-![12_5.JPG](./foto/12_5.JPG)
 ![12_6.JPG](./foto/12_6.JPG)
 ![12_7.JPG](./foto/12_7.JPG)
 ![12_8.JPG](./foto/12_8.JPG)
-![12_9.JPG](./foto/12_9.JPG)
-![12_10.JPG](./foto/12_10.JPG)
 ![12_11.JPG](./foto/12_11.JPG)
-![12_12.JPG](./foto/12_12.JPG)
+![12_10.JPG](./foto/12_10.JPG)
 
 Conosciamo una famiglia di colombiani che con un piccolo van stanno visitando il Sud America. La famiglia è composta da padre, madre e figlia di 10 anni. Facendo amicizia capiamo che sono lì per la rottura di un manicotto del motore. Mi rendo disponibile a recuperargli il pezzo alla prima città, ma a loro non interessa. Hanno davanti altri 10 mesi di viaggio e se il destino li ha fermati lì, un motivo ci sarà, quindi preferiscono fare la nostra conoscenza e scambiare consigli e opinioni di viaggio piuttosto che preoccuparsi di ciò che si può aggiustare. Sarebbe bello viaggiare senza limiti di tempo e denaro. Lavata la moto proseguiamo il viaggio dopo aver salutato i nostri nuovi amici e scambiato i rispettivi profili social.
 
@@ -288,41 +209,22 @@ Superiamo la dogana con un buio pesto, oltrepassiamo il lungo ponte sul fiume Pa
 
 Uscendo dalla città di Encarnacion notiamo che le strade corrono tra le palme e sono ben tenute, con un traffico regolare. Tutto troppo noioso per noi, decidiamo quindi di compiere una deviazione non programmata verso la città Tebicuary-mí per andare a visitare il **Salto Cristal**, una delle attrazioni di questo paese. Si tratta di una cascata raggiungibile lungo una strada sterrata scarsamente segnalata, non frequentata e piena di strade che deviano a destra e sinistra, che non lasciano possibilità d’errore. Per accedere all’area che ci condurrà al Salto Cristal occorre pagare un compenso per niente economico al contadino proprietario di questa terra, che oltre alle colture allevan galline e maiali che corrono composti davanti a noi. Raggiunto un piccolo prato ci dobbiamo fermare perché l’area davanti a noi è transennata. Parcheggiamo la moto e ci incamminiamo lungo il sentiero per circa 3 km, tra rocce e pendii, oltrepassando ruscelli lungo i quali uccelli neri di grandi dimensioni (abbiamo poi scoperto essere *Urubù*) ci osservano per niente impauriti, quasi a volerci sfidare nel loro habitat. I ruscelli che si trovano lungo il cammino impediscono di comprendere la vicinanza della cascata, che compare solo quando, ormai esausti, avevamo perso le speranze di vederla. Appare subito una cascata alta ma semplice, con un laghetto dalle acque limpide e fredde ai suoi piedi, visibile solo grazie ad una sottile luce che traspare dalla folta vegetazione che la circonda.
 
-![13_1.JPG](./foto/13_1.JPG)
-![13_2.JPG](./foto/13_2.JPG)
-![13_3.JPG](./foto/13_3.JPG)
-![13_4.JPG](./foto/13_4.JPG)
-![13_5.JPG](./foto/13_5.JPG)
-![13_6.JPG](./foto/13_6.JPG)
-![13_7.JPG](./foto/13_7.JPG)
-![13_8.JPG](./foto/13_8.JPG)
-![13_9.JPG](./foto/13_9.JPG)
-![13_10.JPG](./foto/13_10.JPG)
-![13_11.JPG](./foto/13_11.JPG)
-![13_12.JPG](./foto/13_12.JPG)
-![13_13.JPG](./foto/13_13.JPG)
-![13_14.JPG](./foto/13_14.JPG)
-![13_15.JPG](./foto/13_15.JPG)
-![13_16.JPG](./foto/13_16.JPG)
-![13_17.JPG](./foto/13_17.JPG)
-![13_18.JPG](./foto/13_18.JPG)
-![13_19.JPG](./foto/13_19.JPG)
-![13_20.JPG](./foto/13_20.JPG)
-![13_21.JPG](./foto/13_21.JPG)
-![13_22.JPG](./foto/13_22.JPG)
-![13_23.JPG](./foto/13_23.JPG)
-![13_24.JPG](./foto/13_24.JPG)
-![13_25.JPG](./foto/13_25.JPG)
-![13_26.JPG](./foto/13_26.JPG)
-![13_27.JPG](./foto/13_27.JPG)
-![13_28.JPG](./foto/13_28.JPG)
-![13_29.JPG](./foto/13_29.JPG)
-![13_30.JPG](./foto/13_30.JPG)
-![13_31.JPG](./foto/13_31.JPG)
-
 Per raggiungere Asunción basterebbe ripercorrere la strada dell'andata al contrario e imboccare la gran ruote, ma decidiamo di chiedere al contadino di indicarci un itinerario di strade sterrate che passano per i villaggi dell’entroterra in direzione della capitale. Nel percorrere queste piste incrociamo solo qualche motorino e un grosso camion, che non riusciamo a superare: inizialmente la strada è stretta, ma poi la vegetazione è così fitta e bassa che il grosso camion spezza i rami delle piante facendoli immancabilmente cadere sulla carreggiata, costringendoci a continui slalom. Decidiamo quindi di fermarci. La gente che incrociamo ci sorride e ci saluta, i bambini ci rincorrono con grida di gioia. Le case sono fatte di paglia con il tetto in lamiera, la gente rimane seduta davanti all’uscio chiacchierando con i famigliari in compagnia della immancabile musica latino-americana. La gente vive in un questo ambiente che trasuda di genuinità, di valori semplici come la famiglia, di attaccamento alla terra, di natura pura ed esuberante, tra strade a tratti impercorribili per il fango, torrenti che se ne infischiano del fatto che quella è una strada, di ponti tappezzati di tavole fissate una sull’altra e che anche oggi sopporteranno il peso di un altro mezzo che le sovrasta. **Questo era ciò che cercavamo e questo è il meglio che questa terra ci ha regalato**.
 
 Le piste di terra rossa proseguono fino a una cinquantina di chilometri dalla capitale, dove arriveremo poche ore prima della partenza del volo di Alice. Oggi non è stato un giorno di viaggio come gli altri. Ogni volta che i miei occhi incrociavano quelli di Alice, cascavamo in un vortice di silenzio e tristezza, perché da stasera proseguirò questo viaggio solo in quanto Alice deve rientrare a lavoro. Separarci è sempre molto difficile.
+
+![13_2.JPG](./foto/13_2.JPG)
+![13_4.JPG](./foto/13_4.JPG)
+![13_7.JPG](./foto/13_7.JPG)
+![13_11.JPG](./foto/13_11.JPG)
+![13_22.JPG](./foto/13_22.JPG)
+![13_20.JPG](./foto/13_20.JPG)
+![13_16.JPG](./foto/13_16.JPG)
+![13_19.JPG](./foto/13_19.JPG)
+![13_24.JPG](./foto/13_24.JPG)
+![13_26.JPG](./foto/13_26.JPG)
+![13_28.JPG](./foto/13_28.JPG)
+![13_29.JPG](./foto/13_29.JPG)
 
 Le piste del Paraguay mi sono piaciute così tanto che le ho percorse anche il giorno successivo, dirigendomi verso Nord per poi, piano piano, riprendere la strada che mi condurrà nuovamente al confine Argentino. Ad un tratto incontro un motociclista che in compagnia di sua moglie sta smontando la camera d’aria della ruota anteriore. Mi fermo per aiutarlo e, contrariamente a ciò che mi aspettavo, il motociclista non ha con sè alcun attrezzo per la riparazione. Fortunatamente porto con me delle camere d’aria con relativo materiale di riparazione, che mi servono solo nel caso in cui dovessi strappare un tubeless. Ripariamo la foratura in una quindicina di minuti, ma quando arriva il momento di gonfiare il copertone, ci accorgiamo che la sua pompa a mano ha il beccuccio troppo grande. Per fortuna con un po' di nastro americano avvolto attorno alla valvola della camera d’aria riusciramo a gonfiare il copertone, mentre la moglie del motociclista ci filma con il telefonino ridendo e godendosi la scena di uno sconosciuto (io) che rimprovero il motociclista, mentre sudato aziono la pompa ed il motociclista con le mani tenta con scarsi risultati di trattenere l’aria che fuoriesce dalla valvola.
 
@@ -336,58 +238,20 @@ Quando mancano circa 150 km dalla costa, incrocio un motociclista brasiliano con
 
 Il giorno seguente attraverso la Laguna di Rocha, che unisce Paloma a Santa Isabel. La vicinanza alla spiaggia mi fa intuire che ci possa essere della sabbia sulla pista, che non tarda a fare la sua comparsa. La laguna è bellissima e desolata. Solo arrivando nei pressi di Santa Isabel incontro alcune persone. Il viaggio si concluderà a Montevideo, dopo essere transitato a Punta del Este dove la statua sulla spiaggia mostra le 5 dita di una mano, simbolo di questa città dal carattere e dalla dote puramente turistica.
 
-![14_1.JPG](./foto/14_1.JPG)
-![14_2.JPG](./foto/14_2.JPG)
 ![14_3.JPG](./foto/14_3.JPG)
-![14_4.JPG](./foto/14_4.JPG)
-![14_5.JPG](./foto/14_5.JPG)
-![14_6.JPG](./foto/14_6.JPG)
-![14_7.JPG](./foto/14_7.JPG)
-![14_8.JPG](./foto/14_8.JPG)
-![14_9.JPG](./foto/14_9.JPG)
-![14_10.JPG](./foto/14_10.JPG)
-![14_11.JPG](./foto/14_11.JPG)
-![14_12.JPG](./foto/14_12.JPG)
-![14_13.JPG](./foto/14_13.JPG)
 ![14_14.JPG](./foto/14_14.JPG)
-![14_15.JPG](./foto/14_15.JPG)
-![14_16.JPG](./foto/14_16.JPG)
-![14_17.JPG](./foto/14_17.JPG)
-![14_18.JPG](./foto/14_18.JPG)
-![14_19.JPG](./foto/14_19.JPG)
 ![14_20.JPG](./foto/14_20.JPG)
-![14_21.JPG](./foto/14_21.JPG)
 ![14_22.JPG](./foto/14_22.JPG)
-![14_23.JPG](./foto/14_23.JPG)
-![14_24.JPG](./foto/14_24.JPG)
-![14_25.JPG](./foto/14_25.JPG)
 ![14_26.JPG](./foto/14_26.JPG)
-![14_27.JPG](./foto/14_27.JPG)
-![14_28.JPG](./foto/14_28.JPG)
-![14_29.JPG](./foto/14_29.JPG)
-![14_30.JPG](./foto/14_30.JPG)
-![14_31.JPG](./foto/14_31.JPG)
-![14_32.JPG](./foto/14_32.JPG)
-![14_33.JPG](./foto/14_33.JPG)
-![14_34.JPG](./foto/14_34.JPG)
+![14_52.JPG](./foto/14_52.JPG)
 ![14_35.JPG](./foto/14_35.JPG)
-![14_36.JPG](./foto/14_36.JPG)
 ![14_37.JPG](./foto/14_37.JPG)
 ![14_38.JPG](./foto/14_38.JPG)
-![14_39.JPG](./foto/14_39.JPG)
-![14_40.JPG](./foto/14_40.JPG)
 ![14_41.JPG](./foto/14_41.JPG)
-![14_42.JPG](./foto/14_42.JPG)
-![14_43.JPG](./foto/14_43.JPG)
-![14_44.JPG](./foto/14_44.JPG)
-![14_45.JPG](./foto/14_45.JPG)
 ![14_46.JPG](./foto/14_46.JPG)
 ![14_47.JPG](./foto/14_47.JPG)
 ![14_48.JPG](./foto/14_48.JPG)
-![14_49.JPG](./foto/14_49.JPG)
 ![14_50.JPG](./foto/14_50.JPG)
-![14_51.JPG](./foto/14_51.JPG)
-![14_52.JPG](./foto/14_52.JPG)
 ![14_53.JPG](./foto/14_53.JPG)
 
 Soddisfatti da questo viaggio che ha distinto questa prima tappa in America, non possiamo che attendere che arrivi presto Dicembre per riprendere la strada verso Sud.
