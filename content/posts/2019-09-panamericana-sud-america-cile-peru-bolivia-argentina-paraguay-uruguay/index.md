@@ -1,9 +1,9 @@
 ---
-title: "Panamericana: prima parte"
+title: "Panamericana: prima parte in Sud America"
 date: "2019-09-26T09:00:00.000Z"
 slug: /2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay
 featured_image: ./foto/5_6.JPG
-excerpt: "30 giorni in Sud America tra Cile, Perù, Bolivia, Argentina, Paraguay e Uruguay"
+excerpt: "30 giorni in moto tra Cile, Perù, Bolivia, Argentina, Paraguay e Uruguay"
 opening: "Quando un tempo pensavo ad un viaggio in moto in Sud America, lo vedevo come un’impresa per pochi, lontano dalle mie possibilità, lontano dai miei progetti… e oggi sono qui che scrivo di come ho vissuto questo viaggio. La vita è meravigliosa."
 author: miral
 categories:
@@ -34,12 +34,11 @@ Il viaggio comincia con una falsa partenza, perché dopo poco più di 250 km sia
 
 Devo ringraziare molte persone che ci sono state vicino e aiutato, sia in Cile che dall’Italia, anche perché dopo svariate ricerche sembrava che l’unica soluzione fosse attendere l’arrivo del pezzo dall’Europa. Il viaggio a volte ha degli imprevisti, ma sta a noi coglierli senza farci travolgere, affrontandoli con il giusto temperamento, costruendo alternative in base all’evolvere dei fatti. La regola numero uno rimane l’ottimismo, la costanza e la caparbietà nel volercela fare, avendo sempre a disposizione un'alternativa.
 
-![Rottura puleggia alternatore in Cile](./foto/2.alternatore.JPG "La rottura della puleggia dell’alternatore ci costringe a rimandare la partenza da Valparaíso (Cile)")
-
 La lunga permanenza a Valparaíso ci dà la possibilità di visitare gli innumerevoli graffiti presenti lungo le strette vie che corrono sulla collina, i mercati colorati con verdure fresche di stagione e spezie profumate, i mercati di pesce fresco in cui è possibile mangiarlo cucinato lungo la strada. I leoni marini e i pellicani attirano l’attenzione dei turisti. Poi c’è Viña del Mar, con la sua lunga costa travolta dalle onde potenti dell’oceano, dove è evidente la radicata vocazione turistica, accentuata dagli imponenti hotel e dagli innumerevoli ristorantini, con i bambini che giocano con gli aquiloni e i giovani giocolieri che intrattengono i conducenti delle auto ferme al semaforo.
 
 Passeggiando lungo la costa veniamo attratti da un gruppo di foche che giocano in acqua, ricorrendosi e saltando tra le onde di una costa protetta dagli scogli, fino a giungere a Don Dure; qui l'imponente duna alta più di 80 metri sembra travolgere le ricche residenze di villeggiatura che pullulano la costa. Non essendo stagione, la costa nell’ora di pranzo è popolata da numerosi lavoratori in pausa che sono impegnanti nelle attività di manutenzione delle residenze. Chiacchierando con loro emerge che in questi cantieri lavorano intere famiglie, per lo più di immigrati.
 
+![Rottura puleggia alternatore in Cile](./foto/2.alternatore.JPG "La rottura della puleggia dell’alternatore ci costringe a rimandare la partenza da Valparaíso (Cile)")
 ![Sdoganamento moto (Cile)](./foto/3_sdoganamento.JPG "Sdoganamento della moto a Valparaíso (Cile)")
 ![Valparaíso (Cile)](./foto/3_Valparaiso.JPG "Valparaíso (Cile)")
 ![Murales a Valparaíso (Cile)](./foto/3_murales.Valparaiso.JPG "Murales a Valparaíso (Cile)")
@@ -161,7 +160,7 @@ Superato il caos di questa metropoli, proseguiamo verso Coroico per poi imboccar
 
 Nella regione di Oruro troviamo un asfalto liscio e deformato dal transito di grandi camion e corriere a due piani. Il paesaggio piatto è estremamente noioso, costituito da grandi praterie deserte, abitato da pochi alpaca che spaventati che si allontanano quando ci fermiamo per fare loro qualche foto. Nella regione di Potosí la desolazione fa spazio alla sabbia solcata da alcuni poveri corsi d’acqua, ristoro per piccoli greggi di alpaca condotti da pastori solitari con la pelle di colore marrone, segnata dal vento e dal sole.
 
-Il modo più rapido per raggiungere il monumento **Dakar Bolivia** dalla strada asfaltata è prendere una deviazione al paese di Colchani. Arrivati al paese, con la moto ancora carica, deviamo verso destra puntando una carovana di fuoristrada che sfrecciano leggeri sulla sabbia di una pista poco battuta. Riusciamo a non insabbiarci, ma proseguiamo lentamente finché la pista si trasforma in terra battuta e possiamo aumentare la velocità. Superiamo una collinetta che ci fa guadagnare la pista principale, inizialmente in buono stato, ma che poi si intervalla a pozzanghere profonde e piene d’acqua e sale, che spesso ci costringono a brusche deviazioni e frenate.
+Il modo più rapido per raggiungere il **monumento Dakar Bolivia** dalla strada asfaltata è prendere una deviazione al paese di Colchani. Arrivati al paese, con la moto ancora carica, deviamo verso destra puntando una carovana di fuoristrada che sfrecciano leggeri sulla sabbia di una pista poco battuta. Riusciamo a non insabbiarci, ma proseguiamo lentamente finché la pista si trasforma in terra battuta e possiamo aumentare la velocità. Superiamo una collinetta che ci fa guadagnare la pista principale, inizialmente in buono stato, ma che poi si intervalla a pozzanghere profonde e piene d’acqua e sale, che spesso ci costringono a brusche deviazioni e frenate.
 
 Quando finalmente la concentrazione nella guida viene ridotta dal miglioramento dello stato della pista ci accorgiamo che davanti a noi c’è *Lui*… siamo increduli, emozionati, ma siamo arrivati al **Salar de Uyuni**! È davvero commovente, ma non possiamo lasciarci trascinare dall’emozione perché bisogna rimanere concentrati nella guida perché. Lo strato di sale rende la superfice scivolosa ma non impedisce di accelerare, rendendo gli avvallamenti di sale sempre meno percettibili quasi come ci trovassimo a viaggiare su una nuvola: FANTASTICO.
 
@@ -181,7 +180,7 @@ Percorsi alcuni chilometri sul lago salato, ci fermiamo ad osservare questa mera
 
 Nel frattempo le luci della moto iniziano a riflettersi sul fondo bianco del lago, segno che ormai si fa sera e quindi dobbiamo dirigerci verso Uyuni dove trascorreremo la notte. Nel frattempo il tramonto che si trova dietro di noi ci costringe a fermarci più volte per scattare delle foto meravigliose. Raggiungiamo la città sul lago salato rincorrendo i numerosi fuoristrada che rientrano in città per decine di chilometri. Una volta raggiunta, ci rendiamo conto che le guide non esagerano a indicare la città di Uyuni come uno sparuto gruppo di case tra strade sabbiose, incapace di offrire molta ospitalità al viaggiatore venuto da lontano a visitare il grande lago salato.
 
-Il giorno seguente decidiamo di visitare il lago salato a bordo di un fuoristrada. Il tour ci terrà occupati per tutto il giorno, visitiamo il cimitero dei treni, il monumento alla Dakar e la Isla Incahuasi, uno sperone collinare roccioso e coperto di cactus che si erge sulla pianura di sale, permettendo di godere della vista di questi 10582 chilometri quadrati di bianco. L’isola Incahuasi ha svariati nomi, tra i quali Inka Wasi (terra Inca), o isola del Pescado per via della sua forma. Concludiamo la giornata in bellezza, ammirando il trasmonto riflettersi nelle limpide acque di questo lago, sorseggiando del buon bicchiere di buon vino boliviano.
+Il giorno seguente decidiamo di visitare il lago salato a bordo di un fuoristrada. Il tour ci terrà occupati per tutto il giorno, visitiamo il cimitero dei treni, torniamo al monumento alla Dakar e la **Isla Incahuasi**, uno sperone collinare roccioso e coperto di cactus che si erge sulla pianura di sale, permettendo di godere della vista di questi 10582 chilometri quadrati di bianco. L’isola Incahuasi ha svariati nomi, tra i quali Inka Wasi (terra Inca), o isola del Pescado per via della sua forma. Concludiamo la giornata in bellezza, ammirando il trasmonto riflettersi nelle limpide acque di questo lago, sorseggiando del buon bicchiere di buon vino boliviano.
 
 L’indomani partiamo verso il confine argentino, dopo circa 200 km ci troviamo a percorrere una strada tra canyon e gole in una cornice racchiusa tra montagne stratificate di vario colore. Prendiamo una pista che ci fa scendere in un canalone dove le montagne ci sovrastano e i cactus delimitano il tratto di strada ghiaioso, quando ci accorgiamo di trovarci nel letto di un fiume ridotto ad un piccolo filo d’acqua, che crea sulla strada pozzanghere che proseguendo crescono di dimensione e profondità. La pista non è segnata sul nostro navigatore, ma la città sembra vicina e quindi decidiamo di proseguire.
 
