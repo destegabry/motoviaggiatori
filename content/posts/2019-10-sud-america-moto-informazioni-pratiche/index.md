@@ -15,6 +15,7 @@ tags:
 - tag/paraguay
 - tag/peru
 - tag/uruguay
+- tag/america
 - tag/sud-america
 - tag/informazioni-pratiche
 ---
