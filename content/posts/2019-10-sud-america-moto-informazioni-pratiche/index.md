@@ -21,7 +21,7 @@ tags:
 
 ## Documenti necessari
 
-Per affrontare un [viaggio in Sud America](/categoria/viaggi/panamericana) è fondamentale il **passaporto con validità residua di almeno 6 mesi**. La permanenza in America Latina per turismo può variare dai 3 ai 6 mesi, ma questo dipende dallo Stato in cui vi trovate. Alcuni Paesi vi possono indicare una permanenza iniziale di 15 giorni che si può  estendere a 90 rivolgendosi alla dogana o negli uffici preposti. I visti vengono rilasciati direttamente in dogana, quindi non serve richiedere permessi da casa.
+Per affrontare un [viaggio in Sud America](/categoria/viaggi/panamericana) è fondamentale il **passaporto con validità residua di almeno 6 mesi**. La permanenza in America Latina per turismo può variare dai 3 ai 6 mesi, ma questo dipende dallo Stato in cui vi recherete. Alcuni Paesi vi possono indicare una permanenza iniziale di 15 giorni che si può  estendere a 90 rivolgendosi alla dogana o negli uffici preposti. I visti vengono rilasciati direttamente in dogana, quindi non serve richiedere permessi dall'Italia.
 
 |  Nazione  | Passaporto | Visto di ingresso |
 |-----------|------------|-------------------|
@@ -39,8 +39,8 @@ Prima di partire è sempre meglio controllare la valitità di queste informazion
 Se volete vivere il viaggio con la vostra moto sappiate che ci sono 3 possibilità:
 
 1. Spedire la moto via aerea: soluzione costosa, ma che vi permette di ridurre i tempi di distacco tra voi e la vostra moto. E’ necessario togliere i liquidi e i cavi della batteria, inoltre per ridurre gli ingombri della cassa è necessario rimuovere alcune parti della moto (specchietti, cupolino…).
-2. Spedire la moto via container assieme ad altri amici: la soluzione può essere economica, ma ovviamente dipende dal numero di amici che aderisce al progetto, inoltre è fondamentale che tutti i componenti del gruppo possano spedire e ritirare la moto lo stesso giorno. E’ necessario che la moto sia consegnata in riserva, con i cavi della batteria staccati. Il costo approssimativo del container è di 6000€.
-3. Spedire la moto via container assieme ad altro materiale: lo spedizioniere può abbinare la spedizione della moto ad altro materiale con la stessa destinazione permettendovi di contenere i costi. Può essere necessario rimuovere delle parti della moto, ma dipende dal materiale caricato nel container. Sicuramente la moto va consegnata in riserva e con i cavi della batteria staccati.
+2. Spedire la moto via container assieme ad altri amici: la soluzione può essere economica, ma ovviamente dipende dal numero di amici che aderisce al progetto, inoltre è fondamentale che tutti i componenti del gruppo possano spedire e ritirare la moto lo stesso giorno. E’ necessario che la moto sia consegnata in riserva, con i cavi della batteria staccati. Il costo approssimativo si un container per 6 moto è 6000€.
+3. Spedire la moto via container assieme ad altro materiale: lo spedizioniere può abbinare la spedizione della moto ad altro materiale con la stessa destinazione permettendovi di contenere i costi. Può essere necessario rimuovere delle parti della moto, ma dipende dal materiale caricato nel container. Sicuramente la moto va consegnata in riserva e con poca benzina e i cavi della batteria staccati.
 
 Spedire in container richiede una precauzione: **la moto sarà a contatto con la salsedine per un lungo periodo**, quindi è necessario proteggere le parti in metallo con olio siliconico.
 
@@ -68,7 +68,7 @@ In tutta la Comunità Europea e in molti altri Stati al di fuori di questa è va
 
 **In Sud America serve la patente internazionale conforme alla convenzione di Vienna del 1968**.
 
-Preciso che alle dogane sudamericane i funzionari hanno sempre voluto visionare la patente italiana. La patente internazionale non me l’hanno mai chiesta. Da anni viaggio in Africa America utilizzando la patente internazionale della convenzione di Vienna, mi è stato chiesto di esibirla raramente.
+Preciso che alle dogane sudamericane i funzionari hanno sempre voluto visionare la patente italiana. La patente internazionale non me l’hanno mai chiesta. Da anni viaggio all'estero e raramente mi è capitato di dover esibire la patente internazionale.
 
 Quando solcherò il confine degli Stati Uniti d’America, so già che dovrò stipulare la patente internazionale della convenzione di Ginevra.
 
@@ -121,7 +121,7 @@ Un compagno di viaggio da cui difficilmente vi separerete è il vento: tutto ben
 
 ## Benzina
 
-La qualità della benzina è generalmente buona. Solo in alcune tratte poco trafficate ci siamo riforniti con benzine scadenti in Cile, Perù e Bolivia. La nostra moto monta dei filtri della Guglatech che la protegge da eventuali impurità. Nel caso di benzina con pochi ottani utilizziamo un [addizionatore di ottani della Bardahl](https://amzn.to/33eeQYC) che aiuta la nostra moto a sopportare il carico trasportato alle alte altitudini che si raggiungono sulle Ande (abbiamo viaggiato anche ad oltre 4500 metri).
+La qualità della benzina è generalmente buona. Solo in alcune tratte poco trafficate ci siamo riforniti con benzine scadenti in Cile, Perù e Bolivia. La nostra moto monta dei filtri della [Guglatech](https://www.guglatech.com) che la protegge da eventuali impurità. Nel caso di benzina con pochi ottani utilizziamo un [addizionatore di ottani della Bardahl](https://amzn.to/33eeQYC) che aiuta la nostra moto a sopportare il carico trasportato alle alte altitudini che si raggiungono sulle Ande (abbiamo viaggiato anche ad oltre 4500 metri).
 
 In tutte le stazioni di servizio è obbligatorio scendere dalla moto per fare rifornimento, per questioni di sicurezza. In molte stazioni di servizio viene registrata la targa prima di eseguire il rifornimento. In Bolivia il prezzo indicato dalla pompa non è quello che si paga, perché  ai turisti viene addizionata una percentuale. Ovviamente prima del rifornimento viene segnalata la cosa dal gestore della pompa di benzina. **Il costo della benzina è inferiore ad 1€/litro**, quindi molto basso. Non esistono self service, quindi se partite presto al mattino (è una nostra abitudine), fate rifornimento alla sera.
 
