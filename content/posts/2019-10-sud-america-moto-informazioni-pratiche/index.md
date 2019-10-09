@@ -1,9 +1,9 @@
 ---
 title: "Sud America in moto: informazioni pratiche"
-date: "2019-10-10T10:30:00.000Z"
+date: "2019-10-09T10:00:00.000Z"
 author: miral
 slug: /2019/05/sud-america-moto-informazioni-pratiche
-featured_image: ../2019-09-panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/5_6.JPG
+featured_image: ./foto/11_2.JPG
 excerpt: "Informazioni su documenti necessari, assicurazione, spedizione, lingua, valuta, salute e strade per viaggiare in Sud America con la tua moto"
 categories:
 - viaggi
@@ -21,7 +21,7 @@ tags:
 
 ## Documenti necessari
 
-Per affrontare un viaggio in Sud America è fondamentale il **passaporto con validità residua di almeno 6 mesi**. La permanenza in Sud America per turismo può variare dai 3 ai 6 mesi, ma questo dipende dallo Stato in cui vi trovate. Alcuni Paesi vi possono indicare una permanenza iniziale di 15 giorni che si può  estendere a 90 rivolgendosi alla dogana o negli uffici preposti. I visti vengono rilasciati direttamente in dogana, quindi non serve richiedere permessi da casa.
+Per affrontare un [viaggio in Sud America](/categoria/viaggi/panamericana) è fondamentale il **passaporto con validità residua di almeno 6 mesi**. La permanenza in America Latina per turismo può variare dai 3 ai 6 mesi, ma questo dipende dallo Stato in cui vi trovate. Alcuni Paesi vi possono indicare una permanenza iniziale di 15 giorni che si può  estendere a 90 rivolgendosi alla dogana o negli uffici preposti. I visti vengono rilasciati direttamente in dogana, quindi non serve richiedere permessi da casa.
 
 |  Nazione  | Passaporto | Visto di ingresso |
 |-----------|------------|-------------------|
@@ -44,11 +44,15 @@ Se volete vivere il viaggio con la vostra moto sappiate che ci sono 3 possibilit
 
 Spedire in container richiede una precauzione: **la moto sarà a contatto con la salsedine per un lungo periodo**, quindi è necessario proteggere le parti in metallo con olio siliconico.
 
-In tutti e tre i casi dovete affidarvi ad un buon spedizioniere che abbia contatti seri sul posto, perché lo sdoganamento può diventare una vera odissea. Sul posto prima dello sdoganamento occorre compilare il *TITULO DE IMPORTACION TEMPORAL DE VEHICULOS* in dogana e solo dopo l’approvazione è possibile ritirare la moto. La bolla di spedizione deve riportare il materiale presente nel container, quindi se per motivi di spazio decideste di rimuovere una o più valigie dalla vostra moto, abbiate cura di indicare il numero di colli corretti. Nel mio caso per pura precauzione ho fatto delle foto a tutte le fasi di fissaggio della moto (che sono a cura dello spedizioniere), alle valigie, al sigillo del container e al numero di matricola dello stesso. Scaricando l’app potrete seguire il viaggio della vostra moto.
+In tutti e tre i casi dovete affidarvi ad un buon spedizioniere che abbia contatti seri sul posto, perché lo sdoganamento può diventare una vera odissea. Sul posto prima dello sdoganamento occorre compilare il *Titulo de importación temporal de vehículos* in dogana e solo dopo l’approvazione è possibile ritirare la moto. La bolla di spedizione deve riportare il materiale presente nel container, quindi se per motivi di spazio decideste di rimuovere una o più valigie dalla vostra moto, abbiate cura di indicare il numero di colli corretti. Nel mio caso per pura precauzione ho fatto delle foto a tutte le fasi di fissaggio della moto (che sono a cura dello spedizioniere), alle valigie, al sigillo del container e al numero di matricola dello stesso. Scaricando l’app potrete seguire il viaggio della vostra moto.
 
 Se per qualche motivo decideste di lasciare la vostra moto nel Paese in cui vi trovate, sappiate che esistono dei limiti di tempo che vi vengono indicati nel permesso di entrata alla dogana e che dipendono da Stato a Stato. Questi permessi possono essere rinnovati (c’è un limite che dipende dalla nazione in cui vi trovate), ma per farlo deve essere presente sul posto il proprietario del mezzo. Se si dovessero superare i termini di tempo stabiliti all’entrata nel Paese, la moto verrà sequestrata e messa all’asta. Ovviamente finchè non si esce dal Paese o non si viene fermati per un controllo dalle forze dell’ordine, la moto rimane in mano a voi, anche se il suo destino è segnato. **L’unico Stato che permette di lasciare la moto ferma per 1 anno è l’Uruguay**.
 
 Per viaggiare in Sud America **non è necessario dotarsi di *Carnet de passage***.
+
+![Container moto](./foto/IMG_0759.JPG "Operazioni di carico della nostra BMW R1200GS Adventure nel container")
+![Sdoganamento moto Cile](../2019-09-panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/3_sdoganamento.JPG "Sdoganamento della moto in Cile")
+![Importazione moto Cile](./foto/IMG_1932.JPG "Il “Titulo de importación temporal de vehículos” ottenuto in Cile")
 
 ## Mezzi di trasporto
 
@@ -82,6 +86,8 @@ Per quando riguarda il bollo, essendo una tassa di proprietà, dovrà essere pag
 
 Possiedo inoltre una assicurazione medica di viaggio di [Europe Assistance](https://www.europassistance.it/assicurazioni/viaggi) con scadenza annuale.
 
+![Ragazzi (Perù)](../2019-09-panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/8_2.JPG "Ci fermiamo a stipulare l'assicurazione della moto e veniamo raggiunti da alcuni ragazzi che ci vogliono conoscere (Perù)")
+
 ## Contanti e carte di credito
 
 Dopo una brutta esperienza vissuta in Africa anni fa, **viaggio sempre con i contanti**. Gli euro vengono cambiati regolarmente in tutti gli Stati a parte la Bolivia, dove è meglio avere con sè dollari americani; ho aggirato la situazione effettuando dei prelievi con il bancomat.
@@ -108,6 +114,11 @@ Lungo tutta la rete stradale viaggiano liberi animali di ogni genere, quindi con
 
 Un compagno di viaggio da cui difficilmente vi separerete è il vento: tutto bene finché è costante, quando si trasforma in forti raffiche diventa un problema.
 
+![Lugo la Panamericana (Cile)](./foto/4_10.JPG)
+![Pista per Puno (Perù)](../2019-09-panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/8_1.JPG)
+![Pista in Bolivia](../2019-09-panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/10_4.JPG)
+![Pista in Paraguay](./foto/13_21.JPG)
+
 ## Benzina
 
 La qualità della benzina è generalmente buona. Solo in alcune tratte poco trafficate ci siamo riforniti con benzine scadenti in Cile, Perù e Bolivia. La nostra moto monta dei filtri della Guglatech che la protegge da eventuali impurità. Nel caso di benzina con pochi ottani utilizziamo un [addizionatore di ottani della Bardahl](https://amzn.to/33eeQYC) che aiuta la nostra moto a sopportare il carico trasportato alle alte altitudini che si raggiungono sulle Ande (abbiamo viaggiato anche ad oltre 4500 metri).
@@ -117,6 +128,8 @@ In tutte le stazioni di servizio è obbligatorio scendere dalla moto per fare ri
 In Sud America viaggio con una [BMW R1200GS Adventure](/tag/bmw-r1200gs), che monta un serbatoio da 33 litri il quale mi garantisce una ottima autonomia. Solo nel deserto dell’Atacama ho raggiunto il rifornimento successivo con la luce gialla della riserva accesa. Porto sempre una [tanica di benzina supplementare](https://amzn.to/2MpkNve) piena, per ora è servita solo ad aiutare altri motociclisti rimasti senza benzina.
 
 Il peggior rifornimento di questo viaggio l’ho fatto a San Pedro di Atacama, dove ogni mezzo che circolava in paese aveva problemi di accensione e faceva un gran fumo.
+
+![Rifornimento (Cile)](../2019-09-panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/4_3.JPG "Rifornimento con l'aggiunta di un po' di ottani (Cile)")
 
 ## Vaccini e medicinali
 
@@ -133,7 +146,7 @@ Abbiamo portato con noi alcuni medicinali tipo: antibiotico, antidolorifico, tac
 
 ## Attrezzi per la riparazione della moto
 
-Porto sempre con me alcune chiavi e degli attrezzi per eseguire piccoli interventi: il kit di riparazione dei pneumatici, una pompa a pedale, cavi della batteria, tutte le chiavi fisse a brugola e torx, camere d’aria con pezze e mastice (che utilizzerò solo in caso di strappo del tubless), leve, corda per traino, pinze varie, nastro americano, filo di ferro, forbice, lampade, relè… [TODO:LINKS]()
+Porto sempre con me alcune chiavi e degli attrezzi per eseguire piccoli interventi: il [kit di riparazione dei pneumatici](https://amzn.to/3140zMZ), una [pompa a pedale](https://amzn.to/2Msu2uu), [cavi della batteria](https://amzn.to/2VsF86J), tutte le [chiavi fisse](https://amzn.to/2ot61eN) a [brugola e torx](https://amzn.to/2p2vAmY), [camere d’aria](https://amzn.to/2VAzZdf) con [pezze e mastice](https://amzn.to/2Vo5Ptu) (che utilizzerò solo in caso di strappo del tubless), [leve smontagomme](https://amzn.to/31VD1Lg), [corda per traino](https://amzn.to/2IzP6y6), [pinze varie](https://amzn.to/321pB0b), [nastro americano](https://amzn.to/2p15gd4), [filo di ferro](https://amzn.to/2LWNIYp), forbice, [lampade](https://amzn.to/2p2wVu0), relè…
 
 Una regola che mi ha insegnato un vecchio motociclista è quella di controllare le viti di tutta la moto periodicamente, soprattutto dopo km di sterrato. Per ora di viti allentate non ne ho mai trovate, ma fare questo controllo mi fa star bene con la mia moto perché sono le uniche cure (a parte il lavaggio) che le regalo.
 
@@ -145,4 +158,4 @@ Oggi mi affido ai libri di viaggio della Lonely Planet e a pochi e selezionati e
 
 ## Lingua
 
-Conoscere lo spagnolo in Sud America può essere un vantaggio, perché pochi parlano l’inglese. Ritengo che noi italiani siamo fortunati perché la nostra lingua assomiglia molto allo spagnolo, quindi non è necessario impararlo, anche se lo consiglio vivamente per la bellezza della sua cadenza latina, che mi trasmette un grande desiderio di libertà e tanta voglia di partire
+Conoscere lo spagnolo in America Latina può essere un vantaggio, perché pochi parlano l’inglese. Ritengo che noi italiani siamo fortunati perché la nostra lingua assomiglia molto allo spagnolo, quindi non è necessario impararlo, anche se lo consiglio vivamente per la bellezza della sua cadenza latina, che mi trasmette un grande desiderio di libertà e tanta voglia di partire
