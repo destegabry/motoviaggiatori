@@ -2,7 +2,7 @@
 title: "Appenninata: l'Italia da Sud a Nord in moto"
 slug: /2019/10/appenninata-italia-sud-nord-in-moto
 author: arturo
-featured_image: ../2019-08-appenninata-italia-nord-sud-in-moto/galleries/2019-08-05T12.09.06.jpeg
+featured_image: ./foto/2019-08-27_07.57.36.jpg
 excerpt: "Il viaggio di ritorno dalla Puglia al Piemonte"
 opening: "L'Italia da Sud a Nord: da Brindisi a Torino percorrendo un itinerario diverso da quello del <a href=\"/2019/08/appenninata-italia-nord-sud-in-moto\">viaggio di andata</a>."
 date: 2019-10-21T10:30:00.000+2:00
@@ -24,8 +24,6 @@ tags:
 - tag/transalp
 ---
 
-
-
 ## Giorno 1: Puglia, Molise, Abruzzo
 
 Sveglia alle 6, finisco gli ultimi preparativi e dopo il consueto saluto struggente con i miei genitori mi metto in viaggio. Decido di prendere la SS16 in direzione Foggia, temprato dall’andata e dall’immensa noia provata nel percorrere la Benevento-Taranto. Mi sembra la scelta corretta poiché a metà mattinata ho già agevolmente percorso 350 km.
@@ -34,9 +32,17 @@ Giunto a Foggia, inizio a puntare in direzione Isernia, poiché avrei piacere di
 
 Continuo quindi a proseguire verso l’amato Abruzzo e per l’ora di pranzo arrivo in un posto favoloso nei pressi di Alfedena: il **Lago della Montagna Spaccata**. Il posto è mozzafiato, acqua limpidissima e luce meravigliosa. Mangio seduto su una roccia, consumando il pranzo preparato amorevolmente dalle sapienti mani di mamma. Cerco di capire come scendere il più vicino possibile al lago in moto, foto di rito e mi rimetto in viaggio.
 
+![descrizione breve](./foto/2019-08-26_13.46.04.jpg "descrizione lunga")
+![descrizione breve](./foto/2019-08-26_14.15.09.jpg "descrizione lunga")
+
 Attraverso il Parco del Gran Sasso, sempre immerso nel verde, sole e aria buona. Tutto molto bello, fino a quando non decido di andare ad immergermi in un nuvolone nero che mi costringe ad inaugurare il nuovo [completo antipioggia](https://amzn.to/2Bqjgjr) e i [guanti in Goretex](https://amzn.to/2VUCjLW).
 
+![descrizione breve](./foto/2019-08-26_16.36.23.jpg "descrizione lunga")
+![descrizione breve](./foto/2019-08-26_17.33.13.jpg "descrizione lunga")
+
 Nel tardo pomeriggio mi ritrovo a guidare nei pressi del suggestivo Lago di Campotosto. Dopo aver ammirato il lago mi dirigo verso il B&B presso cui alloggerò. Appena arrivato effettuo la manutenzione della catena, scarico la moto e mi concedo una meritata doccia.
+
+![descrizione breve](./foto/2019-08-26_18.05.22.jpg "descrizione lunga")
 
 Ceno con tranquillità e chiedo al proprietario a che ora è possibile effettuare il checkout. Mi risponde dopo le 10:00. Ovviamente mi sembra tardissimo e gli dico che vorrei partire per le 7:00 al più tardi. Mi spiega quindi come prepararmi un caffé e mi dice di lasciare le chiavi sul bancone della reception. Vado a dormire.
 
@@ -44,9 +50,15 @@ Ceno con tranquillità e chiedo al proprietario a che ora è possibile effettuar
 
 Sveglia alle 6, come da accordi con il proprietario mi preparo da solo un caffé doppio e mangio un pezzo di crostata. Preparo i bagagli e carico la moto e mi rendo subito conto che sarò accompagnato da nebbia e freddo. Inizio la mia arrampicata e mi imbatto in paesaggi spettrali ma molto caratteristici.
 
-Ad un certo punto inizio a capire che non è propriamente nebbia, ma sto viaggiando dentro a delle nuvole e man mano che salgo inizio a intravedere spiragli di luce. Inizia così la mia traversata nei dintorni dei paesi terremotati. Il paesaggio è spettacolare e sono immerso nel verde. Finalmente il sole inizia a scaldarmi facendo passare quella sensazione di freddo che mi accompagnava fino a poco prima.
+Ad un certo punto inizio a capire che non è propriamente nebbia, sto viaggiando dentro alle nuvole e man mano che salgo inizio a intravedere spiragli di luce. Inizia così la mia traversata nei dintorni dei paesi terremotati. Il paesaggio è spettacolare e sono immerso nel verde. Finalmente il sole inizia a scaldarmi facendo passare quella sensazione di freddo che mi accompagnava fino a poco prima.
+
+![descrizione breve](./foto/2019-08-27_06.58.48.jpg "descrizione lunga")
+![descrizione breve](./foto/2019-08-27_07.21.16.jpg "descrizione lunga")
 
 Proseguendo verso Amatrice ed Accumoli iniziano i “problemi”. Mi perdo sulle montagne a causa di lavori e strade chiuse dall’esercito per motivi di sicurezza, salgo e scendo per strade tortuose e poco battute… impiego un po' a realizzare di stare girando in tondo, ma ne è valsa la pena! Ritrovo la strada principale, a destra vedo le macerie lasciate dal terremoto, a sinistra i prefabbricati di chi in pochi minuti ha perso tutto. Il panorama è triste, ma molto suggestivo e quindi continuo imperterrito a macinare km dirigendomi verso le Marche attraversando i **Monti Sibillini**.
+
+![descrizione breve](./foto/2019-08-27_08.56.21.jpg "descrizione lunga")
+![descrizione breve](./foto/2019-08-27_07.57.36.jpg "descrizione lunga")
 
 Superata la zona terremotata, continuo a rimanere immerso nel verde, e incontro asfalto perfetto, mi inizio a muovere in posti meravigliosi, quali il **Parco della Gola Rossa** in cui ci sono le famosissime Grotte di Frasassi.
 
@@ -74,9 +86,16 @@ Spingendo la moto trovo un altro meccanico più avanti. Anche qui il titolare ri
 
 In 15 minuti riesco a svuotare tutto il serbatoio.
 
+![descrizione breve](./foto/2019-08-28_10.04.41.jpg "descrizione lunga")
+![descrizione breve](./foto/2019-08-28_10.47.03.jpg "descrizione lunga")
+![descrizione breve](./foto/2019-08-28_11.07.48.jpg "descrizione lunga")
+
 Cerco un altro benzinaio, spingo la moto per 1km sotto il sole. Faccio il pieno di 100 ottani e incrocio le dita: la moto si accende, singhiozza e si spegne clamorosamente. A forza di provare ad accenderla, la batteria muore. Trovo un centro assistenza Piaggio e chiedo in prestito uno [starter di emergenza](https://amzn.to/2VUTfCf). La moto parte singhiozzando e, dopo una fumata bianca in perfetto stile conclave Vaticano, rimane accesa! Mi tolgo dallo stomaco 50kg d'ansia e la tengo accesa per un po’: sembra tutto ok!
 
 Mi dirigo in centro, parcheggio la moto e festeggio con una Coca Zero e due tranci di focaccia. Mi dirigo in direzione duomo. I vicoli di Parma sono molto carini e ben disposti, il duomo spettacolare. Completo la mia giornata da turista visitando il museo diocesano, il battistero e la galleria nazionale.
+
+![descrizione breve](./foto/2019-08-28_12.27.22.jpg "descrizione lunga")
+![descrizione breve](./foto/2019-08-28_13.04.31.jpg "descrizione lunga")
 
 Inizia piovere. Controllo le previsioni e dovrebbe smettere intorno alle 16. Visto che oramai i miei piani sono andati in fumo assieme al diesel, inganno il tempo girando i concessionari KTM, Yamaha e Honda.
 

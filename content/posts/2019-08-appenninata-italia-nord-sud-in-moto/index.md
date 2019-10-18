@@ -107,7 +107,7 @@ Continuo a salire di quota e dirigermi verso la Campania, arrivando al **Passo d
 ![Campania Lago di Gallo Matese](./galleries/2019-08-05T12.09.06.jpeg "Campania – Lago di Gallo Matese")
 ![Campania cavallo Lago del Matese](./galleries/2019-08-05T12.31.27.jpeg "Campania – Cavallo al lago del Matese")
 
-Finscono le montagne, i boschi, i laghi e iniziano i campi. Mi perdo vicino a Pietralcina in un campo, il navigatore insiste nel farmi passare in una strada inesistente in mezzo ai cavoli. Chiedo ad un passante e mi dice che sono completamente fuori strada. Seguendo le sue indicazioni riesco a ritrovare la via per Foggia, da cui poi devierò per dirigermi verso Taranto e infine Brindisi.
+Finscono le montagne, i boschi, i laghi e iniziano i campi. Mi perdo vicino a Pietralcina in un campo, il navigatore insiste nel farmi passare in una strada inesistente in mezzo alle coltivazioni. Chiedo ad un passante e mi dice che sono completamente fuori strada. Seguendo le sue indicazioni riesco a ritrovare la via per Foggia, da cui poi devierò per dirigermi verso Taranto e infine Brindisi.
 
 Macino chilometri e ringrazio di essere satollo di meraviglie poiché il paesaggio non offe molto… Arrivo in Basilicata e percorro agevolmente (ma con molta noia) le sue “autostrade regionali”. Oscillo due, tre volte tra Puglia e Basilicata e dopo due ore e mezza di guida inizio a intravedere la salvezza: le indicazioni per Taranto. Continuo a macinare chilometri di asfalto e arrivo al tumore d’Italia: l’ILVA. Mi fermo a fare il pieno e alle 19:15 arrivo a Brindisi (0m slm).
 
