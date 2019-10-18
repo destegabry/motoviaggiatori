@@ -28,11 +28,11 @@ tags:
 
 ## Giorno 1: Puglia, Molise, Abruzzo
 
-Sveglia alle 6, finisco gli ultimi preparativi e dopo il consueto saluto struggente con i miei genitori mi metto in viaggio. Decido di prendere la SS16 in direzione Foggia temprato dall’andata e dall’immensa noia provata nel percorrere la Benevento-Taranto. Mi sembra la scelta corretta poiché a metà mattinata ho già agevolmente percorso 350 km.
+Sveglia alle 6, finisco gli ultimi preparativi e dopo il consueto saluto struggente con i miei genitori mi metto in viaggio. Decido di prendere la SS16 in direzione Foggia, temprato dall’andata e dall’immensa noia provata nel percorrere la Benevento-Taranto. Mi sembra la scelta corretta poiché a metà mattinata ho già agevolmente percorso 350 km.
 
 Giunto a Foggia, inizio a puntare in direzione Isernia, poiché avrei piacere di visitare il Museo del Paleolitico. Mi dimeno nelle stradine del Molise e una volta giunto ad Isernia, la piacevole sorpresa: il museo è chiuso! *Auch*.
 
-Continuo quindi a proseguire verso l’amato Abruzzo e per l’ora di pranzo arrivo in un posto favoloso nei pressi di Alfedena: il **Lago della Montagna Spaccata**. Il posto è mozzafiato, acqua limpidissima e luce meravigliosa. Pranzo seduto su una roccia consumando il pranzo preparato amorevolmente dalle sapienti mani di mamma. Cerco di capire come scendere il più vicino possibile al lago in moto, foto di rito e mi rimetto in viaggio.
+Continuo quindi a proseguire verso l’amato Abruzzo e per l’ora di pranzo arrivo in un posto favoloso nei pressi di Alfedena: il **Lago della Montagna Spaccata**. Il posto è mozzafiato, acqua limpidissima e luce meravigliosa. Mangio seduto su una roccia, consumando il pranzo preparato amorevolmente dalle sapienti mani di mamma. Cerco di capire come scendere il più vicino possibile al lago in moto, foto di rito e mi rimetto in viaggio.
 
 Attraverso il Parco del Gran Sasso, sempre immerso nel verde, sole e aria buona. Tutto molto bello, fino a quando non decido di andare ad immergermi in un nuvolone nero che mi costringe ad inaugurare il nuovo [completo antipioggia](https://amzn.to/2Bqjgjr) e i [guanti in Goretex](https://amzn.to/2VUCjLW).
 
@@ -54,7 +54,7 @@ Superata la zona terremotata, continuo a rimanere immerso nel verde, e incontro 
 
 Continuo a percorrere asfalto tra gole, salite e discese, inizia a fare sempre più caldo e quasi quasi inizia a mancarmi il freddo iniziale della mattina! Mi dirigo verso il **passo del Muraglione** su cui mi arrampico passando per una strada che attraversa il bosco sotto la fresca ombra degli alberi che mi abbracciano. Una volta giunto al passo e dopo essermi reso conto di aver macinato un bel po’ di km, decido di prendere una scorciatoia prendendo l’autostrada da Bologna a Parma per arrivare a destinazione in tempi umani.
 
-Arrivato a Parma, ceno con tranquillità con dei parenti che mi ospiteranno per la notte dopodiché a nanna per affrontare la giornata successiva.
+Arrivato a Parma, ceno con tranquillità con dei parenti che mi ospiteranno per la notte, dopodiché a nanna per affrontare la giornata successiva.
 
 ## Giorno 3: disavventure in Val Padana
 
@@ -64,7 +64,7 @@ I miei piani vengono subito rovinati dal meteo: prevista pioggia su tutto il per
 
 Prendo una simpaticissima pompa verde scolorito e faccio il pieno. Pago e mi dirigo in direzione centro. Dopo 500 metri la moto inizia a strappare e un dubbio atroce fa capolino nella mia testa: avrò messo diesel?
 
-<div class="message pro-tip">Anche se la pompa è verde, guarda in alto, se non c’è scritto nulla B7 vuol dire Diesel…</div>
+<div class="message pro-tip">Anche se la pompa è verde, guarda in alto, se non c’è scritto nulla, B7 vuol dire Diesel…</div>
 
 Panico: spengo la moto e la spingo fino al benzinaio per chiedere aiuto. Faccio notare che la pompa è verde e mi viene simpaticamente risposto: non ti possiamo aiutare, chiama il carro attrezzi e comunque se credi che quello sia verde, dobbiamo chiamare un dottore perché sei daltonico.
 
@@ -80,4 +80,4 @@ Mi dirigo in centro, parcheggio la moto e festeggio con una Coca Zero e due tran
 
 Inizia piovere. Controllo le previsioni e dovrebbe smettere intorno alle 16. Visto che oramai i miei piani sono andati in fumo assieme al diesel, inganno il tempo girando i concessionari KTM, Yamaha e Honda.
 
-Smette di piovere, indosso comunque i pantaloni anti pioggia e lascio la giacca impermeabile nel bauletto; finalmente parto in direzione Torino, sconfitto dal meteo che mi costringe a rinunciare ai miei piani per rientrare in autostrada.
+Smette di piovere, indosso comunque i pantaloni anti pioggia e lascio la giacca impermeabile nel bauletto; finalmente parto in direzione Torino, sconfitto dal meteo che mi costringe a rinunciare ai miei piani e a rientrare in autostrada.
