@@ -70,6 +70,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `banner`,
+        path: `${__dirname}/content/banners`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `image`,
         path: `${__dirname}/content/images`,
       },
