@@ -56,7 +56,8 @@ url: https://www.amazon.it/gp/dmusic/promotions/AmazonMusicUnlimited?tag=motovia
 </div>
 <div class="text wrapper">
   <div class="subtitle">
-  50 milioni di brani<span class="br">,</span>
-  GRATIS per 90 giorni</div>
+    50 milioni di brani<span class="br">,</span>
+    GRATIS per 90 giorni
+  </div>
   <div class="cta">Iscriviti subito!</div>
 </div>

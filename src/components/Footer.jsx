@@ -33,6 +33,7 @@ const wrapperCss = css`
     width: 100%;
 
     a {
+      display: block;
       padding: .75rem 0;
 
       &:not(:last-child) {
@@ -74,7 +75,6 @@ const Credits = styled.div`
   background: ${colors.palette.primary.dark};
   font-size: .85rem;
   text-align: center;
-  padding-bottom: 120px;
 
   ${SMALL_SCREEN_ONLY} {
     padding-bottom: 100px;
