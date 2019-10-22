@@ -23,6 +23,7 @@ import {
   AttributesTable,
   FacebookButtons
 } from '../components/post'
+import Banner from '../components/Banner';
 
 const cardCss = css`
   ${SMALL_SCREEN_ONLY} {
@@ -108,6 +109,7 @@ function PostTemplate (props) {
             <DangerousHTML component="p" html={ frontmatter.opening } />
           }
           <DangerousHTML html={ currentPost.tableOfContents } />
+          <Banner />
           <AttributesTable attributes={ frontmatter.attributes } />
           <DangerousHTML html={ currentPost.html } itemProp="articleBody" />
           { disclaimers.length === 0 ? null :

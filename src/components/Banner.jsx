@@ -11,13 +11,6 @@ const Banner = styled.a`
   display: block;
   margin: 1rem 0;
 
-  ${SMALL_SCREEN_ONLY} {
-    margin: -.75rem -.75rem 1rem;
-    position: sticky;
-    top: 60px;
-    z-index: 10;
-  }
-
   &:hover {
     box-shadow: 0;
   }

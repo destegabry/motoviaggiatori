@@ -4,6 +4,7 @@ css: "
     background: rgb(50,37,232);
     background: linear-gradient(0deg, rgba(50,37,232,1) 0%, rgba(44,29,155,1) 100%);
     color: white;
+    cursor: pointer;
     display: flex;
     align-items: center;
     text-align: center;
@@ -11,8 +12,11 @@ css: "
   }
 
   .wrapper {
-    flex: 1 0 0%;
     text-align: center;
+    
+    @media only screen and (min-width: 451px) {
+      flex: 1 0 0%;
+    }
   }
 
   .cta {
@@ -34,10 +38,20 @@ css: "
 
   @media only screen and (max-width: 450px) {
     font-size: .8rem;
+
+    .banner-wrapper {
+      padding: 1em 3em;
+    }
+    
     .br {
       display: block;
       height: 0;
       visibility: hidden;
+    }
+
+    .image {
+      flex: 1 0 0%;
+      margin-right: 1.5em;
     }
   }
 "
