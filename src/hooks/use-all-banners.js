@@ -17,15 +17,10 @@ export default () => {
         ) {
           edges {
             node {
+              html
               frontmatter {
                 url
-                title
-                subtitle
-                cta
                 css
-                logo {
-                  publicURL
-                }
               }
             }
           }

@@ -98,7 +98,8 @@ module.exports = {
               maxWidth: 1920,
               // tracedSVG: true,
               showCaptions: true,
-              linkImagesToOriginal: false
+              linkImagesToOriginal: false,
+              disableBgImageOnAlpha: true
             },
           },
           `gatsby-remark-embed-video`,

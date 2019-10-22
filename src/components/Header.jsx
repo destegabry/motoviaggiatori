@@ -206,8 +206,8 @@ const HeaderElement = styled.header`
   .mobile-menu-opener {
     ${SMALL_SCREEN_ONLY} {
       cursor: pointer;
-      line-height: ${headerHeightMobile}px;
       height: ${headerHeightMobile}px;
+      line-height: 50px;
       width: 40px;
       text-align: center;
 

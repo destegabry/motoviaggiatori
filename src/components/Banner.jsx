@@ -1,7 +1,37 @@
 import React, { useState, useEffect } from 'react'
 import { css } from '@emotion/core'
+import styled from '@emotion/styled'
 
+import {
+  SMALL_SCREEN_ONLY
+} from '../utils/breakpoints'
 import useAllBanners from '../hooks/use-all-banners'
+
+const Banner = styled.a`
+  display: block;
+  margin: 1rem 0;
+
+  ${SMALL_SCREEN_ONLY} {
+    margin: -.75rem -.75rem 1rem;
+    position: sticky;
+    top: 60px;
+    z-index: 10;
+  }
+
+  &:hover {
+    box-shadow: 0;
+  }
+
+
+  .gatsby-resp-image-background-image {
+    display: none!important;
+  }
+
+  .gatsby-resp-image-image {
+    margin: 0;
+    position: static;
+  }
+`;
 
 const openBannerLink = url => {
   if (window.ga) {
@@ -11,47 +41,29 @@ const openBannerLink = url => {
   }
 }
 
-const Banner = (props) => {
-  return (
-    <a href={props.url}>
-      {props.title}
-    </a>
-  );
-}
-
 const BannerArea = (props) => {
   const banners = useAllBanners();
   const [banner, setBanner] = useState(false);
 
   useEffect(() => {
     if (banners.length > 0) {
-      setBanner(banners[Math.ceil(Math.random() * banners.length) - 1].node.frontmatter);
-
+      setBanner(banners[Math.ceil(Math.random() * banners.length) - 1].node);
     }
-  });
+  }, [banners]);
 
-  if (!banners || banners.length === 0) {
+  if (!banner || !banners || banners.length === 0) {
       return null;
   }
   return (
-    <div
-      {...props}
-    >
-      { !banner ? null :
-        <a
-          href={banner.url}
-          target="blank"
-          css={css`
-            display:block;
-            ${banner.css}`
-          }>
-          <img src={banner.logo.publicURL} alt={banner.title} />
-          <div className="title">{banner.title}</div>
-          <div className="subtitle">{banner.subtitle}</div>
-          <div className="cta">{banner.cta}</div>
-        </a>
-      }
-    </div>
+    <Banner 
+      href={banner.frontmatter.url}
+      onClick={ () => openBannerLink(banner.frontmatter.url) }
+      target="_blank"
+      rel="noopener noreferrer"
+      css={css`${banner.frontmatter.css}`}
+      dangerouslySetInnerHTML={ { __html: banner.html } }
+      {...props}>
+    </Banner>
   );
 }
 
