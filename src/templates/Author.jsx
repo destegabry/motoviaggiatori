@@ -5,7 +5,7 @@ import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import PagedPosts from '../components/PagedPosts'
 import AuthorBox from '../components/AuthorBox';
-import Banner from '../components/banner'
+import Banner from '../components/Banner'
 
 function AuthorTemplate({ data }) {
   const currentAuthor = data.markdownRemark;

@@ -6,7 +6,7 @@ import SEO from '../components/seo'
 import InstagramFeed from '../components/InstagramFeed'
 import CTA from '../components/CTA'
 import {Instagram} from '../components/SocialLinks'
-import Banner from '../components/banner'
+import Banner from '../components/Banner'
 
 const CTAWrapper = styled.p`
   padding: 2rem 0 1rem;

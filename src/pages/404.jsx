@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import Card from '../components/Card'
-import Banner from '../components/banner'
+import Banner from '../components/Banner'
 
 import {useAllPosts} from '../hooks/use-all-posts'
 

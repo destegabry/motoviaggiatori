@@ -6,7 +6,7 @@ import SEO from '../components/seo'
 import Card from '../components/Card'
 import PagedPosts from '../components/PagedPosts'
 import DangerousHTML from '../components/DangerousHTML'
-import Banner from '../components/banner'
+import Banner from '../components/Banner'
 
 function CategoryTemplate({ data }) {
   const currentCategory = data.markdownRemark;
