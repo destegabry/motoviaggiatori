@@ -2,12 +2,9 @@ import React, { useState, useEffect } from 'react'
 import { css } from '@emotion/core'
 import styled from '@emotion/styled'
 
-import {
-  SMALL_SCREEN_ONLY
-} from '../utils/breakpoints'
 import useAllBanners from '../hooks/use-all-banners'
 
-const Banner = styled.a`
+const Link = styled.a`
   display: block;
   margin: 1rem 0;
 
@@ -34,7 +31,7 @@ const openBannerLink = url => {
   }
 }
 
-const BannerArea = (props) => {
+const Banner = (props) => {
   const banners = useAllBanners();
   const [banner, setBanner] = useState(false);
 
@@ -48,7 +45,7 @@ const BannerArea = (props) => {
       return null;
   }
   return (
-    <Banner 
+    <Link 
       href={banner.frontmatter.url}
       onClick={ () => openBannerLink(banner.frontmatter.url) }
       target="_blank"
@@ -56,8 +53,8 @@ const BannerArea = (props) => {
       css={css`${banner.frontmatter.css}`}
       dangerouslySetInnerHTML={ { __html: banner.html } }
       {...props}>
-    </Banner>
+    </Link>
   );
 }
 
-export default BannerArea;
+export default Banner;
