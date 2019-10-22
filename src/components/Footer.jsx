@@ -7,7 +7,8 @@ import Color from 'color'
 import { useSiteMetadata } from '../hooks/use-site-metadata'
 import { useAllPosts } from '../hooks/use-all-posts'
 import {
-  SMALL_SCREEN_ONLY
+  SMALL_SCREEN_ONLY,
+  MEDIUM_SCREEN_UP
 } from '../utils/breakpoints'
 import headerFooterStyle from '../utils/headerFooterStyle'
 import colors from '../utils/colors'
@@ -74,7 +75,14 @@ const Credits = styled.div`
   background: ${colors.palette.primary.dark};
   font-size: .85rem;
   text-align: center;
-`;
+
+  ${SMALL_SCREEN_ONLY} {
+    padding-bottom: 100px;
+  }
+  ${MEDIUM_SCREEN_UP} {
+    padding-bottom: 120px;
+  }
+`; // padding-bottom is needed to accomodate sticky banners
 
 const logoCss = css`
   width: 100%;

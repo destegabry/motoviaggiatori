@@ -70,6 +70,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `banner`,
+        path: `${__dirname}/content/banners`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `image`,
         path: `${__dirname}/content/images`,
       },
@@ -91,7 +98,8 @@ module.exports = {
               maxWidth: 1920,
               // tracedSVG: true,
               showCaptions: true,
-              linkImagesToOriginal: false
+              linkImagesToOriginal: false,
+              disableBgImageOnAlpha: true
             },
           },
           `gatsby-remark-embed-video`,

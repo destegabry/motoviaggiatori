@@ -48,8 +48,8 @@ const Sponsors = (props) => {
             key={index}
             title={name}
             target="_blank"
-            onClick={ () => openSponsorLink(url) }
             rel="noopener noreferrer"
+            onClick={ () => openSponsorLink(url) }
           >
             {
               !image.childImageSharp ?

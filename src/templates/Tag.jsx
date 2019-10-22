@@ -6,6 +6,7 @@ import SEO from '../components/seo'
 import Card from '../components/Card'
 import PagedPosts from '../components/PagedPosts'
 import DangerousHTML from '../components/DangerousHTML'
+import Banner from '../components/Banner'
 
 function TagTemplate({ data }) {
   const currentTag = data.markdownRemark;
@@ -23,6 +24,7 @@ function TagTemplate({ data }) {
           <DangerousHTML html={ currentTag.html } />
         </div>
       </Card>
+      <Banner sticky={true} style={{ margin: '0 1rem 1rem' }} />
       <PagedPosts posts={data.allMarkdownRemark.edges} />
     </Layout>
   )

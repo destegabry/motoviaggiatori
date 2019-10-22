@@ -5,6 +5,7 @@ import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import PagedPosts from '../components/PagedPosts'
 import AuthorBox from '../components/AuthorBox';
+import Banner from '../components/Banner'
 
 function AuthorTemplate({ data }) {
   const currentAuthor = data.markdownRemark;
@@ -18,6 +19,7 @@ function AuthorTemplate({ data }) {
         slug={ `/author/${currentAuthor.frontmatter.slug}` }
       />
       <AuthorBox author={ currentAuthor } />
+      <Banner sticky={true} style={{ margin: '0 1rem 1rem' }} />
       <PagedPosts posts={ data.allMarkdownRemark.edges } />
     </Layout>
   )

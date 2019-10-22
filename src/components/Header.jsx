@@ -173,7 +173,7 @@ const HeaderElement = styled.header`
     align-items: center;
     position: fixed;
     right: -1px;
-    bottom: 4rem;
+    bottom: 120px;
     opacity: 0;
     visibility: hidden;
     transition: all .5s;
@@ -206,8 +206,8 @@ const HeaderElement = styled.header`
   .mobile-menu-opener {
     ${SMALL_SCREEN_ONLY} {
       cursor: pointer;
-      line-height: ${headerHeightMobile}px;
       height: ${headerHeightMobile}px;
+      line-height: 50px;
       width: 40px;
       text-align: center;
 
