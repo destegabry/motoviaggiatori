@@ -173,7 +173,7 @@ const HeaderElement = styled.header`
     align-items: center;
     position: fixed;
     right: -1px;
-    bottom: 4rem;
+    bottom: 120px;
     opacity: 0;
     visibility: hidden;
     transition: all .5s;

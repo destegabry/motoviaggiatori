@@ -6,6 +6,7 @@ import SEO from '../components/seo'
 import Card from '../components/Card'
 import PagedPosts from '../components/PagedPosts'
 import DangerousHTML from '../components/DangerousHTML'
+import Banner from '../components/banner'
 
 function CategoryTemplate({ data }) {
   const currentCategory = data.markdownRemark;
@@ -23,6 +24,7 @@ function CategoryTemplate({ data }) {
           <DangerousHTML html={ currentCategory.html } />
         </div>
       </Card>
+      <Banner sticky={true} style={{ margin: '0 1rem 1rem' }} />
       <PagedPosts posts={data.allMarkdownRemark.edges} />
     </Layout>
   )

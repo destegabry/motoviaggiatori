@@ -1,15 +1,13 @@
 ---
 css: "
-  .banner-wrapper {
-    background: rgb(50,37,232);
-    background: linear-gradient(0deg, rgba(50,37,232,1) 0%, rgba(44,29,155,1) 100%);
-    color: white;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    padding: 1em;
-  }
+  background: rgb(50,37,232);
+  background: linear-gradient(0deg, rgba(50,37,232,1) 0%, rgba(44,29,155,1) 100%);
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 1em;
 
   .wrapper {
     text-align: center;
@@ -38,10 +36,6 @@ css: "
 
   @media only screen and (max-width: 450px) {
     font-size: .8rem;
-
-    .banner-wrapper {
-      padding: 1em 3em;
-    }
     
     .br {
       display: block;
@@ -57,15 +51,12 @@ css: "
 "
 url: https://www.amazon.it/gp/dmusic/promotions/AmazonMusicUnlimited?tag=motovia-21
 ---
-<div class="banner-wrapper">
-  <div class="image wrapper">
-    <img src="./amazon-music-unlimited.png">
-  </div>
-  <div class="text wrapper">
-    <div class="subtitle">
-    50 milioni di brani<span class="br">,</span>
-    GRATIS per 90 giorni</div>
-    <div class="cta">Iscriviti subito!</div>
-  </div>
-  
+<div class="image wrapper">
+  <img src="./amazon-music-unlimited.png">
+</div>
+<div class="text wrapper">
+  <div class="subtitle">
+  50 milioni di brani<span class="br">,</span>
+  GRATIS per 90 giorni</div>
+  <div class="cta">Iscriviti subito!</div>
 </div>
