@@ -21,6 +21,7 @@ import PostPreviewFull from '../components/PostPreviewFull'
 import PostPreviewList from '../components/PostPreviewList'
 import PagedPosts from '../components/PagedPosts'
 import SponsorsCard from '../components/SponsorsCard'
+import Banner from '../components/Banner'
 
 const CategorizedPostsSection = styled.section`
   display: flex;
@@ -113,6 +114,7 @@ const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
 const IndexPage = ({ data }) => (
   <Layout>
     <SEO slug="/" />
+    <Banner />
     <h4>Ultimi articoli</h4>
     <CategorizedPostsSection>
       <PostPreviewsByCategory
