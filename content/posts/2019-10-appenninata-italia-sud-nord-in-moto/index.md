@@ -33,7 +33,7 @@ Giunto a Foggia, inizio a puntare in direzione Isernia, poiché avrei piacere di
 Continuo quindi a proseguire verso l’amato Abruzzo e per l’ora di pranzo arrivo in un posto favoloso nei pressi di Alfedena: il **Lago della Montagna Spaccata**. Il posto è mozzafiato, acqua limpidissima e luce meravigliosa. Mangio seduto su una roccia, consumando il pranzo preparato amorevolmente dalle sapienti mani di mamma. Cerco di capire come scendere il più vicino possibile al lago in moto, foto di rito e mi rimetto in viaggio.
 
 ![Lago della Montagna Spaccata - Vista Diga](./foto/2019-08-26_13.46.04.jpg "L'enel ha ben deciso di posizionare una centrale idroelettrica in questo meraviglioso lago")
-![[Lago della Montagna Spaccata - Vista Montagna](./foto/2019-08-26_14.15.09.jpg "Molta gente faceva il bagno o andava in canoa, io invece facevo la foto alla moto")
+![Lago della Montagna Spaccata - Vista Montagna](./foto/2019-08-26_14.15.09.jpg "Molta gente faceva il bagno o andava in canoa, io invece facevo foto alla moto")
 
 Attraverso il Parco del Gran Sasso, sempre immerso nel verde, sole e aria buona. Tutto molto bello, fino a quando non decido di andare ad immergermi in un nuvolone nero che mi costringe ad inaugurare il nuovo [completo antipioggia](https://amzn.to/2Bqjgjr) e i [guanti in Goretex](https://amzn.to/2VUCjLW).
 
@@ -42,7 +42,7 @@ Attraverso il Parco del Gran Sasso, sempre immerso nel verde, sole e aria buona.
 
 Nel tardo pomeriggio mi ritrovo a guidare nei pressi del suggestivo Lago di Campotosto. Dopo aver ammirato il lago mi dirigo verso il B&B presso cui alloggerò. Appena arrivato effettuo la manutenzione della catena, scarico la moto e mi concedo una meritata doccia.
 
-![Vista sul Lago di Campotoso](./foto/2019-08-26_18.05.22.jpg "Il lago di Campotosto è il più grande lago artificiale d'Abruzzo ed è il secondo d'Europa, infatti per circumnavigarlo ci ho messo quasi 1h")
+![Vista sul Lago di Campotoso](./foto/2019-08-26_18.05.22.jpg "Il lago di Campotosto è il più grande lago artificiale d'Abruzzo ed è il secondo d'Europa, per circumnavigarlo ci ho messo quasi 1 ora!")
 
 Ceno con tranquillità e chiedo al proprietario a che ora è possibile effettuare il checkout. Mi risponde dopo le 10:00. Ovviamente mi sembra tardissimo e gli dico che vorrei partire per le 7:00 al più tardi. Mi spiega quindi come prepararmi un caffé e mi dice di lasciare le chiavi sul bancone della reception. Vado a dormire.
 
