@@ -52,13 +52,13 @@ Sveglia alle 6, come da accordi con il proprietario mi preparo da solo un caffé
 
 Ad un certo punto inizio a capire che non è propriamente nebbia, sto viaggiando dentro alle nuvole e man mano che salgo inizio a intravedere spiragli di luce. Inizia così la mia traversata nei dintorni dei paesi terremotati. Il paesaggio è spettacolare e sono immerso nel verde. Finalmente il sole inizia a scaldarmi facendo passare quella sensazione di freddo che mi accompagnava fino a poco prima.
 
-![descrizione breve](./foto/2019-08-27_06.58.48.jpg "descrizione lunga")
-![descrizione breve](./foto/2019-08-27_07.21.16.jpg "descrizione lunga")
+![Immerso nelle nuvole](./foto/2019-08-27_06.58.48.jpg "Devo dire che guidare all'alba nelle nuvole ha il suo perché. Peccato faccia freddo")
+![Finalmente inizio a vedere il sole](./foto/2019-08-27_07.21.16.jpg "Il sole mi scalda un po' e posso togliere nuovamente la felpa")
 
 Proseguendo verso Amatrice ed Accumoli iniziano i “problemi”. Mi perdo sulle montagne a causa di lavori e strade chiuse dall’esercito per motivi di sicurezza, salgo e scendo per strade tortuose e poco battute… impiego un po' a realizzare di stare girando in tondo, ma ne è valsa la pena! Ritrovo la strada principale, a destra vedo le macerie lasciate dal terremoto, a sinistra i prefabbricati di chi in pochi minuti ha perso tutto. Il panorama è triste, ma molto suggestivo e quindi continuo imperterrito a macinare km dirigendomi verso le Marche attraversando i **Monti Sibillini**.
 
-![descrizione breve](./foto/2019-08-27_08.56.21.jpg "descrizione lunga")
-![descrizione breve](./foto/2019-08-27_07.57.36.jpg "descrizione lunga")
+![Paesaggio mozzafiato!](./foto/2019-08-27_08.56.21.jpg "Luce del giorno piena e sembra di galleggiare sulle nuvole")
+![Panorama abruzzese standard](./foto/2019-08-27_07.57.36.jpg "L'Abruzzo mi è rimasto nel cuore. Bisognerebbe fermarsi ogni 200m a fare foto")
 
 Superata la zona terremotata, continuo a rimanere immerso nel verde, e incontro asfalto perfetto, mi inizio a muovere in posti meravigliosi, quali il **Parco della Gola Rossa** in cui ci sono le famosissime Grotte di Frasassi.
 
@@ -86,16 +86,16 @@ Spingendo la moto trovo un altro meccanico più avanti. Anche qui il titolare ri
 
 In 15 minuti riesco a svuotare tutto il serbatoio.
 
-![descrizione breve](./foto/2019-08-28_10.04.41.jpg "descrizione lunga")
-![descrizione breve](./foto/2019-08-28_10.47.03.jpg "descrizione lunga")
-![descrizione breve](./foto/2019-08-28_11.07.48.jpg "descrizione lunga")
+![La pompa incriminata](./foto/2019-08-28_10.04.41.jpg "Solo io penso sia verde?")
+![Pompa manuale della salvezza](./foto/2019-08-28_10.47.03.jpg "L'unico barlume di speranza nelle due ore di inferno che ho passato")
+![Benzina mista a diesel](./foto/2019-08-28_11.07.48.jpg "Venghino signori venghino. Vendo a prezzo molto vantaggioso benzina super 50% diesel")
 
 Cerco un altro benzinaio, spingo la moto per 1km sotto il sole. Faccio il pieno di 100 ottani e incrocio le dita: la moto si accende, singhiozza e si spegne clamorosamente. A forza di provare ad accenderla, la batteria muore. Trovo un centro assistenza Piaggio e chiedo in prestito uno [starter di emergenza](https://amzn.to/2VUTfCf). La moto parte singhiozzando e, dopo una fumata bianca in perfetto stile conclave Vaticano, rimane accesa! Mi tolgo dallo stomaco 50kg d'ansia e la tengo accesa per un po’: sembra tutto ok!
 
 Mi dirigo in centro, parcheggio la moto e festeggio con una Coca Zero e due tranci di focaccia. Mi dirigo in direzione duomo. I vicoli di Parma sono molto carini e ben disposti, il duomo spettacolare. Completo la mia giornata da turista visitando il museo diocesano, il battistero e la galleria nazionale.
 
-![descrizione breve](./foto/2019-08-28_12.27.22.jpg "descrizione lunga")
-![descrizione breve](./foto/2019-08-28_13.04.31.jpg "descrizione lunga")
+![Il duomo di Parma](./foto/2019-08-28_12.27.22.jpg "Il duomo di parma è patrimonio UNESCO ed è visitabile gratuitamente. Fatelo!")
+![Teatro Farnese](./foto/2019-08-28_13.04.31.jpg "Il Teatro Farnese, a Parma, era il teatro di corte dei duchi di Parma e Piacenza. Ha la particolarità di essere interamente in legno")
 
 Inizia piovere. Controllo le previsioni e dovrebbe smettere intorno alle 16. Visto che oramai i miei piani sono andati in fumo assieme al diesel, inganno il tempo girando i concessionari KTM, Yamaha e Honda.
 
