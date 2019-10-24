@@ -1,14 +1,13 @@
 ---
 enabled: true
 css: "
-  background: rgb(50,37,232);
-  background: linear-gradient(0deg, rgba(50,37,232,1) 0%, rgba(44,29,155,1) 100%);
-  color: white;
+  background: #62BFB5;
+  color: black;
   cursor: pointer;
   display: flex;
   align-items: center;
   text-align: center;
-  padding: 1em;
+  padding: .5em;
 
   .wrapper {
     text-align: center;
@@ -37,28 +36,21 @@ css: "
 
   @media only screen and (max-width: 450px) {
     font-size: .8rem;
+    flex-direction: column;
 
-    .br {
-      display: block;
-      height: 0;
-      visibility: hidden;
-    }
-
-    .image {
-      flex: 1 0 0%;
-      margin-right: 1.5em;
+    img {
+      height: 30px;
     }
   }
 "
-url: https://www.amazon.it/gp/dmusic/promotions/AmazonMusicUnlimited?tag=motovia-21
+url: https://www.amazon.it/provaprime?tag=motovia-21
 ---
 <div class="image wrapper">
-  <img src="./amazon-music-unlimited.png">
+  <img src="./amazon_prime_logo.png">
 </div>
 <div class="text wrapper">
   <div class="subtitle">
-    50 milioni di brani<span class="br">,</span>
-    GRATIS per 90 giorni
+    Spedizioni in 1 GIORNO senza costi aggiuntivi
   </div>
-  <div class="cta">Iscriviti subito!</div>
+  <div class="cta">Inzia la prova GRATUITA</div>
 </div>
