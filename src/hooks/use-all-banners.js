@@ -9,6 +9,9 @@ export default () => {
             fields: {
               sourceInstanceName: { eq: "banner" }
             }
+            frontmatter: {
+              enabled: { eq: true }
+            }
           }
           sort: {
             fields: frontmatter___order

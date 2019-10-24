@@ -1,4 +1,5 @@
 ---
+enabled: true
 css: "
   background: rgb(50,37,232);
   background: linear-gradient(0deg, rgba(50,37,232,1) 0%, rgba(44,29,155,1) 100%);
@@ -11,7 +12,7 @@ css: "
 
   .wrapper {
     text-align: center;
-    
+
     @media only screen and (min-width: 451px) {
       flex: 1 0 0%;
     }
@@ -36,7 +37,7 @@ css: "
 
   @media only screen and (max-width: 450px) {
     font-size: .8rem;
-    
+
     .br {
       display: block;
       height: 0;
