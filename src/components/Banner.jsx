@@ -26,13 +26,13 @@ const style = css`
     ${SMALL_SCREEN_ONLY} {
       height: 100px;
     }
-  
+
     ${MEDIUM_SCREEN_UP} {
       height: 120px;
     }
- 
+
     &:hover {
-      box-shadow: 0;
+      box-shadow: none;
     }
 
     &.sticky {
@@ -87,7 +87,7 @@ const Banner = (props) => {
   }
   return (
     <div ref={ref} css={style} {...props}>
-      <a 
+      <a
         href={banner.frontmatter.url}
         target="_blank"
         rel="noopener noreferrer"
