@@ -2,10 +2,10 @@
 title: "Appenninata: l'Italia da Sud a Nord in moto"
 slug: /2019/10/appenninata-italia-sud-nord-in-moto
 author: arturo
-featured_image: ./foto/2019-08-27_07.57.36.jpg
+featured_image: ./featured.jpg
 excerpt: "Il viaggio di ritorno dalla Puglia al Piemonte"
 opening: "L'Italia da Sud a Nord: da Brindisi a Torino percorrendo un itinerario diverso da quello del <a href=\"/2019/08/appenninata-italia-nord-sud-in-moto\">viaggio di andata</a>."
-date: 2019-10-21T10:30:00.000+2:00
+date: 2019-10-24T20:00:00.000+2:00
 categories:
 - itinerari
 - itinerari/italia
