@@ -175,10 +175,9 @@ const HeaderElement = styled.header`
     align-items: center;
     position: fixed;
     right: -1px;
-    bottom: 120px;
+    bottom: -6rem;
     opacity: 0;
-    visibility: hidden;
-    transition: all .5s;
+    transition: all .3s ease-out;
     z-index: 1;
 
     svg {
@@ -189,8 +188,8 @@ const HeaderElement = styled.header`
 
   &.sticky {
     .back-to-top {
+      bottom: 6rem;
       opacity: 1;
-      visibility: visible;
     }
 
     .nav-wrapper,
