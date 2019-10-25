@@ -9,9 +9,9 @@ import {
   LARGE_SCREEN_UP
 } from '../../utils/breakpoints';
 import {
-  ICON_ARROW_LEFT,
-  ICON_ARROW_RIGHT
-} from '../../utils/icons'
+  IconArrowLeft,
+  IconArrowRight
+} from '../Icons'
 import Flex from '../Flex'
 
 const NextPrevWrapper = styled.nav`
@@ -61,7 +61,6 @@ const NextPrevWrapper = styled.nav`
 
     &::before {
       left: 0;
-      content: "${ICON_ARROW_LEFT}";
     }
   }
 
@@ -71,7 +70,6 @@ const NextPrevWrapper = styled.nav`
 
     &::after {
       right: 0;
-      content: "${ICON_ARROW_RIGHT}";
     }
   }
 `
