@@ -5,7 +5,7 @@ import { css } from '@emotion/core'
 
 import useAllBanners from '../hooks/use-all-banners'
 
-const style = css`
+const bannerStyle = css`
   margin: 1em 0;
 
   a {
@@ -54,7 +54,7 @@ const openBannerLink = url => {
   }
 }
 
-const Banner = ({sticky, ...otherProps}) => {
+const Banner = ({sticky, style, ...otherProps}) => {
   const banners = useAllBanners();
   const [banner, setBanner] = useState(false);
   const [hasBeenViewed, setHasBeenViewed] = useState(false);
@@ -76,8 +76,9 @@ const Banner = ({sticky, ...otherProps}) => {
   if (!banner || !banners || banners.length === 0) {
     return null;
   }
+
   return (
-    <div ref={ref} css={style} {...otherProps}>
+    <div ref={ref} css={[ bannerStyle, style ]} {...otherProps}>
       <a
         href={banner.frontmatter.url}
         target="_blank"
