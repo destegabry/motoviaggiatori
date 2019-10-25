@@ -2,7 +2,7 @@
   "name": "motoviaggiatori",
   "private": true,
   "description": "Gatsby + Frontmatter powered blog MotoViaggiatori.it",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "author": "Gabriele Destefanis <g.destefanis@topsolution.it>",
   "dependencies": {
     "@emotion/core": "^10.0.22",
