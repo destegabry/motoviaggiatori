@@ -75,13 +75,7 @@ const Credits = styled.div`
   background: ${colors.palette.primary.dark};
   font-size: .85rem;
   text-align: center;
-
-  ${SMALL_SCREEN_ONLY} {
-    padding-bottom: 100px;
-  }
-  ${MEDIUM_SCREEN_UP} {
-    padding-bottom: 120px;
-  }
+  padding-bottom: 5.25em;
 `; // padding-bottom is needed to accomodate sticky banners
 
 const logoCss = css`
