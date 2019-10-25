@@ -13,7 +13,7 @@ const NotFoundPage = () => {
   return (
     <Layout>
       <SEO title="404: Not found" />
-      <Banner sticky={true} style={{ margin: '.5rem 1rem 1rem' }} />
+      <Banner style={{ margin: '.5rem 1rem 1rem' }} />
       <Card>
         <div className="content">
           <h1>Questa pagina non esiste <span role="img" aria-label=":'(">😭</span></h1>

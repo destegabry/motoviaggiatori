@@ -24,7 +24,7 @@ function CategoryTemplate({ data }) {
           <DangerousHTML html={ currentCategory.html } />
         </div>
       </Card>
-      <Banner sticky={true} style={{ margin: '0 1rem 1rem' }} />
+      <Banner sticky style={{ margin: '0 1rem 1rem' }} />
       <PagedPosts posts={data.allMarkdownRemark.edges} />
     </Layout>
   )

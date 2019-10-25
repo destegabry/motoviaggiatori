@@ -24,7 +24,7 @@ function TagTemplate({ data }) {
           <DangerousHTML html={ currentTag.html } />
         </div>
       </Card>
-      <Banner sticky={true} style={{ margin: '0 1rem 1rem' }} />
+      <Banner sticky style={{ margin: '0 1rem 1rem' }} />
       <PagedPosts posts={data.allMarkdownRemark.edges} />
     </Layout>
   )
