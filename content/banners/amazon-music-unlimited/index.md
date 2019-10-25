@@ -25,19 +25,15 @@ css: "
     background: linear-gradient(to bottom,#f7dfa5,#f0c14b);
     border-color: #a88734 #9c7e31 #846a29;
     color: #111;
-    margin: .5em 0 0;
-    padding: .5em 2em;
+    margin: .25em 0 0;
+    padding: .25em 1em;
   }
 
   img {
-    max-height: 5em;
-    height: auto;
-    width: auto;
+    max-height: 3em;
   }
 
-  @media only screen and (max-width: 450px) {
-    font-size: .8rem;
-
+  @media only screen and (max-width: 600px) {
     .br {
       display: block;
       height: 0;
@@ -45,8 +41,11 @@ css: "
     }
 
     .image {
-      flex: 1 0 0%;
       margin-right: 1.5em;
+    }
+
+    .cta {
+      display: none;
     }
   }
 "
