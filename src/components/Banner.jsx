@@ -2,40 +2,23 @@ import React, { useState, useEffect } from 'react'
 import { useInView } from 'react-intersection-observer'
 import { css } from '@emotion/core'
 
-import {
-  SMALL_SCREEN_ONLY,
-  MEDIUM_SCREEN_UP
-} from '../utils/breakpoints'
 import useAllBanners from '../hooks/use-all-banners'
 
 const style = css`
-  margin: 1rem 0;
-
-  ${SMALL_SCREEN_ONLY} {
-    height: 100px;
-  }
-
-  ${MEDIUM_SCREEN_UP} {
-    height: 120px;
-  }
+  margin: 1em 0;
 
   a {
-    bottom: -100px;
+    height: 7em;
+    bottom: -5em;
     transition: bottom .3s ease-out;
-
-    ${SMALL_SCREEN_ONLY} {
-      height: 100px;
-    }
-
-    ${MEDIUM_SCREEN_UP} {
-      height: 120px;
-    }
 
     &:hover {
       box-shadow: none;
     }
 
     &.sticky {
+      font-size: .9em;
+      height: 5em;
       position: fixed;
       margin: 0;
       bottom: 0;
@@ -52,6 +35,13 @@ const style = css`
   .gatsby-resp-image-image {
     margin: 0;
     position: static;
+  }
+
+  .image {
+    img {
+      height: auto;
+      width: auto;
+    }
   }
 `;
 
