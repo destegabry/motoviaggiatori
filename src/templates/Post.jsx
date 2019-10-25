@@ -109,7 +109,7 @@ function PostTemplate (props) {
             <DangerousHTML component="p" html={ frontmatter.opening } />
           }
           <DangerousHTML html={ currentPost.tableOfContents } />
-          <Banner sticky={true} />
+          <Banner sticky />
           <AttributesTable attributes={ frontmatter.attributes } />
           <DangerousHTML html={ currentPost.html } itemProp="articleBody" />
           { disclaimers.length === 0 ? null :

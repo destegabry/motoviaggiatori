@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import PropTypes from 'prop-types'
 import { useInView } from 'react-intersection-observer'
 import { css } from '@emotion/core'
 
@@ -53,7 +54,7 @@ const openBannerLink = url => {
   }
 }
 
-const Banner = (props) => {
+const Banner = ({sticky, ...otherProps}) => {
   const banners = useAllBanners();
   const [banner, setBanner] = useState(false);
   const [hasBeenViewed, setHasBeenViewed] = useState(false);
@@ -76,19 +77,23 @@ const Banner = (props) => {
     return null;
   }
   return (
-    <div ref={ref} css={style} {...props}>
+    <div ref={ref} css={style} {...otherProps}>
       <a
         href={banner.frontmatter.url}
         target="_blank"
         rel="noopener noreferrer"
         ref={ref}
         onClick={ () => openBannerLink(banner.frontmatter.url) }
-        className={ props.sticky && hasBeenViewed && !inView ? 'sticky' : '' }
+        className={ sticky && hasBeenViewed && !inView ? 'sticky' : '' }
         css={css`${banner.frontmatter.css}`}
         dangerouslySetInnerHTML={ { __html: banner.html } }
       />
     </div>
   );
+}
+
+Banner.propTypes = {
+  sticky: PropTypes.bool,
 }
 
 export default Banner;
