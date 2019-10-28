@@ -15,7 +15,7 @@ cp .env.sample .env
 
 Edit `.env` file and add fill in all the variables with correct values.
 
-## Develop
+## Develop
 
 Run `npm run start` or `gatsby develop` then head to <http://localhost:8000>
 
