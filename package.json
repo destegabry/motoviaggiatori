@@ -37,7 +37,6 @@
     "gatsby-source-instance-name-for-remark": "^0.1.1",
     "gatsby-transformer-remark": "^2.6.30",
     "gatsby-transformer-sharp": "^2.3.0",
-    "imagesloaded": "^4.1.4",
     "intersection-observer": "^0.7.0",
     "moment": "^2.24.0",
     "prettier": "^1.17.1",
