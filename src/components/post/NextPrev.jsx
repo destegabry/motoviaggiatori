@@ -9,10 +9,11 @@ import {
   LARGE_SCREEN_UP
 } from '../../utils/breakpoints';
 import {
-  ICON_ARROW_LEFT,
-  ICON_ARROW_RIGHT
-} from '../../utils/icons'
+  IconArrowLeft,
+  IconArrowRight
+} from '../Icons'
 import Flex from '../Flex'
+import { palette } from '../../utils/colors'
 
 const NextPrevWrapper = styled.nav`
   display: flex;
@@ -49,19 +50,19 @@ const NextPrevWrapper = styled.nav`
       max-width: 40%;
     }
 
-    &::before,
-    &::after {
+    svg {
+      fill: ${palette.secondary.dark};
+      height: 1em;
       position: absolute;
-      top: 0;
+      top: 1em;
     }
   }
 
   .previous {
     padding-left: 1rem;
 
-    &::before {
+    svg {
       left: 0;
-      content: "${ICON_ARROW_LEFT}";
     }
   }
 
@@ -69,14 +70,13 @@ const NextPrevWrapper = styled.nav`
     padding-right: 1rem;
     text-align: right;
 
-    &::after {
+    svg {
       right: 0;
-      content: "${ICON_ARROW_RIGHT}";
     }
   }
 `
 
-const RelatedPost = ({ post, label, ...otherProps }) => {
+const RelatedPost = ({ post, label, children, ...otherProps }) => {
   if (!post) {
     return null;
   }
@@ -85,6 +85,7 @@ const RelatedPost = ({ post, label, ...otherProps }) => {
     <Link to={slug} {...otherProps}>
       <div className="label">{ label }</div>
       <div className="title">{ title }</div>
+      {children}
     </Link>
   )
 }
@@ -95,12 +96,16 @@ export default ({ next, previous }) => (
       label="Post precedente"
       className="previous"
       post={ previous }
-    />
+    >
+      <IconArrowLeft />
+    </RelatedPost>
     <Flex />
     <RelatedPost
       label="Prossimo post"
       className="next"
       post={ next }
-    />
+    >
+      <IconArrowRight />
+    </RelatedPost>
   </NextPrevWrapper>
 )

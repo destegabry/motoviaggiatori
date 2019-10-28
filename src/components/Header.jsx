@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import styled from '@emotion/styled'
 import { InView } from 'react-intersection-observer'
 import Color from 'color'
@@ -13,9 +13,12 @@ import {
   SMALL_SCREEN_ONLY,
   MEDIUM_SCREEN_UP
 } from '../utils/breakpoints'
-import { palette } from '../utils/colors';
-import { IconArrowLeft } from './Icons';
-import { ICON_HAMBURGER, ICON_CLOSE } from '../utils/icons';
+import { palette } from '../utils/colors'
+import {
+  IconHamburger,
+  IconClose,
+  IconArrowToTop
+} from './Icons'
 
 const headerHeightDesktopNormal = 100;
 const headerHeightDesktopCollapsed = 60;
@@ -165,7 +168,6 @@ const HeaderElement = styled.header`
     border-radius: 0 0 3px 3px;
     color: ${palette.primary.dark};
     cursor: pointer;
-    font-size: 2rem;
     height: 4rem;
     width: 4rem;
     display: flex;
@@ -173,18 +175,21 @@ const HeaderElement = styled.header`
     align-items: center;
     position: fixed;
     right: -1px;
-    bottom: 120px;
+    bottom: -6rem;
     opacity: 0;
-    visibility: hidden;
-    transition: all .5s;
-    transform: rotate(90deg);
+    transition: all .3s ease-out;
     z-index: 1;
+
+    svg {
+      height: 1.5rem;
+      width: 1.5rem;
+    }
   }
 
   &.sticky {
     .back-to-top {
+      bottom: 6rem;
       opacity: 1;
-      visibility: visible;
     }
 
     .nav-wrapper,
@@ -206,15 +211,19 @@ const HeaderElement = styled.header`
   .mobile-menu-opener {
     ${SMALL_SCREEN_ONLY} {
       cursor: pointer;
-      height: ${headerHeightMobile}px;
-      line-height: 50px;
-      width: 40px;
       text-align: center;
+      height: 1.5rem;
 
-      &::before {
-        display: block;
-        content: '${ICON_HAMBURGER}';
-        font-size: 3rem;
+      svg {
+        fill: rgba(255,255,255,0.65);
+        height: 1.5rem;
+        width: 1.5rem;
+      }
+
+      &:hover {
+        svg {
+          fill: ${palette.primary.contrast};
+        }
       }
     }
 
@@ -224,12 +233,6 @@ const HeaderElement = styled.header`
   }
 
   &.mobile-menu-open {
-    .mobile-menu-opener {
-      &::before {
-        content: '${ICON_CLOSE}';
-      }
-    }
-
     .nav-wrapper {
       > nav {
         left: 0;
@@ -269,33 +272,47 @@ const scrollTop = event => {
   });
 }
 
-const toggleMobileMenu = event => {
-  event.preventDefault();
-  document.getElementById('header-menu').classList.toggle('mobile-menu-open');
-  document.querySelector('body').classList.toggle('modal-open');
-  document.querySelector('html').classList.toggle('modal-open');
-}
+const Header = () => {
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
-const Header = () => (
-  <InView>
-    {({ inView, ref }) => (
-      <HeaderElement id="header-menu" className={inView ? '' : 'sticky '}>
-        <div className="header-wrapper">
-          <Wrapper className="nav-wrapper">
-            <Logo />
-            <Flex />
-            <MainMenu />
-            <SocialLinks size={24} hideMail iconStyle={{ marginRight: 12 }} />
-            <div className="mobile-menu-opener" onClick={toggleMobileMenu} />
-          </Wrapper>
-        </div>
-        <div className="in-view-ref" ref={ref} />
-        <span className="back-to-top" onClick={scrollTop}>
-          <IconArrowLeft />
-        </span>
-      </HeaderElement>
-    )}
-  </InView>
-);
+  const toggleMobileMenu = () => {
+    document.querySelector('body').classList.toggle('modal-open', !mobileMenuOpen);
+    document.querySelector('html').classList.toggle('modal-open', !mobileMenuOpen);
+    setMobileMenuOpen(!mobileMenuOpen);
+  }
+
+  return (
+    <InView>
+      {({ inView, ref }) => (
+        <HeaderElement
+          id="header-menu"
+          className={ [
+            inView ? '' : 'sticky ',
+            mobileMenuOpen ? 'mobile-menu-open' : ''
+          ].join(' ') }
+        >
+          <div className="header-wrapper">
+            <Wrapper className="nav-wrapper">
+              <Logo />
+              <Flex />
+              <MainMenu />
+              <SocialLinks size={24} hideMail iconStyle={{ marginRight: 12 }} />
+              <div
+                className="mobile-menu-opener"
+                onClick={ () => toggleMobileMenu() }
+              >
+                { mobileMenuOpen ? <IconClose /> : <IconHamburger />}
+              </div>
+            </Wrapper>
+          </div>
+          <div className="in-view-ref" ref={ref} />
+          <span className="back-to-top" onClick={scrollTop}>
+            <IconArrowToTop />
+          </span>
+        </HeaderElement>
+      )}
+    </InView>
+  )
+}
 
 export default Header
