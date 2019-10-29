@@ -4,7 +4,7 @@ import {
   ICON_ARROW_LEFT,
   ICON_ARROW_RIGHT,
   ICON_CLOSE
-} from './icons';
+} from './icons'
 
 const GalleryLightboxCSS = css`
   background: rgba(0, 0, 0, .95);
@@ -98,6 +98,9 @@ const GalleryLightboxCSS = css`
   }
 `;
 
+const viewportHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+const viewportWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+
 // Get mouse/touch event coords
 function getEventOrigin(e) {
   const origin = e.changedTouches ? e.changedTouches[0] : e;
@@ -160,6 +163,7 @@ class GalleryLightbox {
     this.container.appendChild(controls);
 
     document.addEventListener('keydown', this.onKeydown);
+
     this.viewport.addEventListener('touchstart', this.swipeStarted);
     this.viewport.addEventListener('touchmove', this.swipeDrag);
     this.viewport.addEventListener('touchend', this.swipeEnded);
@@ -175,6 +179,7 @@ class GalleryLightbox {
   }
 
   onKeydown(event) {
+    event.preventDefault();
     switch(event.keyCode) {
       case 27: // Escape
         this.close();
@@ -198,10 +203,19 @@ class GalleryLightbox {
       event.preventDefault();
       const currentSwipe = getEventOrigin(event);
       const dx = currentSwipe.x - this.swipeOrigin.x;
+      const dy = currentSwipe.y - this.swipeOrigin.y;
       this.viewport.querySelectorAll('figure')
-        .forEach(figure => {
+        .forEach((figure, index) => {
           figure.classList.add('dragging');
-          figure.style.transform = `translateX(calc(-${this.currentIndex * 100}% + ${dx}px))`;
+          if (Math.abs(dx) > Math.abs(dy)) {
+            figure.style.transform = `translate(calc(-${this.currentIndex * 100}% + ${dx}px), 0)`;
+          } else if(dy > 0 && index === this.currentIndex) {
+            figure.style.transform = `
+              translate(calc(-${this.currentIndex * 100}%), ${dy}px)
+              rotate(${90 * dy / viewportHeight}deg)
+            `;
+            this.container.style.background = `rgba(0, 0, 0, ${0.95 - dy / viewportHeight})`;
+          }
         });
     }
   }
@@ -211,11 +225,21 @@ class GalleryLightbox {
       event.preventDefault();
       const swipeEnd = getEventOrigin(event);
       const dx = swipeEnd.x - this.swipeOrigin.x;
+      const dy = swipeEnd.y - this.swipeOrigin.y;
 
-      if(dx > 0) {
+      if (dy > viewportHeight / 4 && Math.abs(dy) > Math.abs(dx)) {
+        this.close();
+      } else if(dx > viewportWidth / 3) {
         this.prev();
-      } else if(dx < 0) {
+      } else if(dx < -viewportWidth / 3) {
         this.next();
+      } else {
+        this.viewport.querySelectorAll('figure')
+          .forEach((figure) => {
+            figure.style.transform = `translate(-${this.currentIndex * 100}%, 0)`;
+            figure.classList.remove('dragging');
+          });
+        this.container.style.background = null;
       }
 
       this.swipeOrigin = null;
