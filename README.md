@@ -7,7 +7,7 @@
 ## Install
 
 ```sh
-git clone git@gitlab.com:top-solution/motoviaggiatori.git
+git clone git@github.com:destegabry/motoviaggiatori.git  
 cd motoviaggiatori
 npm install
 cp .env.sample .env
