@@ -145,7 +145,7 @@ class GalleryLightbox {
     close.className = 'control control-close';
     close.addEventListener('click', this.close);
     ReactDOM.render(IconClose(), close);
-    close.querySelector('svg').setAttribute('viewBox', '0 0 320 512');
+    close.querySelector('svg').setAttribute('viewBox', '0 0 320 512'); // FIXME
     controls.appendChild(close);
 
     if (this.gallery.items.length > 1) {
@@ -153,13 +153,13 @@ class GalleryLightbox {
       next.className = 'control control-next';
       next.addEventListener('click', this.next);
       ReactDOM.render(IconArrowRight(), next);
-      next.querySelector('svg').setAttribute('viewBox', '0 0 256 512');
+      next.querySelector('svg').setAttribute('viewBox', '0 0 256 512'); // FIXME
       controls.appendChild(next);
 
       const prev = document.createElement('span');
       prev.className = 'control control-prev';
       ReactDOM.render(IconArrowLeft(), prev);
-      prev.querySelector('svg').setAttribute('viewBox', '0 0 256 512');
+      prev.querySelector('svg').setAttribute('viewBox', '0 0 256 512'); // FIXME
       prev.addEventListener('click', this.prev);
       controls.appendChild(prev);
     }
@@ -173,10 +173,6 @@ class GalleryLightbox {
     this.viewport.addEventListener('touchstart', this.swipeStarted);
     this.viewport.addEventListener('touchmove', this.swipeDrag);
     this.viewport.addEventListener('touchend', this.swipeEnded);
-
-    this.viewport.addEventListener('mousedown', this.swipeStarted);
-    this.viewport.addEventListener('mousemove', this.swipeDrag);
-    this.viewport.addEventListener('mouseup', this.swipeEnded);
 
     this.gallery.container.parentElement.appendChild(this.container);
 
