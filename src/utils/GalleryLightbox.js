@@ -98,9 +98,6 @@ const GalleryLightboxCSS = css`
   }
 `;
 
-const viewportHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
-const viewportWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-
 // Get mouse/touch event coords
 function getEventOrigin(e) {
   const origin = e.changedTouches ? e.changedTouches[0] : e;
@@ -212,9 +209,9 @@ class GalleryLightbox {
           } else if(dy > 0 && index === this.currentIndex) {
             figure.style.transform = `
               translate(calc(-${this.currentIndex * 100}%), ${dy}px)
-              rotate(${90 * dy / viewportHeight}deg)
+              rotate(${90 * dy / this.viewport.offsetHeight}deg)
             `;
-            this.container.style.background = `rgba(0, 0, 0, ${0.95 - dy / viewportHeight})`;
+            this.container.style.background = `rgba(0, 0, 0, ${0.95 - dy / this.viewport.offsetHeight})`;
           }
         });
     }
@@ -227,11 +224,11 @@ class GalleryLightbox {
       const dx = swipeEnd.x - this.swipeOrigin.x;
       const dy = swipeEnd.y - this.swipeOrigin.y;
 
-      if (dy > viewportHeight / 4 && Math.abs(dy) > Math.abs(dx)) {
+      if (dy > this.viewport.offsetHeight / 4 && Math.abs(dy) > Math.abs(dx)) {
         this.close();
-      } else if(dx > viewportWidth / 3) {
+      } else if(dx > this.viewport.offsetWidth / 3) {
         this.prev();
-      } else if(dx < -viewportWidth / 3) {
+      } else if(dx < -this.viewport.offsetWidth / 3) {
         this.next();
       } else {
         this.viewport.querySelectorAll('figure')
