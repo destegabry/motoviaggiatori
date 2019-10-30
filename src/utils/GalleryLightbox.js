@@ -1,10 +1,11 @@
+import ReactDOM from "react-dom";
 import { css } from 'emotion'
 import { SMALL_SCREEN_ONLY } from './breakpoints'
 import {
-  ICON_ARROW_LEFT,
-  ICON_ARROW_RIGHT,
-  ICON_CLOSE
-} from './icons';
+  IconClose,
+  IconArrowLeft,
+  IconArrowRight
+} from '../components/Icons'
 
 const GalleryLightboxCSS = css`
   background: rgba(0, 0, 0, .95);
@@ -59,7 +60,6 @@ const GalleryLightboxCSS = css`
 
   .gallery-lightbox-controls {
     .control {
-      color: white;
       cursor: pointer;
       position: absolute;
       display: flex;
@@ -68,6 +68,12 @@ const GalleryLightboxCSS = css`
       font-size: 2rem;
       height: 4rem;
       width: 4rem;
+    }
+
+    svg {
+      fill: white;
+      height: 1.5rem;
+      width: 1.5rem;
     }
 
     .control-next,
@@ -137,20 +143,23 @@ class GalleryLightbox {
 
     const close = document.createElement('span');
     close.className = 'control control-close';
-    close.innerHTML = ICON_CLOSE;
     close.addEventListener('click', this.close);
+    ReactDOM.render(IconClose(), close);
+    close.querySelector('svg').setAttribute('viewBox', '0 0 320 512'); // FIXME
     controls.appendChild(close);
 
     if (this.gallery.items.length > 1) {
       const next = document.createElement('span');
       next.className = 'control control-next';
-      next.innerHTML = ICON_ARROW_RIGHT;
       next.addEventListener('click', this.next);
+      ReactDOM.render(IconArrowRight(), next);
+      next.querySelector('svg').setAttribute('viewBox', '0 0 256 512'); // FIXME
       controls.appendChild(next);
 
       const prev = document.createElement('span');
       prev.className = 'control control-prev';
-      prev.innerHTML = ICON_ARROW_LEFT;
+      ReactDOM.render(IconArrowLeft(), prev);
+      prev.querySelector('svg').setAttribute('viewBox', '0 0 256 512'); // FIXME
       prev.addEventListener('click', this.prev);
       controls.appendChild(prev);
     }
@@ -160,13 +169,10 @@ class GalleryLightbox {
     this.container.appendChild(controls);
 
     document.addEventListener('keydown', this.onKeydown);
+
     this.viewport.addEventListener('touchstart', this.swipeStarted);
     this.viewport.addEventListener('touchmove', this.swipeDrag);
     this.viewport.addEventListener('touchend', this.swipeEnded);
-
-    this.viewport.addEventListener('mousedown', this.swipeStarted);
-    this.viewport.addEventListener('mousemove', this.swipeDrag);
-    this.viewport.addEventListener('mouseup', this.swipeEnded);
 
     this.gallery.container.parentElement.appendChild(this.container);
 
@@ -175,6 +181,7 @@ class GalleryLightbox {
   }
 
   onKeydown(event) {
+    event.preventDefault();
     switch(event.keyCode) {
       case 27: // Escape
         this.close();
@@ -198,10 +205,19 @@ class GalleryLightbox {
       event.preventDefault();
       const currentSwipe = getEventOrigin(event);
       const dx = currentSwipe.x - this.swipeOrigin.x;
+      const dy = currentSwipe.y - this.swipeOrigin.y;
       this.viewport.querySelectorAll('figure')
-        .forEach(figure => {
+        .forEach((figure, index) => {
           figure.classList.add('dragging');
-          figure.style.transform = `translateX(calc(-${this.currentIndex * 100}% + ${dx}px))`;
+          if (Math.abs(dx) > Math.abs(dy)) {
+            figure.style.transform = `translate(calc(-${this.currentIndex * 100}% + ${dx}px), 0)`;
+          } else if(dy > 0 && index === this.currentIndex) {
+            figure.style.transform = `
+              translate(calc(-${this.currentIndex * 100}%), ${dy}px)
+              rotate(${90 * dy / this.viewport.offsetHeight}deg)
+            `;
+            this.container.style.background = `rgba(0, 0, 0, ${0.95 - dy / this.viewport.offsetHeight})`;
+          }
         });
     }
   }
@@ -211,11 +227,21 @@ class GalleryLightbox {
       event.preventDefault();
       const swipeEnd = getEventOrigin(event);
       const dx = swipeEnd.x - this.swipeOrigin.x;
+      const dy = swipeEnd.y - this.swipeOrigin.y;
 
-      if(dx > 0) {
+      if (dy > this.viewport.offsetHeight / 4 && Math.abs(dy) > Math.abs(dx)) {
+        this.close();
+      } else if(dx > this.viewport.offsetWidth / 3) {
         this.prev();
-      } else if(dx < 0) {
+      } else if(dx < -this.viewport.offsetWidth / 3) {
         this.next();
+      } else {
+        this.viewport.querySelectorAll('figure')
+          .forEach((figure) => {
+            figure.style.transform = `translate(-${this.currentIndex * 100}%, 0)`;
+            figure.classList.remove('dragging');
+          });
+        this.container.style.background = null;
       }
 
       this.swipeOrigin = null;
