@@ -1,10 +1,11 @@
+import ReactDOM from "react-dom";
 import { css } from 'emotion'
 import { SMALL_SCREEN_ONLY } from './breakpoints'
 import {
-  ICON_ARROW_LEFT,
-  ICON_ARROW_RIGHT,
-  ICON_CLOSE
-} from './icons'
+  IconClose,
+  IconArrowLeft,
+  IconArrowRight
+} from '../components/Icons'
 
 const GalleryLightboxCSS = css`
   background: rgba(0, 0, 0, .95);
@@ -59,7 +60,6 @@ const GalleryLightboxCSS = css`
 
   .gallery-lightbox-controls {
     .control {
-      color: white;
       cursor: pointer;
       position: absolute;
       display: flex;
@@ -68,6 +68,12 @@ const GalleryLightboxCSS = css`
       font-size: 2rem;
       height: 4rem;
       width: 4rem;
+    }
+
+    svg {
+      fill: white;
+      height: 1.5rem;
+      width: 1.5rem;
     }
 
     .control-next,
@@ -137,20 +143,23 @@ class GalleryLightbox {
 
     const close = document.createElement('span');
     close.className = 'control control-close';
-    close.innerHTML = ICON_CLOSE;
     close.addEventListener('click', this.close);
+    ReactDOM.render(IconClose(), close);
+    close.querySelector('svg').setAttribute('viewBox', '0 0 320 512');
     controls.appendChild(close);
 
     if (this.gallery.items.length > 1) {
       const next = document.createElement('span');
       next.className = 'control control-next';
-      next.innerHTML = ICON_ARROW_RIGHT;
       next.addEventListener('click', this.next);
+      ReactDOM.render(IconArrowRight(), next);
+      next.querySelector('svg').setAttribute('viewBox', '0 0 256 512');
       controls.appendChild(next);
 
       const prev = document.createElement('span');
       prev.className = 'control control-prev';
-      prev.innerHTML = ICON_ARROW_LEFT;
+      ReactDOM.render(IconArrowLeft(), prev);
+      prev.querySelector('svg').setAttribute('viewBox', '0 0 256 512');
       prev.addEventListener('click', this.prev);
       controls.appendChild(prev);
     }
