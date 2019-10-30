@@ -9,11 +9,8 @@ import {
   MEDIUM_SCREEN_ONLY,
   MEDIUM_SCREEN_UP,
 } from '../utils/breakpoints'
-import {
-  green,
-  pink,
-  blue
-} from '../utils/colors'
+import getCategoryUrl from '../utils/getCategoryUrl'
+import { green, pink, blue } from '../utils/colors'
 import Layout from '../components/Layout'
 import Card from '../components/Card'
 import SEO from '../components/seo'
@@ -22,6 +19,7 @@ import PostPreviewList from '../components/PostPreviewList'
 import PagedPosts from '../components/PagedPosts'
 import SponsorsCard from '../components/SponsorsCard'
 import Banner from '../components/Banner'
+import { IconArrowRight } from '../components/Icons'
 
 const CategorizedPostsSection = styled.section`
   display: flex;
@@ -84,6 +82,16 @@ const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
 
       h4 {
         margin: 10px;
+
+        a {
+          color: ${color}
+        }
+
+        svg {
+          fill: ${color};
+          height: .8rem;
+          margin-left: .5rem;
+        }
       }
 
       .main-post {
@@ -98,7 +106,12 @@ const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
         }
       }
     `}>
-      <h4 css={{color}}>{ categoryFilter }</h4>
+      <h4 css={{color}}>
+        <a href={ getCategoryUrl(categoryFilter) }>
+        { categoryFilter }
+        <IconArrowRight />
+        </a>
+      </h4>
       <div className="posts-wrapper">
         <div className="main-post">
           <PostPreviewFull post={filteredPosts[0].node} />
