@@ -56,6 +56,7 @@ exports.createPages = async ({graphql, actions}) => {
       case 'page':
         pages.push(edge);
         break;
+      default: break;
     }
   });
 
