@@ -50,7 +50,7 @@ const PostMeta = props => {
           </Link>
         ))}</span>}
         <meta itemProp="image" content={ post.frontmatter.featured_image.publicURL } />
-        { !post.frontmatter.modified ? null: <meta itemProp="dateModified" content={ post.frontmatter.modified } /> }
+        { !post.frontmatter.modified ? null : <meta itemProp="dateModified" content={ post.frontmatter.modified } /> }
         <meta itemProp="publisher" itemRef="global-org" />
       </Wrapper>
     );

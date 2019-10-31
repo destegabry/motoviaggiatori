@@ -67,7 +67,12 @@
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "devDependencies": {
+    "@babel/plugin-proposal-optional-chaining": "^7.6.0",
+    "babel-eslint": "^10.0.3",
+    "babel-preset-gatsby": "^0.2.20",
+    "eslint-config-react-app": "^5.0.2",
     "eslint-plugin-graphql": "^3.1.0",
+    "eslint-plugin-react": "^7.16.0",
     "markdownlint-cli": "^0.18.0"
   },
   "repository": {
