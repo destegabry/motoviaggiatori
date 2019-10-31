@@ -85,7 +85,7 @@ function AuthorBox({ author, showProfileLink, ...otherProps }) {
               </a>
             </LinkWrapper>
           }
-          { !facebook || !facebook.url ? null :
+          { !facebook?.url ? null :
             <LinkWrapper>
               <a
                 href={facebook.url}
@@ -98,7 +98,7 @@ function AuthorBox({ author, showProfileLink, ...otherProps }) {
               </a>
             </LinkWrapper>
           }
-          { !instagram || !instagram.url ? null :
+          { !instagram?.url ? null :
             <LinkWrapper>
               <a
                 href={instagram.url}
@@ -111,7 +111,7 @@ function AuthorBox({ author, showProfileLink, ...otherProps }) {
               </a>
             </LinkWrapper>
           }
-          { !youtube || !youtube.url ? null :
+          { !youtube?.url ? null :
             <LinkWrapper>
               <a
                 href={youtube.url}
