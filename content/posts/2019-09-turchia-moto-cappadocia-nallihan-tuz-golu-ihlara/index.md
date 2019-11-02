@@ -136,6 +136,15 @@ Ci sforziamo di ripartire per cercare di raggiungere Ankara prima di sera, ma fa
 - pranzo sul fiume a Belisırma
 - noia mortale da Aksaray a Beyşehir, saltando Konya
 
+![Giorno 11](./foto/DSC01959.jpeg)
+![Giorno 11](./foto/DSC01971.jpeg)
+
+![Giorno 11](./foto/DSC01992.jpeg)
+![Giorno 11](./foto/DSC02012.jpeg)
+
+![Giorno 11](./foto/DSC02015.jpeg)
+![Giorno 11](./foto/DSC02018.jpeg)
+
 [Seguici su Facebook](https://facebook.com/motoviaggiatori/) per non perderti il prossimo epidosio!
 
 In questo viaggio abbiamo messo alla prova alcuni prodotti dei nostri partner tecnici:
