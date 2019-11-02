@@ -93,6 +93,40 @@ Ci sforziamo di ripartire per cercare di raggiungere Ankara prima di sera, ma fa
 - visita Open Air Museum
 - folla e frizioni bruciate a Sunset Point
 
+![Cappadocia day 1](./foto/DSC01646.jpeg)
+![Cappadocia day 1](./foto/DSC01647_DSC01648.jpeg)
+![Cappadocia day 1](./foto/DSC01652.jpeg)
+![Cappadocia day 1](./foto/DSC01663.jpeg)
+![Cappadocia day 1](./foto/DSC01704.jpeg)
+
+![Cappadocia day 1](./foto/DSC01671.jpeg)
+![Cappadocia day 1](./foto/DSC01682.jpeg)
+![Cappadocia day 1](./foto/DSC01690.jpeg)
+![Cappadocia day 1](./foto/DSC01696.jpeg)
+
+![Cappadocia day 1](./foto/DSC01736.jpeg)
+![Cappadocia day 1](./foto/DSC01743.jpeg)
+![Cappadocia day 1](./foto/DSC01781.jpeg)
+
+![Cappadocia day 1](./foto/DSC01805.jpeg)
+![Cappadocia day 1](./foto/DSC01819.jpeg)
+
+![Cappadocia day 2](./foto/IMG_3219.jpeg)
+![Cappadocia day 2](./foto/DSC01832.jpeg)
+![Cappadocia day 2](./foto/DSC01851.jpeg)
+![Cappadocia day 2](./foto/DSC01858.jpeg)
+
+![Cappadocia day 2](./foto/DSC01872.jpeg)
+![Cappadocia day 2](./foto/DSC01879.jpeg)
+![Cappadocia day 2](./foto/DSC01895.jpeg)
+
+![Cappadocia day 2](./foto/DSC01917.jpeg)
+![Cappadocia day 2](./foto/DSC01924.jpeg)
+
+![Cappadocia day 2](./foto/DSC01942.jpeg)
+![Cappadocia day 2](./foto/DSC01943.jpeg)
+![Cappadocia day 2](./foto/DSC01953.jpeg)
+
 ## Giorno 11: verso Ovest tra profonde vallate e immensi vulcani
 
 - spariscono i turisti e troviamo una natura immensa
