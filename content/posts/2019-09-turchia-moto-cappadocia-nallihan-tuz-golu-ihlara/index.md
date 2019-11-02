@@ -1,9 +1,9 @@
 ---
 title: "#TurchiaInMoto: Nallıhan, Tuz Gölü e Cappadocia"
-date: "2019-09-20T23:30:00.000Z"
-slug: /2019/09/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara
-featured_image: ../2019-06-turchia-moto-torino-balcani-istanbul/featured.jpg
-excerpt: Raggiungiamo Göreme e la Valle di Ihlara attraversando il colorato distretto di Nallıhan e il lago salato Tuz Gölü
+date: "2019-11-15T23:30:00.000Z"
+slug: /2019/11/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara
+featured_image: ./foto/DSC01537.jpeg
+excerpt: Raggiungiamo Göreme e la Valle di Ihlara attraversando il variopinto distretto di Nallıhan e il lago salato Tuz Gölü
 opening: "Dopo aver <a href=\"/2019/06/turchia-moto-torino-balcani-istanbul\">attraversato Penisola Balcanica ed esplorato Istanbul</a> è arrivato il momento di metterci in viaggio per raggiungere la Cappadocia e scoprire cosa ci riserva la penisola Anatolica!"
 author: gabriele
 categories:
@@ -21,7 +21,7 @@ tags:
 - tag/europa-orientale
 ---
 
-![Percorso Turchia Nallihan Tuz Golu Cappadocia](./percorso.png "Da Istanbul alla Cappadocia di Göreme e Ihlara, attraversando attraversando il colorato distretto di Nallıhan e il lago salato Tuz Gölü")
+![Percorso Turchia Nallıhan Tuz Golu Cappadocia](./percorso.png "Da Istanbul alla Cappadocia di Göreme e Ihlara, attraversando attraversando il colorato distretto di Nallıhan e il lago salato Tuz Gölü")
 
 ## Giorno 7: incontro con la Vera Turchia
 
@@ -60,6 +60,10 @@ Dopo pochi chilometri iniziano le colline e finiscono gli infiniti rettilinei ch
 
 Rifocillati e rassegnati a viaggiare con un pratico sacco di plastica tenuto da cinghie a posto di un coperchio in alluminio, proseguiamo il nostro viaggio in direzione Ankara. Percorsi pochi chilometri, i colori del paesaggio cambiano radicalmente: il verde della vegetazione si dirada e le colline spoglie mostrano stratificazioni rosse, grigie, bianche e azzurre. Di fronte a questo inatteso cambio di scenario non possiamo che deviare sulle strade bianche della zona e goderci questo posto idilliaco.
 
+![Colline grigio-azzurre](./foto/DSC01530_DSC01533.jpeg "Alcune colline di un colore grigio-azzurro cominciano a catturare la nostra attenzione")
+![Calanchi a strati colorati](./foto/DSC01559_DSC01566.jpeg "Ci innamoriamo perdutamente di questo panorama di campi e calanchi variopinti")
+![Davutoğlan Kuş Cenneti](./foto/DSC01573_DSC01574.jpeg "Ci sforziamo di ripartire per cercare di raggiungere Ankara, ma il parco Davutoğlan Kuş Cenneti ha la meglio!")
+
 Ci sforziamo di ripartire per cercare di raggiungere Ankara prima di sera, ma fatti pochi chilometri ci ritroviamo nel bel mezzo della Davutoğlan Kuş Cenneti, una riserva naturale dove trovano riparo centinaia di uccelli. Quando vediamo le indicazioni per un hotel con terme e ristorante finiamo per abbandonare tutti i programmi e passare la notte nel bel mezzo del nulla.
 
 ## Giorno 8: il lago salato Tuz Gölü e l'arrivo a Uçhisar
@@ -67,6 +71,18 @@ Ci sforziamo di ripartire per cercare di raggiungere Ankara prima di sera, ma fa
 - giriamo attorno ad Ankara, assurda città di grattacieli in mezzo ai prati
 - il Tuz Gölü è quasi una trappola per turisti
 - arriviamo ad Uçhisar e visitiamo subito il suo "castello"
+
+![Tuz Gölü](./foto/DSC01576.jpeg)
+![Tuz Gölü](./foto/DSC01577.jpeg)
+![Tuz Gölü](./foto/DSC01580.jpeg)
+![Tuz Gölü](./foto/DSC01589.jpeg)
+![Tuz Gölü](./foto/DSC01593.jpeg)
+
+![Uçhisar](./foto/DSC01595.jpeg)
+![Uçhisar](./foto/DSC01605.jpeg)
+![Uçhisar](./foto/DSC01607.jpeg)
+![Uçhisar](./foto/DSC01609.jpeg)
+![Uçhisar](./foto/DSC01635.jpeg)
 
 ## Giorno 9-10: le valli della Cappadocia
 
