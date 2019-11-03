@@ -21,7 +21,7 @@ tags:
 - tag/europa-orientale
 ---
 
-![Percorso Turchia Nallıhan Tuz Golu Cappadocia](./percorso.png "Da Istanbul alla Cappadocia di Göreme e Ihlara, attraversando attraversando il colorato distretto di Nallıhan e il lago salato Tuz Gölü")
+![Percorso Turchia Nallıhan Tuz Gölü Cappadocia](./percorso.png "Da Istanbul alla Cappadocia di Göreme e Ihlara, attraversando attraversando il colorato distretto di Nallıhan e il lago salato Tuz Gölü")
 
 ## Giorno 7: incontro con la Vera Turchia
 
@@ -68,15 +68,25 @@ Ci sforziamo di ripartire per cercare di raggiungere Ankara prima di sera, ma fa
 
 ## Giorno 8: il lago salato Tuz Gölü e l'arrivo a Uçhisar
 
-- giriamo attorno ad Ankara, assurda città di grattacieli in mezzo ai prati
-- il Tuz Gölü è quasi una trappola per turisti
-- arriviamo ad Uçhisar e visitiamo subito il suo "castello"
+Un po' a malincuore lasciamo l'*Hattusa Vacation Thermal Club Ankara* e la sua architettura vagamente sovietica, proseguendo verso la capitale turca lungo la solita D140. In meno di un'ora raggiungiamo i primi palazzoni e diventa subito chiaro che stiamo lasciando un bellissimo nulla fatto di colori incredibili per tornare ad essere fagocitati da una mostruosa cittàm più piccola di Istanbul ma da quasi cinque milioni e mezzo di abitanti.
 
-![Tuz Gölü](./foto/DSC01576.jpeg)
-![Tuz Gölü](./foto/DSC01577.jpeg)
-![Tuz Gölü](./foto/DSC01580.jpeg)
-![Tuz Gölü](./foto/DSC01589.jpeg)
-![Tuz Gölü](./foto/DSC01593.jpeg)
+Al contrario di Istanbul, la città di Ankara non ha un passato particolarmente grandioso alle sue spalle: la fondazione risale all'età del bronzo e venne abitata da Ittiti, Frigi, Volci, Romani, Bizantini e Ottomani, tuttavia intorno al 1890 la popolazione era inferiore alle 30000 unità. La rinascita di Ankara è dovuta a Mustafa Kemal Atatürk, che a partire dal 1919 la eleva a capitale della neonata repubblica.
+
+L'unico monumento degno di nota è il mausoleo Anıtkabir, sepolcro di Atatürk, che decidiamo di non visitare: dopo l'esperienza di Istabul vogliamo soltanto scappare da questo immenso assembramento di persone e auto. Percorrendo la tangenziale O-20 rimaniamo attoniti dall'edilizia di Ankara: nonostante sorga in mezzo al nulla e lo spazio non manchi affatto, quasi tutte le costruzioni periferiche sono enormi palazzoni (che in Italia potremmo chiamare grattacieli) che spuntano come funghi in mezzo ai prati. Assurdo.
+
+Finalmente imbocchiamo la E90 in direzione Aksaray e dopo 100km di noiosissima *statalona* raggiungiamo il Tuz Gölü, immenso lago salato siutato alla quota di 905 metri sul mare. Ogni estate qui si ripete un fenomeno piuttosto curioso: la forte evaporazione fa aumentare la concentrazione salina, uccidendo la maggior parte del plancton che solitamente si ciba delle alghe Dunaliella; la popolazione di queste alghe è così libera di aumentare, fino a tingere le acque di un rosso scarlatto.
+
+Purtroppo la giornata odierna è caratterizzata da una fastidiosissima foschia lattiginosa, la linea dell'orizzonte è quasi indisinguibile sull'enorme distesa salmastra. Ci fermiamo per mangiare un boccone al Tuz Gölü Tesisleri, enorme trappola per turisti sulle sponde del lago salato, dove una grande scritta blu è inquadrata dagli obiettivi delle decine di persone vomitate da enormi autobus gran turismo. Di fenicotteri neanche l'ombra.
+
+![Sedie riflesse Tuz Gölü](./foto/DSC01577.jpeg "🎶 No, no line on the horizon, no, no line… 🎶")
+![Cros sale Tuz Gölü](./foto/DSC01580.jpeg "In primavera si può già osservare una spessa crosta di sale")
+![Scritta lago Tuz Gölü](./foto/DSC01576.jpeg "Turisti disciplinati aspettano in coda per immortalare la scritta “Tuz Gölü”")
+![Tuz Gölü MotoViaggiatori](./foto/DSC01589.jpeg "Motoviaggiatori sulle sponde del Tuz Gölü")
+![Tuz Gölü saline](./foto/DSC01593.jpeg "Dal lago salato si estraggono tonnellate di sale")
+
+Troviamo un grande stabilimento dove viene raccolto e pulito il sale del lago, ne approfittiamo per scattare qualche foto lontani dalla folla, poi ripartiamo per non fermarci più. Vogliamo arrivare in Cappadocia! Divoriamo i 170 km che ci separano da Uçhisar e ci fermiamo nella piazzetta centrale, dove una terrazza ci catapulta tra le affascinanti formazioni rocciose del Göreme Tarihi Milli Parkı.
+
+Raggiungiamo l'hotel Kemal, gestito da una coppia di brasiliani trasferiti in Turchia dopo varie vicissitudini lavorative, indossiamo abiti *civili* e corriamo ad esplorare le formazioni rocciose di Uçhisar.
 
 ![Uçhisar](./foto/DSC01595.jpeg)
 ![Uçhisar](./foto/DSC01605.jpeg)
