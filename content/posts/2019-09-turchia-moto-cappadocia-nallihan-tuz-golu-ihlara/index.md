@@ -52,8 +52,9 @@ Dopo pochi chilometri iniziano le colline e finiscono gli infiniti rettilinei ch
 
 <div class="message warning">
   <h4 class="message-title">La versione di Arturo</h4>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Mentre crogiolavo nella mia persistente condizione di scopa del gruppo, improvvisamente vedo dallo specchietto che l'auto che ho dietro cerca di farmi fermare. Mi trovo da solo, sperduto nelle montagne turche e non penso sia una buona idea farlo, quindi decido di tirare dritto ignorando la cosa.</p>
+  <p>Continuo a guardare lo specchietto e l'autista continua a fare segno di accostare. Insisto e proseguo nonostante debba svuotare la vescica. Dopo circa 15 minuti l'auto cambia strada, proseguo ancora un pochino dopodiché decido di fermarmi per una sosta idraulica. Scendendo dalla moto mi rendo conto di aver perso il coperchio della valigia laterale sinistra! Realizzo subito cosa stessero cercando di dirmi i tipi in macchina: pregiudizio e poca fiducia nel prossimo sono una bruttissima cosa</p>
+  <p>Telefono a Gabriele: «Ho un problema “serio”…»</p>
 </div>
 
 <div class="message pro-tip">Lasciate perdere pianificazione, cautela, amuleti e scongiuri! Il miglior modo per viaggiare tranquilli è portarsi appresso Arturo: agendo da calamita per la sfiga, tutti gli inconvenienti si abbatteranno su di lui e voi potrete viaggiare in tutto relax.</div>
