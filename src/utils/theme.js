@@ -51,6 +51,11 @@ const theme = {
       // color: colors.palette.secondary.dark,
       boxShadow: '0 1px 0 0 currentColor',
     },
+    'a .icon': {
+      fill: colors.palette.secondary.dark,
+      height: '.8rem',
+      marginLeft: '.5rem'
+    },
     blockquote: {
       color: gray(35),
       fontStyle: 'italic',

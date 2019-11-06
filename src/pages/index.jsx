@@ -89,8 +89,6 @@ const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
 
         svg {
           fill: ${color};
-          height: .8rem;
-          margin-left: .5rem;
         }
       }
 
@@ -109,7 +107,7 @@ const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
       <h4 css={{color}}>
         <a href={ getCategoryUrl(categoryFilter) }>
         { categoryFilter }
-        <IconArrowRight />
+        <IconArrowRight className="icon" />
         </a>
       </h4>
       <div className="posts-wrapper">
