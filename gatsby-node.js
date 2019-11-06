@@ -8,7 +8,7 @@ const getAuthorUrl = require('./src/utils/getAuthorUrl');
  */
 
 exports.createPages = async ({graphql, actions}) => {
-  const { createPage } = actions
+  const { createPage, createRedirect } = actions
   const result = await graphql(`{
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
@@ -32,6 +32,7 @@ exports.createPages = async ({graphql, actions}) => {
     console.error(result.errors);
     throw result.errors;
   }
+  createRedirect({ fromPath: '/author', toPath: '/authors', isPermanent: true });
 
   const posts = [];
   const categories = [];
