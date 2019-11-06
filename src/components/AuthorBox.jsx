@@ -1,6 +1,5 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link } from 'gatsby'
 import Img from 'gatsby-image/withIEPolyfill'
 import styled from '@emotion/styled'
 import { css } from '@emotion/core'
@@ -18,6 +17,7 @@ import {
   Website,
   Youtube
 } from '../components/SocialLinks'
+import Link from '../components/Link'
 import DangerousHTML from '../components/DangerousHTML'
 import Card from './Card'
 import { IconArrowRight } from './Icons'
@@ -141,9 +141,8 @@ function AuthorBox({ author, showProfileLink, ...otherProps }) {
           }
           { !showProfileLink || !slug ? null :
             <div>
-              <Link to={ getAuthorUrl(slug) }>
+              <Link to={getAuthorUrl(slug)} icon={<IconArrowRight />}>
                 Tutti i post di {name}
-                <IconArrowRight className="icon" />
               </Link>
             </div>
           }
