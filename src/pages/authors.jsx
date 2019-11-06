@@ -9,7 +9,9 @@ import AuthorBox from '../components/AuthorBox'
 import Columns from '../components/Columns'
 import {
   MEDIUM_SCREEN_UP,
-  SMALL_SCREEN_ONLY
+  SMALL_SCREEN_ONLY,
+  VERY_SMALL_SCREEN_MAX_SIZE,
+  LARGE_SCREEN_MAX_SIZE
 } from '../utils/breakpoints'
 
 const columnsWrapperCss = css`
@@ -62,7 +64,11 @@ const AuthorsPage = ({ data }) => (
           />
         ))
       }
-      breakpoints={[400, 800, 1200]}
+      breakpoints={[
+        VERY_SMALL_SCREEN_MAX_SIZE,
+        800,
+        LARGE_SCREEN_MAX_SIZE
+      ]}
       css={columnsWrapperCss}
     />
   </Layout>
