@@ -27,6 +27,11 @@ const wrapperCss = css`
     flex-direction: column;
   }
 
+  .logo {
+    width: 100%;
+    max-width: 180px;
+  }
+
   nav {
     font-size: .85rem;
     width: 100%;
@@ -77,11 +82,6 @@ const Credits = styled.div`
   padding-bottom: 5.25em;
 `; // padding-bottom is needed to accomodate sticky banners
 
-const logoCss = css`
-  width: 100%;
-  max-width: 250px;
-`;
-
 const sponsorsCss = css`
   h4 {
     flex: 1 0 100%;
@@ -107,7 +107,7 @@ const Footer = () => {
       <meta itemProp="url" content={ siteUrl } />
       <Wrapper css={wrapperCss}>
         <FooterColumn>
-          <Logo css={logoCss} />
+          <Logo />
           <SocialLinks size={32} />
           <Sponsors css={sponsorsCss} />
         </FooterColumn>

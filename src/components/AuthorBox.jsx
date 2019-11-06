@@ -8,10 +8,10 @@ import { css } from '@emotion/core'
 import getAuthorUrl from '../utils/getAuthorUrl'
 import { palette } from '../utils/colors'
 import {
+  VERY_SMALL_SCREEN_ONLY,
   SMALL_SCREEN_ONLY,
-  MEDIUM_SCREEN_UP
+  SMALL_SCREEN_UP
 } from '../utils/breakpoints'
-import ResponsiveFlexBox from './ResponsiveFlexBox'
 import {
   Instagram,
   Facebook,
@@ -20,17 +20,32 @@ import {
 } from '../components/SocialLinks'
 import DangerousHTML from '../components/DangerousHTML'
 import Card from './Card'
+import { IconArrowRight } from './Icons'
+
+const ContentWrapper = styled.div`
+  display: flex;
+  ${VERY_SMALL_SCREEN_ONLY} {
+    flex-direction: column;
+  }
+`;
 
 const ImgWrapper = styled.div`
-  ${SMALL_SCREEN_ONLY} {
+  ${VERY_SMALL_SCREEN_ONLY} {
     margin-bottom: 1rem;
   }
 
-  ${MEDIUM_SCREEN_UP} {
-    flex: 0 0 300px;
+  ${SMALL_SCREEN_UP} {
+    flex: 0 1 300px;
     margin-right: 1rem;
   }
+
+  ${SMALL_SCREEN_ONLY} {
+    flex: 0 1 200px;
+  }
 `;
+
+const TextWrapper = styled.div`
+flex: 1 0 0%;`;
 
 const LinkWrapper = styled.div`
   margin-bottom: .5rem;
@@ -60,16 +75,16 @@ function AuthorBox({ author, showProfileLink, ...otherProps }) {
 
   return (
     <Card itemScope="itemscope" itemType="http://schema.org/Person" {...otherProps}>
-      <ResponsiveFlexBox className="content">
+      <ContentWrapper className="content">
         { !avatar ? null :
-          <ImgWrapper>
+          <ImgWrapper className="image-wrapper">
             <Img
               fluid={avatar.childImageSharp.fluid}
               alt={avatar.childImageSharp.alt_text}
             />
           </ImgWrapper>
         }
-        <div>
+        <TextWrapper className="text-wrapper">
           <h1>{ name }</h1>
           <DangerousHTML html={ author.html } />
           { !website ? null :
@@ -125,14 +140,15 @@ function AuthorBox({ author, showProfileLink, ...otherProps }) {
             </LinkWrapper>
           }
           { !showProfileLink || !slug ? null :
-            <p>
+            <div>
               <Link to={ getAuthorUrl(slug) }>
                 Tutti i post di {name}
+                <IconArrowRight className="icon" />
               </Link>
-            </p>
+            </div>
           }
-        </div>
-      </ResponsiveFlexBox>
+        </TextWrapper>
+      </ContentWrapper>
     </Card>
   )
 }

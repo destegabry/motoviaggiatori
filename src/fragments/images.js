@@ -30,8 +30,8 @@ export const authorAvatar = graphql`
       publicURL
       childImageSharp {
         fluid(
-          maxWidth: 300,
-          maxHeight: 300,
+          maxWidth: 360,
+          maxHeight: 360,
           cropFocus: CENTER
         ) {
           ...GatsbyImageSharpFluid_withWebp
