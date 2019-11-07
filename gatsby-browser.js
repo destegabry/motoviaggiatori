@@ -10,3 +10,8 @@ exports.onClientEntry = () => {
   require('smoothscroll-polyfill').polyfill();
   // End polyfills
 }
+
+exports.onRouteUpdate = () => {
+  document.querySelector('body').classList.remove('modal-open');
+  document.querySelector('html').classList.remove('modal-open');
+}
