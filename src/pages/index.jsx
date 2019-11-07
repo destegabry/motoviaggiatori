@@ -20,6 +20,7 @@ import PagedPosts from '../components/PagedPosts'
 import SponsorsCard from '../components/SponsorsCard'
 import Banner from '../components/Banner'
 import { IconArrowRight } from '../components/Icons'
+import Link from '../components/Link'
 
 const CategorizedPostsSection = styled.section`
   display: flex;
@@ -89,8 +90,6 @@ const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
 
         svg {
           fill: ${color};
-          height: .8rem;
-          margin-left: .5rem;
         }
       }
 
@@ -107,10 +106,9 @@ const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
       }
     `}>
       <h4 css={{color}}>
-        <a href={ getCategoryUrl(categoryFilter) }>
-        { categoryFilter }
-        <IconArrowRight />
-        </a>
+        <Link to={getCategoryUrl(categoryFilter)} icon={<IconArrowRight />}>
+          { categoryFilter }
+        </Link>
       </h4>
       <div className="posts-wrapper">
         <div className="main-post">

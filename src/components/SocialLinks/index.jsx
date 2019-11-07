@@ -20,7 +20,7 @@ const Link = styled.a`
   border-radius: 7%;
   box-sizing: border-box;
 
-  path {
+  svg {
     fill: white;
   }
 `;

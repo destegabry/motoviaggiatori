@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from '@emotion/styled'
-import { InView } from 'react-intersection-observer'
+import { useInView } from 'react-intersection-observer'
 import Color from 'color'
 
 import Logo from './Logo'
@@ -281,37 +281,37 @@ const Header = () => {
     setMobileMenuOpen(!mobileMenuOpen);
   }
 
+  const [ref, inView] = useInView({
+    threshold: 0
+  });
+
   return (
-    <InView>
-      {({ inView, ref }) => (
-        <HeaderElement
-          id="header-menu"
-          className={ [
-            inView ? '' : 'sticky ',
-            mobileMenuOpen ? 'mobile-menu-open' : ''
-          ].join(' ') }
-        >
-          <div className="header-wrapper">
-            <Wrapper className="nav-wrapper">
-              <Logo />
-              <Flex />
-              <MainMenu />
-              <SocialLinks size={24} hideMail iconStyle={{ marginRight: 12 }} />
-              <div
-                className="mobile-menu-opener"
-                onClick={ () => toggleMobileMenu() }
-              >
-                { mobileMenuOpen ? <IconClose /> : <IconHamburger />}
-              </div>
-            </Wrapper>
+    <HeaderElement
+      id="header-menu"
+      className={ [
+        inView ? '' : 'sticky ',
+        mobileMenuOpen ? 'mobile-menu-open' : ''
+      ].join(' ') }
+    >
+      <div className="header-wrapper">
+        <Wrapper className="nav-wrapper">
+          <Logo />
+          <Flex />
+          <MainMenu />
+          <SocialLinks size={24} hideMail iconStyle={{ marginRight: 12 }} />
+          <div
+            className="mobile-menu-opener"
+            onClick={ () => toggleMobileMenu() }
+          >
+            { mobileMenuOpen ? <IconClose /> : <IconHamburger />}
           </div>
-          <div className="in-view-ref" ref={ref} />
-          <span className="back-to-top" onClick={scrollTop}>
-            <IconArrowToTop />
-          </span>
-        </HeaderElement>
-      )}
-    </InView>
+        </Wrapper>
+      </div>
+      <div className="in-view-ref" ref={ref} />
+      <span className="back-to-top" onClick={scrollTop}>
+        <IconArrowToTop />
+      </span>
+    </HeaderElement>
   )
 }
 

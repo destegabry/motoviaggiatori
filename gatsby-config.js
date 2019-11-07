@@ -228,6 +228,7 @@ module.exports = {
         ]
       }
     },
+    `gatsby-plugin-netlify` // make sure to put last in the array
   ],
   mapping: {
     'MarkdownRemark.frontmatter.author': `MarkdownRemark.frontmatter.slug`,

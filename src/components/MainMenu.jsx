@@ -57,6 +57,7 @@ const MainMenu = () => {
       <Link to={getCategoryUrl(categories.video.slug)}>
         {categories.video.name}
       </Link>
+      <Link to="/authors">Autori</Link>
     </nav>
   );
 }
