@@ -156,7 +156,7 @@ Raggiungiamo l'hotel Kemal, gestito da una coppia di brasiliani trasferiti in Tu
 ![Giorno 11](./foto/DSC02015.jpeg)
 ![Giorno 11](./foto/DSC02018.jpeg)
 
-[Seguici su Facebook](https://facebook.com/motoviaggiatori/) per non perderti il prossimo epidosio!
+[Seguici su Facebook](https://facebook.com/motoviaggiatori/) per non perderti il prossimo episodio!
 
 In questo viaggio abbiamo messo alla prova alcuni prodotti dei nostri partner tecnici:
 
