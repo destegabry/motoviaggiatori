@@ -102,38 +102,65 @@ Rientrati all'hotel riceviamo una notizia buona ed una cattiva assieme: domani c
 ![Castello di Uçhisar](./foto/DSC01635.jpeg "Vista panoramica sulle valli della Cappdocia dalla vetta del castello di Uçhisar")
 ![Uçhisar notte](./foto/DSC01642.jpeg "Uçhisar by night")
 
-## Giorno 9-10: le valli della Cappadocia
+## Giorni 9 e 10: le valli della Cappadocia
 
-Io e Stefania ci svegliamo alle 4 del mattino per volare in mongolfiera, gli altri 3 intrepidi compagni di viaggio rimangono a letto ad aspettarci.
+Io e Stefania ci svegliamo alle 4 del mattino per volare in mongolfiera, gli altri 3 intrepidi compagni di viaggio rimangono a letto ad aspettarci. Alla reception troviamo un assonnatissimo tuttofare che si è svegliato soltanto per aprirci la porta di ingresso. Alle 4 si presenta puntuale l'archetipo del *trafficone*, sempre presente in ogni luogo turistico che si rispetti: tassista abusivo, broker di voli in mongolfiera, poliglotta improvvisato, sempre al telefono.
 
-- disavventure con le mongolfiere
-- sterrati pittoreschi
-- la valle dell'ammmmore
-- droni e padroni di droni
+Paghiamo le nostre quote (ben 180€ a testa) e partiamo in direzione Göreme sul taxi che ci deposita nella hall di un albergo. Effettuiamo il check-in per il volo compilando vari fogli con i nostri dati anagrafici e assaltiamo il buffet della colazione, dove troviamo delle fragole buonissime. Pian piano la stanza si riempe di gente, ancora non si parte e un po' tutti cominciano ad insospettirsi… dopo un'ora di attesa è ufficiale: tutti i voli sono annullati a causa del vento.
+
+Il solito *trafficone* ci propone di lasciare in deposito la quota del volo per confermare la nostra presenza nella lista d'attesa del giorno successivo, accettiamo e torniamo a dormire qualche ora nel nostro B&B.
+
+Ricompattato il gruppo, torniamo in sella per esplorare il Göreme Milli Parklar (Parco Nazione di Göreme) senza meta precisa. Ci ritroviamo sulle piste di polverose della *Valle delle Rose*, guidando tra orti e vigneti da cui spuntano enormi pinnacoli di roccia beige e rosa. Sulle pareti rocciose si vedono le aperture di case troglodite, scavate nel tufo migliaia di anni fa. Il luogo è davvero affascinante, ma purtroppo i colori sono smorzati dalle nuvole lattiginose che coprono il sole.
+
+Guidiamo fino a Çavuşin, minuscolo borgo ai piedi di una falesia su cui si trova arroccato un villaggio troglodita in stato di abbandono. Forse non è l'esempio più impressionante, ma possiamo visitarlo in solitudine, con la libertà di poter curiosare dappertutto. I nostri stomaci ci riportano a terra, cominciando a farci presente che l'ora del pranzo è vicina.
+
+Ci sediamo ad un tavolo del ristorante Seyyah Han, dove scopriamo l'esistenza del *testi kebabı*. Carne, verdure, funghi, cumino e paprika vengono cucinati per ore all'interno di una giara di terracotta sigillata; prima di essere servita si ravviva a fuoco vivo, la giara viene spezzata con un colpo secco di coltello e la carne morbida e profumata viene impiattata (e mangiata con gusto).
+
+<div class="message pro-tip">
+  <p>In turco la parola <em>kebap</em> definisce tutta la carne arrostita.</p>
+  <p>Quello che genericamente chiamiamo così in Italia è il <em>döner kebab</em> (traducibile in <em>kebab che gira</em>), più specificatamente <em>dürüm kebab</em> (kebab nella piadina).</p>
+</div>
+
+![Camini delle fate - Valle delle Rose (Cappadocia)](./foto/DSC01647_DSC01648.jpeg "I “camini delle fate” nella Valle delle Rose (Cappadocia)")
+![Drone - Valle delle Rose (Cappadocia)](./foto/DSC01646.jpeg "Le valli della Cappadocia offrono un paesaggio ideale per le riprese aere con il drone")
+![MotoViaggiatori nella Valle delle Rose (Cappadocia)](./foto/DSC01663.jpeg)
+![Case troglodite Cappadocia](./foto/DSC01652.jpeg "Case troglodite scavate nel tufo della Cappadocia")
+![Vigneti cappadocia](./foto/DSC01704.jpeg "Le viti da cui si ricavano ottimi vini vengono coperte di terra per proteggerle dai venti frequenti")
+![testi kebabı in Cappadocia](./foto/DSC01851.jpeg "Giare “ripiene” di testi kebabı")
+
+Rifocillati e contenti, attraversiamo l'arteria stradale che collega Göreme ad Avanos per imboccare una strada bianca a caso. Ci affacciamo su formazioni rocciose sempre diverse, ogni tanto la coltre di nuvole si apre regalandoci la possibilità di ammirare colori meravigliosi. L'azzurro si alterna a nuvoloni nerissimi, che fortunatamente evitano di scaricarci addosso l'acqua di cui sono carichi.
+
+![Orti in Cappadocia](./foto/DSC01671.jpeg "Non proprio il tipico orto dietro casa")
+![Scooter Cappadocia](./foto/DSC01682.jpeg "Altro che dual sport!")
+![Nuvoloni Cappadocia](./foto/DSC01690.jpeg "“Nubi di ieri sul nostro domani odierno”")
+![Contrasti Cappadocia](./foto/DSC01696.jpeg "I nuvoloni plumbei si prestano a contrasti interssanti")
+
+Il sentiero finisce improvvisamente davanti al ripido terrapieno della superstrada D300, aggirabile con una moto da enduro, ma impraticabile con le nostre pesanti bicilindriche dotate di pneumatici stradali. Ci tocca fare dietrofrónt e *consolarci* con una visita alla Valle dell'Amore.
+
+Le formazioni rocciose note come *camini delle fate* hanno una storia lunga decine di milioni di anni. Circa 60 milioni di anni fa cominciò a formarsi la catena montuosa del Tauro in quella che oggi è la Turchia meridionale; i movimenti tettonici produssero in Anatolia centrale depressioni e burroni, che nelle ere geologiche successive vennero riempite dal tufo prodotto dal depositarsi di ceneri e lapilli eruttati dai vulcani Erciyes e Hasan Daği. Questa roccia molto friabile è stata erosa dall'instancabile lavoro dell'acqua, che ha però risparmiato i “coni” sormontati da uno strato di roccia più compatta.
+
+Il fenomeno diventa chiarissimo ammirando i camini della **Valle dell'Amore**, chiamata così perché le colonne di tufo sormontate da coni di materiale più duro assomigliano inequivovabilmente a… peni eretti! Il posto è unico, aspettiamo il calar del sole ammirando il panorama mentre Arturo fa svolazzare il drone tra i falli di roccia.
+
+![Valle dell'Amore (Cappadocia)](./foto/DSC01743.jpeg "Peni… peni di roccia ovunque!")
+![MotoViaggiatori nella Valle dell'Amore (Cappadocia)](./foto/DSC01736.jpeg)
+![Tramonto Göreme Valle delle Rose (Cappadocia)](./foto/DSC01781.jpeg "L'ora del tramonto a Göreme, con la Valle delle Rose sullo sfondo")
+
+Con il sopraggiungere del buio torniamo sulla strada asfaltata e decodiamo di fare un sopralluogo al punto panoramico di Göreme: dovrebbe essere un ottimo posto per ammirare le mongolfiere in volo al mattino. Da già che siamo qui, non perdiamo l'occasione per scattare delle belle immagini durante l'*ora blu*.
+
+**Göreme Sunset Point** è il luogo più affollato che abbiamo visitato in questa giornata. Sarebbe un luogo fantastico se non fosse per l'odore di frizioni bruciate emanato dai taxi abusivi che si incrociano sulla ripida strada che porta alla sommità.
+
+Ceniamo al ristorante Old Cappadocia, dove assaggiamo i vini della Cappadocia (niente male!) ed i *manti*: ravioli tipici dell'Anatolia centrale, ripieni di carne e cipolla, conditi con salsa a base di yogurt, aglio, olio, peperoni e paprika… decisamente gustosi!
+
+Torniamo all'hotel Kemal, dove ci aspetta una brutta notizia: la lista d'attesa è molto lunga, non c'è speranza di volare in mongolfiera. Recuperiamo tutti i soldi versati per la prenotazione e ce ne andiamo a dormire un po' delusi.
+
+![Ora blu Göreme Sunset Point (Cappadocia)](./foto/DSC01805.jpeg "L'ora blu a Göreme Sunset Point")
+![Castello di Uçhisar di notte (Cappadocia)](./foto/DSC01819.jpeg "L'inconfondibile castello di Uçhisar di notte")
+
 - visita Open Air Museum
 - folla e frizioni bruciate a Sunset Point
 
-![Cappadocia day 1](./foto/DSC01646.jpeg)
-![Cappadocia day 1](./foto/DSC01647_DSC01648.jpeg)
-![Cappadocia day 1](./foto/DSC01652.jpeg)
-![Cappadocia day 1](./foto/DSC01663.jpeg)
-![Cappadocia day 1](./foto/DSC01704.jpeg)
-
-![Cappadocia day 1](./foto/DSC01671.jpeg)
-![Cappadocia day 1](./foto/DSC01682.jpeg)
-![Cappadocia day 1](./foto/DSC01690.jpeg)
-![Cappadocia day 1](./foto/DSC01696.jpeg)
-
-![Cappadocia day 1](./foto/DSC01736.jpeg)
-![Cappadocia day 1](./foto/DSC01743.jpeg)
-![Cappadocia day 1](./foto/DSC01781.jpeg)
-
-![Cappadocia day 1](./foto/DSC01805.jpeg)
-![Cappadocia day 1](./foto/DSC01819.jpeg)
-
 ![Cappadocia day 2](./foto/IMG_3219.jpeg)
 ![Cappadocia day 2](./foto/DSC01832.jpeg)
-![Cappadocia day 2](./foto/DSC01851.jpeg)
 ![Cappadocia day 2](./foto/DSC01858.jpeg)
 
 ![Cappadocia day 2](./foto/DSC01872.jpeg)
@@ -151,7 +178,7 @@ Io e Stefania ci svegliamo alle 4 del mattino per volare in mongolfiera, gli alt
 
 - spariscono i turisti e troviamo una natura immensa
 - risaliamo lughe vallate che assomigliano ai canyon americani
-- i grandi vulcani ci accompagnano all'orizzonte in un altopiano in quota
+- i grandi vulcani (Erciyes e Hasan?) ci accompagnano all'orizzonte in un altopiano in quota
 - il profondo canyon della valle di Ihlara
 - pranzo sul fiume a Belisırma
 - noia mortale da Aksaray a Beyşehir, saltando Konya
