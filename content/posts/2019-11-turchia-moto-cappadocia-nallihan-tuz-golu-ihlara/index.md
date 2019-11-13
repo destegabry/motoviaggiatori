@@ -80,22 +80,31 @@ Finalmente imbocchiamo la E90 in direzione Aksaray e dopo 100km di noiosissima *
 Purtroppo la giornata odierna è caratterizzata da una fastidiosissima foschia lattiginosa, la linea dell'orizzonte è quasi indisinguibile sull'enorme distesa salmastra. Ci fermiamo per mangiare un boccone al Tuz Gölü Tesisleri, enorme trappola per turisti sulle sponde del lago salato, dove una grande scritta blu è inquadrata dagli obiettivi delle decine di persone vomitate da enormi autobus gran turismo. Di fenicotteri neanche l'ombra.
 
 ![Sedie riflesse Tuz Gölü](./foto/DSC01577.jpeg "🎶 No, no line on the horizon, no, no line… 🎶")
-![Cros sale Tuz Gölü](./foto/DSC01580.jpeg "In primavera si può già osservare una spessa crosta di sale")
+![Crosta di sale Tuz Gölü](./foto/DSC01580.jpeg "In primavera si può già osservare una spessa crosta di sale")
 ![Scritta lago Tuz Gölü](./foto/DSC01576.jpeg "Turisti disciplinati aspettano in coda per immortalare la scritta “Tuz Gölü”")
 ![Tuz Gölü MotoViaggiatori](./foto/DSC01589.jpeg "Motoviaggiatori sulle sponde del Tuz Gölü")
 ![Tuz Gölü saline](./foto/DSC01593.jpeg "Dal lago salato si estraggono tonnellate di sale")
 
 Troviamo un grande stabilimento dove viene raccolto e pulito il sale del lago, ne approfittiamo per scattare qualche foto lontani dalla folla, poi ripartiamo per non fermarci più. Vogliamo arrivare in Cappadocia! Divoriamo i 170 km che ci separano da Uçhisar e ci fermiamo nella piazzetta centrale, dove una terrazza ci catapulta tra le affascinanti formazioni rocciose del Göreme Tarihi Milli Parkı.
 
-Raggiungiamo l'hotel Kemal, gestito da una coppia di brasiliani trasferiti in Turchia dopo varie vicissitudini lavorative, indossiamo abiti *civili* e corriamo ad esplorare le formazioni rocciose di Uçhisar.
+Raggiungiamo l'hotel Kemal, gestito da una coppia di brasiliani trasferiti in Turchia dopo varie vicissitudini lavorative. Chiediamo a loro informazioni per organizzare un volo in mongolfiera, ma le notizie non sono per niente buone: una grossa società ha acquistato tutte le mongolfiere della zona e quindi bisogna per forza passare da loro per prenotare… scopriamo così che tutti i prossimi giorni sono pieni e non ci rimane che metterci in lista d'attesa. Indossiamo abiti *civili* e corriamo ad esplorare le formazioni rocciose di Uçhisar.
 
-![Uçhisar](./foto/DSC01595.jpeg)
-![Uçhisar](./foto/DSC01605.jpeg)
-![Uçhisar](./foto/DSC01607.jpeg)
-![Uçhisar](./foto/DSC01609.jpeg)
-![Uçhisar](./foto/DSC01635.jpeg)
+Torniamo alla terrazza panoramica per sorseggiare l'immancabile té con vista. Il piccolo locale è gestito da una famiglia che in loco alleva galline, asini e i particolari *piccioni capitombolanti*: una razza di uccelli caratterizzata dalle zampe foltemente piumate, ma soprattutto la capacità di compiere delle improvvise capriole in aria durante il volo.
+
+Esploriamo le formazioni rocciose dei dintorni mentre ci arrampichiamo fino alla vetta del *castello*, un'imponente roccia vulcanica che domina tutte le valli della Cappadocia. Da qui godiamo di un panorama fantastico, ma decidiamo di andarcene prima del tramonto per evitare la discesa al buio. Il centro di Uçhisar non offre particolari attrazioni, dopo aver girovagato tra bancarelle di souvenir ci fermiamo a cenare in un piccolo ristorante panoramico. È praticamente pieno, ma piuttosto che perdere un gruppo di clienti il proprietario ci trova un posto sul divano davanti alla TV: ceniamo ascoltando tutto il repertorio di pop turco del momento.
+
+Rientrati all'hotel riceviamo una notizia buona ed una cattiva assieme: domani ci dovremo svegliare alle tre e mezza, si vola in mongolfiera!
+
+![Case rupestri Uçhisar](./foto/DSC01595.jpeg "I camini delle fate di Uçhisar, crivellati di case rupestri")
+![Té Uçhisar](./foto/DSC01605.jpeg "Sorseggiando un té dalle terrazze panoramiche di Uçhisar")
+![Piccioni capitombolanti Uçhisar](./foto/DSC01607.jpeg "Piccioni capitombolanti allevati ad Uçhisar")
+![Asinello Uçhisar](./foto/DSC01609.jpeg "Oltre a galline e piccioni, nel café non poteva mancare un asinello")
+![Castello di Uçhisar](./foto/DSC01635.jpeg "Vista panoramica sulle valli della Cappdocia dalla vetta del castello di Uçhisar")
+![Uçhisar notte](./foto/DSC01642.jpeg "Uçhisar by night")
 
 ## Giorno 9-10: le valli della Cappadocia
+
+Io e Stefania ci svegliamo alle 4 del mattino per volare in mongolfiera, gli altri 3 intrepidi compagni di viaggio rimangono a letto ad aspettarci.
 
 - disavventure con le mongolfiere
 - sterrati pittoreschi
@@ -156,7 +165,7 @@ Raggiungiamo l'hotel Kemal, gestito da una coppia di brasiliani trasferiti in Tu
 ![Giorno 11](./foto/DSC02015.jpeg)
 ![Giorno 11](./foto/DSC02018.jpeg)
 
-[Seguici su Facebook](https://facebook.com/motoviaggiatori/) per non perderti il prossimo episodio!
+[Seguici su Facebook](https://facebook.com/motoviaggiatori/) per non perderti il prossimo epidosio!
 
 In questo viaggio abbiamo messo alla prova alcuni prodotti dei nostri partner tecnici:
 
