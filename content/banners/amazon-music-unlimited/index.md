@@ -1,5 +1,5 @@
 ---
-enabled: true
+enabled: false
 css: "
   background: rgb(50,37,232);
   background: linear-gradient(0deg, rgba(50,37,232,1) 0%, rgba(44,29,155,1) 100%);
@@ -12,10 +12,19 @@ css: "
 
   .wrapper {
     text-align: center;
+  }
 
-    @media only screen and (min-width: 451px) {
-      flex: 1 0 0%;
-    }
+  .text.wrapper {
+    flex: 2 0 0%;
+  }
+
+  .image.wrapper {
+    flex: 1 0 0%;
+    margin-right: 1em;
+  }
+
+  .gatsby-resp-image-wrapper {
+    max-width: 200px;
   }
 
   .cta {
@@ -27,10 +36,6 @@ css: "
     color: #111;
     margin: .25em 0 0;
     padding: .25em 1em;
-  }
-
-  img {
-    max-height: 3em;
   }
 
   @media only screen and (max-width: 600px) {

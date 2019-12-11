@@ -28,22 +28,6 @@ const bannerStyle = css`
       z-index: 1;
     }
   }
-
-  .gatsby-resp-image-background-image {
-    display: none!important;
-  }
-
-  .gatsby-resp-image-image {
-    margin: 0;
-    position: static;
-  }
-
-  .image {
-    img {
-      height: auto;
-      width: auto;
-    }
-  }
 `;
 
 const openBannerLink = url => {
