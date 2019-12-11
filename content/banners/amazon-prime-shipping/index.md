@@ -11,10 +11,19 @@ css: "
 
   .wrapper {
     text-align: center;
+  }
 
-    @media only screen and (min-width: 451px) {
-      flex: 1 0 0%;
-    }
+  .text.wrapper {
+    flex: 2 0 0%;
+  }
+
+  .image.wrapper {
+    flex: 1 0 0%;
+    margin-right: 1em;
+  }
+
+  .gatsby-resp-image-wrapper {
+    max-width: 200px;
   }
 
   .cta {
@@ -28,16 +37,7 @@ css: "
     padding: .25em 1em;
   }
 
-  img {
-    max-height: 3em;
-  }
-
   @media only screen and (max-width: 600px) {
-
-    img {
-      height: 30px;
-    }
-
     .cta {
       display: none;
     }
