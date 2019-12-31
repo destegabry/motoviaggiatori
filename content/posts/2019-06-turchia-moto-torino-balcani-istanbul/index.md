@@ -185,7 +185,7 @@ Riattraversiamo il corno d'oro e risaliamo il capo del serraglio, visitando il B
 ![Alice Stefania Gran Bazar Istanbul](./galleries/13/DSC01513.jpeg "Alice e Stefania tra le lampade vendurte al Gran Bazar di Istanbul")
 ![Agia Sofia sera](./galleries/13/DSC01519.jpeg "Agia Sofia vista dal terrazzo dell'hotel Burckin")
 
-Il viaggio continua nella <a href="/2019/09/turchia-moto-cappadocia-nallihan-tuz-golu">seconda parte della #TurchiaInMoto: Nallıhan, Tuz Gölü e Cappadocia</a>!
+**Il viaggio continua nella <a href="/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara">seconda parte della #TurchiaInMoto: Nallıhan, Tuz Gölü e Cappadocia</a>!**
 
 In questo viaggio abbiamo messo alla prova alcuni prodotti dei nostri partner tecnici:
 

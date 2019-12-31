@@ -1,7 +1,7 @@
 ---
 title: "#TurchiaInMoto: Nallıhan, Tuz Gölü e Cappadocia"
-date: "2019-11-15T23:30:00.000Z"
-slug: /2019/11/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara
+date: "2019-12-31T14:30:00.000Z"
+slug: /2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara
 featured_image: ./foto/DSC01537.jpeg
 excerpt: Raggiungiamo Göreme e la Valle di Ihlara attraversando il variopinto distretto di Nallıhan e il lago salato Tuz Gölü
 opening: "Dopo aver <a href=\"/2019/06/turchia-moto-torino-balcani-istanbul\">attraversato Penisola Balcanica ed esplorato Istanbul</a> è arrivato il momento di metterci in viaggio per raggiungere la Cappadocia e scoprire cosa ci riserva la penisola anatolica!"
