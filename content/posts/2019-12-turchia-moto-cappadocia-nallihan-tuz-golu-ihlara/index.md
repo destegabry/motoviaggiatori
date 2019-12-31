@@ -4,7 +4,7 @@ date: "2019-12-31T14:30:00.000Z"
 slug: /2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara
 featured_image: ./foto/DSC01537.jpeg
 excerpt: Raggiungiamo Göreme e la Valle di Ihlara attraversando il variopinto distretto di Nallıhan e il lago salato Tuz Gölü
-opening: "Dopo aver <a href=\"/2019/06/turchia-moto-torino-balcani-istanbul\">attraversato Penisola Balcanica ed esplorato Istanbul</a> è arrivato il momento di metterci in viaggio per raggiungere la Cappadocia e scoprire cosa ci riserva la penisola anatolica!"
+opening: "Dopo aver <a href=\"/2019/06/turchia-moto-torino-balcani-istanbul\">attraversato i Balcani ed esplorato Istanbul</a>, è arrivato il momento di metterci in viaggio per raggiungere la Cappadocia e scoprire cosa ci riserva la penisola anatolica!"
 author: gabriele
 categories:
 - viaggi
@@ -21,15 +21,15 @@ tags:
 - tag/europa-orientale
 ---
 
-![Percorso Turchia Nallıhan Tuz Gölü Cappadocia](./percorso.png "Da Istanbul alla Cappadocia di Göreme e Ihlara, attraversando attraversando il colorato distretto di Nallıhan e il lago salato Tuz Gölü")
+![Percorso Turchia Nallıhan Tuz Gölü Cappadocia](./percorso.png "Da Istanbul alla Cappadocia di Göreme e Ihlara, attraversando il colorato distretto di Nallıhan e il lago salato Tuz Gölü")
 
 ## Giorno 7: incontro con la Vera Turchia
 
-Ci svegliamo all'alba convinti di poter scampare il traffico dell'ora di punta a Istanbul, ma appena iniziamo ad allontanarci dal Corno d'Oro rimaniamo imbottigliati in qualche incrocio… siamo stati davvero ingenui a pensare di poter sfuggire al traffico generato da una città con più di 15 milioni di abitanti!
+Ci svegliamo all'alba convinti di poter scampare al traffico dell'ora di punta, ma appena iniziamo ad allontanarci dal Corno d'Oro rimaniamo imbottigliati in qualche incrocio… siamo stati davvero ingenui a pensare di poter sfuggire al traffico di Istanbul, una città con più di 15 milioni di abitanti!
 
 Per attraversare il Mar di Marmara evitiamo di asfissiare nell'Eurasia Tunnel e imbocchiamo la tangenziale interna O-1, una superstrada a 3 corsie sulla quale siamo costretti a muoverci molto lentamente tra le colonne di un traffico apocalittico. Quando raggiungiamo il *Ponte dei Martiri del 15 luglio* ci rendiamo conto di essere in viaggio da più di un'ora.
 
-L'attraversamento del Bosforo dura poco, ma quando finalmente raggiungiamo la sponda asiatica c'è poco da festeggiare: il traffico non diminuisce e questo mostro di città non accenna a terminare. Quartieri poco affascinanti ci passando accanto senza sosta anche se imboccata l'autostrada E80. Dopo un'altra ora di viaggio il traffico comincia a diminuire, l'agglomerato urbano a diradare.
+L'attraversamento del Bosforo dura poco, ma quando finalmente raggiungiamo la sponda asiatica c'è poco da festeggiare: il traffico non diminuisce e questo mostro di città non accenna a terminare. Quartieri poco affascinanti costeggiano il percorso dell'autostrada E80. Dopo un'altra ora di viaggio il traffico comincia a diminuire, l'agglomerato urbano a diradare.
 
 <div class="message pro-tip">Istanbul non finisce mai, in moto va affrontata con pace interiore e rassegnazione</div>
 
@@ -41,7 +41,7 @@ Dopo pochi chilometri iniziano le colline e finiscono gli infiniti rettilinei ch
   <h4 class="message-title">La versione di Gabriele e Stefania</h4>
   <p>Non si sa esattamente come, ma una delle valigie laterali di Arturo si è scoperchiata senza che lui se ne accorgesse. Fortunatamente utilizza una borsa interna e il contenuto non è stato disperso sulla strada… considerando che ha già perso un paio di guanti il futuro del viaggio si prospetta roseo!</p>
 
-  <p>Simone e Alice proseguono in cerca di un ristorante per il pranzo, mentre noi torniamo indietro per aiutare a setacciare la strada in cerca del coperchio smarrito. Dopo 30 km desistiamo, mentre Arturo decide di fare un secondo tentativo. Ripartiamo in cerca di Simone e Alice, che nel frattempo hanno trovato ristoro in un capanno lontano dalla strada e fuori dal campo telefonico… purtroppo non li vediamo e proseguiamo fino alla città di Nallıhan, dove ci fermeremo ad aspettare tutti davanti ad un pranzo a base di té e <em>lahmacun</em>.</p>
+  <p>Simone e Alice proseguono in cerca di un ristorante per il pranzo, mentre noi torniamo indietro per aiutare a setacciare la strada in cerca del coperchio smarrito. Dopo 30 km desistiamo, mentre Arturo decide di fare un secondo tentativo. Ripartiamo in cerca di Simone e Alice, che nel frattempo hanno trovato ristoro in un capanno lontano dalla strada e fuori dal campo telefonico… purtroppo non li vediamo e proseguiamo fino alla città di Nallıhan, dove ci fermeremo ad aspettare tutti davanti ad un pranzo a base di <em>çay</em> e <em>lahmacun</em>.</p>
 </div>
 
 <div class="message warning">
@@ -53,9 +53,9 @@ Dopo pochi chilometri iniziano le colline e finiscono gli infiniti rettilinei ch
 
 <div class="message warning">
   <h4 class="message-title">La versione di Arturo</h4>
-  <p>Mentre crogiolavo nella mia persistente condizione di scopa del gruppo, improvvisamente vedo dallo specchietto che l'auto che ho dietro cerca di farmi fermare. Mi trovo da solo, sperduto nelle montagne turche e non penso sia una buona idea farlo, quindi decido di tirare dritto ignorando la cosa.</p>
-  <p>Continuo a guardare lo specchietto e l'autista continua a fare segno di accostare. Insisto e proseguo nonostante debba svuotare la vescica. Dopo circa 15 minuti l'auto cambia strada, proseguo ancora un pochino dopodiché decido di fermarmi per una sosta idraulica. Scendendo dalla moto mi rendo conto di aver perso il coperchio della valigia laterale sinistra! Realizzo subito cosa stessero cercando di dirmi i tipi in macchina: pregiudizio e poca fiducia nel prossimo sono una bruttissima cosa.</p>
-  <p>Telefono a Gabriele: «Ho un problema “serio”…»</p>
+  <p>Mentre crogiolavo nella mia persistente condizione di scopa del gruppo, improvvisamente mi accorgo che un'auto sta cercando di farmi fermare. Mi trovo da solo, sperduto nelle montagne turche e non penso sia una buona idea farlo, quindi decido di tirare dritto ignorando la cosa.</p>
+  <p>Continuo a guardare lo specchietto, l'autista insiste nel fare segno di accostare. Ignoro e proseguo nonostante debba svuotare la vescica. Dopo circa 15 minuti l'auto cambia strada, proseguo ancora un pochino dopodiché decido di fermarmi per una sosta idraulica. Scendendo dalla moto mi rendo conto di aver perso il coperchio della valigia laterale sinistra! Realizzo subito cosa stessero cercando di dirmi i tipi in macchina: pregiudizio e poca fiducia nel prossimo sono una bruttissima cosa.</p>
+  <p>Telefono a Gabriele: «Ho un problema serio…»</p>
 </div>
 
 <div class="message pro-tip">Lasciate perdere pianificazione, cautela, amuleti e scongiuri! Il miglior modo per viaggiare tranquilli è portarsi appresso Arturo: agendo da calamita per la sfiga, tutti gli inconvenienti si abbatteranno su di lui e voi potrete viaggiare in tutto relax.</div>
@@ -72,13 +72,13 @@ Ci sforziamo di ripartire per cercare di raggiungere Ankara prima di sera, ma fa
 
 Un po' a malincuore lasciamo l'*Hattusa Vacation Thermal Club Ankara* e la sua architettura vagamente sovietica, proseguendo verso la capitale turca lungo la solita D140. In meno di un'ora raggiungiamo i primi palazzoni, diventa subito chiaro che stiamo lasciando colori e paesaggi incredibili per tornare ad essere fagocitati da una mostruosa città da quasi cinque milioni e mezzo di abitanti.
 
-Al contrario di Istanbul, la città di Ankara non ha un passato particolarmente grandioso alle sue spalle: la fondazione risale all'età del bronzo e venne abitata da Ittiti, Frigi, Volci, Romani, Bizantini e Ottomani, tuttavia intorno al 1890 la popolazione era inferiore alle 30000 unità. La rinascita di Ankara è dovuta a Mustafa Kemal Atatürk, che a partire dal 1919 la eleva a capitale della neonata repubblica.
+Al contrario di Istanbul, la città di Ankara non ha un passato particolarmente grandioso alle spalle: la fondazione risale all'età del bronzo e venne abitata da Ittiti, Frigi, Volci, Romani, Bizantini e Ottomani;  intorno al 1890 la popolazione era inferiore alle 30000 unità. La rinascita di Ankara è dovuta a Mustafa Kemal Atatürk, che a partire dal 1919 la eleva a capitale della neonata repubblica.
 
-L'unico monumento degno di nota è il mausoleo Anıtkabir, sepolcro di Atatürk, che decidiamo di non visitare: dopo l'esperienza di Istabul vogliamo soltanto scappare da questo immenso assembramento di persone e auto. Percorrendo la circonvallazione O-20 rimaniamo attoniti dall'edilizia di Ankara: nonostante sorga in mezzo al nulla e lo spazio non manchi affatto, quasi tutte le costruzioni periferiche sono enormi palazzoni (che in Italia potremmo chiamare grattacieli) che spuntano come funghi in mezzo ai prati. Assurdo.
+L'unico monumento degno di nota è il mausoleo Anıtkabir, sepolcro di Atatürk, che decidiamo di non visitare: dopo l'esperienza di Istabul vogliamo soltanto scappare da questo immenso assembramento di automobili e persone. Percorrendo la circonvallazione O-20 rimaniamo attoniti dall'edilizia di Ankara: nonostante sorga in mezzo al nulla e lo spazio non manchi affatto, quasi tutte le costruzioni periferiche sono enormi palazzoni (che in Italia potremmo chiamare grattacieli) che spuntano come funghi in mezzo ai prati. Assurdo.
 
 Finalmente imbocchiamo la E90 in direzione Aksaray e dopo 100km di noiosissima *statalona* raggiungiamo il Tuz Gölü, immenso lago salato situato alla quota di 905 metri sul mare. Ogni estate qui si ripete un fenomeno piuttosto curioso: la forte evaporazione fa aumentare la concentrazione salina, uccidendo la maggior parte del plancton che solitamente si ciba delle alghe *Dunaliella*; la popolazione di questi microrganismi è così libera di aumentare, fino a tingere le acque di un rosso scarlatto.
 
-Purtroppo la giornata odierna è caratterizzata da una fastidiosissima foschia lattiginosa, la linea dell'orizzonte è quasi indisinguibile sull'enorme distesa salmastra. Ci fermiamo per mangiare un boccone al Tuz Gölü Tesisleri, enorme trappola per turisti sulle sponde del lago salato, dove una grande scritta blu è inquadrata dagli obiettivi delle decine di persone vomitate da enormi autobus gran turismo. Di fenicotteri neanche l'ombra. 
+Purtroppo la giornata odierna è caratterizzata da una fastidiosissima foschia lattiginosa, la linea dell'orizzonte è quasi indisinguibile sull'enorme distesa salmastra. Ci fermiamo per mangiare un boccone al Tuz Gölü Tesisleri, enorme trappola per turisti sulle sponde del lago salato, dove una grande scritta blu è inquadrata dagli obiettivi delle decine di persone vomitate da enormi autobus gran turismo. Di fenicotteri neanche l'ombra.
 
 Due turisti cinesi attaccano bottone: vogliono sapere come funziona la patente della moto e l'attraversamento delle frontiere, rimangono sbalorditi dalla facilità con cui possiamo viaggiare tra le frontiere europee. Sono di Bejing e parlano un buon inglese.
 
@@ -92,11 +92,11 @@ Troviamo un grande stabilimento dove viene raccolto e pulito il sale del lago, n
 
 Girovaghiamo per la cittadina alla ricerca del nostro rifugio per la notte, ma improvvisamente ci si para davanti il *Castello di Uçhisar*: un'imponente roccia vulcanica che svetta sul *Göreme Tarihi Milli Parkı* e permette di ammirare tutto dall'alto.
 
-Raggiungiamo l'hotel Kemal, gestito da una coppia di brasiliani trasferiti in Turchia dopo varie vicissitudini lavorative. Chiediamo a loro informazioni per organizzare un volo in mongolfiera, ma le notizie non sono per niente buone: una grossa società ha acquistato tutte le mongolfiere della zona e quindi bisogna per forza passare da loro per prenotare… scopriamo così che tutti i prossimi giorni sono pieni e non ci rimane che metterci in lista d'attesa. Indossiamo abiti *civili* e corriamo ad esplorare le formazioni rocciose.
+Raggiungiamo l'hotel Kemal, gestito da una coppia di brasiliani trasferiti in Turchia dopo varie vicissitudini lavorative. Chiediamo informazioni per organizzare un volo in mongolfiera, ma le notizie non sono per niente buone: una grossa società ha acquistato tutte le mongolfiere della zona e quindi bisogna per forza passare da loro per prenotare… scopriamo così che tutti i prossimi voli sono pieni e non ci rimane che metterci in lista d'attesa. Indossiamo abiti *civili* e corriamo ad esplorare le formazioni rocciose.
 
-Sorseggiamo l'immancabile *çay* da una terrazza panoramica affacciata sui camini delle fate. Il piccolo locale è gestito da una famiglia che in loco alleva galline, asini e i particolari *piccioni capitombolanti*: una razza di uccelli caratterizzata dalle zampe foltemente piumate e la capacità di compiere delle improvvise capriole in aria durante il volo.
+Sorseggiamo l'immancabile *çay* da una terrazza panoramica affacciata sui camini delle fate. Il piccolo locale è gestito da una famiglia che in loco alleva galline, asini e gli endemici *piccioni capitombolanti*: una razza di uccelli caratterizzata dalle zampe foltemente piumate e la capacità di compiere delle improvvise capriole in aria durante il volo.
 
-Esploriamo le formazioni rocciose dei dintorni mentre ci arrampichiamo fino alla vetta del *castello*, da qui godiamo di un panorama fantastico, ma decidiamo di andarcene prima del tramonto per evitare la discesa al buio. Il centro di Uçhisar non offre particolari attrazioni, dopo aver girovagato tra bancarelle di souvenir ci fermiamo a cenare in un piccolo ristorante panoramico. È praticamente pieno, ma piuttosto che perdere un gruppo di clienti il proprietario ci trova un posto sul divano davanti alla TV: ceniamo ascoltando tutto il repertorio di pop turco del momento.
+Esploriamo le formazioni rocciose dei dintorni mentre ci arrampichiamo fino alla vetta del *castello*. Da qui godiamo di un panorama fantastico, ma decidiamo di andarcene prima del tramonto per evitare di scendere al buio. Il centro di Uçhisar non offre particolari attrazioni, dopo aver girovagato tra bancarelle di souvenir ci fermiamo a cenare in un piccolo ristorante panoramico. È praticamente pieno, ma piuttosto che perdere un gruppo di clienti il proprietario ci trova un posto sul divano davanti alla TV: ceniamo ascoltando tutto il repertorio di pop turco del momento.
 
 Rientrati all'hotel riceviamo una notizia buona e cattiva assieme: domani ci dovremo svegliare alle tre e mezza, si vola in mongolfiera!
 
@@ -104,18 +104,18 @@ Rientrati all'hotel riceviamo una notizia buona e cattiva assieme: domani ci dov
 ![Té Uçhisar](./foto/DSC01605.jpeg "Sorseggiando un té dalle terrazze panoramiche di Uçhisar")
 ![Piccioni capitombolanti Uçhisar](./foto/DSC01607.jpeg "Piccioni capitombolanti allevati ad Uçhisar")
 ![Asinello Uçhisar](./foto/DSC01609.jpeg "Oltre a galline e piccioni, nel café non poteva mancare un asinello")
-![Castello di Uçhisar](./foto/DSC01635.jpeg "Vista panoramica sulle valli della Cappdocia dalla vetta del castello di Uçhisar")
+![Castello di Uçhisar](./foto/DSC01635.jpeg "Vista panoramica sulle valli della Cappadocia dalla vetta del castello di Uçhisar")
 ![Uçhisar notte](./foto/DSC01642.jpeg "Uçhisar by night")
 
 ## Giorni 9 e 10: le valli della Cappadocia
 
 Io e Stefania ci svegliamo alle 4 del mattino per volare in mongolfiera, gli altri 3 intrepidi compagni di viaggio rimangono a letto ad aspettarci. Alla reception troviamo un assonnatissimo tuttofare, svegliato soltanto per aprire la porta di ingresso. Puntualissimo arriva l'archetipo del *trafficone*, sempre presente in ogni luogo turistico che si rispetti: tassista abusivo, broker di voli in mongolfiera, poliglotta improvvisato, costantemente al telefono.
 
-Paghiamo le nostre quote (ben 180€ a testa) e partiamo in direzione Göreme sul taxi che ci deposita nella hall di un albergo. Effettuiamo il check-in per il volo compilando vari fogli con i nostri dati anagrafici e assaltiamo il buffet della colazione, dove troviamo delle fragole buonissime. Pian piano la stanza si riempe di gente, ancora non si parte e un po' tutti cominciano ad insospettirsi… dopo un'ora di attesa è ufficiale: tutti i voli sono annullati a causa del vento.
+Paghiamo le nostre quote (ben 180€ a testa) e partiamo in direzione Göreme sul taxi che ci deposita nella hall di un albergo. Effettuiamo il check-in per il volo compilando vari fogli con i nostri dati anagrafici e assaltiamo il buffet della colazione, dove troviamo delle fragole buonissime. Pian piano la stanza si riempe di gente, ancora non si parte e un po' tutti cominciano ad insospettirsi… dopo un'ora di attesa è ufficiale: tutti i voli sono cancellati a causa del vento.
 
 Il solito *trafficone* ci propone di lasciare in deposito la quota del volo per confermare la nostra presenza nella lista d'attesa del giorno successivo, accettiamo e torniamo a dormire qualche ora nel nostro B&B.
 
-Ricompattato il gruppo, torniamo in sella per esplorare il Göreme Milli Parkı (Parco Nazione di Göreme) senza meta precisa. Ci ritroviamo sulle piste di polverose della *Valle delle Rose*, guidando tra orti e vigneti da cui spuntano enormi pinnacoli di roccia beige e rosa. Sulle pareti rocciose si notano le aperture di case troglodite, scavate nel tufo migliaia di anni fa. Il luogo è davvero affascinante, ma purtroppo i colori sono smorzati dalle nuvole lattiginose che coprono il sole.
+Ricompattato il gruppo, torniamo in sella per esplorare il Göreme Milli Parkı (Parco Nazione di Göreme) senza meta precisa. Ci ritroviamo sulle piste di polverose della *Valle delle Rose*, guidando tra orti e vigneti da cui spuntano enormi pinnacoli di rocce beige e rosa. Sulle pareti scoscese si notano le aperture di case troglodite, scavate nel tufo migliaia di anni fa. Il luogo è davvero affascinante, ma purtroppo i colori sono smorzati dalle nuvole lattiginose che coprono il sole.
 
 Guidiamo fino a Çavuşin, minuscolo borgo ai piedi di una falesia su cui si trova arroccato un villaggio troglodita in stato di abbandono. Forse non è l'esempio più impressionante, ma possiamo visitarlo in solitudine, con la libertà di poter curiosare dappertutto. I nostri stomaci ci riportano a terra, ricondandoci che l'ora del pranzo è vicina.
 
@@ -142,7 +142,7 @@ Rifocillati e contenti, attraversiamo l'arteria stradale che collega Göreme ad 
 
 Il sentiero finisce improvvisamente davanti al ripido terrapieno della superstrada D300, aggirabile con una moto da enduro, ma impraticabile con le nostre pesanti bicilindriche dotate di pneumatici stradali. Ci tocca fare dietrofrónt e *consolarci* con una visita alla Valle dell'Amore.
 
-Le formazioni rocciose note come *camini delle fate* hanno una storia lunga decine di milioni di anni. Circa 60 milioni di anni fa cominciò a formarsi la catena montuosa del Tauro in quella che oggi è la Turchia meridionale; i movimenti tettonici produssero in Anatolia centrale depressioni e burroni, che nelle ere geologiche successive vennero riempite dal tufo prodotto dal depositarsi di ceneri e lapilli eruttati dai vulcani Erciyes e Hasan Daği. Questa roccia molto friabile è stata erosa dall'instancabile lavoro dell'acqua, che ha però risparmiato i “coni” sormontati da uno strato di roccia più compatta.
+Le formazioni rocciose note come *camini delle fate* hanno una storia lunga decine di milioni di anni. Circa 60 milioni di anni fa, in quella che oggi è la Turchia meridionale, cominciò ad innalzarsi la catena montuosa del Tauro; i movimenti tettonici produssero in Anatolia centrale depressioni e burroni, che nelle ere geologiche successive vennero riempite dal tufo prodotto dal depositarsi di ceneri e lapilli eruttati dai vulcani Erciyes e Hasan Daği. Questa roccia molto friabile è stata erosa dall'instancabile lavoro dell'acqua, che ha però risparmiato i “coni” sormontati da uno strato di roccia più compatta.
 
 Il fenomeno diventa chiarissimo ammirando i camini della **Valle dell'Amore**, chiamata così perché le colonne di tufo sormontate da coni di materiale più duro assomigliano inequivovabilmente a… peni eretti! Il posto è unico, aspettiamo il calar del sole ammirando il panorama mentre Arturo fa svolazzare il drone tra i falli di roccia.
 
@@ -150,7 +150,7 @@ Il fenomeno diventa chiarissimo ammirando i camini della **Valle dell'Amore**, c
 ![MotoViaggiatori nella Valle dell'Amore (Cappadocia)](./foto/DSC01736.jpeg)
 ![Tramonto Göreme Valle delle Rose (Cappadocia)](./foto/DSC01781.jpeg "L'ora del tramonto a Göreme, con la Valle delle Rose sullo sfondo")
 
-Con il sopraggiungere del buio torniamo sulla strada asfaltata e decodiamo di fare un sopralluogo al punto panoramico di Göreme: dovrebbe essere un ottimo posto per ammirare le mongolfiere in volo al mattino. Da già che siamo qui, non perdiamo l'occasione per scattare delle belle immagini durante l'*ora blu*.
+Con il sopraggiungere del buio torniamo sulla strada asfaltata e decidiamo di fare un sopralluogo al punto panoramico di Göreme: dovrebbe essere un ottimo posto per ammirare le mongolfiere in volo al mattino. Da già che siamo qui, non perdiamo l'occasione per scattare delle belle immagini durante l'*ora blu*.
 
 **Göreme Sunset Point** è il luogo più affollato che abbiamo visitato in questa giornata. Sarebbe un luogo fantastico se non fosse per l'odore di frizioni bruciate emanato dai taxi abusivi che si incrociano sulla ripida strada che porta alla sommità.
 
@@ -186,7 +186,7 @@ Torniamo alla Valle dell'Amore, superiamo gli avamposti dei turisti e ci piazzia
 
 ## Giorno 11: verso Ovest tra profonde vallate e immensi vulcani
 
-Ci riproviamo con le mongolfiere, e indovina un po'? Ennesima levataccia a vuoto, il vento costringe a terra tutti i palloni aerostatici. Ammiriamo l'ultima alba sul parco di Göreme, purtroppo è ora di cominciare il nostro cammino di ritorno verso Ovest.
+Ci riproviamo con le mongolfiere, ma andiamo incontro alla terza levataccia a vuoto, il vento costringe a terra tutti i palloni aerostatici. Ammiriamo l'ultima alba sul parco di Göreme, purtroppo è ora di cominciare il nostro cammino di ritorno verso Ovest.
 
 ![Alba Göreme Cappadocia](./foto/DSC01942.jpeg "Una BMW R1200GS si erge al cospetto delle torri di arenaria")
 ![Alba Göreme Cappadocia](./foto/DSC01943.jpeg "L'ultima alba che vediamo sorgere su Göreme")
@@ -206,18 +206,18 @@ Risalita la lunga vallata, ci ritroviamo a cavalcare sopra un altopiano che semb
 Proseguiamo in direzione Aksaray per un'ottantina di chilometri, fino a raggiungere il bivio per Ihlara. La strada prosegue dritta e monotona fino raggiungere la profonda e ripida spaccatura nel terreno che stavamo cercando: la **Valle di Ihlara**. Avendo passato un giorno in più in Cappadocia non abbiamo la possibilità di cambiare molto i nostri programmi, altrimenti sarebbe stato bello fermarsi qui ad esplorare il fondo valle in un'escursione a piedi.
 
 ![Canyon Valle di Ihlara (Cappadocia)](./foto/DSC01992.jpeg "Il profondo canyon della Valle di Ihlara")
-![Canyon Valle di Ihlara (Cappadocia)](./foto/DSC02012.jpeg "Il profondo canyon della Valle di Ihlara")
+![Canyon Valle di Ihlara (Cappadocia)](./foto/DSC02012.jpeg "È possibile visitare il fondo del canyon esclusivamente a piedi")
 
-Discendere fino al fiume nei pressi di Belisırma, dove ci fermiamo a pranzare lungo la riva del torrente. Oltre ai ristoranti non sembra esserci molto altro e l'abitato sembra un paese fantasma.
+Raggiungiamo il livello del fiume nei pressi di Belisırma, dove ci fermiamo a pranzare lungo la riva del torrente. Oltre ai ristoranti non sembra esserci molto altro, l'abitato sembra un paese fantasma.
 
 ![Ristoranti Belisirma (Valle di Ihlara)](./foto/DSC02015.jpeg "Ristoranti sul fiume a Belisirma (Valle di Ihlara)")
 ![Ristoranti Belisirma (Valle di Ihlara)](./foto/DSC02018.jpeg "Ristoranti sul fiume a Belisirma (Valle di Ihlara)")
 
 Rifocillati, ripartiamo in direzione Konya: metropoli da un milione di abitanti, capitale dei **dervisci rotanti** che ogni 17 dicembre commemorano la morte del capostipite Rumi con una spettacolare cerimonia. Tutti i turchi con cui abbiamo parlato dell'itinerario ci hanno sconsigliato di fermarci qui, sembra proprio che non meriti una visita.
 
-Tiriamo dritto fino alle sponde del lago Beyşehir, fermandoci nell'omonima cittadina per la notte. Il viaggio da Ihlara a Beyşehir è noioso, 300 km di monotone statali turche che non consentono di viaggiare a più di 90 km/h.
+Il viaggio da Ihlara a Beyşehir è noioso, 300 km di monotone statali turche che non consentono di viaggiare a più di 90 km/h. Nel frattempo Arturo ha già perso il secondo paio di guanti, ma non posso che arrendermi all'evidenza quando alza una mano per farmi notare che ha <em>intercettato</em> la defecazione aerea di un gabbiano: la sfiga scorre potente in lui.
 
-Attraversiamo il centro abitato in cerca di un hotel, invano. In punta al pontile più lungo del porticciolo lacustre incrociamo due ragazzini in bici a cui chiediamo consiglio. Fanno cenno di seguirli e per non perderli ci tocca attraversare in moto parchi pubblici, aree giochi per bambini e lunghi tratti di marciapiede. Alla fine ci depositano davanti al Ali Bilir Otel, un grigio palazzone a cui non avremmo dato due soldi… ma che invece si rivela essere un buon albergo ad un prezzo stracciato!
+Tiriamo dritto fino alle sponde del lago Beyşehir, fermandoci nell'omonima cittadina per la notte. Attraversiamo il centro abitato in cerca di un hotel, invano. In punta al pontile più lungo del porticciolo lacustre incrociamo due ragazzini in bici a cui chiediamo consiglio. Fanno cenno di seguirli e per non perderli ci tocca attraversare in moto parchi pubblici, aree giochi per bambini e lunghi tratti di marciapiede. Alla fine ci depositano davanti al Ali Bilir Otel, un grigio palazzone a cui non avremmo dato due soldi… ma che invece si rivela essere un buon albergo ad un prezzo stracciato!
 
 Ceniamo in una bettola accanto l'albergo e poi andiamo in cerca di caffeina nel grande bar che si trova poco dopo il ponte di pietra Taş Köprü. Ce la mettono tutta, ma ci servono un espresso davverso slavato: io e Simone non ci stiamo e proviamo a spiegare alla barista come fare un espresso, con risultati incoraggianti ma non proprio entusiasmanti.
 
