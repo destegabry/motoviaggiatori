@@ -1,9 +1,9 @@
 ---
-title: "Panamericana: prima parte in Sud America"
+title: "Panamericana: Cile, Perù, Bolivia, Argentina, Paraguay e Uruguay"
 date: "2019-09-26T09:00:00.000Z"
 slug: /2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay
 featured_image: ./foto/5_6.JPG
-excerpt: "30 giorni in moto tra Cile, Perù, Bolivia, Argentina, Paraguay e Uruguay"
+excerpt: "Prima parte di viaggio in Sud America, 30 giorni in moto tra panorami incredibili"
 opening: "Quando un tempo pensavo ad un viaggio in moto in Sud America, lo vedevo come un’impresa per pochi, lontano dalle mie possibilità, lontano dai miei progetti… e oggi sono qui che scrivo di come ho vissuto questo viaggio. La vita è meravigliosa."
 author: miral
 categories:
