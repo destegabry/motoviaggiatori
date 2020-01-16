@@ -45,7 +45,7 @@ Ogni mia aspettativa è stata ampiamente soddisfatta.
 
 ( Foto 1676 – 1677 - 6021 – 6031 – 6038 – 6040 -
 
-# I pinguini di Pigafetta
+## I pinguini di Pigafetta
 
 Una riflessione che spesso ho ripreso in queste lunghe tratte in sella alla moto era legata all’habitat dei pinguini: li avevo sempre immaginati in luoghi isolati, tra i ghiacci, attanagliati dal freddo intenso e avvolti dal vento travolgente che proviene dall’oceano… invece sono lì vicino a me, li vivo, li osservo, ci gioco e quasi li tocco; loro mi osservano, alcuni stanno scavando un nido a terra, altri cercano refrigerio in mare perché fa molto caldo e tutti respirano a fatica con il becco aperto.
 
@@ -102,6 +102,8 @@ La **Ruta Nacional 40** è la più lunga delle Rutas dell’Argentina e una dell
 
 ( Foto 0427 – 0561 – 0933 – 1174 – 1175 – 1176 – 1178 – 1180 – 1387 – 1393 – 9769 – 9886 – 9845 – 9851 – 9860 – 9867 – 9883 – 0964 -
 
+## Il ghiacciaio Perito Moreno
+
 Una tappa obbligata sul percorso della Ruta 40 è El Calafate, per visitare il **Perito Moreno: la terza riserva di acqua dolce del mondo**, una formazione di ghiaccio che si estende per 250 km quadrati e per 30 km di lunghezza, spessa più di 60 metri; è in continuo movimento perché tra la roccia e il ghiaccio c’è una sorta di cuscino d’acqua che permette al ghiacciaio un movimento di circa 2 metri al giorno.
 
 Purtroppo il 10 Marzo del 2016 è crollato il *ponte di ghiaccio*, un arco frontale di straordinaria bellezza. Secondo gli esperti il crollo è riconducibile al naturale movimento del ghiaccio e non al riscaldamento globale. Resta il fatto che non avrei mai pensato di osservare questa meraviglia glaciale ad una temperatura di quasi 20 gradi.
@@ -113,6 +115,8 @@ Superato l’accesso al parco, dopo alcune curve tra la vegetazione fitta, compa
 Nel raggiungere i vari punti di osservazione mi rapisce il cuore il boato intenso, duro e intervallato che indica la rottura dei ghiacci sotto i crudeli raggi di sole. Blocchi enormi si disgregano cadendo in acqua rumorosamente, creando onde che si infrangono contro piccoli iceberg. Questo suono mi trasmette un lamento che ritengo non sia colto dalla maggior parte dei turisti, che fotografano e osservano rumorosamente questa opera gelida e maestosa della natura. Anche se forse serve a poco, avrei ritenuto più utile accedere a questo luogo con mezzi elettrici per cercare di stimolare la coscienza dei visitatori. Oltre alle passerelle esiste la possibilità di osservare il ghiacciaio in tutta la sua maestosità dalle acque del lago andino, utilizzando una delle tante barche dei vari tour organizzati.
 
 ( Foto 4282 – 1001 – 1026 – 1076 – 1082 – 1094 – 1095 -
+
+## Natura incontaminata alla Penisola di Valdés
 
 Quando penso al freddo penso ai pinguini, alle foche, ai leoni marini… e così i miei ricordi tornano alla **Penisola di Valdés, un parco naturale dalla bellezza straordinaria e incontaminata**, celebre per le numerose colonie di cetacei che un tempo raggiungevano queste tiepide e calme acque per procreare e crescere per i piccoli, prima di dirigersi verso Sud.
 
@@ -131,6 +135,8 @@ Purtroppo in questo periodo non è possibile avvistare i grandi cetacei, la stag
 Vorremmo proseguire verso Punta Norte, ma una guida del posto ci consiglia di non proseguire perché la presenza di sabbia sarà costante lungo tutta la pista. La guida ci racconta che qualche giorno prima avevano dovuto soccorrere un motociclista infortunato proprio lungo il tratto di pista che avevamo percorso al mattino. Decidiamo con rammarico di rientrare a Puerto Madryn.
 
 ( Foto 1234 – 1245 – 1248 – 1285 – 1286 – 1288 – 1330 – 1399 – 1400 – 1401 – 1402 – 1403 – 1404 – 9762 – 9763 – 1368 – 1369 -
+
+## Fine del viaggio, per ora
 
 Ormai è giorno e penso alla mia moto, consegnata ieri all’officina che la custodirà fino a Luglio. Mi mancherà molto perché, pur segnando sul cruscotto oltre 225.000 km, continua a regalarmi grandi emozioni dimostrarando tutta la sua forza e il suo valore. Spesso in questi ultimi viaggi è stata osservata dai passanti, molti dei quali si sono accostati per osservarla o per farle una moto. Sta diventando una vera protagonista.
 
