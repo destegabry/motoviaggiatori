@@ -1,5 +1,21 @@
-Patagonia Dicembre 2019
-
+---
+title: "Panamericana: Patagonia e Terra del Fuoco"
+date: "2020-01-20T09:00:00.000Z"
+slug: /2020/01/panamericana-sud-america-argentina-patagonia-terra-del-fuoco
+featured_image: ./featured.jpg
+excerpt: "Seconda parte di viaggio nell'estremo Sud del continente americano, tra Argentina e Cile"
+opening: "Nella <a href=\"/2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay\">prima parte del viaggio</a> abbiamo attraversato Cile, Perù, Bolivia, Argentina, Paraguay e Uruguay; a Dicembre 2019 siamo tornati in Sud America per spingerci ai limiti meridionali del continente per esplorare Patagonia e Terra del Fuoco, sulle orme del nostro compaesano Antonio Pigafetta."
+author: miral
+categories:
+- viaggi
+- viaggi/panamericana
+tags:
+- tag/bmw-r1200gs
+- tag/argentina
+- tag/cile
+- tag/america
+- tag/sud-america
+---
 La stanza è buia, tra le tende solo un piccolo raggio di luce che si intrufola nella camera d’albergo con al centro il grande letto. Dal marciapiede proviene della musica; dei ragazzi parlano e rumorosamente fanno cadere una bottiglia di vetro a terra che rotola sul marciapiede. Sto dormendo, ma all’improvviso il mio sonno viene interrotto da un primo cupo suono di sirena, per poi seguirne un altro questa volta più lungo per poi ripetersene un terzo, concludendosi con un quarto lunghissimo che segna la fine di questa nottata trascorsa a Montevideo. Guardo l’orologio e sono le 4:30 del mattino, troppo presto per alzarsi, troppo presto per leggere un libro, forse riesco a prendere sonno, ma nel frattempo la mia mente mi riporta al viaggio appena terminato iniziato 11 gg fa e a quelle sirene che mi riconducono al porto di Ushuaia , dove grandi navi da crociera attraccano per permettere ai turisti la visita della città, una città insolita con un lungomare curato e pulito, ma che ospita in Avenida San Martin molti negozi di accessori da sci e da escursioni montane. Una città viva a qualunque ora del giorno e della notte con i suoi numerosi ristoranti e pub e gli innumerevoli hotel e casinò. Una città considerata da molti come l’ultimo approdo alla fin del mundo. Quando l’abbiamo raggiunta ci siamo spinti fino alla Bahia Lapataia, all’interno del parco naturale della TIERRA DEL FUEGO, attraverso boschi fitti, tra ruscelli e laghi su una lunga pista sterrata, sotto una fitta pioggia che a tratti lasciava spazio al sole timido e tiepido accompagnato dall’ arcobaleno che in cielo faceva compagnia ai grandi rapaci che planavano sospesi dalle forti termiche. La RUTA 3 percorsa per giorni ferma la sua corsa davanti ad un grande cartello che attesta “aquì finaliza la carretera màs sureña del mundo” e nell’ufficio postale del parco, ci viene timbrano il passaporto che attesta l’arrivo in questo luogo unico. Io e Alice percorriamo il piccolo sentiero che prosegue nel bosco, ma piove così tanto che siamo costretti a proteggerci sotto una grande tettoia dove trovano riparo altri turisti.
 
 ( Foto  0687 – 0694 – 0817 – 0827 – 0878 – 0922 – 1012 – 1013 – 6074 – 6104 – 0796 – 0872 – 0876 – 0877 – 0945 – 01012 – 01012 -
