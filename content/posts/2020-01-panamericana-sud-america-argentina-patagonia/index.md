@@ -27,7 +27,7 @@ Guardo l’orologio, sono le 4:30 del mattino: troppo presto per alzarsi, troppo
 
 Ushuaia è una città insolita, dove a distanza di un isolato si passa dal lungomare curato e pulito all'Avenida San Martín, sede di molti negozi di accessori da sci ed escursioni montane. Una città viva a qualunque ora del giorno e della notte, con i suoi numerosi ristoranti e pub e gli innumerevoli hotel e casinò. Una città considerata da molti come l’ultimo approdo alla *Fin del Mundo*.
 
-Dopo aver raggiunto Ushuaia ci siamo spinti fino alla Bahia Lapataia, all’interno del parco naturale della **Tierra del Fuego**, attraversando boschi fitti su una lunga pista sterrata cge si snoda tra ruscelli e laghi, sotto una fitta pioggia che a tratti lasciava spazio al sole timido e tiepido, accompagnati dall’arcobaleno solcato dai grandi rapaci che planavano sospesi dalle forti termiche.
+Dopo aver raggiunto Ushuaia ci siamo spinti fino alla Bahia Lapataia, all’interno del parco naturale della **Tierra del Fuego**, attraversando boschi fitti su una lunga pista sterrata che si snoda tra ruscelli e laghi, sotto una fitta pioggia che a tratti lasciava spazio al sole timido e tiepido, accompagnati dall’arcobaleno solcato dai grandi rapaci che planavano sospesi dalle forti termiche.
 
 Dopo giorni di guida sulla Ruta Nacional 3, raggiungiamo il grande cartello che attesta “aquì finaliza la carretera màs sureña del mundo”. Nell’ufficio postale del parco otteniamo il timbro sul passaporto che attesta l’arrivo in questo luogo unico. Io e Alice percorriamo il piccolo sentiero che prosegue nel bosco, ma piove così tanto che siamo costretti a proteggerci sotto una grande tettoia dove trovano riparo altri turisti.
 
@@ -37,7 +37,7 @@ Ero spinto dal desiderio di raggiungere Ushuaia per vedere il punto in cui si in
 
 Alice prende i biglietti e attendiamo il nostro turno per salire sulla piccola imbarcazione. Dietro di noi molti turisti orientali attendono il proprio turno in una fila ordinata. Saliamo sulla piccola barca che ci trasporta ondeggiando e navigando vicino alle isolette e agli scogli sparsi nel canale.
 
-Vicino al natante otarie e cormorani nuotano sereni. Poco distante, nel centro del canale, il grande fare bianco e rosso dell'isola Les Éclaireurs è la sede di una numerosa colonia di cormorani. Raggiunta l’isola Bridges passeggeremo a lungo tra i licheni e gli arbusti per ammirare le coste. Uno spettacolo unico, ma questa è solo una piccola parte delle bellezze di questa terra.
+Vicino al natante otarie e cormorani nuotano sereni. Poco distante, nel centro del canale, il grande faro bianco e rosso dell'isola Les Éclaireurs è la sede di una numerosa colonia di cormorani. Raggiunta l’isola Bridges passeggeremo a lungo tra i licheni e gli arbusti per ammirare le coste. Uno spettacolo unico, ma questa è solo una piccola parte delle bellezze di questa terra.
 
 Ho letto molto sulla Terra del Fuoco, ogni volta che la immaginavo pensavo ad un luogo immacolato, rimasto come ai tempi della sua creazione, dove la bellezza dei colori e delle forme rapisce gli sguardi riempiendo gli occhi del viaggiatore. Immaginavo una terra mai vista, capace di travolgermi e di rapirmi, un luogo incredibile dove l’uomo si confronta con la natura selvaggia ed aspra tra boschi di conifere in un clima fresco, mite e piacevole. Una terra popolata da un'abbondante fauna di volpi, caprioli e castori. Un cielo solcato da innumerevoli uccelli e rapaci, tra cui il *Pajaro Carpintero*, un picchio dalla testa rossa. Un mare abitato da leoni marini, pinguini e molto altro ancora.
 
@@ -59,7 +59,7 @@ Ma perché è importante oggi il Pigafetta?
 
 Nel lontano 20 Settembre 1519 partirono da Siviglia 5 caravelle spagnole comandate da un portoghese di nome Magellano. Su quelle caravelle c’era un vicentino di nome Antonio Pigafetta, che si era aggregato alla flotta per soddisfare la sete di avventura e conoscenza. Egli fu uno dei soli 18 uomini a sopravvivere al primo giro del mondo via mare.
 
-Per me quest’uomo è diventato un esempio di forza, coraggio, caparbietà. Un uomo che avrebbe poruto starsene tranquillo a casa (proveniva da una famiglia nobile), ma che è voluto partire perché spinto dalla voglia di sapere. La sua sete di conoscenza lo ha fatto diventare uno dei più grandi esploratori, oltre ad essere un grande comunicatore pur non conoscendo le lingue dei paesi che attraversava.
+Per me quest’uomo è diventato un esempio di forza, coraggio, caparbietà. Un uomo che avrebbe potuto starsene tranquillo a casa (proveniva da una famiglia nobile), ma che è voluto partire perché spinto dalla voglia di sapere. La sua sete di conoscenza lo ha fatto diventare uno dei più grandi esploratori, oltre ad essere un grande comunicatore pur non conoscendo le lingue dei paesi che attraversava.
 
 **In tutti noi viaggiatori c’è una piccola parte dello spirito del Pigafetta e [leggere il suo libro](https://amzn.to/2u28LSU) è utile per riflettere sulle motivazioni che ci spingono a partire comprendendo le origini del viaggio.**
 
@@ -120,9 +120,9 @@ Nel raggiungere i vari punti di osservazione mi rapisce il cuore il boato intens
 
 Quando penso al freddo penso ai pinguini, alle foche, ai leoni marini… e così i miei ricordi tornano alla **Penisola di Valdés, un parco naturale dalla bellezza straordinaria e incontaminata**, celebre per le numerose colonie di cetacei che un tempo raggiungevano queste tiepide e calme acque per procreare e crescere per i piccoli, prima di dirigersi verso Sud.
 
-Dopo aver acquistato il biglietto chiediamo al punto informazioni qualche chiarimento in modo d’avere un quadro generale di questa grande penisola. Raggiungiamo Puerto Pirámides, l’unico centro abitato della penisola: nato in antichità per l’estrazione e il trasporto del sale dalle saline del posto, oggi ospita poche strutture turistiche e varie agenzie che organizzano escursioni in barca per il whale whatching.
+Dopo aver acquistato il biglietto chiediamo al punto informazioni qualche chiarimento, in modo d’avere un quadro generale di questa grande penisola. Raggiungiamo Puerto Pirámides, l’unico centro abitato della penisola: nato in antichità per l’estrazione e il trasporto del sale dalle saline del posto, oggi ospita poche strutture turistiche e varie agenzie che organizzano escursioni di whale whatching in barca.
 
-Visitiamo la costa che inizialmente si estende su una grande spiaggia, ampia e ben tenuta. Verso Est si trasforma in una costa rocciosa lunga qualche centinaio di metri, infranta da una collina oltre la quale si fa largo un’altra lingua di sabbia più grande della prima.
+Visitiamo la costa che inizialmente si estende su una spiaggia ampia e ben tenuta. Verso Est si trasforma in una costa rocciosa lunga qualche centinaio di metri, infranta da una collina oltre la quale si fa largo un’altra lingua di sabbia più grande della prima.
 
 Vicino al paese c’è una festa a cui partecipano una moltitudine di giovani, intenti a ballare sulla sabbia al ritmo di un’assordante musica disco. Hanno trascorso la notte in auto o in piccoli pullman, trasformati in camper saldando dei pannelli in lamiera sui finestrini. Tutti sono felici e si divertono, ma a causa della musica sparata a tutto volume non avvistiamo alcun essere marino per svariati km.
 
@@ -138,7 +138,7 @@ Vorremmo proseguire verso Punta Norte, ma una guida del posto ci consiglia di no
 
 ## Fine del viaggio, per ora
 
-Ormai è giorno e penso alla mia moto, consegnata ieri all’officina che la custodirà fino a Luglio. Mi mancherà molto perché, pur segnando sul cruscotto oltre 225.000 km, continua a regalarmi grandi emozioni dimostrarando tutta la sua forza e il suo valore. Spesso in questi ultimi viaggi è stata osservata dai passanti, molti dei quali si sono accostati per osservarla o per farle una moto. Sta diventando una vera protagonista.
+Ormai è giorno e penso alla mia moto, consegnata ieri all’officina che la custodirà fino a Luglio. Mi mancherà molto perché, pur segnando sul cruscotto oltre 225.000 km, continua a regalarmi grandi emozioni dimostrarando tutta la sua forza e il suo valore. Spesso in questi ultimi viaggi è stata osservata dai passanti, molti dei quali si sono accostati per osservarla o per farle una foto. Sta diventando una vera protagonista.
 
 Intanto sorrido. Sì, sorrido ricordando una scena avvenuta a Punta Arenas dal gommista, un uomo sulla cinquantina dal fisico atletico. Quando tocca il mio turno per sostituire lo pneumatico posteriore, propongo al gommista di avvicinare la moto al ponte mobile, magari togliendo le valigie, ma lui mi risponde in modo seccato che si arrangia. Lo osservo mentre toglie il cavalletto della moto e noto subito una prima smorfia. Spostando la moto quasi inciampa, ovviamente si blocca davanti al ponte mobile perché sarebbe impossibile spingerla oltre. Mi ripropongo di dargli una mano, ma niente vuole fare da sè. Al terzo tentativo con il fiatone e il viso paonazzo, il gommista rivolge il suo sguardo verso di me e seccato mi fa cenno di dargli una mano. Ritornando sulla sedia in cui ero seduto incrocio lo sguardo di Alice e subito sorridiamo silenziosamente, non vorremmo che il gommista si irritasse.
 
