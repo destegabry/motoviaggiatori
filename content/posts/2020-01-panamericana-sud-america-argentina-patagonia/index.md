@@ -1,8 +1,8 @@
 ---
 title: "Panamericana: Patagonia e Terra del Fuoco"
-date: "2020-01-20T09:00:00.000Z"
+date: "2020-01-20T16:00:00.000Z"
 slug: /2020/01/panamericana-sud-america-argentina-patagonia-terra-del-fuoco
-featured_image: ./featured.jpg
+featured_image: ./foto/IMG_0694.JPG
 excerpt: "Seconda parte di viaggio nell'estremo Sud del continente americano, tra Argentina e Cile"
 opening: "Nella <a href=\"/2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay\">prima parte del viaggio</a> abbiamo attraversato Cile, Perù, Bolivia, Argentina, Paraguay e Uruguay; a Dicembre 2019 siamo tornati in Sud America per spingerci ai limiti meridionali del continente per esplorare Patagonia e Terra del Fuoco, sulle orme del nostro compaesano Antonio Pigafetta."
 author: miral
@@ -31,7 +31,16 @@ Dopo aver raggiunto Ushuaia ci siamo spinti fino alla Bahia Lapataia, all’inte
 
 Dopo giorni di guida sulla Ruta Nacional 3, raggiungiamo il grande cartello che attesta “aquì finaliza la carretera màs sureña del mundo”. Nell’ufficio postale del parco otteniamo il timbro sul passaporto che attesta l’arrivo in questo luogo unico. Io e Alice percorriamo il piccolo sentiero che prosegue nel bosco, ma piove così tanto che siamo costretti a proteggerci sotto una grande tettoia dove trovano riparo altri turisti.
 
-( Foto  0687 – 0694 – 0817 – 0827 – 0878 – 0922 – 1012 – 1013 – 6074 – 6104 – 0796 – 0872 – 0876 – 0877 – 0945 – 01012 – 01012 -
+![Pista da Porvenir (Cile) strada Y-635](./foto/01/IMG_0878.JPG)
+![Pista da Porvenir (Cile) strada Y-635](./foto/01/IMG_E0872.JPG)
+![Pista da Porvenir (Cile) strada Y-635](./foto/01/IMG_E0877.JPG)
+![Pista da Porvenir (Cile) strada Y-635](./foto/01/IMG_0687.JPG)
+![Ushuaia (Argentina)](./foto/01/IMG_E1012.JPG)
+![Ushuaia (Argentina)](./foto/01/IMG_E0796.JPG)
+![Ushuaia (Argentina)](./foto/01/IMG_E0945.JPG)
+![Parco nazione della Tierra del Fuego](./foto/01/IMG_0817.JPG)
+![Parco nazione della Tierra del Fuego](./foto/01/IMG_6074.JPG)
+![Parco nazione della Tierra del Fuego](./foto/01/IMG_0827.JPG)
 
 Ero spinto dal desiderio di raggiungere Ushuaia per vedere il punto in cui si incontrano i dei due grandi oceani, così raggiunto il porto ci siamo aggregarsi ad una delle tante escursioni sul Canal Beagle, un lungo braccio di mare che unisce il Pacifico all'Atlantico e separa la Terra del Fuoco dalla terraferma.
 
@@ -43,7 +52,11 @@ Ho letto molto sulla Terra del Fuoco, ogni volta che la immaginavo pensavo ad un
 
 Ogni mia aspettativa è stata ampiamente soddisfatta.
 
-( Foto 1676 – 1677 - 6021 – 6031 – 6038 – 6040 -
+![Il faro dell'isola Les Éclaireurs (Argentina)](./foto/02/IMG_1677.JPG)
+![Pinguini e foche nelle isole Bridges (Argentina)](./foto/02/IMG_1676.JPG)
+![Pista da Porvenir (Cile) strada Y-635](./foto/02/IMG_6021.JPG)
+![Pista da Porvenir (Cile) strada Y-635](./foto/02/IMG_6031.JPG)
+![Pista da Porvenir (Cile) strada Y-635](./foto/02/IMG_6040.JPG)
 
 ## I pinguini di Pigafetta
 
@@ -67,16 +80,38 @@ Vi lascio alcune righe che tratte dalla sua [*Relazione del primo viaggio intorn
 
 *«Poi seguendo el medesimo cammino verso el polo Antartico, accosto da terra, venissemo a dare in due isole piene di occati e lupi marini. Veramente non se poría narrare il gran numero de questi occati. In una ora cargassimo le cinque navi. Questi occati sono negri e hanno tutte le penne ad uno modo, così nel corpo come nelle ali: non volano e vivono de pesce. Erano tanto grassi che non bisognava pelarli ma scorticarli. Hanno lo becco como uno corvo.»*
 
-( Foto 0021 – 0024 – 0030 – 0043 – 0066 – 0068 – 0076 – 0080 – 0086 – 0122 – 0124 – 0134 – 0165 – 0166 – 0167 – 0168 – 0169 – 0170 – 0171 – 0172 – 0174 -  6200 – 6203 – 9913 – 9962 – 0058 -
+![Lungo la RUTA 40 (Argentina)](./foto/03/IMG_6203.JPG)
+![Verso l'Area protetta do Punta Tombo (Argentina)](./foto/03/IMG_0174.JPG)
+![Punta Tombo (Argentina)](./foto/03/IMG_9913.JPG)
+![Museo a Punta Tombo (Argentina)](./foto/03/IMG_0021.JPG)
+![Museo a Punta Tombo (Argentina)](./foto/03/IMG_0024.JPG)
+![Area protetta Punta Tombo (Argentina)](./foto/03/IMG_0168.JPG)
+![Area protetta Punta Tombo (Argentina)](./foto/03/IMG_0165.JPG)
+![Area protetta Punta Tombo (Argentina)](./foto/03/IMG_0124.JPG)
+![Area protetta Punta Tombo (Argentina)](./foto/03/IMG_0166.JPG)
+![Area protetta Punta Tombo (Argentina)](./foto/03/IMG_0068.JPG)
+![Area protetta Punta Tombo (Argentina)](./foto/03/IMG_0080.JPG)
+![Area protetta Punta Tombo (Argentina)](./foto/03/IMG_0170.JPG)
+![Area protetta Punta Tombo (Argentina)](./foto/03/IMG_0171.JPG)
+![Area protetta Punta Tombo (Argentina)](./foto/03/IMG_0172.JPG)
 
 Ovviamente è stato d’obbligo recarci a San Julian per visitare la riproduzione della caravella Victoria, l'unico vascello rientrato in Spagna con i pochi superstiti di questo viaggio avventuroso. Saint Julian é stata fortemente segnata dal passaggio della spedizione di Magellano: in questo luogo le caravelle rimasero a svernare per 5 mesi, permettendo alla flotta di interagire con le persone del posto. Qui fu celebrata la prima Santa Messa e battezzato il primo patagone con il nome di “Giovanni”.
 
-
-( Foto 0227 – 0233 – 0250 – 0278 – 0284 – 0287 – 0363 – 0370 – 0377 – 0403 – 0404 – 0405 – 0408 – 0409 – 0410 – 0411 -
+![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0405.JPG)
+![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0370.JPG)
+![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0410.JPG)
+![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0363.JPG)
+![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0411.JPG)
+![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0278.JPG)
+![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0284.JPG)
+![Puerto San Julian (Argentina)](./foto/04/IMG_0250.JPG)
 
 Nel nostro piano di viaggio rientreranno altri due appuntamenti legati al Pigafetta: Punta Arenas e Trelew dove incontreremo la comunità italiana per scambiarci dei doni.
 
-( Foto 1297 – 1300 – 1315 – 1318 – 1329 – 1353 – 1354 – 1355 – 1356 – 1357 – 1294 – 1299 – 1300 – 1346 – 1347 – 1348 – 1349 – 1357 -
+![La Patagonia è famosa anche per il ritrovamento di numerosi resti di dinosauri](./foto/05/IMG_1329.JPG)
+![Visita al Teatro Verdi con il presidente l'Associazione di Italiani a Trelew (Argentina)](./foto/05/IMG_1297.JPG)
+![Scambio di doni offerti dall'Associazione Pigafetta 500 con il presidente l'Associazione di Italiani a Trelew (Argentina)](./foto/05/IMG_E1346.JPG)
+![Il documento che certifica un progetto in fase di realizzazione a Vicenza, dove verranno posizionate delle statue di pinguino scolpite dall'artista Michelazzo Margherita](./foto/05/IMG_E1357.JPG)
 
 ## Las Rutas Nacionales de Argentina 3 y 40
 
@@ -94,17 +129,33 @@ Le carcasse di auto sono la testimonianza delle pericolosità di questa strada e
 
 Non bisogna trascurare la presenza dei guanachi. Si tratta di un animale molto affascinante, ma pericoloso. Un benzinaio mi spiega esattamente perché: il guanaco vive allo stato brado e si impaurisce al passaggio dei mezzi, fuggendo non sempre nella direzione più logica… è un abile saltatore, ma nonostante le sue convinzioni non è in grado di scavalcare un motociclista, né tanto meno un camion. Esiste una regola osservata da tutti a cui ci adeguiamo subito: quando si incontrano delle mandrie di guanachi al pascolo, bisogna avvertire chi incontri lampeggiando i fari.
 
-( Foto 0178 – 0182 – 0196 – 0206 -   1181 – 1184 – 1417 – 1425 – 5955 – 5982 – 6107 – 6110 – 6199 – 6212 – 9739 – 9742 – 9790 – 9820 – 9845 – 9851 – 1157 – 1168 – 1386 – 1389
+![Paesaggi della Ruta Nacional 3 (Argentina)](./foto/06/IMG_0178.JPG)
+![Paesaggi della Ruta Nacional 3 (Argentina)](./foto/06/IMG_0182.JPG)
+![Paesaggi della  Ruta Nacional 3 (Argentina)](./foto/06/IMG_0196.JPG)
+![Camion lungo la Ruta 3 (Argentina)](./foto/06/IMG_1181.JPG)
+![I camion lasciano impronte pericolose sull Ruta 3 (Argentina)](./foto/06/IMG_5955.JPG)
+![Ruta Nacional 3 (Argentina)](./foto/06/IMG_1387.JPG)
+![La Ruta Nacional 3 sulla via della "Fin del Mundo" (Argentina)](./foto/06/IMG_5982.JPG)
+![La Ruta 3 attraversa un buon tratto di Patagonia cilena](./foto/06/IMG_6107.JPG)
+![Pista da Porvenir (Cile) strada Y-635](./foto/06/IMG_0561.JPG)
+![Pista da Porvenir (Cile) strada Y-635](./foto/06/IMG_0933.JPG)
+![Paesaggi della Ruta Nacional 3 (Argentina)](./foto/06/IMG_9851.JPG)
+![Ruta Nacional 3 (Argentina)](./foto/06/IMG_9769.JPG)
+![Carcasse di auto, testimonianze della pericolosità della Ruta 3](./foto/06/IMG_9886.JPG)
 
 La **Ruta Nacional 40** è la più lunga delle Rutas dell’Argentina e una delle strade più lunghe al mondo. Si snoda da La Quiaca a Nord per terminare a Sud nei pressi di Punta Loyola, correndo parallelamente lungo la cordigliera delle Ande. Sale e scende attraverso fiumi e parchi naturali, stupendo chi la percorre della bellezza sterile di questa terra. E’ una strada che stimola la mente per la bellezza del paesaggio che la circonda, riportando il viaggiatore ad un contatto unico con la natura.
 
 **Qui non conta il mezzo con cui la percorri, ma conta come la percorri**. Ora che l’ho fatto in tutta la sua lunghezza posso assicurarvi che la parte patagone è sicuramente la migliore. L’unico consiglio che mi sento di dare ai viaggiatori è di prestare massima attenzione nel tratto tra Tres Lagos e Gobernador Gregores dove è presente molta ghiaia smossa, ma percorribile anche da moto pesanti come la nostra [BMW R1200GS](/tag/bmw-r1200gs).
 
-( Foto 0427 – 0561 – 0933 – 1174 – 1175 – 1176 – 1178 – 1180 – 1387 – 1393 – 9769 – 9886 – 9845 – 9851 – 9860 – 9867 – 9883 – 0964 -
+![La Ruta Nacional 40 (Argentina)](./foto/07/IMG_1175.JPG)
+![Tratto sterrato della Ruta Nacional 40 (Argentina)](./foto/07/IMG_6199.JPG)
+![Sulla Ruta 40 il vento è inevitabile e pericoloso](./foto/07/IMG_1176.JPG)
+![Sulla Ruta 40 bisogna anche stare molto attenti agli animali selvatici](./foto/07/IMG_6212.JPG)
+![Viste incredibili dalla Ruta Nacional 40 (Argentina)](./foto/07/IMG_1178.JPG)
 
 ## Il ghiacciaio Perito Moreno
 
-Una tappa obbligata sul percorso della Ruta 40 è El Calafate, per visitare il **Perito Moreno: la terza riserva di acqua dolce del mondo**, una formazione di ghiaccio che si estende per 250 km quadrati e per 30 km di lunghezza, spessa più di 60 metri; è in continuo movimento perché tra la roccia e il ghiaccio c’è una sorta di cuscino d’acqua che permette al ghiacciaio un movimento di circa 2 metri al giorno.
+Una tappa obbligata sul percorso della Ruta 40 è El Calafate, per visitare il **Perito Moreno: la terza riserva di acqua dolce del mondo**. Una formazione di ghiaccio che si estende per 250 km quadrati e per 30 km di lunghezza, spessa più di 60 metri, in continuo movimento perché tra la roccia e il ghiaccio c’è una sorta di cuscino d’acqua che permette al ghiacciaio un movimento di circa 2 metri al giorno.
 
 Purtroppo il 10 Marzo del 2016 è crollato il *ponte di ghiaccio*, un arco frontale di straordinaria bellezza. Secondo gli esperti il crollo è riconducibile al naturale movimento del ghiaccio e non al riscaldamento globale. Resta il fatto che non avrei mai pensato di osservare questa meraviglia glaciale ad una temperatura di quasi 20 gradi.
 
@@ -114,7 +165,11 @@ Superato l’accesso al parco, dopo alcune curve tra la vegetazione fitta, compa
 
 Nel raggiungere i vari punti di osservazione mi rapisce il cuore il boato intenso, duro e intervallato che indica la rottura dei ghiacci sotto i crudeli raggi di sole. Blocchi enormi si disgregano cadendo in acqua rumorosamente, creando onde che si infrangono contro piccoli iceberg. Questo suono mi trasmette un lamento che ritengo non sia colto dalla maggior parte dei turisti, che fotografano e osservano rumorosamente questa opera gelida e maestosa della natura. Anche se forse serve a poco, avrei ritenuto più utile accedere a questo luogo con mezzi elettrici per cercare di stimolare la coscienza dei visitatori. Oltre alle passerelle esiste la possibilità di osservare il ghiacciaio in tutta la sua maestosità dalle acque del lago andino, utilizzando una delle tante barche dei vari tour organizzati.
 
-( Foto 4282 – 1001 – 1026 – 1076 – 1082 – 1094 – 1095 -
+![Raggiungiamo la terra dei ghiacciai a El Calafate (Argentina)](./foto/08/IMG_1001.JPG)
+![In lontananza vediamo per la prima volta il ghiacciaio Perito Moreno (Argentina)](./foto/08/IMG_1026.JPG)
+![Panoramica del ghiacciaio Perito Moreno (Argentina)](./foto/08/IMG_1095.JPG)
+![Fronte del ghiacciaio Perito Moreno (Argentina)](./foto/08/IMG_1094.JPG)
+![Ghiacciaio Perito Moreno (Argentina)](./foto/08/IMG_1082.JPG)
 
 ## Natura incontaminata alla Penisola di Valdés
 
@@ -134,7 +189,11 @@ Purtroppo in questo periodo non è possibile avvistare i grandi cetacei, la stag
 
 Vorremmo proseguire verso Punta Norte, ma una guida del posto ci consiglia di non proseguire perché la presenza di sabbia sarà costante lungo tutta la pista. La guida ci racconta che qualche giorno prima avevano dovuto soccorrere un motociclista infortunato proprio lungo il tratto di pista che avevamo percorso al mattino. Decidiamo con rammarico di rientrare a Puerto Madryn.
 
-( Foto 1234 – 1245 – 1248 – 1285 – 1286 – 1288 – 1330 – 1399 – 1400 – 1401 – 1402 – 1403 – 1404 – 9762 – 9763 – 1368 – 1369 -
+![Penisola di Valdes (Argentina)](./foto/09/IMG_1245.JPG)
+![Penisola di Valdes (Argentina)](./foto/09/IMG_1248.JPG)
+![Porto Piramides, nella penisola di Valdes (Argentina)](./foto/09/IMG_1286.JPG)
+![Porto Piramides, nella penisola di Valdes (Argentina)](./foto/09/IMG_1402.JPG)
+![Guanachi nella penisola di Valdes (Argentina)](./foto/09/IMG_1404.JPG)
 
 ## Fine del viaggio, per ora
 
@@ -142,14 +201,20 @@ Ormai è giorno e penso alla mia moto, consegnata ieri all’officina che la cus
 
 Intanto sorrido. Sì, sorrido ricordando una scena avvenuta a Punta Arenas dal gommista, un uomo sulla cinquantina dal fisico atletico. Quando tocca il mio turno per sostituire lo pneumatico posteriore, propongo al gommista di avvicinare la moto al ponte mobile, magari togliendo le valigie, ma lui mi risponde in modo seccato che si arrangia. Lo osservo mentre toglie il cavalletto della moto e noto subito una prima smorfia. Spostando la moto quasi inciampa, ovviamente si blocca davanti al ponte mobile perché sarebbe impossibile spingerla oltre. Mi ripropongo di dargli una mano, ma niente vuole fare da sè. Al terzo tentativo con il fiatone e il viso paonazzo, il gommista rivolge il suo sguardo verso di me e seccato mi fa cenno di dargli una mano. Ritornando sulla sedia in cui ero seduto incrocio lo sguardo di Alice e subito sorridiamo silenziosamente, non vorremmo che il gommista si irritasse.
 
-( Foto 0439 – 1141 -
-
+![Sostituzione pneumatico posteriore a Punta Arenas (Cile)](./foto/10/IMG_0439.JPG)
+![Così tanti "2" non li avevo mai visti! Peccato che qualche minuto prima ci fossero 22°C](./foto/10/IMG_1141.JPG)
 
 Lungo la strada abbiamo incontrato molti motociclisti con i quali ci siamo sempre intrattenuti scambiando i nostri profili social. Motociclisti brasiliani, colombiani, tedeschi, svizzeri, austriaci, francesi, statunitensi (mamma quanto parlano) e canadesi. In Sud America ci ha sorpreso la massiccia presenza di tedeschi con i loro super accessoriati UNIMOG camperizzati, tanto che ad un certo punto mi ero quasi convinto che ci fosse un raduno di UNIMOG. Ne avremmo contati una ventina.
 
 Ad una coppia incontrata in tre diverse occasioni abbiamo chiesto di poter vedere da vicino l’interno di questo bisonte della strada. Ogni cosa ordinata al suo posto, sicurezze di tutti i tipi (compreso il satellitare), un’indipendenza strabiliante data dalla possibilità di rimanere senza acqua, elettricità e gasolio per giorni e la possibilità di uscire dal mezzo da ogni lato attraverso pannelli robusti e removibili. La coppia ci precisa di non aver mai usufruito delle vere potenzialità del mezzo, che era di proprietà dei loro genitori, fermo in Sud America da anni per viaggiare in lungo e in largo in questo continente così vasto.
 
-( Foto 0153 – 0928 – 1136 – 9749 – 9752 – 9788 -
+![Amicizie lungo la strada](./foto/11/IMG_0153.JPG)
+![In coda dietro ad un grande Unimog](./foto/11/IMG_0928.JPG)
+![Amicizie lungo la strada](./foto/11/IMG_1136.JPG)
+![Amicizie lungo la strada](./foto/11/IMG_9749.JPG)
+![Amicizie lungo la strada](./foto/11/IMG_9752.JPG)
+![Amicizie lungo la strada](./foto/11/IMG_9788.JPG)
+
 
 E’ giorno ed è arrivato il momento di alzarsi. Ora basta guardare indietro è ora di progettare il prossimo viaggio che ci spingerà a solcare i confini dell’Equador e della Colombia.
 
