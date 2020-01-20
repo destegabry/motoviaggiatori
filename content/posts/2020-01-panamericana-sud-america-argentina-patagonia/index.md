@@ -102,9 +102,6 @@ Ovviamente è stato d’obbligo recarci a San Julian per visitare la riproduzion
 ![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0410.JPG)
 ![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0363.JPG)
 ![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0411.JPG)
-![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0278.JPG)
-![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0284.JPG)
-![Puerto San Julian (Argentina)](./foto/04/IMG_0250.JPG)
 
 Nel nostro piano di viaggio rientreranno altri due appuntamenti legati al Pigafetta: Punta Arenas e Trelew dove incontreremo la comunità italiana per scambiarci dei doni.
 
