@@ -27,7 +27,7 @@ Guardo l’orologio, sono le 4:30 del mattino: troppo presto per alzarsi, troppo
 
 Ushuaia è una città insolita, dove a distanza di un isolato si passa dal lungomare curato e pulito all'Avenida San Martín, sede di molti negozi di accessori da sci ed escursioni montane. Una città viva a qualunque ora del giorno e della notte, con i suoi numerosi ristoranti e pub e gli innumerevoli hotel e casinò. Una città considerata da molti come l’ultimo approdo alla *Fin del Mundo*.
 
-Dopo aver raggiunto Ushuaia ci siamo spinti fino alla Bahia Lapataia, all’interno del parco naturale della **Tierra del Fuego**, attraversando boschi fitti su una lunga pista sterrata che si snoda tra ruscelli e laghi, sotto una fitta pioggia che a tratti lasciava spazio al sole timido e tiepido, accompagnati dall’arcobaleno solcato dai grandi rapaci che planavano sospesi dalle forti termiche.
+Dopo aver raggiunto Ushuaia ci siamo spinti fino alla Bahia Lapataia, all’interno del parco naturale della **Tierra del Fuego**. Attraversiamo boschi fitti su una lunga pista sterrata che si snoda tra ruscelli e laghi, sotto una fitta pioggia che a tratti lasciava spazio al sole timido e tiepido, accompagnati dall’arcobaleno solcato dai grandi rapaci che planavano sospesi dalle forti termiche.
 
 Dopo giorni di guida sulla Ruta Nacional 3, raggiungiamo il grande cartello che attesta “aquì finaliza la carretera màs sureña del mundo”. Nell’ufficio postale del parco otteniamo il timbro sul passaporto che attesta l’arrivo in questo luogo unico. Io e Alice percorriamo il piccolo sentiero che prosegue nel bosco, ma piove così tanto che siamo costretti a proteggerci sotto una grande tettoia dove trovano riparo altri turisti.
 
@@ -42,9 +42,9 @@ Dopo giorni di guida sulla Ruta Nacional 3, raggiungiamo il grande cartello che 
 ![Parco nazione della Tierra del Fuego](./foto/01/IMG_6074.JPG)
 ![Parco nazione della Tierra del Fuego](./foto/01/IMG_0827.JPG)
 
-Ero spinto dal desiderio di raggiungere Ushuaia per vedere il punto in cui si incontrano i dei due grandi oceani, così raggiunto il porto ci siamo aggregarsi ad una delle tante escursioni sul Canal Beagle, un lungo braccio di mare che unisce il Pacifico all'Atlantico e separa la Terra del Fuoco dalla terraferma.
+Ero spinto dal desiderio di raggiungere Ushuaia per vedere il punto in cui si incontrano i dei due grandi oceani, così raggiunto il porto ci siamo aggregati ad una delle tante escursioni sul Canal Beagle, un lungo braccio di mare che unisce il Pacifico all'Atlantico e separa la Terra del Fuoco dalla terraferma.
 
-Alice prende i biglietti e attendiamo il nostro turno per salire sulla piccola imbarcazione. Dietro di noi molti turisti orientali attendono il proprio turno in una fila ordinata. Saliamo sulla piccola barca che ci trasporta ondeggiando e navigando vicino alle isolette e agli scogli sparsi nel canale.
+Alice prende i biglietti e attendiamo il nostro turno per salire sulla piccola imbarcazione. Dietro di noi, molti turisti orientali attendono il proprio turno in una fila ordinata. Saliamo sulla piccola barca che ci trasporta ondeggiando e navigando vicino alle isolette e agli scogli sparsi nel canale.
 
 Vicino al natante otarie e cormorani nuotano sereni. Poco distante, nel centro del canale, il grande faro bianco e rosso dell'isola Les Éclaireurs è la sede di una numerosa colonia di cormorani. Raggiunta l’isola Bridges passeggeremo a lungo tra i licheni e gli arbusti per ammirare le coste. Uno spettacolo unico, ma questa è solo una piccola parte delle bellezze di questa terra.
 
@@ -101,7 +101,6 @@ Ovviamente è stato d’obbligo recarci a San Julian per visitare la riproduzion
 ![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0370.JPG)
 ![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0410.JPG)
 ![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0363.JPG)
-![Riproduzione caravella Victoria a Puerto San Julian (Argentina)](./foto/04/IMG_0411.JPG)
 
 Nel nostro piano di viaggio rientreranno altri due appuntamenti legati al Pigafetta: Punta Arenas e Trelew dove incontreremo la comunità italiana per scambiarci dei doni.
 
@@ -145,7 +144,6 @@ La **Ruta Nacional 40** è la più lunga delle Rutas dell’Argentina e una dell
 **Qui non conta il mezzo con cui la percorri, ma conta come la percorri**. Ora che l’ho fatto in tutta la sua lunghezza posso assicurarvi che la parte patagone è sicuramente la migliore. L’unico consiglio che mi sento di dare ai viaggiatori è di prestare massima attenzione nel tratto tra Tres Lagos e Gobernador Gregores dove è presente molta ghiaia smossa, ma percorribile anche da moto pesanti come la nostra [BMW R1200GS](/tag/bmw-r1200gs).
 
 ![La Ruta Nacional 40 (Argentina)](./foto/07/IMG_1175.JPG)
-![Tratto sterrato della Ruta Nacional 40 (Argentina)](./foto/07/IMG_6199.JPG)
 ![Sulla Ruta 40 il vento è inevitabile e pericoloso](./foto/07/IMG_1176.JPG)
 ![Sulla Ruta 40 bisogna anche stare molto attenti agli animali selvatici](./foto/07/IMG_6212.JPG)
 ![Viste incredibili dalla Ruta Nacional 40 (Argentina)](./foto/07/IMG_1178.JPG)
