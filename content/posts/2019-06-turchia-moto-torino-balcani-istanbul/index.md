@@ -3,11 +3,13 @@ title: "#TurchiaInMoto: da Torino a Istanbul"
 date: "2019-06-04T23:30:00.000Z"
 slug: /2019/06/turchia-moto-torino-balcani-istanbul
 featured_image: ./featured.jpg
+featured_youtube: S4GRNjR_shg
 excerpt: Da Torino ad Istanbul attraversando la penisola balcanica sulle strade di Croazia, Montenegro, Albania e Grecia
 author: stefania
 categories:
 - viaggi
 - viaggi/turchia
+- video
 tags:
 - tag/turchia-in-moto
 - tag/albania
