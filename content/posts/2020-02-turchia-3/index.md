@@ -23,15 +23,23 @@ tags:
 
 ![Percorso Turchia FIXME](./percorso.png "FIXME")
 
-## Giorno 12: XXXXXX
+## Giorno 12: I monti del Tauro e le piscine di Pamukkale
 
-- Sveglia a Beyşehir, giriamo attorno al lago celeste incontrando tartarughe, mucche e vecchine in carretto
-- Ci arrimpichiamo sui monti del Tauro ancora imbiancati, attraversando foreste di cedri
-- Pranziamo ad Aksu, tocchiamo il lago di Eğirdir per poi arrivare a Pamukkale
-- Attemdiamo il tramonto sul "castello di cotone"
-- Conosciamo Roberto e aiutiamo un membro del motoclub "Gatti Neri" vittima di un brutto incidente
+Ci svegliamo a Beyşehir e facciamo colazione sulla terrazza panoramica coperta del nostro hotel. Prepariamo le moto, che durante la notte avevamo lasciato proprio davanti all'ingresso, sotto gli occhi vigili del receptionist. 
+Mentre gli altri finiscono di prepararsi, io e Gabriele ci avviamo in moto verso la vicina moschea di Eşrefoğlu, piccola ma davvero bella. La moschea risale al XIII secolo e gli esterni austeri, spezzati dal decoratissimo portale, nascondono un ambiente interno accogliente, caratterizzato da colonne e soffitto in legno di cedro, perfettamente conservati. Le rondini nidificano nella grande sala principale ed entrano ed escono in continuazione dall'ingresso principale. Mi chiedo come si faccia a tenere il grande tappeto perfettamente pulito, nonostante la presenza di questi deliziosi inquilini.
+Raggiunti dai compagni di viaggio, prendiamo una strada che gira intorno al grande lago. La giornata è abbastanza tersa e possiamo godere dei colori dell'acqua e del cielo, così come del verde della vegetazione. Incontriamo una testuggine che attraversa la strada e ci fermiamo a fotografarla. Nei paraggi c'è anche una torre di avvistamento e decidiamo di salire per ammirare meglio il lago. C'è un forte vento. Nel frattempo sopraggiunge una vecchina alla guida di un carretto trainato da due muli. La superiamo e, dopo poco, la strada prosegue tra foreste di cedri e vista sui monti del Tauro innevati. Mentre tentiamo di fare delle foto di questa bellissima strada, Simone ha un piccolo incidente e cade dalla moto cercando di fare inversione, ma per fortuna non si fa male in nessun modo e se la cava con pochi graffi su una delle valigie.
+Arriviamo al piccolo borgo di Aksu, notiamo una piazzetta e decidiamo di fermarci per un tè/merenda. La fame però prende il sopravvento, nonostante sia piuttosto presto, e la merenda si trasforma in un prematuro pranzo. Siamo seduti all'aperto in uno tra due locali adiacenti, che si chiama Ünversite Cafe Fast Food. In effetti di fronte c'è un grosso edificio targato Ünversite, ma non si spiega come possa essere un'università, in un villaggio così piccolo. Nel locale c'è solo la famiglia che lo gestisce, genitori e figlia. Chiedo di andare in bagno e la bambina mi ci accompagna per mano. Il bagno è in comune con il locale adiacente e la porta si apre con un pratico robusto filo di ferro. All'uscita dalla toilette, la vecchina che gestisce questo altro locale, mi intervista incuriosita sul nostro viaggio e sulla mia vita personale, parlando come può in inglese.
+Lasciamo questo luogo bucolico e, dopo aver costeggiato un tratto del lago Eğirdir, arriviamo finalmente al nostro obiettivo della giornata: Pamukkale.
+Il luogo appare decisamente turistico, sembra che tutte le strutture del borgo siano B&B, alberghi e/o ristoranti. Il nostro B&B è abbastanza accogliente, è a conduzione familiare, alle camere si accede da dei terrazzi che affacciano sul cortile interno con piscina. La piscina non viene pulita da un po' quindi non è utilizzabile, ma poco male, il nostro obiettivo è metterci a bagno nelle piscine naturali poco distanti. Decidiamo di riposare un pochino e di rimandare la visita del sito per godere dei colori del tramonto.
+All'ingresso bisogna togliere le scarpe e proseguire scalzi per non sporcare le candide formazioni rocciose, l'acqua nelle vasche è a diverse temperature e l'aria esterna non è caldissima, per cui alla fine metteremo solo i piedi a bagno. Il luogo è davvero suggestivo, anche se molte delle pozze di travertino sono vuote ed è abbastanza affollato. Proseguendo verso la cima della collina si arriva al sito archeologico dell'antica città di Hierapolis. La città è dominata da un magnifico teatro romano e si possono notare ovunque i canali che portavano l'acqua termale in città. I colori del fieno e dei papaveri al tramonto rendono la vista incantevole. Torniamo indietro e continuiamo a passeggiare tra le vasche azzurre finché possiamo, così quando arriviamo all'ingresso è ormai buio. All'ingresso incontriamo un altro motoviaggiatore italiano, Roberto. Avevamo notato la sua Ténéré parcheggiata in un campeggio. Lo invitiamo a cenare con noi al nostro B&B e così passiamo la serata a scambiarci i racconti dei rispettivi viaggi.
+Presso il B&B è parcheggiata la moto di un altro italiano, membro del motoclub "Gatti Neri", che purtroppo ha avuto un brutto incidente poco distante da qui ed è stato portato in Italia per essere curato. Gabriele riesce a contattarlo e fa da tramite con il proprietario del B&B per definire i dettagli dell'organizzazione del rientro del mezzo in Italia.
 
-## Giorno 13: XXXXXX
+## Giorno 13: Efeso e la costa egea
+
+Il mattino dopo, a sorpresa, riusciamo ad ammirare le mongolfiere in volo che non eravamo riusciti a vedere in Cappadocia. 
+Ci avviamo in direzione Çesme e la strada non offre particolari attrattive. Quando arriviamo al sito archeologico di Efeso, è già ora di pranzo, ma i chioschi e negozi di souvenir di fronte all'ingresso non sembrano offrire più che snack e bevande. Torniamo al bivio precedente e ci fermiamo in un enorme ristorante con tavoli all'aperto e all'interno, popolato di scolari in gita e turisti scesi dai pullman gran turismo. Ci serviamo al buffet cercando di sottrarre qualche patatina fritta alla foga degli studenti.
+Finalmente torniamo all'ingresso del parco archeologico e iniziamo a visitarlo. Il sito è ben organizzato e popolato di gatti come, pare, qualsiasi luogo in Turchia. Il pezzo forte è la facciata della biblioteca di Celso, affacciata sull'agorà. La facciata è stata ricostruita dagli archeologi negli anni 60 e 70. Tutta la città è stata distrutta più volte da terremoti. Poco distante si può visitare il teatro, imponente e ben conservato. 
+Abbandoniamo il sito soddisfatti e continuiamo verso la costa occidentale della Turchia e verso Çesme, purtroppo il pomeriggio è abbastanza grigio. Arrivati in città, ci consoliamo con una cena a base di pescato in uno degli eleganti ristoranti sul porticciolo turistico.
 
 - Strada noiosa fino ad Efeso, dove passiamo la mattinata
 - Pranziamo in un "tipico" ristorante a buffet
@@ -44,7 +52,12 @@ IMPORTANTE traghetto Çeşme-Chios:
 - non tutti i traghetti trasportano veicoli
 - passeggero 20€, moto 25€
 
-## Giorno 14: XXXXXX
+## Giorno 14: Cambio di programma, Chios
+
+A questo punto il piano iniziale avrebbe previsto che iniziassimo a risalire verso i balcani per 1500 km ma, complici il ritardo sulla tabella di marcia e la stanchezza che comincia a farsi sentire, decidiamo di prendere il mare. Al largo della città possiamo vedere l'isola greca di Chios, non ci sono traghetti diretti dalla Turchia continentale alla Grecia continentale, per cui ci imbarchiamo sul primo traghetto per l'isola, ci siamo informati e sappiamo che quella sera stessa potremo prendere un traghetto per Atene da Chios. I traghetti si possono prenotare su https://www.ankertravel.net/en/ e https://bilet.feribot.net/. Non tutti i traghetti trasportano veicoli, le tariffe si aggirano intorno ai 20€ per il passeggero e 25€ per la moto.
+Il viaggio dura all'incirca mezz'ora. 
+Arrivati a destinazione e sbrigate le formalità doganali, prendiamo un caffè e cerchiamo di prenotare, con qualche difficoltà, il traghetto per quella sera. Purtroppo scopriamo che non ci sono posti letti disponibili, ma non abbiamo alternative. 
+Abbiamo la fortuna di essere capitati qui nella giornata di sole migliore da quando abbiamo iniziato il viaggio, così, ci apprestiamo a visitare l'isola con le migliori premesse. Ci inoltriamo nell'interno, selvaggio e coperto di macchia mediterranea. Sembra che molti boschi siano stati consumati dagli incendi, è un vero peccato. Dalla cima delle colline si scorge di continuo il mare azzurrissimo. Di rado si incontra qualche minuscolo borgo circondato da vigne e coltivazioni tipiche. Solo qui a Chios si coltiva il tipico mastice, ovvero una resina ottenuta dal lentisco. Viene utilizzata principalmente nell'industria cosmetica e farmaceutica, ma nell'isola si inventano qualsiasi altro tipo di utilizzo pur di venderlo ai turisti, come il caffè aromatizzato al mastice, la gomma da masticare, caramelle o altri prodotti alimentari.
 
 - Finalmente una bellissima giornata di sole
 - Ci svegliamo presto per superare le formalità doganali Turche e ci imbarchiamo per Chios
