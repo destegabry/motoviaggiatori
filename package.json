@@ -70,7 +70,7 @@
     "@babel/plugin-proposal-optional-chaining": "^7.8.3",
     "babel-eslint": "^10.0.3",
     "babel-preset-gatsby": "^0.2.27",
-    "eslint-config-react-app": "^5.1.0",
+    "eslint-config-react-app": "^5.2.0",
     "eslint-plugin-graphql": "^3.1.1",
     "eslint-plugin-react": "^7.18.0",
     "markdownlint-cli": "^0.18.0"
