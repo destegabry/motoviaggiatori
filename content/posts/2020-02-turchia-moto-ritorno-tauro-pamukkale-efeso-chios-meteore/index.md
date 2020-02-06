@@ -19,6 +19,8 @@ tags:
 - tag/turchia
 - tag/europa-orientale
 - tag/grecia
+- tag/pamukkale
+- tag/efeso
 ---
 
 ![Percorso Turchia ritorno](./percorso.png "Dal lago di Beyşehir a Torino passando per i monti del Tauro, Pamukkale, Efeso, Chios e le Meteore")
