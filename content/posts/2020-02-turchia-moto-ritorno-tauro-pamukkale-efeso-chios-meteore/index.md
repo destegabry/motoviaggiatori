@@ -5,7 +5,7 @@ slug: /2020/02/turchia-moto-ritorno-tauro-pamukkale-efeso-chios-meteore
 featured_image: ./featured.jpg
 featured_youtube: G-IVsr2OsdU
 excerpt: Ritorno dalla Turchia a Torino passando per monti, spiagge, siti archeologici e monasteri ortodossi
-opening: "<a href=\"/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara\">Lasciati alle spalle la fiabesca Cappadocia</a>, rientriamo in Italia passando per i monti del Tauro, Pamukkale, Efeso, Chios e le Meteore."
+opening: "<a href=\"/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara\">Lasciata alle spalle la fiabesca Cappadocia</a>, rientriamo in Italia passando per i monti del Tauro, Pamukkale, Efeso, Chios e le Meteore."
 author: stefania
 categories:
 - viaggi
@@ -25,7 +25,7 @@ tags:
 
 ## Giorno 12: I monti del Tauro e le piscine di Pamukkale
 
-Ci svegliamo a Beyşehir e facciamo colazione sulla terrazza panoramica coperta del nostro hotel. Prepariamo le moto, che durante la notte avevamo lasciato proprio davanti all'ingresso, sotto gli occhi vigili del receptionist. Mentre gli altri finiscono di prepararsi, io e Gabriele ci avviamo in moto verso la vicina moschea di Eşrefoğlu, piccola ma affascinante. Gabriele parcheggia la moto proprio di fronte all'ingresso, ma viene subito sfrattato da due signore che reclamano il posto per i loro carretti adibiti alla vendita di bambole fatte a mano e altri souvenir. L'edificio risale al XIII secolo e gli esterni austeri, spezzati dal decoratissimo portale, nascondono un ambiente interno accogliente, caratterizzato da colonne e soffitto in legno di cedro, perfettamente conservati. Le rondini nidificano nella grande sala principale ed entrano ed escono in continuazione dall'ingresso principale. Mi chiedo come si faccia a tenere il grande tappeto perfettamente pulito, nonostante la presenza di questi simpatici inquilini.
+Ci svegliamo a Beyşehir e facciamo colazione sulla terrazza panoramica coperta del nostro hotel. Prepariamo le moto, che durante la notte avevamo lasciato proprio davanti all'ingresso, sotto gli occhi vigili del receptionist. Mentre gli altri finiscono di prepararsi, io e Gabriele ci avviamo in moto verso la vicina moschea di Eşrefoğlu, piccola ma affascinante. Gabriele parcheggia la moto proprio di fronte all'ingresso, ma viene subito sfrattato da due signore che reclamano il posto per i loro carretti adibiti alla vendita di bambole fatte a mano e altri souvenir. L'edificio risale al XIII secolo e gli esterni austeri, spezzati dal decoratissimo portale, nascondono un ambiente interno accogliente, caratterizzato da colonne e soffitto in legno di cedro, perfettamente conservati. Le rondini nidificano nella grande sala ed entrano ed escono in continuazione dall'ingresso principale. Mi chiedo come si faccia a tenere il grande tappeto perfettamente pulito, nonostante la presenza di questi simpatici inquilini.
 
 ![Moschea Eşrefoğlu (Beyşehir)](./galleries/01/DSC02052.jpeg "La moschea Eşrefoğlu di Beyşehir risale al XIII secolo")
 ![Moschea Eşrefoğlu (Beyşehir)](./galleries/01/DSC02020.jpeg "Il portale della moschea Eşrefoğlu a Beyşehir")
@@ -105,7 +105,7 @@ Superiamo alcune splendide calette e scegliamo quella di Agia Dynami per una sos
 
 Dopo pranzo e dopo un po' di riposo, io e Gabriele decidiamo di andare a visitare il vicino borgo di Pyrgi, "il villaggio dipinto". Deve il soprannome alle tipiche decorazioni geometriche bianche e nere delle sue abitazioni ed è Patrimionio UNESCO. Assaggiamo un caffè al mastice nella piazzetta della chiesa dei Santi Apostoli, facciamo qualche foto e, a malincuore, ci accingiamo a dirigerci verso il porto.
 
-Concludiamo una delle giornate più piacevoli e fortunate dell'intero viaggio (in fondo era una tappa non programmata!) con una cena a base di Pita Gyros. Ci imbarchiamo sul traghetto per Atene. Lo scenario è più o meno apocalittico, ci sono corpi ammassati ovunque e dobbiamo rassegnarci a stenderci sul pavimento. Sarà una lunga notte.
+Concludiamo una delle giornate più piacevoli e fortunate dell'intero viaggio (in fondo era una tappa non programmata!) con una cena a base di pita gyros. Ci imbarchiamo sul traghetto per Atene. Lo scenario è più o meno apocalittico, ci sono corpi ammassati ovunque e dobbiamo rassegnarci a stenderci sul pavimento. Sarà una lunga notte.
 
 ![Coltivazioni lentisco Chios](./galleries/07/DSC02333.jpeg "Coltivazioni di lentisco da cui si ricava il famoso mastice di Chios")
 ![Piazza Pyrgi (Chios)](./galleries/07/DSC02340.jpeg "Piazza centrale del “villaggio dipinto”, il borgo di Pyrgi (Chios)")
