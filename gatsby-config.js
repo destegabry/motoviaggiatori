@@ -24,7 +24,7 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-netlify-cache`,
-    `@rhysforyou/gatsby-plugin-react-helmet-async`,
+    `gatsby-plugin-react-helmet-async`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
