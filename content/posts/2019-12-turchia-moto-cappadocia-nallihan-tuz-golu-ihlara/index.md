@@ -223,7 +223,7 @@ Tiriamo dritto fino alle sponde del lago Beyşehir, fermandoci nell'omonima citt
 
 Ceniamo in una bettola accanto l'albergo e poi andiamo in cerca di caffeina nel grande bar che si trova poco dopo il ponte di pietra Taş Köprü. Ce la mettono tutta, ma ci servono un espresso davverso slavato: io e Simone non ci stiamo e proviamo a spiegare alla barista come fare un espresso, con risultati incoraggianti ma non proprio entusiasmanti.
 
-**[Seguici su Facebook](https://facebook.com/motoviaggiatori/) per non perderti il prossimo episodio!**
+**Il viaggio continua nella <a href="/2020/02/turchia-moto-ritorno-tauro-pamukkale-efeso-chios-meteore">terza e ultima parte della #TurchiaInMoto: il ritorno attraverso i monti del Tauro, Pamukkale, Efeso, Chios e le Meteore</a>!**
 
 In questo viaggio abbiamo messo alla prova alcuni prodotti dei nostri partner tecnici:
 
