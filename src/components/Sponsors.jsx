@@ -2,6 +2,7 @@ import React from 'react'
 import Img from 'gatsby-image/withIEPolyfill'
 import { css } from '@emotion/core'
 
+import { MEDIUM_SCREEN_ONLY } from '../utils/breakpoints';
 import useAllSponsors from '../hooks/use-all-sponsors'
 
 const openSponsorLink = url => {
@@ -26,8 +27,13 @@ const Sponsors = (props) => {
 
         a {
           padding: .5rem;
-          max-width: 120px;
-          width: 100%;
+          max-width: 140px;
+          width: 50%;
+          
+
+          ${MEDIUM_SCREEN_ONLY} {
+            width: 100%;
+          }
 
           > img,
           > svg {
