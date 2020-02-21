@@ -6,7 +6,7 @@ featured_image: ./galleries/IMG_3556.jpg
 excerpt: "La nostra BMW R1200GS ha compiuto 10 anni: con l’uscita della R1250GS ci è sembrato doveroso raccontarvi come va"
 opening: "La nostra BMW R1200GS ha compiuto 10 anni: con l’uscita della R1250GS ci è sembrato doveroso raccontarvi come va, nonostante l’età e 85.000km sul groppone!"
 date: "2018-12-23T19:14:19.000Z"
-modified: "2019-04-03T14:59:00.000Z"
+modified: "2020-02-21T20:59:00.000Z"
 categories:
 - recensioni
 - recensioni/moto
@@ -26,16 +26,16 @@ Le prime moto marchiate BMW nascono nel 1921, il caratteristico motore boxer a c
 
 ![BMW R32 – 1932](./galleries/BMW-R-32-1932.jpg "BMW R32 – 1932")
 
-L’introduzione della sigla G/S (acronimo di *Gelände/Straße *ovvero *Sterrato/Strada*) avviene nel 1980 con la **BMW R 80 G/S** (797,5cc per 52 cv e 205kg a vuoto): una moto poliedrica nata per affrontare in scioltezza ogni tipo di percorso ed in controtendenza rispetto al merito dell’epoca, composto da moto specialistiche. Da questo modello tutte le BMW GS di grossa cilindrata avranno sospensione posteriore monobraccio *Paralever* con trasmissione a cardano e motore bicilindrico boxer.
+L’introduzione della sigla G/S (acronimo di *Gelände/Straße *ovvero *Sterrato/Strada*) avviene nel 1980 con la **BMW R 80 G/S**: 797,5cc per 52 cv e 185kg di peso a vuoto, una moto poliedrica nata per affrontare in scioltezza ogni tipo di percorso ed in controtendenza rispetto al merito dell’epoca, composto da moto specialistiche. La ruota posteriore da 18" è "appesa" alla trasmissione *Monolever*, un forcellone monobraccio che consente un rapido accesso e smontaggio della ruota posteriore.
 
 La bontà del progetto viene messa a dura prova nella partecipazione a diverse edizioni della Paris-Dakar, dove otterrà 4 vittorie nei 5 anni di partecipazione (1981-1983-1984-1985).
 
-Nel 1987 la cilindrata viene aumentata a 980cc, il nome della moto cambia in **BMW R 100 GS**, la potenza sale a 60cv ed il peso si attesta a 210 kg a vuoto.
+Nel 1987 escono due nuovi modelli: *R 80 GS* (stesso motore della G/S ma peso a secco che sale a 206kg) ed *R 100 GS* (980cc per 60cv e 210kg a secco). Da questi modelli tutte le BMW GS di grossa cilindrata avranno sospensione posteriore monobraccio *Paralever* con trasmissione a cardano e motore bicilindrico boxer.
 
 ![BMW R 80 G/S – 1980](./galleries/BMW-R80-GS-1980.jpg "BMW R 80 G/S – 1980")
 ![BMW R 100 GS – 1987](./galleries/BMW-R-100-GS.jpeg "BMW R 100 GS – 1987")
 
-Nel 1994 debutta la **BMW R 1100 GS** con motore boxer raffreddato ad aria e olio, ma soprattutto una rinnovata sospensione anteriore: si passa da una classica forcella all’inedito sistema *Telelever*, che dona alla moto una grande stabilità ed evita l’affondamento anteriore durante le frenate. La cilindrata aumenta a 1083cc, la potenza è di 80cv, il peso lordo raggiunge i 240kg.
+Nel 1994 debutta la **BMW R 1100 GS**, un progetto tutto nuovo: motore boxer portante raffreddato ad aria e olio, vengono mandati in pensione i carburatori in favore dell'iniezione elettronica, debutta una rinnovata sospensione anteriore: si passa da una classica forcella all’inedito sistema *Telelever*, che dona alla moto una grande stabilità ed evita l’affondamento anteriore durante le frenate. La cilindrata aumenta a 1083cc, la potenza è di 80cv, il peso lordo raggiunge i 240kg.
 
 Il 1999 è l’anno della **BMW R 1150 GS**, ancora molto apprezzata per via del ridotto impiego di elettronica. La *ghisona *ha un peso lordo che sfiora i 250kg, 1130cc di cilindrata per 85cv di potenza.
 
@@ -58,7 +58,9 @@ Nel 2018 viene presentata la **BMW R 1250 GS** con un nuovo motore da 1262cc a f
 
 A fronte di un costante aumento di potenza, il peso delle bicilindriche bavaresi è sempre aumentato (ad eccezione della *dieta dimagrante* del 2004): il rapporto tra potenza e peso è comunque sempre cresciuto:
 
-![Evoluzione peso e potenza BMW serie R GS](./galleries/peso-potenza-bmwGS.png "La potenza è sempre aumentata, purtroppo lo ha fatto anche il peso  ")
+![Evoluzione peso e potenza BMW serie R GS](./galleries/peso-potenza-bmwGS.png "La potenza è sempre aumentata, purtroppo lo ha fatto anche il peso")
+
+*La storia delle*.
 
 ## Perché comprare una R 1200 GS 2008 nel 2018?
 
@@ -166,3 +168,7 @@ Allargare la superficie di appoggio del cavalletto laterale è utile quando ci s
 Spesso in viaggio è necessario ricaricare smartphone, fotocamere e actioncam, la moto potrebbe essere la vostra unica fonte di alimentazione. Potreste collegarvi alla [presa CAN-bus](https://amzn.to/2T1NNuH) sotto la sella, oppure bypassare la linea della moto [collegandovi direttamente alla batteria](https://amzn.to/2AkAu1F) per poter alimentare un compressore 12V (la R 1200 GS non ha fusibili e la centralina toglie alimentazione automaticamente alle linee che assorbono troppa corrente). Se volete spendere, [Touratech vende un bella soluzione a 2 prese che si integra con il quadro strumenti](https://shop.touratech.it/protezione-2-posto-di-guida-unita-tachigrafo-con-due-prese-corrente-bmw-r1200gs-2008-2012-r1200gs-adventure-2008-2013.html).
 
 Purtroppo la BMW R 1200 GS è tra le moto più rubate d’Italia (e [lo abbiamo scoperto sulla nostra pelle](/2017/03/furto-moto-bmw-r1200gs-ritrovata/)). Nel sottosella è possibile riporre il [lucchetto a U ABUS Granit Extreme](https://amzn.to/2Cw8NUU), tra i più solidi sul mercato e in grado di bloccare la ruota posteriore passando nel buco della coppia conica; per evitare di partire con il lucchetto montato (e fare grossi danni) meglio dotarsi anche di un [cordino promemoria](https://amzn.to/2Rd7mCP).
+
+## Nota
+
+La storia dei primi modelli BMW GS è stata aggiornata il 21 febbraio 2020 dopo una bella chiacchierata con l'espertissimo Francesco di [Camelus Adventures](https://www.camelus.it).
