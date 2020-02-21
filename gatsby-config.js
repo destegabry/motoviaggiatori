@@ -23,7 +23,6 @@ module.exports = {
     languageCode
   },
   plugins: [
-    `gatsby-plugin-netlify-cache`,
     `gatsby-plugin-react-helmet-async`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -227,6 +226,12 @@ module.exports = {
           },
         ]
       }
+    },
+    {
+      resolve: `gatsby-plugin-netlify-cache`,
+      // options: {
+      //   cachePublic: true
+      // }
     },
     `gatsby-plugin-netlify` // make sure to put last in the array
   ],

@@ -3,8 +3,10 @@ import { css } from '@emotion/core'
 import Color from 'color'
 
 import {
-  MEDIUM_SCREEN_UP,
-  SMALL_SCREEN_ONLY
+  SMALL_SCREEN_ONLY,
+  LARGE_SCREEN_UP,
+  MEDIUM_SCREEN_DOWN,
+  MEDIUM_SCREEN_ONLY
 } from '../utils/breakpoints';
 import { palette } from '../utils/colors'
 
@@ -19,11 +21,11 @@ const sponsorsCss = css`
   color: ${Color(palette.primary.contrast).alpha(.65).string()};
   margin: 0 auto 1rem;
 
-  ${SMALL_SCREEN_ONLY} {
+  ${MEDIUM_SCREEN_DOWN} {
     padding: 1rem;
   }
 
-  ${MEDIUM_SCREEN_UP} {
+  ${LARGE_SCREEN_UP} {
     padding: 1rem 3rem;
   }
 
@@ -33,13 +35,21 @@ const sponsorsCss = css`
   }
 
   a {
-    flex: 1 0 20%;
+    flex: 0 1 21%;
     display: block;
     padding: 1rem;
-    max-width: 150px;
+    max-width: 100%;
 
     ${SMALL_SCREEN_ONLY} {
-      flex: 1 0 45%;
+      flex-basis: 45%;
+    }
+
+    ${MEDIUM_SCREEN_ONLY} {
+      flex-basis: 25%;
+    }
+
+    ${LARGE_SCREEN_UP} {
+      
     }
 
     &:hover {
