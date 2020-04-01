@@ -37,7 +37,7 @@ const FotoPage = () => (
           margin-bottom: -0.3rem!important;
           margin-right: .5rem;
         `} />
-        Seguici su Instagram
+        Altre foto su Instagram
       </CTA>
     </CTAWrapper>
   </Layout>
