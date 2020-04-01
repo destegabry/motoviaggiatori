@@ -13,14 +13,14 @@ import {
 function InstagramPost({ post }) {
   return (
     <a
-      href={post.link}
-      title={post.caption ? post.caption.text : null}
+      href={`https://www.instagram.com/p/${post.id}/`}
+      title={post.caption}
       target="_blank"
       rel="noopener noreferrer"
     >
       <Img
-        fluid={post.localImage.childImageSharp.fluid}
-        alt={post.caption ? post.caption.text : null}
+        fluid={post.localFile.childImageSharp.fluid}
+        alt={post.caption}
         />
     </a>
   );
@@ -52,10 +52,10 @@ const InstagramFeedWrapper = styled.div`
   }
 `;
 
-function InstagramFeed({ allInstagramContent }) {
+function InstagramFeed({ allInstaNode }) {
   return (
     <InstagramFeedWrapper>
-      {allInstagramContent.edges.map(({node}) => <InstagramPost key={node.id} post={node} /> )}
+      {allInstaNode.edges.map(({node}) => <InstagramPost key={node.id} post={node} /> )}
     </InstagramFeedWrapper>
   );
 }
@@ -64,21 +64,18 @@ function InstagramFeed({ allInstagramContent }) {
 function InstagramFeedContainer({ limit, size }) {
   return <StaticQuery
     query={ graphql`query {
-      allInstagramContent(
+      allInstaNode(
         sort: {
-          fields: [created_time],
+          fields: [timestamp],
           order: DESC
         }
       ) {
         edges {
           node {
             id
-            link
-            created_time
-            caption {
-              text
-            }
-            localImage {
+            timestamp
+            caption
+            localFile {
               childImageSharp {
                 fluid(
                   maxWidth: 300,

@@ -152,10 +152,10 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-source-instagram-all`,
+      resolve: `gatsby-source-instagram`,
       options: {
-        access_token: process.env.INSTAGRAM_ACCESS_TOKEN
-      }
+        username: `motoviaggiatori`,
+      },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
