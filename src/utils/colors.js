@@ -14,7 +14,7 @@ let colors = {
     secondary: {
       light: '#e0fff0',
       main: '#57ffad',
-      dark: '#006163',
+      dark: '#007d80',
       contrast: '#000'
     },
     grey: {
