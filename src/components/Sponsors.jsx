@@ -2,8 +2,11 @@ import React from 'react'
 import Img from 'gatsby-image/withIEPolyfill'
 import { css } from '@emotion/core'
 
-import { MEDIUM_SCREEN_ONLY } from '../utils/breakpoints';
 import useAllSponsors from '../hooks/use-all-sponsors'
+import {
+  SMALL_SCREEN_ONLY,
+  MEDIUM_SCREEN_UP,
+} from '../utils/breakpoints'
 
 const openSponsorLink = url => {
   if (window.ga) {
@@ -27,21 +30,19 @@ const Sponsors = (props) => {
 
         a {
           padding: .5rem;
-          max-width: 140px;
-          width: 50%;
-          
 
-          ${MEDIUM_SCREEN_ONLY} {
-            width: 100%;
+          ${MEDIUM_SCREEN_UP} {
+            width: 25%;
           }
 
-          > img,
-          > svg {
-            margin: 0;
+          ${SMALL_SCREEN_ONLY} {
+            width: 50%;
           }
 
-          > svg {
-            width: 100%;
+          > .gatsby-image-wrapper,
+          > img {
+            max-width: 5rem;
+            margin: 0 auto;
           }
         }
       `}

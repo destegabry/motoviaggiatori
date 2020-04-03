@@ -17,7 +17,7 @@ function PageTemplate({ data }) {
         slug={ frontmatter.slug }
       />
       <Card>
-        <div class="content">
+        <div className="content">
           <DangerousHTML
             component="h1"
             html={ frontmatter.title }

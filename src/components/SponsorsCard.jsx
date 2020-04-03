@@ -1,5 +1,6 @@
 import React from 'react'
 import { css } from '@emotion/core'
+import styled from '@emotion/styled'
 import Color from 'color'
 
 import {
@@ -10,10 +11,9 @@ import {
 } from '../utils/breakpoints';
 import { palette } from '../utils/colors'
 
-import Card from '../components/Card'
 import Sponsors from '../components/Sponsors'
 
-const cardCss = css`
+const Wrapper = styled.div`
   background: ${palette.primary.main};
 `;
 
@@ -49,7 +49,7 @@ const sponsorsCss = css`
     }
 
     ${LARGE_SCREEN_UP} {
-      
+
     }
 
     &:hover {
@@ -63,9 +63,9 @@ const sponsorsCss = css`
 `;
 
 const SponsorCard = (props) => (
-  <Card css={cardCss} {...props}>
+  <Wrapper {...props}>
     <Sponsors css={sponsorsCss} />
-  </Card>
+  </Wrapper>
 )
 
 export default SponsorCard;

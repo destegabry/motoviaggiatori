@@ -4,7 +4,6 @@ import { useInView } from 'react-intersection-observer'
 import Color from 'color'
 
 import Logo from './Logo'
-import Wrapper from './Wrapper'
 import MainMenu from './MainMenu'
 import SocialLinks from './SocialLinks'
 import Flex from './Flex'
@@ -44,6 +43,7 @@ const HeaderElement = styled.header`
   }
 
   .nav-wrapper {
+    display: flex;
     align-items: center;
     justify-content: flex-start;
 
@@ -54,8 +54,9 @@ const HeaderElement = styled.header`
         ${SMALL_SCREEN_ONLY} {
           display: block;
           border-bottom: 1px solid ${palette.primary.main};
-          padding: .5rem;
+          font-size: .8rem;
           margin: 0;
+          padding: .3rem .5rem;
         }
 
         ${MEDIUM_SCREEN_UP} {
@@ -71,11 +72,12 @@ const HeaderElement = styled.header`
     > nav {
       ${SMALL_SCREEN_ONLY} {
         background: ${Color(palette.primary.main).darken(.2).string()};
+        overflow: auto;
         position: absolute;
         top: ${headerHeightMobile}px;
         left: 100vw;
         right: 0;
-        height: 100vh;
+        height: calc(100vh - ${headerHeightMobile}px);
         width: 100vw;
         transition: left .3s ease-in-out;
 
@@ -163,24 +165,23 @@ const HeaderElement = styled.header`
   }
 
   .back-to-top {
-    background: ${palette.primary.contrast};
-    border: 1px solid ${palette.primary.light};
-    border-radius: 0 0 3px 3px;
-    color: ${palette.primary.dark};
+    border-radius: .2rem 0 0 .2rem;
+    background: ${Color(palette.primary.light).alpha(.5).string()};
     cursor: pointer;
-    height: 4rem;
-    width: 4rem;
+    height: 2.5rem;
+    width: 2.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
     position: fixed;
     right: -1px;
-    bottom: -6rem;
+    bottom: -3rem;
     opacity: 0;
     transition: all .3s ease-out;
     z-index: 1;
 
     svg {
+      fill: ${palette.primary.dark};
       height: 1.5rem;
       width: 1.5rem;
     }
@@ -188,7 +189,7 @@ const HeaderElement = styled.header`
 
   &.sticky {
     .back-to-top {
-      bottom: 6rem;
+      bottom: 5rem;
       opacity: 1;
     }
 
@@ -249,18 +250,6 @@ const HeaderElement = styled.header`
         opacity: 1;
       }
     }
-
-    .instagram > svg {
-      margin: 2px;
-    }
-
-    .facebook > svg {
-      margin: -2px 0 0;
-    }
-
-    .youtube > svg {
-      margin: 1px;
-    }
   }
 `;
 
@@ -294,7 +283,7 @@ const Header = () => {
       ].join(' ') }
     >
       <div className="header-wrapper">
-        <Wrapper className="nav-wrapper">
+        <div className="wrapper nav-wrapper">
           <Logo />
           <Flex />
           <MainMenu />
@@ -305,7 +294,7 @@ const Header = () => {
           >
             { mobileMenuOpen ? <IconClose /> : <IconHamburger />}
           </div>
-        </Wrapper>
+        </div>
       </div>
       <div className="in-view-ref" ref={ref} />
       <span className="back-to-top" onClick={scrollTop}>

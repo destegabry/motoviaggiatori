@@ -1,13 +1,13 @@
 import css from '@emotion/css'
 import Color from 'color'
 
-import colors from '../utils/colors'
+import { palette } from '../utils/colors'
 import { altFontStack } from '../utils/theme'
 
 export default css`
-  background: ${colors.palette.primary.main};
-  color: ${Color(colors.palette.primary.contrast).alpha(.65).string()};
-  font-family: ${altFontStack.join(', ')};
+  background: ${palette.primary.main};
+  color: ${Color(palette.primary.contrast).alpha(.65).string()};
+  font-family: ${altFontStack.map(name => `"${name}"`).join(', ')};
 
   a {
     color: inherit;
@@ -16,7 +16,12 @@ export default css`
     &:hover,
     &:active {
       box-shadow: none;
-      color: ${colors.palette.primary.contrast};
+      color: ${palette.primary.contrast};
+    }
+
+
+    > svg {
+      display: block;
     }
   }
 
@@ -24,7 +29,7 @@ export default css`
     box-shadow: none;
 
     &[aria-current] {
-      color: ${colors.palette.primary.contrast};
+      color: ${palette.primary.contrast};
     }
   }
 `;

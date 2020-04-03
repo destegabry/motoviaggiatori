@@ -1,8 +1,11 @@
 import React, { useState, useEffect } from 'react'
 import PropTypes from 'prop-types'
 import styled from '@emotion/styled'
-
 import {colors} from '../utils/theme';
+import {
+  IconArrowLeft,
+  IconArrowRight,
+} from '../components/Icons'
 import Card from './Card'
 import PostPreviewFull from './PostPreviewFull'
 
@@ -39,12 +42,25 @@ const Pagination = styled.nav`
     border-radius: 3px;
     color: ${colors.palette.primary.contrast};
     cursor: pointer;
+    font-size: .9rem;
     margin: 2px;
+    padding: 0;
+    line-height: 30px;
     height: 30px;
     width: 30px;
+    vertical-align: middle;
+    text-align: center;
 
     &[disabled] {
       opacity: .6;
+    }
+
+    svg {
+      display: block;
+      margin: auto;
+      fill: ${colors.palette.primary.contrast};
+      height: .8rem;
+      width: .8rem;
     }
   }
 `;
@@ -130,7 +146,7 @@ function PagedPosts (props) {
             onClick={() => changePage(page - 1)}
             disabled={page === 0}
           >
-            &lt;
+            <IconArrowLeft />
           </button>
           { pages.map((label, index) => (
             <button
@@ -144,8 +160,8 @@ function PagedPosts (props) {
           <button
             onClick={() => changePage(page + 1)}
             disabled={page === totalPages - 1}
-          >
-            &gt;
+            >
+            <IconArrowRight />
           </button>
         </Pagination>
       }
