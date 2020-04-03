@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-date: "2016-09-09T18:00:00.000Z"
+date: "2019-09-09T18:00:00.000Z"
 slug: /privacy-policy
 ---
 
