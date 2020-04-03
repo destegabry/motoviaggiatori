@@ -45,6 +45,7 @@ const FooterWrapper = styled.footer`
   .logo {
     width: 100%;
     max-width: 10rem;
+    margin-bottom: .5rem;
   }
 
   .credits {

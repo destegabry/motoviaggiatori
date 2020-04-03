@@ -43,7 +43,7 @@ const postMetaStyle = css`
 
 function PostTemplate (props) {
   useEffect(() => {
-    // let galleries = [];
+    let galleries = [];
     let epn;
     // Adding EPN script after page render will trigger link replacement
     window._epn = {campaign: process.env.GATSBY_EPN_CAMPAIGN_ID};
@@ -52,27 +52,27 @@ function PostTemplate (props) {
     epn.setAttribute('src', 'https://epnt.ebay.com/static/epn-smart-tools.js');
     document.querySelector('body').appendChild(epn);
 
-    // const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 5;
-    // const rawFigures = document.querySelectorAll('.gatsby-resp-image-figure');
-    // const adjacentFiguresGroups = [];
-    // if (rawFigures.length > 0) {
-    //   // good old for-loop as querySelectorAll doesn't return an iterable :,(
-    //   for (let i = 0, galleryWrapper; i < rawFigures.length; i++) {
-    //     const figure = rawFigures[i];
-    //     if (!figure.previousElementSibling || figure.previousElementSibling.className !== 'gallery-wrapper') {
-    //       galleryWrapper = document.createElement('div');
-    //       galleryWrapper.className = 'gallery-wrapper';
-    //       figure.parentElement.insertBefore(galleryWrapper, figure);
-    //       adjacentFiguresGroups.push(galleryWrapper);
-    //     }
-    //     galleryWrapper.appendChild(figure);
-    //   }
-    //   galleries = adjacentFiguresGroups.map(gallery => new Gallery(gallery, rowRatio));
-    // }
+    const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 5;
+    const rawFigures = document.querySelectorAll('.gatsby-resp-image-figure');
+    const adjacentFiguresGroups = [];
+    if (rawFigures.length > 0) {
+      // good old for-loop as querySelectorAll doesn't return an iterable :,(
+      for (let i = 0, galleryWrapper; i < rawFigures.length; i++) {
+        const figure = rawFigures[i];
+        if (!figure.previousElementSibling || figure.previousElementSibling.className !== 'gallery-wrapper') {
+          galleryWrapper = document.createElement('div');
+          galleryWrapper.className = 'gallery-wrapper';
+          figure.parentElement.insertBefore(galleryWrapper, figure);
+          adjacentFiguresGroups.push(galleryWrapper);
+        }
+        galleryWrapper.appendChild(figure);
+      }
+      galleries = adjacentFiguresGroups.map(gallery => new Gallery(gallery, rowRatio));
+    }
 
     return () => {
       // Remove galleries listeners
-      // galleries.forEach(gallery => gallery.destroy());
+      galleries.forEach(gallery => gallery.destroy());
       // Remove EPN script
       epn.remove();
       document.querySelectorAll('img[src^="https://rover.ebay.com"]').forEach(node => node.remove())

@@ -6,7 +6,11 @@ import { css } from '@emotion/core'
 import { palette } from '../utils/colors'
 
 const linkStyle = css`
+  display: inline-flex;
+  align-items: center;
+
   svg {
+    display: block;
     fill: ${palette.secondary.dark};
     height: .8rem;
     margin-left: .5rem;

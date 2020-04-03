@@ -61,10 +61,6 @@ const HeaderElement = styled.header`
 
         ${MEDIUM_SCREEN_UP} {
           margin-right: 1rem;
-
-          &[aria-current] {
-            box-shadow: 0 1px 0 0 currentColor;
-          }
         }
       }
     }
@@ -148,7 +144,7 @@ const HeaderElement = styled.header`
     top: 0;
     left: 0;
     right: 0;
-    z-index: 10;
+    z-index: 100;
   }
 
   .in-view-ref,

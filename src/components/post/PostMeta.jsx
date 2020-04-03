@@ -6,9 +6,11 @@ import { Link } from 'gatsby'
 
 import getCategoryUrl from '../../utils/getCategoryUrl';
 import getAuthorUrl from '../../utils/getAuthorUrl';
+import { altFontStack } from '../../utils/theme';
 
 const Wrapper = styled.div`
   font-size: .7rem;
+  font-family: ${altFontStack.join(', ')};
 
   span + span::before {
     content: ' | ';

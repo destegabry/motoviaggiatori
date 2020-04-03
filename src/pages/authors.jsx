@@ -39,6 +39,7 @@ const authorCss = css`
 
   p {
     font-size: .8em;
+    margin-bottom: 0;
   }
 
   h1 {

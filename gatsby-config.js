@@ -127,7 +127,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Open Sans:400,600', 'Merriweather:400,400i,700,700i']
+          families: ['Palanquin:400,600', 'Crimson Text:400,400i,700,700i']
         }
       }
     },

@@ -48,10 +48,15 @@ const TextWrapper = styled.div`
 flex: 1 0 0%;`;
 
 const LinkWrapper = styled.div`
-  margin-bottom: .5rem;
+  margin-bottom: .25rem;
 
-  a:hover {
-    box-shadow: none;
+  a {
+    display: flex;
+    align-items: center;
+
+    &:hover {
+      box-shadow: none;
+    }
   }
 `;
 
