@@ -3,15 +3,12 @@ import { graphql } from 'gatsby'
 import { css } from '@emotion/core'
 
 import {
-  SMALL_SCREEN_ONLY,
-  MEDIUM_SCREEN_UP,
   SMALL_SCREEN_MAX_SIZE,
 } from '../utils/breakpoints';
 import Gallery from '../utils/Gallery';
 import AuthorBox from '../components/AuthorBox'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
-import Card from '../components/Card'
 import DangerousHTML from '../components/DangerousHTML'
 import {
   PostMeta,
@@ -24,16 +21,6 @@ import {
   FacebookButtons
 } from '../components/post'
 import Banner from '../components/Banner';
-
-const cardCss = css`
-  ${SMALL_SCREEN_ONLY} {
-    padding: 1rem;
-  }
-
-  ${MEDIUM_SCREEN_UP} {
-    padding: 1rem 2rem;
-  }
-`
 
 const postMetaStyle = css`
   margin-bottom: 2rem;
@@ -100,42 +87,38 @@ function PostTemplate (props) {
         image={ frontmatter.featured_image }
         slug={ frontmatter.slug }
       />
-      <Card css={cardCss}>
-        <Article>
-          <DangerousHTML component="h1" html={ frontmatter.title } itemProp="name headline" />
-          <PostMeta post={currentPost} css={ postMetaStyle } />
-          <FeaturedMedia { ...frontmatter } />
-          { !frontmatter.opening ? null :
-            <DangerousHTML component="p" html={ frontmatter.opening } />
-          }
-          <DangerousHTML html={ currentPost.tableOfContents } />
-          <Banner sticky />
-          <AttributesTable attributes={ frontmatter.attributes } />
-          <DangerousHTML html={ currentPost.html } itemProp="articleBody" />
-          { disclaimers.length === 0 ? null :
-            disclaimers.map((disclaimer, index) => (
-              <DangerousHTML
-                key={ index }
-                component="p"
-                html={ disclaimer }
-                className="disclaimer"
-              />
-            ))
-          }
-        </Article>
-        <Vote campaign={ frontmatter.slug }>
-          Ti è piaciuto questo articolo?
-        </Vote>
-        <FacebookButtons slug={frontmatter.slug} />
-      </Card>
+      <Article>
+        <DangerousHTML component="h1" html={ frontmatter.title } itemProp="name headline" />
+        <PostMeta post={currentPost} css={ postMetaStyle } />
+        <FeaturedMedia { ...frontmatter } />
+        { !frontmatter.opening ? null :
+          <DangerousHTML component="p" html={ frontmatter.opening } />
+        }
+        <DangerousHTML html={ currentPost.tableOfContents } />
+        <Banner sticky />
+        <AttributesTable attributes={ frontmatter.attributes } />
+        <DangerousHTML html={ currentPost.html } itemProp="articleBody" />
+        { disclaimers.length === 0 ? null :
+          disclaimers.map((disclaimer, index) => (
+            <DangerousHTML
+              key={ index }
+              component="p"
+              html={ disclaimer }
+              className="disclaimer"
+            />
+          ))
+        }
+      </Article>
+      <Vote campaign={ frontmatter.slug }>
+        Ti è piaciuto questo articolo?
+      </Vote>
+      <FacebookButtons slug={frontmatter.slug} />
       <TagList
         tags={ frontmatter.tags }
-        css={ cardCss }
       />
       <AuthorBox
         author={frontmatter.author}
         showProfileLink={true}
-        css={cardCss}
         itemProp="author"
       />
       <NextPrev { ...props.pageContext } />

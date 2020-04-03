@@ -20,7 +20,9 @@ function AuthorTemplate({ data }) {
         image={ currentAuthor.frontmatter.avatar ? currentAuthor.frontmatter.avatar.publicURL : null }
         slug={ `/author/${currentAuthor.frontmatter.slug}` }
       />
-      <AuthorBox author={ currentAuthor } />
+      <AuthorBox author={ currentAuthor } css={ css`
+        margin-bottom: 1.7rem
+      `} />
       <Banner sticky style={ css`
         margin-top: 0;
         margin-bottom: 1rem;

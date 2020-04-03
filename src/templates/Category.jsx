@@ -4,7 +4,6 @@ import { css } from '@emotion/core'
 
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
-import Card from '../components/Card'
 import PagedPosts from '../components/PagedPosts'
 import DangerousHTML from '../components/DangerousHTML'
 import Banner from '../components/Banner'
@@ -20,12 +19,8 @@ function CategoryTemplate({ data }) {
         description={currentCategory.excerpt}
         slug={ `/categoria/${currentCategory.frontmatter.slug}` }
       />
-      <Card>
-        <div className="content">
-          <h1>{currentCategory.frontmatter.name}</h1>
-          <DangerousHTML html={ currentCategory.html } />
-        </div>
-      </Card>
+      <h1>{currentCategory.frontmatter.name}</h1>
+      <DangerousHTML html={ currentCategory.html } />
       <Banner sticky style={ css`
         margin-top: 0;
         margin-bottom: 1rem;

@@ -5,7 +5,6 @@ import { blue, azure } from '../../utils/colors'
 export default styled.article`
   h1 {
     text-align: center;
-    text-transform: uppercase;
   }
 
   figure {

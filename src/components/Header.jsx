@@ -9,8 +9,8 @@ import SocialLinks from './SocialLinks'
 import Flex from './Flex'
 import headerFooterStyle from '../utils/headerFooterStyle'
 import {
-  SMALL_SCREEN_ONLY,
-  MEDIUM_SCREEN_UP
+  MEDIUM_SCREEN_DOWN,
+  LARGE_SCREEN_UP,
 } from '../utils/breakpoints'
 import { palette } from '../utils/colors'
 import {
@@ -32,11 +32,11 @@ const HeaderElement = styled.header`
     svg {
       transition: height .3s ease-out;
 
-      ${SMALL_SCREEN_ONLY} {
+      ${MEDIUM_SCREEN_DOWN} {
         height: ${headerHeightMobile - 20}px;
       }
 
-      ${MEDIUM_SCREEN_UP} {
+      ${LARGE_SCREEN_UP} {
         height: ${headerHeightDesktopNormal - 20}px;
       }
     }
@@ -46,32 +46,32 @@ const HeaderElement = styled.header`
     display: flex;
     align-items: center;
     justify-content: flex-start;
+    font-size: .8rem;
 
     nav {
       a {
         text-transform: uppercase;
 
-        ${SMALL_SCREEN_ONLY} {
+        ${MEDIUM_SCREEN_DOWN} {
           display: block;
           border-bottom: 1px solid ${palette.primary.main};
-          font-size: .8rem;
           margin: 0;
           padding: .3rem .5rem;
         }
 
-        ${MEDIUM_SCREEN_UP} {
+        ${LARGE_SCREEN_UP} {
           margin-right: 1rem;
         }
       }
     }
 
     > nav {
-      ${SMALL_SCREEN_ONLY} {
+      ${MEDIUM_SCREEN_DOWN} {
         background: ${Color(palette.primary.main).darken(.2).string()};
         overflow: auto;
         position: absolute;
         top: ${headerHeightMobile}px;
-        left: 100vw;
+        left: 150vw;
         right: 0;
         height: calc(100vh - ${headerHeightMobile}px);
         width: 100vw;
@@ -84,7 +84,7 @@ const HeaderElement = styled.header`
         }
       }
 
-      ${MEDIUM_SCREEN_UP} {
+      ${LARGE_SCREEN_UP} {
         > * {
           padding: 1rem 0;
         }
@@ -151,11 +151,11 @@ const HeaderElement = styled.header`
   .nav-wrapper {
     transition: height .3s ease-out;
 
-    ${SMALL_SCREEN_ONLY} {
+    ${MEDIUM_SCREEN_DOWN} {
       height: ${headerHeightMobile}px;
     }
 
-    ${MEDIUM_SCREEN_UP} {
+    ${LARGE_SCREEN_UP} {
       height: ${headerHeightDesktopNormal}px;
     }
   }
@@ -191,14 +191,14 @@ const HeaderElement = styled.header`
 
     .nav-wrapper,
     .in-view-ref {
-      ${MEDIUM_SCREEN_UP} {
+      ${LARGE_SCREEN_UP} {
         height: ${headerHeightDesktopCollapsed}px;
       }
     }
 
     .logo {
       svg {
-        ${MEDIUM_SCREEN_UP} {
+        ${LARGE_SCREEN_UP} {
           height: ${headerHeightDesktopCollapsed - 20}px;
         }
       }
@@ -206,7 +206,7 @@ const HeaderElement = styled.header`
   }
 
   .mobile-menu-opener {
-    ${SMALL_SCREEN_ONLY} {
+    ${MEDIUM_SCREEN_DOWN} {
       cursor: pointer;
       text-align: center;
       height: 1.5rem;
@@ -224,7 +224,7 @@ const HeaderElement = styled.header`
       }
     }
 
-    ${MEDIUM_SCREEN_UP} {
+    ${LARGE_SCREEN_UP} {
       display: none;
     }
   }

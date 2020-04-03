@@ -1,12 +1,20 @@
 import React, { useState, useEffect } from 'react'
 import PropTypes from 'prop-types'
 import styled from '@emotion/styled'
+import { css } from '@emotion/core'
+import { SMALL_SCREEN_UP } from '../utils/breakpoints';
 
 const ColumnsWrapper = styled.div`
   display: flex;
 
+  ${SMALL_SCREEN_UP} {
+    margin: 0 -.5rem;
+  }
+
   > div {
-    flex: 0 1 100%;
+    ${SMALL_SCREEN_UP} {
+      margin: 0 .5rem;
+    }
   }
 `;
 
@@ -46,7 +54,7 @@ const Columns = ({ items, breakpoints, ...otherProps }) => {
     <ColumnsWrapper {...otherProps}>
       {
         groupedItems.map((column, index) => (
-          <div key={index}>
+          <div key={index} css={ css`flex-basis: ${ 100 / columns }%` }>
             { column }
           </div>
         ))

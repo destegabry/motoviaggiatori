@@ -6,32 +6,14 @@ import {
   IconArrowLeft,
   IconArrowRight,
 } from '../components/Icons'
-import Card from './Card'
+import Columns from '../components/Columns'
 import PostPreviewFull from './PostPreviewFull'
 
 import {
   SMALL_SCREEN_MAX_SIZE,
   LARGE_SCREEN_MAX_SIZE,
-  SMALL_SCREEN_ONLY
+  MEDIUM_SCREEN_MAX_SIZE,
 } from '../utils/breakpoints'
-
-const PagedPostsWrapper = styled.div`
-  display: flex;
-
-  > div {
-    flex: 0 1 50%;
-
-    ${SMALL_SCREEN_ONLY} {
-      flex: 0 0 100%;
-
-      > div {
-        margin-left: 0;
-        margin-right: 0;
-      }
-    }
-  }
-
-`;
 
 const Pagination = styled.nav`
   text-align: center;
@@ -68,21 +50,7 @@ const Pagination = styled.nav`
 const ref = React.createRef();
 
 function PagedPosts (props) {
-  const [width, setWidth] = useState(0);
   const [page, setPage] = useState(0);
-
-  function updateDimensions() {
-    setWidth(document.body.clientWidth)
-  }
-
-  useEffect(() => {
-    updateDimensions();
-    window.addEventListener('resize', updateDimensions);
-
-    return () => {
-      window.removeEventListener('resize', updateDimensions);
-    };
-  });
 
   function scrollToSectionTop() {
     window.scrollTo({
@@ -99,47 +67,27 @@ function PagedPosts (props) {
 
   const { posts, pageSize, className } = props;
 
-  let columns;
-
-  if (width <= SMALL_SCREEN_MAX_SIZE) {
-    columns = 1;
-  } else if (width <= LARGE_SCREEN_MAX_SIZE) {
-    columns = 2;
-  } else {
-    columns = 3;
-  }
-
   const totalPages = Math.ceil(posts.length / pageSize);
   const pages = [];
   for(let index = 0; index < totalPages; index++) {
     pages.push(index + 1);
   }
 
-  const groupedPosts = posts.slice(page * pageSize, page * pageSize + pageSize).reduce((groupedPosts, node, index) => {
-    const post = node.post || node;
-    const column = index % columns;
-    groupedPosts[column] = groupedPosts[column] || [];
-    groupedPosts[column].push(post);
-    return groupedPosts;
-  }, []);
+  const pagedPosts = posts.slice(page * pageSize, page * pageSize + pageSize);
 
   return (
     <section ref={ref} className={className}>
-      <PagedPostsWrapper>
-        {
-          groupedPosts.map((column, index) => (
-            <div key={index}>
-              {
-                column.map((post, index) => (
-                  <Card key={index}>
-                    <PostPreviewFull post={post.node || post} />
-                  </Card>
-                ))
-              }
-            </div>
+      <Columns
+        items={
+          pagedPosts.map((post, index) => (
+            <PostPreviewFull key={index} post={post.node || post} />
           ))
         }
-      </PagedPostsWrapper>
+        breakpoints={[
+          SMALL_SCREEN_MAX_SIZE,
+          MEDIUM_SCREEN_MAX_SIZE,
+        ]}
+      />
       { totalPages === 1 ? null :
         <Pagination>
           <button
