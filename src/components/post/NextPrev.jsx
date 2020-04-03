@@ -4,7 +4,6 @@ import { Link } from 'gatsby'
 
 import {
   SMALL_SCREEN_ONLY,
-  MEDIUM_SCREEN_UP,
   MEDIUM_SCREEN_DOWN,
   LARGE_SCREEN_UP
 } from '../../utils/breakpoints';
@@ -18,10 +17,6 @@ import { palette } from '../../utils/colors'
 const NextPrevWrapper = styled.nav`
   display: flex;
   justify-content: space-between;
-
-  ${MEDIUM_SCREEN_UP} {
-    margin: 0 1rem;
-  }
 
   .label {
     text-transform: uppercase;

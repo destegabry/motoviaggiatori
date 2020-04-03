@@ -10,7 +10,7 @@ export const altFontStack = ['Palanquin', 'sans-serif'];
 const theme = {
   title: 'MotoViaggiatori',
   baseFontSize: '24px',
-  baseLineHeight: 1.7,
+  baseLineHeight: 1.4,
   headerFontFamily: altFontStack,
   bodyFontFamily: mainFontStack,
   headerColor: Color(colors.text.primary).alpha(0.9).string(),

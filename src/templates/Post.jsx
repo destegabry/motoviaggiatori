@@ -28,6 +28,10 @@ const postMetaStyle = css`
   font-size: .9rem;
 `
 
+const boxStyle = css`
+  margin: 2rem 0;
+`;
+
 function PostTemplate (props) {
   useEffect(() => {
     let galleries = [];
@@ -115,13 +119,15 @@ function PostTemplate (props) {
       <FacebookButtons slug={frontmatter.slug} />
       <TagList
         tags={ frontmatter.tags }
+        css={ boxStyle }
       />
       <AuthorBox
         author={frontmatter.author}
         showProfileLink={true}
         itemProp="author"
+        css={ boxStyle }
       />
-      <NextPrev { ...props.pageContext } />
+      <NextPrev { ...props.pageContext } css={ boxStyle } />
     </Layout>
   )
 }
