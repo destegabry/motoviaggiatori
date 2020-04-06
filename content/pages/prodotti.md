@@ -1,8 +1,9 @@
 ---
 title: Prodotti consigliati
-date: "2020-04-03T00:00:00.000Z"
+date: "2020-04-06T00:00:00.000Z"
 slug: /prodotti-consigliati
-excerpt: "I consigli per gli acquisti di MotoViaggiatori.it: solo prodotti testati in viaggio e di cui siamo sicuri al 100%."
+excerpt: "I consigli per gli acquisti di MotoViaggiatori.it: solo prodotti testati in viaggio e di cui siamo sicuri al 100%!"
+featured_post: true
 ---
 
 [Recensire](/categoria/recensioni) ogni prodotto che utilizziamo abitualmente richiede un sacco di tempo, spesso non ci sarebbe nemmeno abbastanza da dire per giustificare un apposito articolo… Nasce così questa pagina, raccoglitore di tutti quei prodotti che ci hanno stupito positivamente e abbiamo deciso di consigliare ai nostri lettori!
@@ -17,6 +18,7 @@ Li trovate organizzati per categoria e, dove disponibile, il link alla nostra re
 - Guanti all-weather [REV'IT! Dominator GTX](https://amzn.to/2X4KS9K): guanti in vari tipi di pelle e materiali tecnici, tra cui spicca il GORE-TEX®. Impermeabili e traspiranti, non hanno alcun tipo di fodera termica, per il freddo vanno abbinati a sottoguanti.
 - Sottoguanti [Decathlon Forclaz TREK500](https://www.decathlon.it/sottoguanti-trek500-lana--id_8555763.html): sottilissimi e composti all'86% di lana Merinos (calda e antibatterica), asciugano molto velocemente.
 - Stivali [Sidi Aria Gore](https://amzn.to/3487307): comodi, leggeti, membrana GORE-TEX® traspirante e impermeabile, testati anche sotto il *diluvio*!
+- [Bretelle rifrangenti](https://amzn.to/2I8UpWM): obbligatorie in alcuni Paesi.
 
 ### Caschi
 
@@ -38,6 +40,15 @@ Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usi
 - [iPhone 11](https://amzn.to/3bKYBqg): affidabile e robusto, resistente all'acqua, foto e video (4K) di qualità elevatissima anche con poca luce. La versione *normale* dispone di grandangolo e super-grandangolo, la versione [11 Pro](https://amzn.to/3aItUCg) dispone anche di un medio-tele. Accoppiato ad app come [OsmAnd](https://itunes.apple.com/app/apple-store/id934850257) diventa un ottimo navigatore GPS offline. Si risparmia comprando un [ricondizionato](https://amzn.to/3dPGqBR).
 - [Sony RX100M4](https://amzn.to/2Jy5wan): macchina fotografica compatta con grande sensore da 1", ottica ZEISS equivalente 24-70mm ƒ/1.8-2.8, mirino OLED, schermo LCD reclinabile, possibilità di utilizzo completamente manuale. Fa grandi foto ed è sempre a portata di mano nelle tasche della giacca da moto. Esiste anche una [versione ultrazoom](https://amzn.to/3bCYEEG).
 
+## Campeggio
+
+- [Tenda Coleman Coastline Compact](https://amzn.to/3bTONdF): abbastanza compatta da stare nel bauletto, la struttura *a tunnel* la rende piuttosto semplice e veloce da montare.
+- [Materassino singolo compatto](https://amzn.to/3bYlQNV): occupa poco spazio e si gonfia velocemente a fiato (o con la [mini pompa a pedale](https://amzn.to/2I8Tiq8)).
+- [Materassino 2 posti Decathlon Quechua](https://www.decathlon.it/materasso-gonfiabile-air-basic-id_8492757.html): ingombrante ma comodo, consigliato quando lo spazio non è un problema.
+- [Pompa elettrica ricaricabile Decathlon Quechua](https://www.decathlon.it/pompa-elettrica-ricaricabile-id_8336472.html): compatta, leggera, gonfia almeno 3 volte il materassino doppio e poi si ricarica con la presa 12V della moto.
+- [Sacco lenzuolo Ferrino](https://amzn.to/3dWEN5e): per dormire al pulito ovunque.
+- [Sacco letto Ferrino](https://amzn.to/34fIVJl): il top, da scegliere in base a volume e temperatura di utilizzo; per risparmiare c'è [Decathlon](https://www.decathlon.it/C-800841-sacchi-a-pelo).
+
 ## Per la moto
 
 - Pastiglie freno [Brembo "bianche" mescola LA](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_odkw%3Danlas%2Bcapra%2Brd%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.Xbrembo%2BLA.TRS0%26_nkw%3Dbrembo%2BLA%26_sacat%3D0): sinterizzate a lunga durata per uso prettamente stradale, non necessitano di rodaggio, potenza frenante costante a tutte le temperature. Frenano tanto, ma avendole provate per soli 15.000km non ci sbilanciamo sulla durata effettiva.
@@ -47,6 +58,20 @@ Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usi
 - [Cupolini WRS](https://www.wrs.it/it/400-prodotti-wrs-cupolini): qualità italiana per proteggerci dal vento nelle lunghe tratte ad alta velocità
 - Barre paramotore [Touratech](https://shop.touratech.it/per-la-moto/protezione.html#/products/1?category=10940): robuste e in acciaio inossidabile, costano care ma valgono tanto; in caso di caduta proteggono bene il motore ed essendo in inox non vengono aggredite dalla ruggine.
 - Barre paramotore [HEED](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fstr%2Fheedmoto): ottimo rapporto qualità prezzo, proteggono un sacco ma sono in ferro vernicato; le abbiamo montate sia su [Honda XL700V Transalp](/2018/02/paramotore-heed-honda-xl-700-transalp/) che [BMW R1200GS](/2016/09/paramotore-tubolare-heed-bmw-r-1200-gs).
+- [Supporti smartphone universali LAMPA Opti Line](https://amzn.to/2X9URux) compatibili con qualunque moto e smartphone, i miei preferiti sono:
+  - [piastra adesiva universale](https://amzn.to/3bYw5ll) appiccicata direttamente sulla cover del telefono;
+  - [Opti Case universale](https://amzn.to/39LRCMn) visibilità ottimale ed evita il surriscaldamento;
+  - [Opti Belt](https://amzn.to/2V3eYrH) fissata a manubrio o sull'archetto porta strumenti.
+
+### Attrezzatura
+
+- [Kit pronto soccorso omologato](https://amzn.to/2xWemfi): andrebbe sempre portato con sè, in alcuni Paesi è obbligatorio.
+- [Kit per la riparazione pneumatici tubeless](https://amzn.to/2U1EYB6), se avete la camera d'aria meglio avere con sè le [leve smontagomme](https://amzn.to/2IaTGEf).
+- [Mini pompa a pedale](https://amzn.to/2I8Tiq8): più affidabile delle usa e getta, più compatta e leggera di un compressore 12V, la vende anche [Decathlon](https://www.decathlon.it/pompa-a-colonna-520-id_8303660.html).
+- [Cavi avviamento moto](https://amzn.to/2VukbYA).
+- [Tanica di emergenza](https://amzn.to/3bW5e9r) e un piccolo [imbuto pieghevole in silicone](https://amzn.to/2P324X5).
+- [Stucco epossidico bicomponente](https://amzn.to/2JJuYtu): Permette di riparare un carter forato.
+
 
 ### Pneumatici
 
