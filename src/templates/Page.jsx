@@ -7,19 +7,21 @@ import Layout from '../components/Layout'
 import DangerousHTML from '../components/DangerousHTML'
 
 function PageTemplate({ data }) {
-  const { frontmatter, html } = data.markdownRemark;
+  const { frontmatter, html, tableOfContents } = data.markdownRemark;
 
   return (
     <Layout>
       <SEO
         title={ frontmatter.title }
         slug={ frontmatter.slug }
+        description={ frontmatter.excerpt }
       />
       <DangerousHTML
         component="h1"
         html={ frontmatter.title }
         css={{ textAlign: 'center' }}
       />
+      <DangerousHTML html={ tableOfContents } />
       <DangerousHTML html={ html } />
       <p css={{ fontStyle: 'italic', fontSize: '.8em', textAlign: 'center' }}>
         Ultimo aggiornamento:
@@ -40,7 +42,12 @@ export const pageQuery = graphql`
         date
         modified
         title
+        excerpt
       }
+      tableOfContents(
+        pathToSlugField: "frontmatter.slug"
+        maxDepth: 3
+      )
       html
     }
   }

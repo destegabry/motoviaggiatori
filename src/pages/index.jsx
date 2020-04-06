@@ -16,6 +16,7 @@ import SEO from '../components/seo'
 import PostPreviewFull from '../components/PostPreviewFull'
 import PostPreviewList from '../components/PostPreviewList'
 import PagedPosts from '../components/PagedPosts'
+import FeaturedPosts from '../components/FeaturedPosts'
 import SponsorsCard from '../components/SponsorsCard'
 import Banner from '../components/Banner'
 import { IconArrowRight } from '../components/Icons'
@@ -129,6 +130,7 @@ const IndexPage = ({ data }) => (
   <Layout>
     <SEO slug="/" />
     <Banner sticky />
+    <FeaturedPosts />
     <h4>Ultimi articoli</h4>
     <CategorizedPostsSection>
       <PostPreviewsByCategory

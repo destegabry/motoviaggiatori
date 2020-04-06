@@ -107,7 +107,7 @@ Purtroppo una foratura può sempre capitare, un [kit per la riparazione pneumati
 
 Per rigonfiare la gomma sconsiglio le bombolette usa e getta (ovviamente perché sono monouso) ed il compressore 12V (pesa molto ed è ingombrante), mi trovo benissimo con una [mini pompa a pedale](https://amzn.to/2I8Tiq8) completa di manometro analogico; volendo esiste anche con [manometro digitale](https://amzn.to/2VzaDeS).
 
-Porto sempre con me un piccolo e leggero set di [cavi avviamento moto](https://amzn.to/2VukbYA) e, dopo aver rischiato di rimanere a secco tra i Monti Apuseni in [Romania](/categoria/viaggi/romania), mi sono dotato anche di una [tanica di emergenza](https://amzn.to/2D2PvX2) da 2 litri montata direttamente sul retro della valigia laterale destra (e di un piccolo [imbuto pieghevole in silicone](https://amzn.to/2P324X5)).
+Porto sempre con me un piccolo e leggero set di [cavi avviamento moto](https://amzn.to/2VukbYA) e, dopo aver rischiato di rimanere a secco tra i Monti Apuseni in [Romania](/categoria/viaggi/romania), mi sono dotato anche di una [tanica di emergenza](https://amzn.to/3bW5e9r) montata direttamente sul retro della valigia laterale destra (e di un piccolo [imbuto pieghevole in silicone](https://amzn.to/2P324X5)).
 
 Ogni moto ha bisogno di chiavi specifiche, ma solitamente porto con me:
 
@@ -120,7 +120,7 @@ Ogni moto ha bisogno di chiavi specifiche, ma solitamente porto con me:
 * [chiave filtro olio](https://amzn.to/2I8UycQ)
 * [borsa a rotolo](https://amzn.to/2KjJQSp) per contenere tutti gli attrezzi
 * [fascette](https://amzn.to/2KwIm7t), [fil di ferro](https://amzn.to/2X6Msou) e [nastro telato](https://amzn.to/2D9vpur) per riparazioni di fortuna
-* [stucco epossidico bicomponente](https://amzn.to/2UeI1pA) permette di riparare un carter bucato
+* [stucco epossidico bicomponente](https://amzn.to/2JJuYtu) permette di riparare un carter bucato
 
 *Last but not least*: [filo per stendere elastico](https://amzn.to/2uWfRpi) e sapone di marsiglia!
 
