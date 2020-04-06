@@ -48,6 +48,19 @@ const FooterWrapper = styled.footer`
     margin-bottom: .5rem;
   }
 
+  .social-links {
+    > a {
+      background: transparent;
+      opacity: .65;
+      margin-left: .4rem!important;
+      margin-right: .4rem!important;
+
+      &:hover {
+        opacity: 1;
+      }
+    }
+  }
+
   .credits {
     font-size: .7rem;
     text-align: center;
