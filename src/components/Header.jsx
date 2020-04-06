@@ -4,14 +4,13 @@ import { useInView } from 'react-intersection-observer'
 import Color from 'color'
 
 import Logo from './Logo'
-import Wrapper from './Wrapper'
 import MainMenu from './MainMenu'
 import SocialLinks from './SocialLinks'
 import Flex from './Flex'
 import headerFooterStyle from '../utils/headerFooterStyle'
 import {
-  SMALL_SCREEN_ONLY,
-  MEDIUM_SCREEN_UP
+  MEDIUM_SCREEN_DOWN,
+  LARGE_SCREEN_UP,
 } from '../utils/breakpoints'
 import { palette } from '../utils/colors'
 import {
@@ -33,49 +32,48 @@ const HeaderElement = styled.header`
     svg {
       transition: height .3s ease-out;
 
-      ${SMALL_SCREEN_ONLY} {
+      ${MEDIUM_SCREEN_DOWN} {
         height: ${headerHeightMobile - 20}px;
       }
 
-      ${MEDIUM_SCREEN_UP} {
+      ${LARGE_SCREEN_UP} {
         height: ${headerHeightDesktopNormal - 20}px;
       }
     }
   }
 
   .nav-wrapper {
+    display: flex;
     align-items: center;
     justify-content: flex-start;
+    font-size: .8rem;
 
     nav {
       a {
         text-transform: uppercase;
 
-        ${SMALL_SCREEN_ONLY} {
+        ${MEDIUM_SCREEN_DOWN} {
           display: block;
           border-bottom: 1px solid ${palette.primary.main};
-          padding: .5rem;
           margin: 0;
+          padding: .3rem .5rem;
         }
 
-        ${MEDIUM_SCREEN_UP} {
+        ${LARGE_SCREEN_UP} {
           margin-right: 1rem;
-
-          &[aria-current] {
-            box-shadow: 0 1px 0 0 currentColor;
-          }
         }
       }
     }
 
     > nav {
-      ${SMALL_SCREEN_ONLY} {
+      ${MEDIUM_SCREEN_DOWN} {
         background: ${Color(palette.primary.main).darken(.2).string()};
+        overflow: auto;
         position: absolute;
         top: ${headerHeightMobile}px;
-        left: 100vw;
+        left: 150vw;
         right: 0;
-        height: 100vh;
+        height: calc(100vh - ${headerHeightMobile}px);
         width: 100vw;
         transition: left .3s ease-in-out;
 
@@ -86,7 +84,7 @@ const HeaderElement = styled.header`
         }
       }
 
-      ${MEDIUM_SCREEN_UP} {
+      ${LARGE_SCREEN_UP} {
         > * {
           padding: 1rem 0;
         }
@@ -146,41 +144,40 @@ const HeaderElement = styled.header`
     top: 0;
     left: 0;
     right: 0;
-    z-index: 10;
+    z-index: 100;
   }
 
   .in-view-ref,
   .nav-wrapper {
     transition: height .3s ease-out;
 
-    ${SMALL_SCREEN_ONLY} {
+    ${MEDIUM_SCREEN_DOWN} {
       height: ${headerHeightMobile}px;
     }
 
-    ${MEDIUM_SCREEN_UP} {
+    ${LARGE_SCREEN_UP} {
       height: ${headerHeightDesktopNormal}px;
     }
   }
 
   .back-to-top {
-    background: ${palette.primary.contrast};
-    border: 1px solid ${palette.primary.light};
-    border-radius: 0 0 3px 3px;
-    color: ${palette.primary.dark};
+    border-radius: .2rem 0 0 .2rem;
+    background: ${Color(palette.primary.light).alpha(.5).string()};
     cursor: pointer;
-    height: 4rem;
-    width: 4rem;
+    height: 2.5rem;
+    width: 2.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
     position: fixed;
     right: -1px;
-    bottom: -6rem;
+    bottom: -3rem;
     opacity: 0;
     transition: all .3s ease-out;
     z-index: 1;
 
     svg {
+      fill: ${palette.primary.dark};
       height: 1.5rem;
       width: 1.5rem;
     }
@@ -188,20 +185,20 @@ const HeaderElement = styled.header`
 
   &.sticky {
     .back-to-top {
-      bottom: 6rem;
+      bottom: 5rem;
       opacity: 1;
     }
 
     .nav-wrapper,
     .in-view-ref {
-      ${MEDIUM_SCREEN_UP} {
+      ${LARGE_SCREEN_UP} {
         height: ${headerHeightDesktopCollapsed}px;
       }
     }
 
     .logo {
       svg {
-        ${MEDIUM_SCREEN_UP} {
+        ${LARGE_SCREEN_UP} {
           height: ${headerHeightDesktopCollapsed - 20}px;
         }
       }
@@ -209,7 +206,7 @@ const HeaderElement = styled.header`
   }
 
   .mobile-menu-opener {
-    ${SMALL_SCREEN_ONLY} {
+    ${MEDIUM_SCREEN_DOWN} {
       cursor: pointer;
       text-align: center;
       height: 1.5rem;
@@ -227,7 +224,7 @@ const HeaderElement = styled.header`
       }
     }
 
-    ${MEDIUM_SCREEN_UP} {
+    ${LARGE_SCREEN_UP} {
       display: none;
     }
   }
@@ -248,18 +245,6 @@ const HeaderElement = styled.header`
       &:hover {
         opacity: 1;
       }
-    }
-
-    .instagram > svg {
-      margin: 2px;
-    }
-
-    .facebook > svg {
-      margin: -2px 0 0;
-    }
-
-    .youtube > svg {
-      margin: 1px;
     }
   }
 `;
@@ -294,7 +279,7 @@ const Header = () => {
       ].join(' ') }
     >
       <div className="header-wrapper">
-        <Wrapper className="nav-wrapper">
+        <div className="wrapper nav-wrapper">
           <Logo />
           <Flex />
           <MainMenu />
@@ -305,7 +290,7 @@ const Header = () => {
           >
             { mobileMenuOpen ? <IconClose /> : <IconHamburger />}
           </div>
-        </Wrapper>
+        </div>
       </div>
       <div className="in-view-ref" ref={ref} />
       <span className="back-to-top" onClick={scrollTop}>

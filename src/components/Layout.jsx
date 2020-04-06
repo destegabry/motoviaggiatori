@@ -8,7 +8,6 @@ import moment from 'moment'
 import 'moment/locale/it'
 
 import { colors } from '../utils/theme'
-import Wrapper from './Wrapper'
 import Header from './Header'
 import Footer from './Footer'
 
@@ -31,16 +30,15 @@ const globalStyles = css`
     -webkit-overflow-scrolling: auto;
   }
 
-  main {
-    max-width: 100%;
-    padding-bottom: 2rem;
+  .wrapper {
+    margin: 0 auto;
+    padding: 0 1rem;
+    width: 100%;
+    max-width: 1280px;
   }
 
   .pace {
-    -webkit-pointer-events: none;
     pointer-events: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
     user-select: none;
 
     .pace-progress {
@@ -60,14 +58,16 @@ const globalStyles = css`
 `;
 
 const OuterWrapper = styled.div`
+  background: ${colors.palette.primary.light};
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  margin: 0;
 `;
 
 const Main = styled.main`
-  display: block;
-  width: 100%;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
 `;
 
 const Layout = ({ children, ...otherProps }) => {
@@ -78,12 +78,9 @@ const Layout = ({ children, ...otherProps }) => {
       </Helmet>
       <Global styles={globalStyles} />
       <Header />
-      <Wrapper css={css`flex: 1 0 100%;`}>
-        <Main>
-          {children}
-        </Main>
-        {/* <aside></aside> */}
-      </Wrapper>
+      <Main className="wrapper">
+        {children}
+      </Main>
       <Footer />
     </OuterWrapper>
   );

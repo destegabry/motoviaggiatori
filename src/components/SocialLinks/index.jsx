@@ -1,6 +1,5 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { css } from '@emotion/core'
 import styled from '@emotion/styled'
 
 import Facebook from './facebook.svg'
@@ -25,38 +24,6 @@ const Link = styled.a`
   }
 `;
 
-const instagramStyle = css`
-  background: #E4405F;
-
-  svg {
-    margin: 10%;
-  }
-`
-
-const facebookStyle = css`
-  background: #3B5998;
-
-  svg {
-    margin: 1px;
-  }
-`
-
-const youtubeStyle = css`
-  background: #D14836;
-
-  svg {
-    margin: 10%;
-  }
-`
-
-const mailStyle = css`
-  background: #D14836;
-
-  svg {
-    margin: 15%;
-  }
-`
-
 const SocialLinks = ({size, hideMail, iconStyle}) => {
   const style = {
     height: size,
@@ -72,7 +39,6 @@ const SocialLinks = ({size, hideMail, iconStyle}) => {
           href="mailto:info@motoviaggiatori.it"
           title="Email"
           style={style}
-          css={mailStyle}
           className="email"
         >
           <Email />
@@ -82,7 +48,6 @@ const SocialLinks = ({size, hideMail, iconStyle}) => {
         href="https://facebook.com/motoviaggiatori"
         title="Facebook"
         style={style}
-        css={facebookStyle}
         className="facebook"
       >
         <Facebook />
@@ -91,7 +56,6 @@ const SocialLinks = ({size, hideMail, iconStyle}) => {
         href="https://instagram.com/motoviaggiatori"
         title="Instagram"
         style={style}
-        css={instagramStyle}
         className="instagram"
       >
         <Instagram />
@@ -100,7 +64,6 @@ const SocialLinks = ({size, hideMail, iconStyle}) => {
         href="https://www.youtube.com/channel/UCTa8R7tJ7GDWTVKh0CF9w2w"
         title="YouTube"
         style={style}
-        css={youtubeStyle}
         className="youtube"
       >
         <Youtube />

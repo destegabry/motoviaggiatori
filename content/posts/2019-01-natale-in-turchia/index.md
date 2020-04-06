@@ -7,8 +7,8 @@ author: miral
 featured_image: ./galleries/IMG_9323.jpeg
 excerpt: In Turchia su asfalto e sterrato, visitando Istanbul, Cappadocia e siti archeologici niente male!
 categories:
-- itinerari
-- itinerari/turchia
+- viaggi
+- viaggi/turchia
 tags:
 - tag/1-settimana
 - tag/bmw-r1200gs

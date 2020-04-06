@@ -19,11 +19,11 @@ import {
 } from '../components/SocialLinks'
 import Link from '../components/Link'
 import DangerousHTML from '../components/DangerousHTML'
-import Card from './Card'
 import { IconArrowRight } from './Icons'
 
 const ContentWrapper = styled.div`
   display: flex;
+
   ${VERY_SMALL_SCREEN_ONLY} {
     flex-direction: column;
   }
@@ -48,10 +48,15 @@ const TextWrapper = styled.div`
 flex: 1 0 0%;`;
 
 const LinkWrapper = styled.div`
-  margin-bottom: .5rem;
+  margin-bottom: .25rem;
 
-  a:hover {
-    box-shadow: none;
+  a {
+    display: flex;
+    align-items: center;
+
+    &:hover {
+      box-shadow: none;
+    }
   }
 `;
 
@@ -74,81 +79,79 @@ function AuthorBox({ author, showProfileLink, ...otherProps }) {
   } = author.frontmatter;
 
   return (
-    <Card itemScope="itemscope" itemType="http://schema.org/Person" {...otherProps}>
-      <ContentWrapper className="content">
-        { !avatar ? null :
-          <ImgWrapper className="image-wrapper">
-            <Img
-              fluid={avatar.childImageSharp.fluid}
-              alt={avatar.childImageSharp.alt_text}
-            />
-          </ImgWrapper>
+    <ContentWrapper className="content" itemScope="itemscope" itemType="http://schema.org/Person" {...otherProps}>
+      { !avatar ? null :
+        <ImgWrapper className="image-wrapper">
+          <Img
+            fluid={avatar.childImageSharp.fluid}
+            alt={avatar.childImageSharp.alt_text}
+          />
+        </ImgWrapper>
+      }
+      <TextWrapper className="text-wrapper">
+        <h1>{ name }</h1>
+        <DangerousHTML html={ author.html } />
+        { !website ? null :
+          <LinkWrapper>
+            <a
+              href={website}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Sito web"
+            >
+              <Website css={socialIcon} />
+              { website }
+            </a>
+          </LinkWrapper>
         }
-        <TextWrapper className="text-wrapper">
-          <h1>{ name }</h1>
-          <DangerousHTML html={ author.html } />
-          { !website ? null :
-            <LinkWrapper>
-              <a
-                href={website}
-                target="_blank"
-                rel="noopener noreferrer"
-                title="Sito web"
-              >
-                <Website css={socialIcon} />
-                { website }
-              </a>
-            </LinkWrapper>
-          }
-          { !facebook?.url ? null :
-            <LinkWrapper>
-              <a
-                href={facebook.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                title="Facebook"
-              >
-                <Facebook css={socialIcon} />
-                { facebook.name }
-              </a>
-            </LinkWrapper>
-          }
-          { !instagram?.url ? null :
-            <LinkWrapper>
-              <a
-                href={instagram.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                title="Instagram"
-              >
-                <Instagram css={socialIcon} />
-                { instagram.name }
-              </a>
-            </LinkWrapper>
-          }
-          { !youtube?.url ? null :
-            <LinkWrapper>
-              <a
-                href={youtube.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                title="YouTube"
-              >
-                <Youtube css={socialIcon} />
-                { youtube.name }
-              </a>
-            </LinkWrapper>
-          }
-          { !showProfileLink || !slug ? null :
-            <div>
-              <Link to={getAuthorUrl(slug)} icon={<IconArrowRight />}>
-                Tutti i post di {name}
-              </Link>
-            </div>
-          }
-        </TextWrapper>
-      </ContentWrapper>
-    </Card>
+        { !facebook?.url ? null :
+          <LinkWrapper>
+            <a
+              href={facebook.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Facebook"
+            >
+              <Facebook css={socialIcon} />
+              { facebook.name }
+            </a>
+          </LinkWrapper>
+        }
+        { !instagram?.url ? null :
+          <LinkWrapper>
+            <a
+              href={instagram.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Instagram"
+            >
+              <Instagram css={socialIcon} />
+              { instagram.name }
+            </a>
+          </LinkWrapper>
+        }
+        { !youtube?.url ? null :
+          <LinkWrapper>
+            <a
+              href={youtube.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="YouTube"
+            >
+              <Youtube css={socialIcon} />
+              { youtube.name }
+            </a>
+          </LinkWrapper>
+        }
+        { !showProfileLink || !slug ? null :
+          <div>
+            <Link to={getAuthorUrl(slug)} icon={<IconArrowRight />}>
+              Tutti i post di {name}
+            </Link>
+          </div>
+        }
+      </TextWrapper>
+    </ContentWrapper>
   )
 }
 

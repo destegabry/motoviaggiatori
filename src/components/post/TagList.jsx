@@ -3,7 +3,6 @@ import styled from '@emotion/styled'
 import { Link } from 'gatsby'
 
 import { palette } from '../../utils/colors'
-import Card from '../Card'
 
 const TagSection = styled.section`
   a {
@@ -27,11 +26,9 @@ export default ({ tags, ...otherProps }) => {
     return null;
   }
   return (
-    <Card {...otherProps}>
-      <TagSection>
-        <h3>Tags</h3>
-        { tags.map(({ frontmatter }) => <Tag key={ frontmatter.slug } { ...frontmatter } />) }
-      </TagSection>
-    </Card>
+    <TagSection {...otherProps}>
+      <h3>Tags</h3>
+      { tags.map(({ frontmatter }) => <Tag key={ frontmatter.slug } { ...frontmatter } />) }
+    </TagSection>
   )
 }

@@ -12,7 +12,6 @@ import {
 import getCategoryUrl from '../utils/getCategoryUrl'
 import { green, pink, blue } from '../utils/colors'
 import Layout from '../components/Layout'
-import Card from '../components/Card'
 import SEO from '../components/seo'
 import PostPreviewFull from '../components/PostPreviewFull'
 import PostPreviewList from '../components/PostPreviewList'
@@ -26,7 +25,11 @@ const CategorizedPostsSection = styled.section`
   display: flex;
 
   ${MEDIUM_SCREEN_UP} {
-    margin: 0 -1rem;
+    margin: 0 -0.5rem;
+
+    > div {
+      margin: 0 .5rem;
+    }
   }
 
   ${MEDIUM_SCREEN_DOWN} {
@@ -77,7 +80,7 @@ const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
   }
 
   return (
-    <Card css={css`
+    <div css={css`
       border-top: 6px solid ${color};
       ${cardCss}
 
@@ -118,7 +121,7 @@ const PostPreviewsByCategory = ({posts, categoryFilter, color}) => {
           { filteredPosts.slice(1, 5).map(({node}, index) => <PostPreviewList key={index} post={node} />) }
         </div>
       </div>
-    </Card>
+    </div>
   )
 };
 
@@ -152,13 +155,7 @@ const IndexPage = ({ data }) => (
       `}
     />
     <h4>Tutti gli articoli</h4>
-    <PagedPosts
-      posts={data.allMarkdownRemark.edges}
-      css={css`
-        ${MEDIUM_SCREEN_UP} {
-          margin: 0 -1rem;
-        }
-      `} />
+    <PagedPosts posts={data.allMarkdownRemark.edges} />
   </Layout>
 )
 

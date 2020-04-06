@@ -4,13 +4,13 @@ import Color from 'color'
 import { SMALL_SCREEN_ONLY } from '../utils/breakpoints'
 import colors from './colors'
 
-export const mainFontStack = ['Merriweather', 'serif'];
-export const altFontStack = ['Open Sans', 'sans-serif'];
+export const mainFontStack = ['Crimson Text', 'serif'];
+export const altFontStack = ['Palanquin', 'sans-serif'];
 
 const theme = {
   title: 'MotoViaggiatori',
-  baseFontSize: '16px',
-  baseLineHeight: 1.7,
+  baseFontSize: '24px',
+  baseLineHeight: 1.4,
   headerFontFamily: altFontStack,
   bodyFontFamily: mainFontStack,
   headerColor: Color(colors.text.primary).alpha(0.9).string(),
@@ -63,7 +63,7 @@ const theme = {
     },
     [SMALL_SCREEN_ONLY]: {
       html: {
-        fontSize: '90%',
+        fontSize: '120%',
       },
       blockquote: {
         borderLeft: `${rhythm(3 / 16)} solid ${gray(50)}`,

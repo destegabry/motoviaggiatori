@@ -4,7 +4,6 @@ import { css } from '@emotion/core'
 
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
-import Card from '../components/Card'
 import PagedPosts from '../components/PagedPosts'
 import DangerousHTML from '../components/DangerousHTML'
 import Banner from '../components/Banner'
@@ -20,12 +19,8 @@ function TagTemplate({ data }) {
         description={currentTag.excerpt}
         slug={ `/${currentTag.frontmatter.slug}` }
       />
-      <Card>
-        <div className="content">
-          <h1>{currentTag.frontmatter.name}</h1>
-          <DangerousHTML html={ currentTag.html } />
-        </div>
-      </Card>
+      <h1>{currentTag.frontmatter.name}</h1>
+      <DangerousHTML html={ currentTag.html } />
       <Banner sticky style={ css`
         margin-top: 0;
         margin-bottom: 1rem;

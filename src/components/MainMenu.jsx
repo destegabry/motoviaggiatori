@@ -12,9 +12,19 @@ const MainMenu = () => {
 
   return (
     <nav>
-      <Link to={getCategoryUrl(categories.itinerari.slug)}>
-        {categories.itinerari.name}
-      </Link>
+      <span>
+        <Link to={getCategoryUrl(categories.itinerari.slug)}>
+          {categories.itinerari.name}
+        </Link>
+        <nav>
+          <Link to={getCategoryUrl(categories['itinerari/italia'].slug)}>
+            {categories['itinerari/italia'].name}
+          </Link>
+          <Link to={getCategoryUrl(categories['itinerari/francia'].slug)}>
+            {categories['itinerari/francia'].name}
+          </Link>
+        </nav>
+      </span>
       <span>
         <Link to={getCategoryUrl(categories.viaggi.slug)}>
           {categories.viaggi.name}

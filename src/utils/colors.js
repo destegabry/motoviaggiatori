@@ -6,7 +6,7 @@ let colors = {
   azure: '#d9edf7',
   palette: {
     primary: {
-      light: '#ecf0f5',
+      light: '#fcfcfd',
       main: '#3a4e5f',
       dark: '#24303a',
       contrast: '#fff'
@@ -14,7 +14,7 @@ let colors = {
     secondary: {
       light: '#e0fff0',
       main: '#57ffad',
-      dark: '#006163',
+      dark: '#007d80',
       contrast: '#000'
     },
     grey: {

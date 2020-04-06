@@ -8,29 +8,12 @@ import Banner from '../components/Banner'
 import AuthorBox from '../components/AuthorBox'
 import Columns from '../components/Columns'
 import {
-  MEDIUM_SCREEN_UP,
-  SMALL_SCREEN_ONLY,
   VERY_SMALL_SCREEN_MAX_SIZE,
-  LARGE_SCREEN_MAX_SIZE
 } from '../utils/breakpoints'
 
-const columnsWrapperCss = css`
-  ${MEDIUM_SCREEN_UP} {
-    margin: 0 -.5rem;
-  }
-`
 const authorCss = css`
-  ${SMALL_SCREEN_ONLY} {
-    margin-bottom: .5rem;
-  }
-
-  ${MEDIUM_SCREEN_UP} {
-    margin: 0 .5rem 1rem;
-  }
-
-  .content {
-    flex-direction: column;
-  }
+  flex-direction: column;
+  margin-bottom: 1rem;
 
   .image-wrapper {
     flex: 1 0 0%;
@@ -39,6 +22,7 @@ const authorCss = css`
 
   p {
     font-size: .8em;
+    margin-bottom: 0;
   }
 
   h1 {
@@ -67,9 +51,8 @@ const AuthorsPage = ({ data }) => (
       breakpoints={[
         VERY_SMALL_SCREEN_MAX_SIZE,
         800,
-        LARGE_SCREEN_MAX_SIZE
+        1080
       ]}
-      css={columnsWrapperCss}
     />
   </Layout>
 )
