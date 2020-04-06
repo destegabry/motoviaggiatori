@@ -62,6 +62,8 @@ Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usi
   - [piastra adesiva universale](https://amzn.to/3bYw5ll) appiccicata direttamente sulla cover del telefono;
   - [Opti Case universale](https://amzn.to/39LRCMn) visibilità ottimale ed evita il surriscaldamento;
   - [Opti Belt](https://amzn.to/2V3eYrH) fissata a manubrio o sull'archetto porta strumenti.
+- [Lucchetto ad arco ABUS Granit eXtreme](https://amzn.to/34mc2L2): quasi indistruttibile, entra perfettamente nel foro della coppia conica delle BMW R1200GS e calza a pennello sotto la sella. Per non fare danni è fondamentale un [cavo promemoria](https://amzn.to/34fxqBk).
+- [Cavo d'acciaio KryptoFlex](https://amzn.to/2JVdN8F): ci si lega di tutto, dai caschi alle giacche (passandolo attraverso le maniche).
 
 ### Attrezzatura
 
