@@ -74,7 +74,6 @@ Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usi
 - [Tanica di emergenza](https://amzn.to/3bW5e9r) e un piccolo [imbuto pieghevole in silicone](https://amzn.to/2P324X5).
 - [Stucco epossidico bicomponente](https://amzn.to/2JJuYtu): Permette di riparare un carter forato.
 
-
 ### Pneumatici
 
 - [Anlas Capra RD](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_odkw%3Dmidland%2Bbtx2%2Bpro%2Bs%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1311.R1.TR2.TRC1.A0.H2.Xmidland%2Bbt%2Bnext.TRS0%26_nkw%3Dmidland%2Bbt%2Bnext%2Bpro%26_sacat%3D0): gomme 90% road 10% off, silenziose, ottimo feeling su asfalto asciutto, bagnato e strade bianche. Dopo 12.000km su BMW R1200GS 2008 rimangono 2,25mm al posteriore e 2,75mm all'anteriore, **ottima durata**! Misure disponibili per la maggior parte delle maxi enduro stradali.
