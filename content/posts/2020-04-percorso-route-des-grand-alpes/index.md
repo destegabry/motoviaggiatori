@@ -32,7 +32,7 @@ attributes:
 - key: Tempo
   value: 2-3 giorni
 - key: Periodo
-  value: Maggio - Settembre [verificare apertura colli](http://www.sport-passion.fr/parcours/etat-cols.php)
+  value: Maggio - Settembre <a href="http://www.sport-passion.fr/parcours/etat-cols.php" target="_blank">verificare apertura colli</a>
 - key: Abbigliamento
   value: A causa dei dislivelli molto ampi lo sbalzo termico è notevole, consigliato abbigliamento multistrato e un paio di guanti invernali in aggiunta a quelli estivi
 ---
