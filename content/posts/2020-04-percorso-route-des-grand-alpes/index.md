@@ -1,9 +1,9 @@
 ---
-title: Route des Grand Alpes
+title: Route des Grandes Alpes
 date: "2020-04-10T18:00:00.000Z"
 modified: "2020-04-10T18:00:00.000Z"
 author: gabriele
-slug: /2020/04/percorso-route-des-grand-alpes
+slug: /2020/04/percorso-route-des-grandes-alpes
 featured_image: "./featured-image.jpg"
 excerpt: Itinerario di 684 km passando per 16 valichi alpini di cui 6 a più di 2.000 m di altezza. Si parte dal grande Lago Lemano per arrivare sul Mar Mediterraneo.
 categories:
@@ -72,11 +72,11 @@ Si rientra a Torino passando per il Colle di Tenda (1.871 m s.l.m.).
 
 Da qui puoi **scaricare gratuitamente**:
 
-- ["Roadbook" bianco & nero](./risorse/route_des_grand_alpes-bw.pdf)
-- ["Roadbook" a colori](./risorse/route_des_grand_alpes-color.pdf)
-- ["Roadbook" stampabile in formato A4](./risorse/route_des_grand_alpes-a4.pdf)
-- [Traccia GPX - Route des Grand Alpes](./risorse/route_des_grand_alpes.gpx)
-- [Traccia GPX - Route des Grand Alpes - Anello da Torino](./risorse/route_des_grand_alpes-anello_torino.gpx)
+- ["Roadbook" bianco & nero](./risorse/route_des_grandes_alpes-bw.pdf)
+- ["Roadbook" a colori](./risorse/route_des_grandes_alpes-color.pdf)
+- ["Roadbook" stampabile in formato A4](./risorse/route_des_grandes_alpes-a4.pdf)
+- [Traccia GPX - Route des Grandes Alpes](./risorse/route_des_grandes_alpes.gpx)
+- [Traccia GPX - Route des Grandes Alpes - Anello da Torino](./risorse/route_des_grandes_alpes-anello_torino.gpx)
 
 <div class="message pro-tip">
   <p>Per navigatori <a href="https://amzn.to/34pYRZv" target="_blank">TomTom</a> collega il dispositivo via USB e copia il file GPX cartella <em>GPX2ITN/</em>.</p>
