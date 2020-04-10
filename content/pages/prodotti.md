@@ -17,8 +17,17 @@ Li trovate organizzati per categoria e, dove disponibile, il link alla nostra re
 - Guanti estivi [REV'IT! Sand 3](https://amzn.to/3aGP43o): un mix di cuoio e materiale tecnico per guanti comodi, ventilati e sicuri.
 - Guanti all-weather [REV'IT! Dominator GTX](https://amzn.to/2X4KS9K): guanti in vari tipi di pelle e materiali tecnici, tra cui spicca il GORE-TEX®. Impermeabili e traspiranti, non hanno alcun tipo di fodera termica, per il freddo vanno abbinati a sottoguanti.
 - Sottoguanti [Decathlon Forclaz TREK500](https://www.decathlon.it/sottoguanti-trek500-lana--id_8555763.html): sottilissimi e composti all'86% di lana Merinos (calda e antibatterica), asciugano molto velocemente.
-- Stivali [Sidi Aria Gore](https://amzn.to/3487307): comodi, leggeti, membrana GORE-TEX® traspirante e impermeabile, testati anche sotto il *diluvio*!
+- Stivali [Sidi Aria Gore](https://amzn.to/3487307): comodi, leggeri, membrana GORE-TEX® traspirante e impermeabile, testati anche sotto il *diluvio*!
+- Stivali [Forma Adventure](https://amzn.to/3a0pqFQ): comodi, robusti e perfettamente waterproof davvero poco traspiranti; in variante alta e bassa, consigliati per l'adventouring.
 - [Bretelle rifrangenti](https://amzn.to/2I8UpWM): obbligatorie in alcuni Paesi.
+- [Jeans PMJ Rider](https://amzn.to/3cchdzB): comodi e con taglio classico, quasi non sembrano pantaloni da moto nonostante le protezioni ed il tessuto TWARON®, più resistente alle abrasione del Kevlar®.
+- Giacca estiva [Spidi Airtech Armor](https://amzn.to/3edprta): ultraleggera e in grado di utilizzare le più robuste protezioni Spidi, è fatta al 100% di tessuto in rete mesh.
+- Giacca estiva [REV'IT Vigor](https://amzn.to/39Zp6ai): giacca estiva di ottima qualità e prezzo accessibile, meno ventilata della Spidi Airtech Armor utilizzabile in più stagioni.
+- Giacca 4 stagioni [Acerbis Glen](https://amzn.to/34pSipP): giacca 3 strati economica ma di buona fattura, lascio a casa lo strato impermeabile in favore di un completo antipioggia. Disponibili anche i pantaloni abbinati.
+- [Completo antipioggia OJ](https://amzn.to/3eamny7): compatto, economico, testato sotto piogge torrenziali; sconsiglio la tutta intera, meglio la versione 2 pezzi.
+- Paraschiena [REV'IT SEESOFT](https://amzn.to/2xkN42j): economico, leggerissimo e morbido, offre protezione CE livello 2. Disponibile in varie misure, è possibile ritagliarlo per utsarlo anche su giacche non REV'IT.
+- Paraschiena [Spidi WARRIOR L2](https://amzn.to/2XrgSFa): offre protezione CE livello 2 e permette di essere usato in tutte le giacche dotate di velcro o tasca sufficientemente grande.
+- Paraschiena [Dainese PRO ARMOR](https://amzn.to/2xn05sn): si indossa sotto la giacca con le bretelle ed il support lombare integrato. Più sicuro degli inserti per le giacche ma più scomodo (e costoso).
 
 ### Caschi
 
