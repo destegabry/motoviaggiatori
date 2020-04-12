@@ -7,7 +7,7 @@
 ## Install
 
 ```sh
-git clone git@github.com:destegabry/motoviaggiatori.git  
+git clone git@github.com:destegabry/motoviaggiatori.git
 cd motoviaggiatori
 npm install
 cp .env.sample .env
@@ -28,3 +28,18 @@ Run `npm run build` or `gatsby build`. Use `gatsby serve` to test the production
 ## Deploy & Continuous Delivery
 
 The website is automatically built and deployed to Netlify on each PR pushed on `master` branch.
+
+## Netlify manual deploy
+
+Install Netflify CLI:
+
+```sh
+npm install netlify-cli -g
+```
+
+Then build and deploy:
+
+```sh
+npm run build
+npm run deploy
+```

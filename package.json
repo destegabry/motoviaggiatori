@@ -64,7 +64,8 @@
     "clear-cache": "rm -Rf .cache",
     "format": "prettier --write \"src/**/*.js\"",
     "lint": "markdownlint content/**/*.md",
-    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
+    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\"",
+    "deploy": "netlify deploy --dir=public --open"
   },
   "devDependencies": {
     "@babel/plugin-proposal-optional-chaining": "^7.9.0",
