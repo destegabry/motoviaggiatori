@@ -8,7 +8,6 @@ author: simone
 categories:
 - viaggi
 - viaggi/turchia
-- video
 tags:
 - tag/turchia-in-moto
 - tag/nallihan
@@ -37,10 +36,6 @@ Ripartiamo ancora, superiamo il colle e iniziamo a scendere, pochi km dopo si ap
 
 Parcheggio di fronte al chiosco/baracca. Quando spengo la moto mi rendo conto del silenzio del luogo. Alice scende, mi sfilo il casco e osservo il posto. Sulla soglia tre anziani ci guardano come se avessero visto un alieno.
 
-![Frittata turca](./foto/img031.jpg "Un anziano ospite della baracca")
-![Frittata turca](./foto/img032.jpg "L'interno della baracca")
-![Frittata turca](./foto/img033.jpg "Autoritratto su triacetato")
-
 Chiedo se possiamo mangiare, oddio, chiedo, mi porto le mani alla bocca con gesti tipicamente italiani e mimo "mangiare".
 
 Capiscono, uno dei tre anziani signori dice si, ci invita a sederci. Io e Alice ci guardiamo, un po' interdetti, un po' impauriti. Questo non è un locale, non è un bar, non è un abitazione… mai scopriremo di che cosa si tratta. Sta di fatto che scegliamo di fidarci e ci accomodiamo nel piccolo dehor, panche di legno crepato dall’acqua e dal sole accolgono i nostri culi.
@@ -52,6 +47,13 @@ Sta di fatto che non riusciamo a capire cosa ci sta chiedendo, fino a che non ci
 Il signore ci invita a seguirlo, attraversiamo la stanze e lui scosta un tappeto arabo utilizzato come tenda: dietro il buio più profondo, si nota sola uno scaffale in metallo da cui estrae un secchio bianco, di quelli che contengono la vernice per intenderci, e ci mostra l’interno. Uova. Poi recupera dei pomodori, ce li mostra, poi cipolle e poi peperoncini, il gesto che segue accompagnato dal suono *frushh* è inconfondibile, vuole farci una frittata «okkkkey!» diciamo noi. Torniamo fuori, ci sediamo e aspettiamo. Mentre sfumacchio una delle mie sigarette il turco mi fa capire di volerne una, allora mi metto all’opera e gliene giro alcune che gli consegno, lui sorride e se ne accende una all’istante.
 
 Ora, abbiamo trovato il cibo, rimangono da ritrovare gli altri. Ebbene, il cellulare non prende. Mi rivolgo di nuovo al turco mimando un telefono, mi fa capire che per telefonare mi devo spostare, lì non c’è campo. Salgo in moto, scendo di qualche curva e chiamo. Gabriele non risponde e io inizio a preoccuparmi, sono un paio d’ore che non abbiamo notizie. Ritorno da Alice, è ancora viva, scatta qualche foto con la sua vecchia macchina foto analogica.
+
+![Frittata turca](./foto/img031.jpg "Un anziano ospite della baracca")
+![Frittata turca](./foto/img032.jpg "L'interno della baracca")
+![Frittata turca](./foto/img033.jpg "Autoritratto su triacetato")
+![Frittata turca](./foto/img034.jpg "La sgangherata cucina del nostro ospite")
+![Frittata turca](./foto/img035.jpg "Il Turco, Simone e Arturo")
+![Frittata turca](./foto/img036.jpg "Ozio nel polveroso pomeriggio turco")
 
 Aspettiamo e teniamo d’occhio la strada «speriamo ci vedano» penso.
 
@@ -65,11 +67,11 @@ La frittata giunge al tavolo direttamente nella vecchia padella in cui è stata 
 
 Finiamo il pranzo, ci viene offerto l’ennesimo çay di questo viaggio, infilo una zolletta di zucchero e bevo.
 
-L’evento più bello accade ora: mettiamo mano al portafoglio e cerchiamo di chiedere il conto. L’uomo ci guarda e ci fa capire che non vuole soldi, ci sta offrendo il pranzo. Ci rifiutiamo, cerchiamo di lasciargli i soldi sul tavolo, ma niente, non ne vuole sapere. Al che Arturo spalanca le sue braccione lo abbraccia per ringraziarlo, sorridiamo e Alice ci scatta una foto.
+![Frittata turca](./foto/IMG_5213.JPG "L'improbabile baracca in cui abbiamo pranzato")
+![Frittata turca](./foto/IMG_5216.JPG "La frittata più buonda della mia vita")
+![Frittata turca](./foto/IMG_5218.JPG "L’ennesimo çay di questo viaggio")
 
-![Frittata turca](./foto/img034.jpg "La sgangherata cucina del nostro ospite")
-![Frittata turca](./foto/img035.jpg "Il Turco, Simone e Arturo")
-![Frittata turca](./foto/img036.jpg "Ozio nel polveroso pomeriggio turco")
+L’evento più bello accade ora: mettiamo mano al portafoglio e cerchiamo di chiedere il conto. L’uomo ci guarda e ci fa capire che non vuole soldi, ci sta offrendo il pranzo. Ci rifiutiamo, cerchiamo di lasciargli i soldi sul tavolo, ma niente, non ne vuole sapere. Al che Arturo spalanca le sue braccione lo abbraccia per ringraziarlo, sorridiamo e Alice ci scatta una foto.
 
 Prima di andare via consegno al signore ancora alcune delle mie sigarette che sembra aver apprezzato poco fa.
 
