@@ -66,8 +66,7 @@ const OuterWrapper = styled.div`
 `;
 
 const Main = styled.main`
-  padding-bottom: 1rem;
-  padding-top: 1rem;
+  padding: 1rem;
 `;
 
 const Layout = ({ children, ...otherProps }) => {
