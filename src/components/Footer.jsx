@@ -1,93 +1,16 @@
 import React from 'react'
 import { withPrefix } from 'gatsby'
-import styled from '@emotion/styled'
-import { css } from '@emotion/core'
 
 import { useSiteMetadata } from '../hooks/use-site-metadata'
-import {
-  SMALL_SCREEN_ONLY,
-} from '../utils/breakpoints'
-import headerFooterStyle from '../utils/headerFooterStyle'
 import Logo from './Logo'
 import Sponsors from './Sponsors'
 import SocialLinks from './SocialLinks'
-
-const FooterWrapper = styled.footer`
-  ${headerFooterStyle}
-  padding: .5rem 0;
-
-  .row {
-    display: flex;
-
-    ${SMALL_SCREEN_ONLY} {
-      flex-direction: column;
-    }
-  }
-
-  .column {
-    padding: .5rem .25rem;
-    flex: 1 0 0%;
-    display: flex;
-    flex-direction: column;
-
-    h4 {
-      color: inherit;
-      margin-top: 0;
-      text-transform: uppercase;
-    }
-  }
-
-  .logo-wrapper {
-    align-items: center;
-    flex: 0 0 12rem;
-  }
-
-  .logo {
-    width: 100%;
-    max-width: 10rem;
-    margin-bottom: .5rem;
-  }
-
-  .social-links {
-    > a {
-      background: transparent;
-      opacity: .65;
-      margin-left: .4rem!important;
-      margin-right: .4rem!important;
-
-      &:hover {
-        opacity: 1;
-      }
-    }
-  }
-
-  .credits {
-    font-size: .7rem;
-    text-align: center;
-    padding: .5rem 0;
-  }
-`;
-
-const sponsorsCss = css`
-  h4 {
-    flex: 1 0 100%;
-  }
-`;
-
-const MobileLineBreaker = styled.span`
-  ${SMALL_SCREEN_ONLY} {
-    display: block;
-    visibility: hidden;
-    height: 0px;
-    width: 100%;
-  }
-`;
 
 const Footer = () => {
   const { name, version, siteUrl, repositoryUrl } = useSiteMetadata();
 
   return (
-    <FooterWrapper itemProp="publisher" itemScope itemType="http://schema.org/Organization" id="global-org">
+    <footer itemProp="publisher" itemScope itemType="http://schema.org/Organization" id="global-org">
       <meta itemProp={ withPrefix('/images/motoviaggiatori_logo.png') } />
       <meta itemProp="url" content={ siteUrl } />
       <div className="wrapper row">
@@ -96,7 +19,7 @@ const Footer = () => {
           <SocialLinks size={32} />
         </div>
         <div className="column sponsor-wrapper">
-          <Sponsors css={sponsorsCss} />
+          <Sponsors />
         </div>
       </div>
       <div className="wrapper credits">
@@ -111,7 +34,7 @@ const Footer = () => {
         >
           v{version}
         </a>
-        <MobileLineBreaker> | </MobileLineBreaker>
+        <span className="mobile-line-breaker"> | </span>
         <a href="/privacy-policy">
           Privacy policy
         </a> | Powered by <a
@@ -120,7 +43,7 @@ const Footer = () => {
           rel="noopener noreferrer"
         >Top Solution</a>
       </div>
-    </FooterWrapper>
+    </footer>
   );
 }
 

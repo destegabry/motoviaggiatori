@@ -1,0 +1,40 @@
+$VERY_SMALL_SCREEN_MAX_SIZE: 400;
+$SMALL_SCREEN_MAX_SIZE: 600;
+$MEDIUM_SCREEN_MAX_SIZE: 900;
+$LARGE_SCREEN_MAX_SIZE: 1200;
+
+@mixin very_small_screen_only {
+  @media only screen and (max-width: #{$VERY_SMALL_SCREEN_MAX_SIZE}px) { @content; }
+}
+@mixin small_screen_only {
+  @media only screen and (max-width: #{$SMALL_SCREEN_MAX_SIZE}px) { @content; }
+}
+@mixin medium_screen_only {
+  @media only screen and (min-width: #{$SMALL_SCREEN_MAX_SIZE + 1}px)
+                     and (max-width: #{$MEDIUM_SCREEN_MAX_SIZE}px) { @content; }
+}
+@mixin large_screen_only {
+  @media only screen and (min-width: #{$MEDIUM_SCREEN_MAX_SIZE + 1}px)
+                     and (max-width: #{$LARGE_SCREEN_MAX_SIZE}px) { @content; }
+}
+@mixin huge_screen_only {
+  @media only screen and (min-width: #{$LARGE_SCREEN_MAX_SIZE + 1}px) { @content; }
+}
+@mixin small_screen_up {
+  @media only screen and (min-width: #{$VERY_SMALL_SCREEN_MAX_SIZE + 1}px) { @content; }
+}
+@mixin medium_screen_up {
+  @media only screen and (min-width: #{$SMALL_SCREEN_MAX_SIZE + 1}px) { @content; }
+}
+@mixin large_screen_up {
+  @media only screen and (min-width: #{$MEDIUM_SCREEN_MAX_SIZE + 1}px) { @content; }
+}
+@mixin huge_screen_up {
+  @media only screen and (min-width: #{$LARGE_SCREEN_MAX_SIZE + 1}px) { @content; }
+}
+@mixin medium_screen_down {
+  @media only screen and (max-width: #{$MEDIUM_SCREEN_MAX_SIZE}px) { @content; }
+}
+@mixin large_screen_down {
+  @media only screen and (max-width: #{$LARGE_SCREEN_MAX_SIZE}px) { @content; }
+}

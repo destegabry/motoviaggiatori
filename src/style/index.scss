@@ -1,0 +1,83 @@
+@import './theme';
+@import './breakpoints';
+
+html {
+  font-size: 150%;
+  box-sizing: border-box;
+  overflow-y: scroll;
+
+  @include small_screen_only {
+    font-size: 120%;
+  }
+}
+
+* {
+  &,
+  :before,
+  :after {
+    box-sizing: inherit;
+  }
+}
+
+body {
+  --bg-main: #{$color_white};
+  --text-main: #{$color_black};
+  --text-link: #{$color_teal};
+
+  &.dark {
+    --bg-main: #{$color_black};
+    --text-main: #{$color_white};
+    --text-link: #{$color_brand};
+  }
+
+  background: var(--bg-main);
+  color: var(--text-main);
+  font-family: $font_stack_main;
+  margin: 0;
+
+  > img {
+    display: block;
+    height: 0;
+  }
+
+  &.modal-open {
+    overflow: hidden;
+    -webkit-overflow-scrolling: auto;
+  }
+}
+
+a {
+  color: var(--text-link);
+  text-decoration: none;
+
+  &:hover,
+  &:active {
+    box-shadow: 0 1px 0 0 currentColor;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-main);
+}
+
+h1 {
+  opacity: .8;
+}
+
+h2 {
+  opacity: .825;
+}
+
+h3 {
+  opacity: .85;
+}
+
+
+h4, h5, h6 {
+  text-transform: uppercase;
+}
+
+@import './header';
+@import './footer';
+@import './pace';
+

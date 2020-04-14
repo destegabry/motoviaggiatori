@@ -1,0 +1,70 @@
+$color_white: #fff;
+$color_black: #191919;
+$color_brand: #57ffad;
+$color_red: #c20000;
+$color_pink: #a3226b;
+$color_green: #1d6900;
+$color_blue: #31708f;
+$color_azure: #d9edf7;
+$color_petrol: #3a4e5f;
+$color_teal: #007d80;
+
+// $palette_primary_light: #fcfcfd;
+// $palette_primary_main: #3a4e5f;
+// $palette_primary_dark: #24303a;
+// $palette_primary_contrast: #000;
+
+// $palette_secondary_light: #e0fff0;
+// $palette_secondary_main: #57ffad;
+// $palette_secondary_dark: #007d80;
+// $palette_secondary_contrast: #000;
+
+// $palette_grey_light: #d9d9d9;
+// $palette_grey_main: #3f3f3f;
+// $palette_grey_dark: #191919;
+
+
+$font_stack_main: 'Crimson Text', serif;
+$font_stack_alt: 'Palanquin', sans-serif;
+
+$header_height_desktop_normal: 100px;
+$header_height_desktop_collapsed: 60px;
+
+$header_height_mobile: 60px;
+
+%alternative-box {
+  background: $color_petrol;
+  color: fade-out($color: $color_white, $amount: .35);
+  font-family: $font_stack_alt;
+
+  a {
+    color: inherit;
+    transition: color .3s;
+
+    &:hover,
+    &:active {
+      box-shadow: none;
+      color: $color_white;
+    }
+
+
+    > svg {
+      display: block;
+    }
+  }
+
+  nav a {
+    box-shadow: none;
+
+    &[aria-current] {
+      color: $color_white;
+    }
+  }
+}
+
+%wrapper {
+  margin: 0 auto;
+  padding: 0 1rem;
+  width: 100%;
+  max-width: 1280px;
+}
