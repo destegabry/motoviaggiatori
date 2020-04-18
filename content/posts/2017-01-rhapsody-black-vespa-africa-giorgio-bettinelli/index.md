@@ -30,7 +30,7 @@ Giorgio Bettinelli si è spento nel 2008 a 53 anni per un malore improvviso nell
 
 ## Rhapsody in black: in Vespa dall’Angola allo Yemen
 
-[Rhapsody in black](http://amzn.to/2hNglEY) racconta una parte della *Worldwide Odyssey*: Bettinelli è appena stato liberato da 3 giorni di sequestro in Congo, tra i deliri febbricitanti della malaria e la consapevolezza di non rivedere più la sua fedele Vespa ed il resto dei bagagli (una macchina foto, un PC portatile, un po’ di vestiti ed una chitarra acustica).
+[Rhapsody in black](https://amzn.to/2KhqquB) racconta una parte della *Worldwide Odyssey*: Bettinelli è appena stato liberato da 3 giorni di sequestro in Congo, tra i deliri febbricitanti della malaria e la consapevolezza di non rivedere più la sua fedele Vespa ed il resto dei bagagli (una macchina foto, un PC portatile, un po’ di vestiti ed una chitarra acustica).
 
 Il viaggio può continuare grazie alla Piaggio, che invia a Luanda una nuova moto a questo corrispondente di viaggio così speciale.
 
@@ -45,7 +45,7 @@ Il libro termina in Yemen, in attesa di imbarcarsi per l’Asia e la sua meta 
 
 ## In breve
 
-Non posso che consigliare la lettura di [Rhapsody in black](http://amzn.to/2hNglEY), ben scritto e avvincente. L’oggetto del libro non è la Vespa o il viaggio in moto: Giorgio Bettinelli è un motociclista atipico che con la sua improvvisazione ed incoscienza vi farà sognare di vivere la sua avventura.
+Non posso che consigliare la lettura di [Rhapsody in black](https://amzn.to/2KhqquB), ben scritto e avvincente. L’oggetto del libro non è la Vespa o il viaggio in moto: Giorgio Bettinelli è un motociclista atipico che con la sua improvvisazione ed incoscienza vi farà sognare di vivere la sua avventura.
 
 Un libro divertente, che non risparmia i pericoli e gli imprevisti che possono capitare in un viaggio del genere.
 
