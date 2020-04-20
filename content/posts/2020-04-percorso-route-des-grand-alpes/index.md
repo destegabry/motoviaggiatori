@@ -18,6 +18,7 @@ tags:
 - tag/3-giorni
 - tag/3-giorni
 - tag/weekend
+- tag/gpx
 - tag/alpi-cozie
 - tag/francia
 - tag/italia

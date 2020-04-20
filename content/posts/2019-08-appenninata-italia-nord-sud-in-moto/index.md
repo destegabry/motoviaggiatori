@@ -25,6 +25,7 @@ tags:
 - tag/toscana
 - tag/honda-xl-700-transalp
 - tag/transalp
+- tag/giro-italia
 ---
 
 ## L'idea

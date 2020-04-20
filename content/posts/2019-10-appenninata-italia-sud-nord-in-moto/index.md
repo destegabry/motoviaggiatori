@@ -22,6 +22,7 @@ tags:
 - tag/molise
 - tag/honda-xl-700-transalp
 - tag/transalp
+- tag/giro-italia
 ---
 
 ## Giorno 1: Puglia, Molise, Abruzzo
