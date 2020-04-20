@@ -58,3 +58,5 @@ Ed è proprio qui che ho iniziato ad elaborare questa idea, cercando di costruir
 Mi piacerebbe condividere con voi il mio itinerario di viaggio nazionale che è molto semplice, sicuramente migliorabile, basato sulla “sempre scarsa” esperienza fatta in territorio nazionale, ma che spero vi dia la possibilità di scoprire e conoscere luoghi nuovi. Volutamente non ho previsto l’utilizzo di traghetti in questo itinerario.
 
 Il mio vuole essere uno stimolo per molti a proporre modifiche o coinvolgere gruppi di appassionati nel creare il proprio itinerario di viaggio, con la speranza di incontrarci presto per strada ricordando questo periodo come un brutto e vecchio ricordo.
+
+Da qui puoi **scaricare gratuitamente** la [Traccia GPX](./risorse/giro-italia-covid19.gpx).
