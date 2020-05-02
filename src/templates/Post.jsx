@@ -44,7 +44,7 @@ function PostTemplate (props) {
     document.querySelector('body').appendChild(epn);
 
     const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 5;
-    const rawFigures = document.querySelectorAll('.gatsby-resp-image-figure');
+    const rawFigures = document.querySelectorAll('.gatsby-resp-image-figure,.gatsby-resp-image-wrapper');
     const adjacentFiguresGroups = [];
     if (rawFigures.length > 0) {
       // good old for-loop as querySelectorAll doesn't return an iterable :,(

@@ -6,15 +6,15 @@ import GalleryLightbox from './GalleryLightbox'
 const galleryPadding = 5;
 const galleryCSS = css`
   margin: 1.5rem 0 3rem;
-  position: relative;
   overflow: hidden;
   width: 100%;
 
   .gallery-row {
     margin-bottom: ${galleryPadding}px;
+    position: relative;
   }
 
-  figure {
+  figure, img {
     cursor: pointer;
     margin: 0;
     position: absolute;
@@ -48,16 +48,18 @@ const galleryCSS = css`
 class Gallery {
   constructor(container, rowRatio) {
     this.container = container;
-    const items = this.container.querySelectorAll('figure');
+    const items = this.container.querySelectorAll('figure,img');
+    console.log(items);
 
     const rows = [];
     this.items = [];
     let prevRowItem;
     items.forEach((element, index) => {
+      const isFigure = element.tagName.toLowerCase() === 'figure';
       const {
         offsetWidth: width,
         offsetHeight: height
-      } = element.querySelector('.gatsby-resp-image-background-image');
+      } = isFigure ? element.querySelector('.gatsby-resp-image-background-image') : element;
 
       const ratio = width / height;
       if (rows.length === 0 || Math.round(rows[rows.length - 1].ratio + ratio) > rowRatio) {
