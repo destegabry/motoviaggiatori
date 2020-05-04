@@ -1,11 +1,11 @@
 ---
 title: Ottovolante Svizzero
-date: "2020-05-04T09:00:00.000Z"
-modified: "2020-05-04T09:00:00.000Z"
+date: "2020-05-05T09:00:00.000Z"
+modified: "2020-05-05T09:00:00.000Z"
 author: gabriele
 slug: /2020/05/percorso-ottovolante-svizzero
 featured_image: "./featured_image.jpg"
-excerpt:
+excerpt: Itinerario tra laghi glaciali e splendidi valichi nel cuore delle Alpi, a due passi da Piemonte e Lombardia
 categories:
 - itinerari
 - itinerari/svizzera
@@ -57,7 +57,17 @@ Giunti a Briga imbocchiamo la Strada Principale 19 che corre lungo il Rodano. Sa
 
 Scendiamo nella Valle di Orsera fino ad Andermatt, lasciamo la Strada Principale 19 e seguiamo la numero 2 fino a Wassen, dove svoltiamo a sinistra sulla Strada 11 per raggiungere il **Passo del Susten**. Qui possiamo ammirare la morena del ghiacciaio Stein risalendo lungo l'omonimo laghetto.
 
-Scendiamo fino a Innertkirchen per poi svoltare nuovamente a sinistra sulla Strada Principale 6, che si snoda fino a raggiungere il **Passo del Grimsel** (2.165 m s.l.m.); i numerosi laghi restano a testimoniare il passaggio di numerosi ghiacciai, le imponenti morene si ritraggono ogni anno per via del riscaldamente globale.
+Scendiamo fino a Innertkirchen per poi svoltare nuovamente a sinistra sulla Strada Principale 6, che si snoda fino a raggiungere il **Passo del Grimsel** (2.165 m s.l.m.); i numerosi laghi restano a testimoniare il passaggio di numerosi ghiacciai, purtroppo le imponenti morene si ritraggono ogni anno per via del riscaldamente globale.
+
+Siamo tornati nel bacino idrografico del Rodano e torniamo sui nostri passi, percorrendo nuovamente la Strada Principale 19 in direzione inversa per 10 km. Raggiungiamo l'abitato di Ulrichen e svoltiamo a sinistra sulla Nefufenstrasse, che percorriamo fino a raggiungere il secondo valico alpino più alto della Svizzera, il **Passo della Novena** (2.478 m s.l.m.). Anche da qui si può intravedere una morena, il ghiacciaio del Gries, che si snoda sinuoso dalla cima del Blinnenhorn.
+
+Scendiamo di quota lungo la Valle Bedretto seguendo le acque del fiume Ticino, ma raggiunto il comune di Airolo ricominciamo a salire repentinamente, arrampicandoci sulla **Tremola del San Gottardo**: monumento nazionale svizzero, tornanti aspri e lastricati da cubetti di granito che in 16 km e 931 metri di dislivello portano al **Passo del San Gottardo** (2.106 m s.l.m.).
+
+Scendiamo lungo la valle scavata dal Reuss per poi seguire le indicazioni per il **Passo dell'Oberalp** (2046 m s.l.m.), attraverso il quale transita il Glacier Express, il famoso treno rosso che collega Zermatt con St Moritz. Lasciamo definitivamente la Strada Nazionale 19 a Disentis, svoltiamo a destra in direzione del **Passo del Lucomagno** (1.926 m s.l.m.): via di comunicazione importantissima dall'Alto Medioevo fino al XIII secolo, quando perse importanza in favore del San Gottardo.
+
+Seguiamo le indicazioni per Bellinzona e poi Locarno. Da qui è possibile rientrare a Domodossola attraversando le Centovalli e la Val Vigezzo, oppure continuare a costeggiare il Lago Maggiore per andare verso Torino. A Stresa *tagliamo* il gruppo del Mergozzolo, dominato dalla cima del Mottarone, e torniamo sulle sponde del Lago d'Orta.
+
+Da qui scegliamo di tornare a Torino attraverso Borgomanero, Balocco, Santhià, Ciglione, Rondissone, Chivasso… ma non giudicheremo chi, dopo tutte queste curve, deciderà di tornarsene a casa in autostrada!
 
 Da qui puoi **scaricare gratuitamente**:
 
