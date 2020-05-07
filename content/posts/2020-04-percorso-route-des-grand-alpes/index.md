@@ -80,5 +80,5 @@ Da qui puoi **scaricare gratuitamente**:
 
 <div class="message pro-tip">
   <p>Per navigatori <a href="https://amzn.to/34pYRZv" target="_blank">TomTom</a> collega il dispositivo via USB e copia il file GPX cartella <em>GPX2ITN/</em>.</p>
-  <p>Per navigatori <a href="https://amzn.to/2UZJxzJ" target="_blank">Garmin</a> collega il dispositivo via USB e nella cartella <em>GARMIN/GPX/</em>, se non appare vai su <em>Stumenti -> Dati Personali -> Importa</em>.</p>
+  <p>Per navigatori <a href="https://amzn.to/2UZJxzJ" target="_blank">Garmin</a> collega il dispositivo via USB e nella cartella <em>GARMIN/GPX/</em>, se non appare vai su <em>Strumenti -> Dati Personali -> Importa</em>.</p>
 </div>
