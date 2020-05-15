@@ -71,7 +71,7 @@ Da qui scegliamo di tornare a Torino attraverso Borgomanero, Balocco, Santhià, 
 
 Da qui puoi **scaricare gratuitamente**:
 
-- ["Roadbook" stampabile in formato A4](./risorse/ottovolante_svizzero.jpg)
+- ["Roadbook" stampabile in formato A4](./risorse/ottovolante_svizzero.jpeg)
 - [Traccia GPX - Ottovolante Svizzero – Anello da Domodossola](./risorse/ottovolante_svizzero_domodossola.gpx)
 - [Traccia GPX - Ottovolante Svizzero - Anello da Torino](./risorse/ottovolante_svizzero_torino.gpx)
 
