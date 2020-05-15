@@ -16,7 +16,6 @@ tags:
 - tag/1000-km
 - tag/2-giorni
 - tag/3-giorni
-- tag/3-giorni
 - tag/weekend
 - tag/gpx
 - tag/alpi-cozie
@@ -33,7 +32,7 @@ attributes:
 - key: Tempo
   value: 2-3 giorni
 - key: Periodo
-  value: Maggio - Settembre <a href="http://www.sport-passion.fr/parcours/etat-cols.php" target="_blank">verificare apertura colli</a>
+  value: Maggio - Ottobre <a href="http://www.sport-passion.fr/parcours/etat-cols.php" target="_blank">verificare apertura colli</a>
 - key: Abbigliamento
   value: A causa dei dislivelli molto ampi lo sbalzo termico è notevole, consigliato abbigliamento multistrato e un paio di guanti invernali in aggiunta a quelli estivi
 ---
@@ -81,5 +80,5 @@ Da qui puoi **scaricare gratuitamente**:
 
 <div class="message pro-tip">
   <p>Per navigatori <a href="https://amzn.to/34pYRZv" target="_blank">TomTom</a> collega il dispositivo via USB e copia il file GPX cartella <em>GPX2ITN/</em>.</p>
-  <p>Per navigatori <a href="https://amzn.to/2UZJxzJ" target="_blank">Garmin</a> collega il dispositivo via USB e nella cartella <em>GARMIN/GPX/</em>, se non appare vai su <em>Stumenti -> Dati Personali -> Importa</em>.</p>
+  <p>Per navigatori <a href="https://amzn.to/2UZJxzJ" target="_blank">Garmin</a> collega il dispositivo via USB e nella cartella <em>GARMIN/GPX/</em>, se non appare vai su <em>Strumenti -> Dati Personali -> Importa</em>.</p>
 </div>
