@@ -17,8 +17,8 @@ tags:
 
 È il 19 aprile 2019, sono le otto del mattino, sto per salire per la prima volta su una moto – una moto vera, s’intende – e il giro di rodaggio prevede 7000 Km. Lo stomaco è un po’ attorcigliato.
 
-![](./foto/C5.jpg)
-![](./foto/C3.jpg)
+![BMW F800GS Simone](./foto/C5.jpg "Il destriero di Simone, una BMW F800GS")
+![Carretto turco](./foto/C3.jpg "Mezzi più comuni tra i Monti del Tauro")
 
 «Vuoi fare un viaggio in moto in Turchia?»
 
@@ -28,11 +28,11 @@ Un po' di tempo dopo, infatti, ho incontrato di nuovo Simone che, questa volta q
 
 Non so dire con esattezza cosa mi abbia spinta il giorno dopo a dire di si, a decidere di partire per un viaggio di settemila chilometri, su un mezzo mai provato prima, con persone mai viste e in un paese che all’inizio non mi infondeva troppa sicurezza. Quasi sicuramente sono state la voglia di viaggiare e una grande curiosità. Curiosità per la Turchia, paese così lontano dal mio immaginario da farmi un po' paura, per quel mezzo sconosciuto, la moto, e quel nuovo amico, Simone, che in fondo fino a quel momento era stato un po’ uno sconosciuto anche lui, e si sa, i viaggi sono determinati in larga parte dalle persone che ci accompagnano e da quelle che si incontrano lungo la strada. Può essere stato per quel bisogno di staccare, di mettermi in gioco e fare qualcosa che mi facesse sentire viva, e la vocina, quella che mi si presenta in queste situazioni, «se vuoi farlo e non lo fai sei una cacasotto» – giuro, dice proprio cacasotto –.
 
-![](./foto/I2.jpg)
-![](./foto/I3.jpg)
-![](./foto/I4.jpg)
-![](./foto/C1.jpg)
-![](./foto/C2.jpg)
+![Sottopasso Galata, Istanbul](./foto/I3.jpg "Folla in un sottopasso del Ponte di Galata, Istanbul")
+![Cimitero moschea Solimano, Istanbul](./foto/I2.jpg "Ragazze nel piccolo cimitero della moschea di Solimano, Istanbul")
+![Abluzioni moschea, Istanbul](./foto/I4.jpg "Abluzioni prima dell'ingresso in moschea, Istanbul")
+![Paesaggio Cappadocia](./foto/C1.jpg "Paesaggio della Cappadocia")
+![Danzatori Cappadocia](./foto/C2.jpg "Ragazzi si improvvisano dervisci roteanti, Cappadocia")
 
 Così, a tre giorni dalla partenza, cominciano i preparativi anche per me. Devo: cambiare nominativo del biglietto del traghetto, fare un’assicurazione sanitaria, trovare abbigliamento da moto, un casco e preparare la valigia, piccola che stia nel bauletto!
 
@@ -43,10 +43,9 @@ Inutile e banale dire quanto il viaggio sia stato pazzesco e come i miei present
 
 Una squadra eccezionale. Simone. Amico, autista e compagno in sella di lunghe chiacchierate e lunghi silenzi… ma con l’interfono sempre acceso! Arturo. A completare un allegro trio sgangherato con me e Simo, abbiamo condiviso stanze e grasse risate per tutto il viaggio. Gabriele e Stefania. Senza i quali probabilmente questo viaggio non sarebbe esistito, meticolosi avventurieri sempre alla ricerca di qualcosa da scoprire (partiti in coppia e tornati in tre, o almeno così narra la leggenda che i più romantici del gruppo han voluto inventare).
 
-
-![](./foto/P3.jpg)
-![](./foto/PE2.jpg)
-![](./foto/PE3.jpg)
+![Venditore di fragole albanese](./foto/PE2.jpg "Venditore di fragole sul ciglio della strada, Albania")
+![Riserva naturale Davutoğlan, Nallıhan](./foto/P3.jpg "Riserva naturale Davutoğlan, Nallıhan")
+![Ragazze turche Uçhisar](./foto/PE3.jpg "Ragazze turche Uçhisar, Cappadocia")
 
 La moto. Ho sperimentato il viaggio in macchina, in aereo, in treno, in bus e in bici, prima di partire ho pensato che la moto potesse essere una specie di compromesso tra macchina e bici, motorizzato, niente fatica (illusa!), ma immersa nel paesaggio come in bici. Niente di tutto questo. Come ogni mezzo di trasporto, dalle proprie gambe all’aereo, viaggiare in moto ha le sue caratteristiche specifiche, i suoi pregi e i suoi difetti, che rendono l’esperienza singolare, almeno a primo impatto. Viaggiare in moto significa essere immersi nel paesaggio, quasi a corpo libero si ha contatto con ciò che ti circonda e da passeggero a tratti si ha quasi la sensazione di volare. Il contatto non è reale come quando si cammina o si pedala, usando le proprie energie per spostarsi nello spazio, però è incredibile quella sensazione di muoversi velocemente in un paesaggio e poterlo sentire addosso. E quando quella sensazione così forte non basta e ne vuoi di più, apri la visiera del casco per sentirlo bene sulla pelle quello spettacolo. Viaggiare in moto significa macinare chilometri e spostarsi velocemente nello spazio, ma rimanendo sempre in stretta relazione con i luoghi che si susseguono e cambiano (esemplare il tratto tra Croazia e Grecia nel quale abbiamo tenuto una media di due frontiere al giorno!).
 
