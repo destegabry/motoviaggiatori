@@ -133,15 +133,8 @@ class GalleryLightbox {
 
     this.gallery.items.forEach(item => {
       const figure = document.createElement('figure');
-      const isFigure = item.element.tagName.toLowerCase() === 'figure';
-      if (isFigure) {
-        figure.appendChild(item.element.querySelector('img').cloneNode(true));
-        figure.appendChild(item.element.querySelector('figcaption').cloneNode(true));
-      } else {
-        const img = item.element.cloneNode(true);
-        img.style.transform = 'none';
-        figure.appendChild(img);
-      }
+      figure.appendChild(item.element.querySelector('img').cloneNode(true));
+      figure.appendChild(item.element.querySelector('figcaption').cloneNode(true));
       this.viewport.appendChild(figure);
     })
 
