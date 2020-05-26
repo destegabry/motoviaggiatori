@@ -60,7 +60,7 @@ Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usi
 
 ## Per la moto
 
-- Pastiglie freno [Brembo "bianche" mescola LA](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_odkw%3Danlas%2Bcapra%2Brd%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.Xbrembo%2BLA.TRS0%26_nkw%3Dbrembo%2BLA%26_sacat%3D0): sinterizzate a lunga durata per uso prettamente stradale, non necessitano di rodaggio, potenza frenante costante a tutte le temperature. Frenano tanto, ma avendole provate per soli 15.000km non ci sbilanciamo sulla durata effettiva.
+- Pastiglie freno [Brembo "bianche" mescola LA](https://www.ebay.it/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=brembo+LA&_sacat=0): sinterizzate a lunga durata per uso prettamente stradale, non necessitano di rodaggio, potenza frenante costante a tutte le temperature. Frenano tanto, ma avendole provate per soli 15.000km non ci sbilanciamo sulla durata effettiva.
 - Oli [Putoline](https://www.rinolfi.it/putoline): li abbiamo usati in cambio, motore e coppia conica; il motore boxer BMW non ha richiesto alcun rabbocco in 10.000km di percorrenza ed il cambio è sembrato bello morbido in tutte le condizioni. Al prossimo tagliando li utilizzeremo anche su Honda XL700V Transalp. Inserendo marca e modello della propria moto sul [sito ufficiale](https://www.putoline.com/en/) vengono consigliati i giusti prodotti per il tagliando.
 - Molle progressive [HyperPro](https://www.wrs.it/it/130_hyperpro): il coefficiente elastico progressivo permette di avere molle morbide durante la prima fase di compressione ma sempre più rigide all’aumentare della forza esercitata sulla molla… ovvero: la moto è confortevole ma si comporta molto meglio in curva. Minima spesa e massima resa, disponibili anche come ammortizzatore completo e per BMW con sospensioni elettroniche ESA.
 - [Sonda S.M.A.R.T. IAT di Belinassu](http://www.belinassu.it): sensore di temperatura aria plug&play, *ingrassa* la miscela aria/benzina miliorando le prestazioni del motore, soprattutto ai bassi regimi. Smorza parecchio l'effetto on/off dei bicilindrici e nel caso dei boxer BMW aria/olio riduce il *buco* di erograzione a 4500-500rpm.
@@ -85,8 +85,7 @@ Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usi
 
 ### Pneumatici
 
-- [Anlas Capra RD](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_odkw%3Dmidland%2Bbtx2%2Bpro%2Bs%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1311.R1.TR2.TRC1.A0.H2.Xmidland%2Bbt%2Bnext.TRS0%26_nkw%3Dmidland%2Bbt%2Bnext%2Bpro%26_sacat%3D0): gomme 90% road 10% off, silenziose, ottimo feeling su asfalto asciutto, bagnato e strade bianche. Dopo 12.000km su BMW R1200GS 2008 rimangono 2,25mm al posteriore e 2,75mm all'anteriore, **ottima durata**! Misure disponibili per la maggior parte delle maxi enduro stradali.
-- [Pirelli Scorpion Trail 2](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_odkw%3Dpirelli%2Bscorpion%2Btrail%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR2.TRC1.A0.H0.Xpirelli%2Bscorpion%2Btrail%2B2.TRS0%26_nkw%3Dpirelli%2Bscorpion%2Btrail%2B2%26_sacat%3D0): gomme bimescola 90% road 10% off, silenziose, ottimo feeling su asfalto asciutto e strade bianche, **eccezionali sul bagnato**. Dopo 10.000km su BMW R1200GS 2008 il posteriore era praticamente finito. Ampia gamma di misure disponibili.
+- [Pirelli Scorpion Trail 2](https://www.ebay.it/sch/i.html?_from=R40&_trksid=p2380057.m570.l1311.R1.TR5.TRC1.A0.H0.Xpirelli+scor.TRS0&_nkw=pirelli+scorpion+trail+2&_sacat=0): gomme bimescola 90% road 10% off, silenziose, ottimo feeling su asfalto asciutto e strade bianche, **eccezionali sul bagnato**. Dopo 10.000km su BMW R1200GS 2008 il posteriore era praticamente finito. Ampia gamma di misure disponibili.
 
 ### Bagagli
 
@@ -117,3 +116,5 @@ Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usi
 
 - [Chiave candela](https://amzn.to/3aDN38e): lo spazio tra il copritesta e la candela è davvero poco, questa chiave candela sottile da 16mm con attacco da 3/8" è perfetta
 - [Chiave filtro olio](https://amzn.to/3bEAglY): non è possibile usare una tradizionale chiave a cinghia per via del poco spazio, ci va un adattatore apposito
+- [Scantool OBDlink LX](https://amzn.to/3gm3Q2R): strumento di diagnosi che permette di effettuare il reset della spia service della moto e altri errori
+- [Cavo adattatore OBD 16-10 pin](https://amzn.to/3ekansX): indispensabile per interfacciare la moto ad uno scatool OBD
