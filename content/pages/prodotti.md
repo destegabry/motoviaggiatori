@@ -33,16 +33,16 @@ Li trovate organizzati per categoria e, dove disponibile, il link alla nostra re
 
 Abbiamo affidato la protezione delle nostre teste a Caberg Helmets, azienza bergamasca che produce esclusivamente caschi (100% Made in Italy) dal 1974.
 
-- [Caberg Levo](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dm570.l1313%26_nkw%3Dcaberg%2Blevo%26_sacat%3D0): casco modulare in fibre composite: leggero, dotato di visiera ultrapanoramica, 100% Made in Italy. La nostra scelta per la [#TurchiaInMoto](/categoria/viaggi/turchia). Ne abbiamo scritto una [recensione completa](/2019/07/recensione-casco-modulare-caberg-levo).
-- [Caberg Duke II](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_odkw%3Dcaberg%2Blevo%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR1.TRC0.A0.H0.Xcaberg%2Bduke.TRS0%26_nkw%3Dcaberg%2Bduke%26_sacat%3D0): casco modulare entry level in policarbonato: leggero, comodo, 100% Made in Italy. Lo abbiamo utilizzato per anni anche nella versione [Tourmax](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_odkw%3Dcaberg%2Bduke%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR5.TRC1.A0.H0.Xcaberg%2Btourmax.TRS0%26_nkw%3Dcaberg%2Btourmax%26_sacat%3D0) dotata di visiera parasole.
+- [Caberg Levo](https://amzn.to/3c4qxVK): casco modulare in fibre composite: leggero, dotato di visiera ultrapanoramica, 100% Made in Italy. La nostra scelta per la [#TurchiaInMoto](/categoria/viaggi/turchia). Ne abbiamo scritto una [recensione completa](/2019/07/recensione-casco-modulare-caberg-levo).
+- [Caberg Duke II](https://amzn.to/3ejpvH5): casco modulare entry level in policarbonato: leggero, comodo, 100% Made in Italy. Lo abbiamo utilizzato per anni anche nella versione [Tourmax](https://amzn.to/36unEN7) dotata di visiera parasole.
 
 ### Interfoni
 
 Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usiamo la linea **Midland BT Next Pro** che abbiamo [recensito qui](/2019/09/recensione-interfoni-midland-serie-bt-pro). Comprandoli a coppie si risparmia parecchio.
 
-- Interfono [Midland BTX2 Pro S](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_odkw%3Dmidland%2Bbtx1%2Bpro%2Bs%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR2.TRC1.A0.H0.Xmidland%2Bbtx2%2Bpro%2Bs.TRS0%26_nkw%3Dmidland%2Bbtx2%2Bpro%2Bs%26_sacat%3D0) bluetooth dual chip per l'utilizzo con device multipli e moto dotate di TFT, portata max 1200m, conferenza fino a 8 persone. Rapporto prezzo/prestazioni altissimo, a nostro giudizio **la versione da comprare**.
-- Interfono [Midland BTX1 Pro S](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dp2380057.m570.l1311.R1.TR5.TRC1.A0.H0.Xmidland%2Bbtx1%2B.TRS0%26_nkw%3Dmidland%2Bbtx1%2Bpro%2Bs%26_sacat%3D0) entry level ma completissimo, portata max 800m, conferenza fino a 3 persone. Ideale per l'uso in coppia o come interfono passeggero associato ad un prodotto di grado superiore.
-- Interfono [Midland BTNext Pro](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_odkw%3Dmidland%2Bbtx2%2Bpro%2Bs%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1311.R1.TR2.TRC1.A0.H2.Xmidland%2Bbt%2Bnext.TRS0%26_nkw%3Dmidland%2Bbt%2Bnext%2Bpro%26_sacat%3D0) il top di gamma con portata massima 1600m e *BTT Button* incluso nella confezione. Per chi cerca il top.
+- Interfono [Midland BTX2 Pro S](https://amzn.to/3d248tO) bluetooth dual chip per l'utilizzo con device multipli e moto dotate di TFT, portata max 1200m, conferenza fino a 8 persone. Rapporto prezzo/prestazioni altissimo, a nostro giudizio **la versione da comprare**.
+- Interfono [Midland BTX1 Pro S](https://amzn.to/2XuyUF4) entry level ma completissimo, portata max 800m, conferenza fino a 3 persone. Ideale per l'uso in coppia o come interfono passeggero associato ad un prodotto di grado superiore.
+- Interfono [Midland BT Next Pro](https://amzn.to/2zzvTLJ) il top di gamma con portata massima 1600m e *BTT Button* incluso nella confezione. Per chi cerca il top.
 
 ### Foto & Video
 
@@ -60,7 +60,7 @@ Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usi
 
 ## Per la moto
 
-- Pastiglie freno [Brembo "bianche" mescola LA](https://www.ebay.it/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=brembo+LA&_sacat=0): sinterizzate a lunga durata per uso prettamente stradale, non necessitano di rodaggio, potenza frenante costante a tutte le temperature. Frenano tanto, ma avendole provate per soli 15.000km non ci sbilanciamo sulla durata effettiva.
+- Pastiglie freno [Brembo "bianche" mescola LA](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dm570.l1313%26_nkw%3Dbrembo%2BLA%26_sacat%3D): sinterizzate a lunga durata per uso prettamente stradale, non necessitano di rodaggio, potenza frenante costante a tutte le temperature. Frenano tanto, ma avendole provate per soli 15.000km non ci sbilanciamo sulla durata effettiva.
 - Oli [Putoline](https://www.rinolfi.it/putoline): li abbiamo usati in cambio, motore e coppia conica; il motore boxer BMW non ha richiesto alcun rabbocco in 10.000km di percorrenza ed il cambio è sembrato bello morbido in tutte le condizioni. Al prossimo tagliando li utilizzeremo anche su Honda XL700V Transalp. Inserendo marca e modello della propria moto sul [sito ufficiale](https://www.putoline.com/en/) vengono consigliati i giusti prodotti per il tagliando.
 - Molle progressive [HyperPro](https://www.wrs.it/it/130_hyperpro): il coefficiente elastico progressivo permette di avere molle morbide durante la prima fase di compressione ma sempre più rigide all’aumentare della forza esercitata sulla molla… ovvero: la moto è confortevole ma si comporta molto meglio in curva. Minima spesa e massima resa, disponibili anche come ammortizzatore completo e per BMW con sospensioni elettroniche ESA.
 - [Sonda S.M.A.R.T. IAT di Belinassu](http://www.belinassu.it): sensore di temperatura aria plug&play, *ingrassa* la miscela aria/benzina miliorando le prestazioni del motore, soprattutto ai bassi regimi. Smorza parecchio l'effetto on/off dei bicilindrici e nel caso dei boxer BMW aria/olio riduce il *buco* di erograzione a 4500-500rpm.
@@ -85,7 +85,7 @@ Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usi
 
 ### Pneumatici
 
-- [Pirelli Scorpion Trail 2](https://www.ebay.it/sch/i.html?_from=R40&_trksid=p2380057.m570.l1311.R1.TR5.TRC1.A0.H0.Xpirelli+scor.TRS0&_nkw=pirelli+scorpion+trail+2&_sacat=0): gomme bimescola 90% road 10% off, silenziose, ottimo feeling su asfalto asciutto e strade bianche, **eccezionali sul bagnato**. Dopo 10.000km su BMW R1200GS 2008 il posteriore era praticamente finito. Ampia gamma di misure disponibili.
+- [Pirelli Scorpion Trail 2](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dp2380057.m570.l1311.R1.TR5.TRC1.A0.H0.Xpirelli%2Bscor.TRS0%26_nkw%3Dpirelli%2Bscorpion%2Btrail%2B2%26_sacat%3D0): gomme bimescola 90% road 10% off, silenziose, ottimo feeling su asfalto asciutto e strade bianche, **eccezionali sul bagnato**. Dopo 10.000km su BMW R1200GS 2008 il posteriore era praticamente finito. Ampia gamma di misure disponibili.
 
 ### Bagagli
 
@@ -105,7 +105,7 @@ Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usi
 - [Chiave asse ruota anteriore universale](https://amzn.to/3dMdKtj)
 - [Spessimetro](https://amzn.to/2UzbsGi): per regolare le valvole dei boxer BMW è meglio averne a disposizione un paio
 - Chiave dinamometrica [Proxxon 6-30 nm](https://amzn.to/341R43S)
-- Chiave dinamometrica [Proxxon 20-100 nm](https://amzn.to/2UUlX6a)
+- Chiave dinamometrica [Proxxon 20-100 nm](https://amzn.to/3eo1Vcu)
 - Set cricchetti e bussole [Wiesmann](https://amzn.to/2ylJqp4): particolarmente completo, possiede anche gli inserti E per alcune viti delle moto BMW
 - Set brugole [Hex e Torx](https://amzn.to/3ayuv9k) con impugnatura morbida e codifica colore
 - [Set chiavi a forchetta doppia BGS](https://amzn.to/2JuJNA2), ideali anche in viaggio: sono spesse soltanto 3mm, la forchetta doppia permette di dimezzare il numero di chiavi da portare
