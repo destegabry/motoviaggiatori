@@ -26,7 +26,7 @@ Le prime moto marchiate BMW nascono nel 1921, il caratteristico motore boxer a c
 
 ![BMW R32 – 1932](./galleries/BMW-R-32-1932.jpg "BMW R32 – 1932")
 
-L’introduzione della sigla G/S (acronimo di *Gelände/Straße *ovvero *Sterrato/Strada*) avviene nel 1980 con la **BMW R 80 G/S**: 797,5cc per 52 cv e 185kg di peso a vuoto, una moto poliedrica nata per affrontare in scioltezza ogni tipo di percorso ed in controtendenza rispetto al merito dell’epoca, composto da moto specialistiche. La ruota posteriore da 18" è "appesa" alla trasmissione *Monolever*, un forcellone monobraccio che consente un rapido accesso e smontaggio della ruota posteriore.
+L’introduzione della sigla G/S (acronimo di *Gelände/Straße* ovvero *Sterrato/Strada*) avviene nel 1980 con la **BMW R 80 G/S**: 797,5cc per 52 cv e 185kg di peso a vuoto, una moto poliedrica nata per affrontare in scioltezza ogni tipo di percorso ed in controtendenza rispetto al merito dell’epoca, composto da moto specialistiche. La ruota posteriore da 18" è "appesa" alla trasmissione *Monolever*, un forcellone monobraccio che consente un rapido accesso e smontaggio della ruota posteriore.
 
 La bontà del progetto viene messa a dura prova nella partecipazione a diverse edizioni della Paris-Dakar, dove otterrà 4 vittorie nei 5 anni di partecipazione (1981-1983-1984-1985).
 
@@ -37,12 +37,12 @@ Nel 1987 escono due nuovi modelli: *R 80 GS* (stesso motore della G/S ma peso a 
 
 Nel 1994 debutta la **BMW R 1100 GS**, un progetto tutto nuovo: motore boxer portante raffreddato ad aria e olio, vengono mandati in pensione i carburatori in favore dell'iniezione elettronica, debutta una rinnovata sospensione anteriore: si passa da una classica forcella all’inedito sistema *Telelever*, che dona alla moto una grande stabilità ed evita l’affondamento anteriore durante le frenate. La cilindrata aumenta a 1083cc, la potenza è di 80cv, il peso lordo raggiunge i 240kg.
 
-Il 1999 è l’anno della **BMW R 1150 GS**, ancora molto apprezzata per via del ridotto impiego di elettronica. La *ghisona *ha un peso lordo che sfiora i 250kg, 1130cc di cilindrata per 85cv di potenza.
+Il 1999 è l’anno della **BMW R 1150 GS**, ancora molto apprezzata per via del ridotto impiego di elettronica. La *ghisona* ha un peso lordo che sfiora i 250kg, 1130cc di cilindrata per 85cv di potenza.
 
 ![BMW R 1100 GS – 1994](./galleries/BMW-R-1100-GS-199494.jpg "BMW R 1100 GS – 1994")
 ![BMW R 1150 GS – 1999](./galleries/BMW-R-1150-GS-1999.jpeg "BMW R 1150 GS – 1999")
 
-Nel 2004 gli ingegneri bavaresi presentano un modello tutto nuovo: la **BMW R 1200 GS**. Cilindrata e potenza salgono a 1170cc e 100cv, ma il peso (finalmente) scende di quasi 30kg. Il modello 2008 porta in dote un piccolo restyling, altri 5cv per un totale di 105, la possibilità di acquistare un *Integral ABS *di nuova generazione, controllo di trazione ASC, controllo pressione pneumatici RDC e sospensioni elettroniche ESA (regolazione precarico e ritorno dal computer di bordo). Il 2010 è l’anno del debutto della versione *bialbero*, equipaggiata con un motore boxer aria/olio allo stato dell’arte (e con una potenza di 110cv).
+Nel 2004 gli ingegneri bavaresi presentano un modello tutto nuovo: la **BMW R 1200 GS**. Cilindrata e potenza salgono a 1170cc e 100cv, ma il peso (finalmente) scende di quasi 30kg. Il modello 2008 porta in dote un piccolo restyling, altri 5cv per un totale di 105, la possibilità di acquistare un *Integral ABS* di nuova generazione, controllo di trazione ASC, controllo pressione pneumatici RDC e sospensioni elettroniche ESA (regolazione precarico e ritorno dal computer di bordo). Il 2010 è l’anno del debutto della versione *bialbero* (DOHC), equipaggiata con un motore boxer aria/olio allo stato dell’arte (e con una potenza di 110cv).
 
 ![BMW R 1200 GS – 2004](./galleries/BMW-R-1200-GS-2004.jpg "BMW R 1200 GS – 2004")
 ![BMW R 1200 GS – 2007](./galleries/BMW-R-1200-GS-2007.jpg "BMW R 1200 GS – 2007")
@@ -60,11 +60,9 @@ A fronte di un costante aumento di potenza, il peso delle bicilindriche bavaresi
 
 ![Evoluzione peso e potenza BMW serie R GS](./galleries/peso-potenza-bmwGS.png "La potenza è sempre aumentata, purtroppo lo ha fatto anche il peso")
 
-*La storia delle*.
-
 ## Perché comprare una R 1200 GS 2008 nel 2018?
 
-Chi ha mai provato una GS sicuramente sa bene quanto siano *facili* nonostante il peso importante e la grande potenza disponibile, senza dimenticare il comfort elevato e la possibilità di farci un po’ di tutto… il rovescio della medaglia è sicuramente il costo elevato!
+Chi ha mai provato una GS sicuramente sa bene quanto siano *facili* nonostante il peso importante e la grande potenza disponibile, senza dimenticare il comfort e la possibilità di farci un po’ di tutto… il rovescio della medaglia è sicuramente il costo!
 
 Il prezzo di partenza della nuovissima R 1250 GS è già piuttosto alto (17.850€), ma basta aggiungere pochi optional (secondo me) irrinunciabili per superare la barriera dei 20.000€… Ed ecco il motivo per cui trovo sensato acquistare una *vecchia* GS!
 
