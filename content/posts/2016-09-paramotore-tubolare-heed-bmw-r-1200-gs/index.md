@@ -1,7 +1,7 @@
 ---
 title: Paramotore tubolare HEED per BMW R 1200 GS
 date: "2016-09-20T21:24:00.000Z"
-modified: "2019-03-22T14:57:00.000Z"
+modified: "2020-05-30T00:01:00.000Z"
 author: gabriele
 slug: /2016/09/paramotore-tubolare-heed-bmw-r-1200-gs
 featured_image: "./galleries/1/1.jpg"
@@ -26,17 +26,15 @@ Sicuramente sono in grado di proteggere il motore Boxer da una caduta da fermo o
 
 ## Paramotore HEED Full Bunker per BMW R 1200 GS 04-12
 
-Dopo [varie considerazioni](https://www.amazon.it/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&camp=3370&creative=23322&index=aps&keywords=paramotore%20bmw%20r%201200%20gs&linkCode=ur2&tag=motovia-21) ho deciso di acquistare le crash bar HEED Full Bunker specifiche per le annate da 2004 a 2012: oltre a proteggere completamente il motore offrono protezione per serbatoio, possibilità di aggiungere due borse laterali sull'avantreno e faretti supplementari.
+Dopo [varie considerazioni](https://www.amazon.it/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&camp=3370&creative=23322&index=aps&keywords=paramotore%20bmw%20r%201200%20gs&linkCode=ur2&tag=motovia-21) ho deciso di acquistare le crash bar [HEED Full Bunker](https://amzn.to/2zNJDm1) specifiche per le annate da 2004 a 2012: oltre a proteggere completamente il motore offrono protezione per serbatoio, possibilità di aggiungere due borse laterali sull'avantreno e faretti supplementari.
 
 Il prezzo è molto allettante ma a giudicare dalle [foto presenti sul sito ufficiale](http://www.heed.com.pl/index.php/en/gmole-heed-for-r-1200-gs-08-12-full-bunker-en) sembrano un po' invasive.
-
-Le ho comprate a [€280 su eBay](http://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_ff3=9&pub=5575226208&toolid=10001&campid=5337960068&customid=&icep_uq=heed+full+bunker+bmw+1200+08+12&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229494&kwid=902099&mtid=824&kw=lg) per essere coperto dall'assicurazione di PayPal; subito dopo ho contattato HEED per chiedere di avere le borse laterali in offerta a €35.
 
 L'azienda è stata molto veloce e ha risposto in italiano, mentre la spedizione è stata a dir poco fulminea: acquistate e spedite mercoledì dalla Polonia con corriere GLS, il sabato mattina erano già a casa mia.
 
 L'imballo è realizzato con cura, il rischio che si possano rovinare nel trasporto sembra davvero remoto.
 
-Si possono comprare anche su [Amazon Italia](http://amzn.to/2nUTLjQ) ad un prezzo leggermente superiore.
+Si possono comprare su [Amazon Italia](https://amzn.to/2zNJDm1) e usufruire della protezione acquirente.
 
 ![HEED crash bar full bunker per R 1200 GS MY 2008](./galleries/1/0.jpg "HEED crash bar full bunker montate su BMW R 1200 GS MY 2008")
 ![HEED crash bar full bunker: vista laterale](./galleries/1/1.jpg "Il paramotore lascia spazio per fare il tagliando senza smontare le barre")
@@ -68,7 +66,7 @@ Questa vite è facilmente riconoscibile perché è l'unica a richiedere una [chi
 
 ## Considerazioni
 
-Non posso che consigliare l'acquisto delle [crash bar HEED Full Bunker](http://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_ff3=9&pub=5575226208&toolid=10001&campid=5337960068&customid=&icep_uq=heed+full+bunker+bmw+1200+08+12&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229494&kwid=902099&mtid=824&kw=lg), anche se fortunatamente non mi è ancora capitato di dover provare la loro robustezza.
+Non posso che consigliare l'acquisto delle [crash bar HEED Full Bunker](https://amzn.to/2zNJDm1), anche se fortunatamente non mi è ancora capitato di dover provare la loro robustezza.
 
 Le foto non rendono giustizia a questo paramotore: sembra molto più ingombrante di quanto sia realmente! Il colore ed il diametro delle barre sono pressoché identici al telaio della moto, dando l'idea di essere parte integrante della moto e non un'aggiunta successiva. Il look del R 1200 GS normale si avvicina di più alla versione Adventure.
 
