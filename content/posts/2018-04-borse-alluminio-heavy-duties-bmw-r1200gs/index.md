@@ -2,7 +2,7 @@
 title: Borse laterali in alluminio Heavy Duties per R1200GS
 slug: /2018/04/borse-alluminio-heavy-duties-bmw-r1200gs
 date: "2018-04-12T00:13:06.000Z"
-modified: "2019-04-03T11:02:00.000Z"
+modified: "2020-07-16T09:12:00.000Z"
 author: gabriele
 featured_image: ./galleries/3/11.jpg
 excerpt: "Recensione ed indicazioni per il montaggio delle borse laterali in alluminio Heavy Duties per BMW R1200GS: ottima qualità e capienza al prezzo giusto!"
@@ -21,11 +21,12 @@ tags:
 - tag/valigie-alluminio
 - tag/valigie-laterali
 ---
+
 **Nota**: questo articolo è stato aggiornato il 18/05/2018 per aggiungere informazioni sul nuovo sito con e-commerce.
 
 ## Heavy Duties?
 
-Heavy Duties è un’azienda nata in Romania dalla passione per il viaggio avventura su due ruote: dal 2007 [realizza prodotti testati in prima persona](https://heavyduties.ro/ourstory/) dai fondatori della società.
+Heavy Duties è un’azienda nata in Romania dalla passione per il viaggio avventura su due ruote: dal 2007 [realizza prodotti testati in prima persona dai fondatori della società](https://heavyduties.ro/ourstory/).
 
 Oltre a valigie laterali in alluminio e relativi telai, Heavy Duties produce barre paramotore, cavalletti centrali, portapacchi, riser manubrio e [accessori vari](http://www.heavyduties.ro/accessories/).
 
@@ -37,7 +38,7 @@ In questo articolo mi soffermo sulla versione per BMW R1200GS 2004-12, ma esisto
 ![Photo credits: Heavy Duties](./galleries/0/3.jpg "Photo credits: Heavy Duties")
 ![Photo credits: Heavy Duties](./galleries/0/4.jpg "Photo credits: Heavy Duties")
 
-### Acquisto e spedizione
+## Acquisto e spedizione
 
 Le valigie laterali e tutti gli accessori si comprano direttamente dal sito Heavy Duties, una volta piazzato l’ordine Heavy Duties mi ha contattato per pianificare pagamento e spedizione.
 
@@ -54,7 +55,7 @@ Ho pagato con bonifico e scelto di ritirare in agenzia: dopo circa 48h un SMS mi
 ![Heavy Duties - packaging](./galleries/1/4.jpg "Bonus: oltre a viti, staffe e adesivi Heavy Duties spedisce una barretta di cioccolato locale!")
 ![Heavy Duties - valigie](./galleries/1/5.jpg "Le valigie sono davvero belle!")
 
-### Montaggio e dettagli
+## Montaggio e dettagli
 
 Il montaggio del telaio sulla moto è piuttosto rapido e le istruzioni fotografiche inviate da Heavy Duties spiegano bene i passi da seguire per assemblare il tutto: unica pecca, non è chiarissimo dove usare alcune viti e spessori (nella fotogallery qui sotto cerco di sopperire a questa mancanza).
 
@@ -92,13 +93,13 @@ Sono disponibili una coppia di maniglie in tessuto (26€ la coppia).
 ![Heavy Duties BMW R1200GS](./galleries/3/11.jpg "Vista posteriore valigie Heavy Duties su BMW R1200GS")
 ![Heavy Duties BMW R1200GS](./galleries/3/12.jpg "Le valigie Heavy Duties viste dall'alto su BMW R1200GS")
 
-### Considerazioni finali
+## Considerazioni finali
 
 Consiglio a tutti di comprare le valigie laterali in alluminio Heavy Duties: non hanno nulla da invidiare alla concorrenza nonostante il prezzo più basso del mercato!
 
 Se come me possedete una coppia di valigie BMW Vario potrete venderle sul mercato dell’usato (Subito.it o Kijiji) e comprare le Heavy Duties aggiungendo una differenza minima.
 
-#### Punti di forza
+### Punti di forza
 
 - prezzo basso (meno di 600€ per il modello in alluminio non verniciato senza accessori con telaio specifico R1200GS spedite in agenzia Atlassib)
 - ottima qualità costruttiva
@@ -106,12 +107,12 @@ Se come me possedete una coppia di valigie BMW Vario potrete venderle sul mercat
 - larghezza complessiva della moto di soli 94cm
 - capienza totale 88 litri contro i 78 delle Vario
 
-#### Migliorabile
+### Migliorabile
 
 - serrature che agiscono da cerniera quando sono chiuse (come le [Givi Trekker Outback](https://www.ebay.it/sch/i.html?_nkw=givi+trekker+outback+bmw))
 - possibilità di sostituire i pomelli interni con viti a testa piatta per guadagnare spazio interno (al costo di usare una chiave per smontare le valigie)
 
-#### Cosa manca
+### Cosa manca
 
 - un bauletto Heavy Duties in linea con le borse (e soprattutto con la stessa chiave)
 - [cassetta porta attrezzi](https://amzn.to/2GQrPsN) da montare sul telaio dal lato senza marmitta
