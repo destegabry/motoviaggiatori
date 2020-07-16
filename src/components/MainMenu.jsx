@@ -63,7 +63,7 @@ const MainMenu = () => {
           </Link>
         </nav>
       </span>
-      <Link to="/foto">Foto</Link>
+      <a href="https://instagram.com/motoviaggiatori" target="_blank" rel="noopener noreferrer">Foto</a>
       <Link to={getCategoryUrl(categories.video.slug)}>
         {categories.video.name}
       </Link>

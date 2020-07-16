@@ -121,4 +121,6 @@ exports.createPages = async ({graphql, actions}) => {
       }
     });
   });
+
+  createRedirect({ fromPath: '/foto', toPath: 'https://instagram.com/motoviaggiatori', isPermanent: true })
 };
