@@ -51,6 +51,14 @@ const Header = ({ sticky }) => {
 
   function close(event) {
     event.preventDefault();
+    if (window.ga) {
+      window.ga('send', {
+        hitType: 'event',
+        eventCategory: 'dismiss-donate',
+        eventAction: 'click',
+        transport: 'beacon'
+      });
+    }
     setHidden(true)
     localStorage.setItem(LS_HIDE_DONATE_KEY, true)
   }
@@ -63,7 +71,7 @@ const Header = ({ sticky }) => {
   return (
     <DonateBannerWrapper className={hidden ? null : 'show'}>
       <div className="wrapper">
-        <DonateButton trackLabel="header-banner">
+        <DonateButton trackLabel="donate-banner">
           <span>Ti piace MotoViaggiatori? Contribusici con una donazione</span>
         </DonateButton>
         <Flex />
