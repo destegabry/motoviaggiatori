@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { useInView } from 'react-intersection-observer'
 import { Helmet } from 'react-helmet-async'
 import { withPrefix } from 'gatsby'
 import { css, Global } from '@emotion/core'
@@ -10,12 +11,14 @@ import 'moment/locale/it'
 import { colors } from '../utils/theme'
 import Header from './Header'
 import Footer from './Footer'
+import DonateBanner from './donate/DonateBanner'
 
 moment.locale('it');
 
 const globalStyles = css`
   html, body {
     background: ${colors.palette.primary.light};
+    overflow: hidden
   }
 
   body {
@@ -31,6 +34,7 @@ const globalStyles = css`
   }
 
   .wrapper {
+    flex-grow: 1;
     margin: 0 auto;
     padding: 0 1rem;
     width: 100%;
@@ -61,8 +65,13 @@ const OuterWrapper = styled.div`
   background: ${colors.palette.primary.light};
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  height: 100vh;
   margin: 0;
+`;
+
+const ScrollWrapper = styled.div`
+  flex-grow: 1;
+  overflow: auto;
 `;
 
 const Main = styled.main`
@@ -70,18 +79,28 @@ const Main = styled.main`
   padding-top: 1rem;
 `;
 
+
 const Layout = ({ children, ...otherProps }) => {
+
+  const [ref, inView] = useInView({
+    threshold: 0
+  });
+
   return (
     <OuterWrapper {...otherProps}>
       <Helmet>
         <script src={withPrefix('/pace.min.js')} async></script>
       </Helmet>
       <Global styles={globalStyles} />
-      <Header />
-      <Main className="wrapper">
-        {children}
-      </Main>
-      <Footer />
+      <Header sticky={inView} />
+      <ScrollWrapper>
+        <div className="in-view-ref" ref={ref} />
+        <Main className="wrapper">
+          {children}
+        </Main>
+        <Footer />
+      </ScrollWrapper>
+      <DonateBanner />
     </OuterWrapper>
   );
 }

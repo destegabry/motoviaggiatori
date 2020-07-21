@@ -23,11 +23,13 @@ function PageTemplate({ data }) {
       />
       <DangerousHTML html={ tableOfContents } />
       <DangerousHTML html={ html } />
-      <p css={{ fontStyle: 'italic', fontSize: '.8em', textAlign: 'center' }}>
-        Ultimo aggiornamento:
-        &nbsp;
-        {moment(frontmatter.modified || frontmatter.date).format('D MMMM YYYY')}
-      </p>
+      { (frontmatter.modified || frontmatter.date) &&
+        <p css={{ fontStyle: 'italic', fontSize: '.8em', textAlign: 'center' }}>
+          Ultimo aggiornamento:
+          &nbsp;
+          {moment(frontmatter.modified || frontmatter.date).format('D MMMM YYYY')}
+        </p>
+      }
     </Layout>
   )
 }

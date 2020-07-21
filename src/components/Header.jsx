@@ -1,11 +1,12 @@
 import React, { useState } from 'react'
+import PropTypes from 'prop-types'
 import styled from '@emotion/styled'
-import { useInView } from 'react-intersection-observer'
 import Color from 'color'
 
 import Logo from './Logo'
 import MainMenu from './MainMenu'
 import SocialLinks from './SocialLinks'
+import DonateButton from './donate/DonateButton'
 import Flex from './Flex'
 import headerFooterStyle from '../utils/headerFooterStyle'
 import {
@@ -13,6 +14,7 @@ import {
   LARGE_SCREEN_UP,
 } from '../utils/breakpoints'
 import { palette } from '../utils/colors'
+import { altFontStack } from '../utils/theme'
 import {
   IconHamburger,
   IconClose,
@@ -49,6 +51,7 @@ const HeaderElement = styled.header`
     font-size: .8rem;
 
     nav {
+      z-index: 1;
       a {
         text-transform: uppercase;
 
@@ -71,11 +74,10 @@ const HeaderElement = styled.header`
         overflow: auto;
         position: absolute;
         top: ${headerHeightMobile}px;
-        left: 150vw;
-        right: 0;
+        right: -100vw;
         height: calc(100vh - ${headerHeightMobile}px);
         width: 100vw;
-        transition: left .3s ease-in-out;
+        transition: right .3s ease-in-out;
 
         nav {
           a {
@@ -140,14 +142,9 @@ const HeaderElement = styled.header`
   .header-wrapper {
     ${headerFooterStyle}
     box-shadow: ${Color(palette.primary.main).darken(.6).string()} 0 0 .5rem;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 100;
+    position: relative;
   }
 
-  .in-view-ref,
   .nav-wrapper {
     transition: height .3s ease-out;
 
@@ -189,8 +186,7 @@ const HeaderElement = styled.header`
       opacity: 1;
     }
 
-    .nav-wrapper,
-    .in-view-ref {
+    .nav-wrapper {
       ${LARGE_SCREEN_UP} {
         height: ${headerHeightDesktopCollapsed}px;
       }
@@ -232,7 +228,7 @@ const HeaderElement = styled.header`
   &.mobile-menu-open {
     .nav-wrapper {
       > nav {
-        left: 0;
+        rightyn7ngv6 g: 0;
       }
     }
   }
@@ -257,7 +253,7 @@ const scrollTop = event => {
   });
 }
 
-const Header = () => {
+const Header = ({ sticky }) => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const toggleMobileMenu = () => {
@@ -266,15 +262,11 @@ const Header = () => {
     setMobileMenuOpen(!mobileMenuOpen);
   }
 
-  const [ref, inView] = useInView({
-    threshold: 0
-  });
-
   return (
     <HeaderElement
       id="header-menu"
       className={ [
-        inView ? '' : 'sticky ',
+        sticky ? '' : 'sticky ',
         mobileMenuOpen ? 'mobile-menu-open' : ''
       ].join(' ') }
     >
@@ -292,12 +284,16 @@ const Header = () => {
           </div>
         </div>
       </div>
-      <div className="in-view-ref" ref={ref} />
       <span className="back-to-top" onClick={scrollTop}>
         <IconArrowToTop />
       </span>
     </HeaderElement>
   )
+}
+
+
+Header.propTypes = {
+  sticky: PropTypes.bool,
 }
 
 export default Header
