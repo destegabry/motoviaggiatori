@@ -228,7 +228,7 @@ const HeaderElement = styled.header`
   &.mobile-menu-open {
     .nav-wrapper {
       > nav {
-        rightyn7ngv6 g: 0;
+        right: 0;
       }
     }
   }

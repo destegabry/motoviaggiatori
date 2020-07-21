@@ -62,9 +62,13 @@ const Header = ({ sticky }) => {
     setHidden(true)
     localStorage.setItem(LS_HIDE_DONATE_KEY, true)
   }
+
   useEffect(() => {
     if(!localStorage.getItem(LS_HIDE_DONATE_KEY)) {
-      setTimeout(() => setHidden(false), 5000)
+      const timeout = setTimeout(() => setHidden(false), 5000)
+      return function cleanup() {
+        clearTimeout(timeout)
+      }
     }
   });
 
