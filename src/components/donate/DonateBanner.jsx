@@ -47,12 +47,16 @@ const DonateBannerWrapper = styled.div`
 `
 
 const Header = ({ sticky }) => {
-  const [hidden, setHidden] = useState(Boolean(localStorage.getItem(LS_HIDE_DONATE_KEY)))
+  const [hidden, setHidden] = useState(true)
 
   function close(event) {
     event.preventDefault();
     setHidden(true)
     localStorage.setItem(LS_HIDE_DONATE_KEY, true)
+  }
+
+  if(!localStorage.getItem(LS_HIDE_DONATE_KEY)) {
+    setTimeout(() => setHidden(false), 5000)
   }
 
   return (
