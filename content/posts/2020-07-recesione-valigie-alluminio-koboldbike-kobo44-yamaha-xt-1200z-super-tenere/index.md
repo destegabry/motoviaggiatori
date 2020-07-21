@@ -30,11 +30,11 @@ Koboldbike offre una vassta gamma di prodotti e accessori, è possibile pagare c
 
 Ho acquistato una coppia valigie laterali da 44 litri della linea **KOBO** e il relativo telaio per la mia Yamaha Super Ténéré XT 1200Z del 2019, ricevendole a casa in poco più di due settimane (tempi dilatati per via dell’emergenza sanitaria in corso).
 
-XXXXXXXXXXXXX
-
 Ho ricevuto le valigie in un'unica scatola, contenente sia le valigie che il telaio. Il collo era imballato bene, le valigie erano all’interno di buste di plastica, distanziate da una busta in pluriball con dentro telaio e attacchi.
 
-FOTO
+![Koboldbike Unboxing 1](./foto/unboxing-1.jpg "L'imballo in cui ho ricevuto le valigie Koboldbike")
+![Koboldbike Unboxing 2](./foto/unboxing-2.jpg "Le valigie in alluminio sono ben protette dal pluriball")
+![Koboldbike Unboxing 3](./foto/unboxing-3.jpg "Il pacchetto più piccolo contiene i telaietti GiVi Monokey")
 
 ## Montaggio e dettagli
 
@@ -46,21 +46,19 @@ Per montare il telaio ci si affida alle illustrazioni chiare e facilmente leggib
 
 Le valigie si montano sul telaio GiVi Monokey, nel caso ne siate già in possesso potete acquistarle senza aver bisogno di prendere anche il telaio.
 
-Il tutto si può rimuovere velocemente grazie alle viti ad aggancio/sgancio rapido, lasciando solamente le staffe sulle pedaline del passeggero e sulle maniglie:
+![Koboldbike telaietti Yamaha Super Ténéré XT 1200Z 1](./foto/unboxing-6.jpg "Imballo telaietti GiVi Monokey")
+![Koboldbike telaietti Yamaha Super Ténéré XT 1200Z 2](./foto/unboxing-9.jpg "Istruzioni di montaggio telaietti GiVi Monokey")
+![Koboldbike telaietti Yamaha Super Ténéré XT 1200Z 3](./foto/telaietti-1.jpg "I telai si possono rimuovere velocemente grazie alle viti a sgancio rapido")
+![Koboldbike telaietti Yamaha Super Ténéré XT 1200Z 4](./foto/telaietti-2.jpg "Dettagli poco visibili che non disturbano l’estetica della moto nel complesso.")
 
-FOTO
+Una volta montate si ha un **ingombro totale di 95cm**, ben al di sotto del limite dei 100cm previsto dal codice della strada. Valigie più telaio **pesano 15kg circa**, hanno una capienza di 44lt ciascuna, hanno dimensioni 45 cm (base) 40 cm (altezza) e 25 cm (profondità) per un **volume interno di 44 litri**.
 
-Dettagli poco visibili che non disturbano l’estetica della moto nel complesso.
+Vengono fornite 4 chiavi che aprono entrambe le valigie, non è necessario spegnere la moto per aprirle. L’interno non è foderato ma è possibile ordinare un rivestimento estraibile e lavabile, oppure le borse interne impermeabili per proteggere gli oggetti all’interno. Una guarnizione in gomma sul coperchio garantisce la chiusura a tenuta stagna, all'interno del coperchio è possibile applicare un *ragno* elastico utile per ottimizzare lo spazio interno.
 
-FOTO
-
-Una volta montate si ha un **ingombro totale di 95cm**, ben al di sotto del limite dei 100cm previsto dal codice della strada.
-
-Valigie più telaio pesano in tutto 15kg circa, hanno una capienza di 44lt ciascuna, hanno dimensioni di xxxxxx xxxxxxx xxxxx.
-
-Vengono fornite 4 chiavi, che aprono entrambe le valigie, non è necessario spegnere la moto per aprirle. L’interno  non è foderato, ma è possibile ordinare un rivestimento estraibile e lavabile oppure le borse interne impermeabili per proteggere gli oggetti all’interno.
-
-Una guarnizione in gomma sul coperchio garantisce la chiusura a tenuta stagna, all'interno del coperchio è possibile applicare un *ragno* elastico utile per ottimizzare lo spazio interno.
+![Koboldbike KOBO 44 1](./foto/unboxing-4.jpg "Valigia in alluminio Koboldbike KOBO 44")
+![Koboldbike KOBO 44 5](./foto/unboxing-5.jpg "Interno valigia Koboldbike KOBO 44")
+![Koboldbike KOBO 44 7](./foto/unboxing-7.jpg "Le valigie Koboldbike KOBO 44 chiuse")
+![Koboldbike KOBO 44 8](./foto/unboxing-8.jpg "Le valigie Koboldbike KOBO 44 aperte")
 
 Un aspetto decisamente positivo è la facilità di riparazione; in caso di necessità di sostituzione di uno dei componenti della valigia è sufficiente rimuovere i rivetti e procedere con la sostituzione del pezzo danneggiato, la valigia torna come nuova. Quest’operazione può essere effettuata direttamente da Koboldbike.
 
@@ -70,15 +68,18 @@ Da evidenziare è l’ampia possibilità di personalizzazione, si può scegliere
 
 Tra gli accessori più interessanti ho trovato:
 
-- scatolotto porta oggetti in alluminio ancorato sotto al corpo principale delle valigie
+- scatolotto porta oggetti in alluminio (ancorato sotto al corpo principale delle valigie)
 - ragno elastico per i coperchi
-- supporto tanica
+- supporto tanica (e relativa tanica benzina)
 
-[Foto valigie, telai, vista moto]
+![Koboldbike Kobo 44 Yamaha Super Ténéré XT 1200Z 1](./foto/gallery-1.jpg "Dettaglio del logo Koboldbike in rilievo")
+![Koboldbike Kobo 44 Yamaha Super Ténéré XT 1200Z 2](./foto/gallery-2.jpg "Vista posteriore Yamaha Super Ténéré XT 1200Z con i telaietti GiVi Monokey")
+![Koboldbike Kobo 44 Yamaha Super Ténéré XT 1200Z 3](./foto/gallery-3.jpg "Ingombro totale valigie Koboldbike KOBO 44 su Yamaha Super Ténéré XT 1200Z")
+![Koboldbike Kobo 44 Yamaha Super Ténéré XT 1200Z 4](./foto/gallery-4.jpg "Valigie Koboldbike KOBO 44 montate su Yamaha Super Ténéré XT 1200Z")
 
 ## Considerazioni finali
 
-Koboldbike è un azienda che fa della robustezza e della qualità dei materiali costruttivi il suo punto di forza. Se cercate un prodotto artigianale, senza fronzoli, ben costruito e **completamente Made in Italy** non avete che da scegliere queste valigie e più in generale, quest’azienda.
+Koboldbike è un azienda che fa della robustezza e della qualità dei materiali costruttivi il suo punto di forza. Se cercate un prodotto artigianale, senza fronzoli, ben costruito e **completamente Made in Italy**, non cercato oltre: non resterete delusi.
 
 É possibile abbinare un bauletto centrale (con volume fino a 80 litri!) in linea con le valigie laterali e con la stessa serratura.
 
@@ -96,4 +97,4 @@ Per qualsiasi necessità o dubbio, troverete delle persone capaci e disponibili 
 
 - Spedizione e tempi di attesa un po’ più lunghi, proprio per via dell’artigianalità del prodotto.
 - Rifiniture, essendo un prodotto artigianale c’è qualche sbavatura, ma donano alla moto un’aria più adventure (che a me piace molto).
-- la versione KOBO è un po’ scarna, ma basta poco per arricchirla di particolari.
+- La versione KOBO è un po’ scarna, ma basta poco per arricchirla di particolari.
