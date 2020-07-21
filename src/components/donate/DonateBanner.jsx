@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, {useState, useEffect} from 'react'
 import styled from '@emotion/styled'
 
 import DonateButton from './DonateButton'
@@ -54,10 +54,11 @@ const Header = ({ sticky }) => {
     setHidden(true)
     localStorage.setItem(LS_HIDE_DONATE_KEY, true)
   }
-
-  if(!localStorage.getItem(LS_HIDE_DONATE_KEY)) {
-    setTimeout(() => setHidden(false), 5000)
-  }
+  useEffect(() => {
+    if(!localStorage.getItem(LS_HIDE_DONATE_KEY)) {
+      setTimeout(() => setHidden(false), 5000)
+    }
+  });
 
   return (
     <DonateBannerWrapper className={hidden ? null : 'show'}>
