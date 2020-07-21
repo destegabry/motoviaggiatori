@@ -121,4 +121,10 @@ exports.createPages = async ({graphql, actions}) => {
       }
     });
   });
+
+  createRedirect({
+    fromPath: '/foto',
+    toPath: process.env.GATSBY_INSTAGRAM_PROFILE_URL,
+    isPermanent: true
+  })
 };
