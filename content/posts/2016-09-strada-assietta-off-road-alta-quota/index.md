@@ -91,7 +91,7 @@ Dopo i primi 9 km di off-road leggero, si arriva al Colle delle Finestre (quota 
 
 ## Colle delle Finestre – Sestriere
 
-La strada torna ad essere asfaltata e scende verso** Pian dell’Alpe**. Qui parte la strada dell’Assietta, che purtroppo abbiamo trovato [chiusa a causa di una frana](/2016/09/frana-strada-assietta-sp-173/). Non sapendo ancora di poter passare (anche se con qualche difficoltà), abbiamo optato per aggirare l’ostacolo passando da Sestriere e Col Basset.
+La strada torna ad essere asfaltata e scende verso **Pian dell’Alpe**. Qui parte la strada dell’Assietta, che purtroppo abbiamo trovato [chiusa a causa di una frana](/2016/09/frana-strada-assietta-sp-173/). Non sapendo ancora di poter passare (anche se con qualche difficoltà), abbiamo optato per aggirare l’ostacolo passando da Sestriere e Col Basset.
 
 Il percorso è molto semplice: **seguire il nastro di asfalto fino alla SP 23**, girare a destra in direzione Sestriere e poi… sempre dritto fino al colle!
 
