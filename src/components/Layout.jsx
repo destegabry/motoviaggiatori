@@ -31,6 +31,7 @@ const globalStyles = css`
   }
 
   .wrapper {
+    flex-grow: 1;
     margin: 0 auto;
     padding: 0 1rem;
     width: 100%;
