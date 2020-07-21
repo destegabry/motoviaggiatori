@@ -6,7 +6,7 @@ import { css } from '@emotion/core'
 import { green, red, palette } from '../../../utils/colors'
 import UpVote from './up.svg';
 import DownVote from './down.svg';
-import DonateButton from '../../DonateButton'
+import DonateButton from '../../donate/DonateButton'
 
 const VoteContainer = styled.span`
   button {
