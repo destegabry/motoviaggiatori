@@ -6,6 +6,7 @@ import { css } from '@emotion/core'
 import { green, red, palette } from '../../../utils/colors'
 import UpVote from './up.svg';
 import DownVote from './down.svg';
+import DonateButton from '../../DonateButton'
 
 const VoteContainer = styled.span`
   button {
@@ -31,6 +32,24 @@ const VoteContainer = styled.span`
 
     svg {
       height: 2rem;
+    }
+  }
+`;
+
+const DonateCotainer = styled.span`
+  .donate-button {
+    background: ${palette.grey.light};
+    color: ${palette.secondary.dark};
+    cursor: pointer;
+    border: 0;
+    padding: .25rem .75rem;
+    border-radius: 1rem;
+    border: 0;
+    outline: 0;
+
+    &:active,
+    &:hover {
+      box-shadow: 0 1px 0 0 currentColor;
     }
   }
 `;
@@ -85,6 +104,16 @@ function Vote({ campaign, children }) {
           <DownVote css={ voted > -1 ? null : css`fill: ${red};` } />
         </button>
       </VoteContainer>
+      { voted > 0 &&
+        <DonateCotainer>
+          &nbsp;
+          Contribuisci a nuovi articoli:
+          &nbsp;
+          <DonateButton trackLabel={campaign} className="donate-button">
+            offrici un pieno o una birra!
+          </DonateButton>
+        </DonateCotainer>
+      }
     </>
   )
 }
