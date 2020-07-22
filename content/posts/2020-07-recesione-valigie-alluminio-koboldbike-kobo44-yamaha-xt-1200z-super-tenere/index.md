@@ -1,7 +1,7 @@
 ---
 title: Valigie in alluminio Koboldbike KOBO44 per Yamaha Super Ténéré
 slug: /2020/07/recesione-valigie-alluminio-koboldbike-kobo44-yamaha-xt-1200z-super-tenere
-date: "2020-07-15T09:00:00.000Z"
+date: "2020-07-22T09:00:00.000Z"
 author: giovanni
 featured_image: ./featured.jpg
 excerpt: "Prime impressioni sulle borse artigianali e completamente Made in Italy"
@@ -51,7 +51,7 @@ Le valigie si montano sul telaio GiVi Monokey, nel caso ne siate già in possess
 ![Koboldbike telaietti Yamaha Super Ténéré XT 1200Z 3](./foto/telaietti-1.jpg "I telai si possono rimuovere velocemente grazie alle viti a sgancio rapido")
 ![Koboldbike telaietti Yamaha Super Ténéré XT 1200Z 4](./foto/telaietti-2.jpg "Dettagli poco visibili che non disturbano l’estetica della moto nel complesso.")
 
-Una volta montate si ha un **ingombro totale di 95cm**, ben al di sotto del limite dei 100cm previsto dal codice della strada. Valigie più telaio **pesano 15kg circa**, hanno una capienza di 44lt ciascuna, hanno dimensioni 45 cm (base) 40 cm (altezza) e 25 cm (profondità) per un **volume interno di 44 litri**.
+Una volta montate si ha un **ingombro totale di 95cm**, ben al di sotto del limite dei 100cm previsto dal codice della strada. Le valgie hanno dimensioni 45 cm (base) 40 cm (altezza) e 25 cm (profondità) per un **volume interno di 44 litri**.
 
 Vengono fornite 4 chiavi che aprono entrambe le valigie, non è necessario spegnere la moto per aprirle. L’interno non è foderato ma è possibile ordinare un rivestimento estraibile e lavabile, oppure le borse interne impermeabili per proteggere gli oggetti all’interno. Una guarnizione in gomma sul coperchio garantisce la chiusura a tenuta stagna, all'interno del coperchio è possibile applicare un *ragno* elastico utile per ottimizzare lo spazio interno.
 
@@ -79,7 +79,7 @@ Tra gli accessori più interessanti ho trovato:
 
 ## Considerazioni finali
 
-Koboldbike è un azienda che fa della robustezza e della qualità dei materiali costruttivi il suo punto di forza. Se cercate un prodotto artigianale, senza fronzoli, ben costruito e **completamente Made in Italy**, non cercato oltre: non resterete delusi.
+Koboldbike è un azienda che fa della robustezza e della qualità dei materiali costruttivi il suo punto di forza. Se cercate un prodotto artigianale, senza fronzoli, ben costruito e **completamente Made in Italy**, non cercate oltre: non resterete delusi.
 
 É possibile abbinare un bauletto centrale (con volume fino a 80 litri!) in linea con le valigie laterali e con la stessa serratura.
 
