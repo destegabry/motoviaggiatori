@@ -39,7 +39,9 @@ Dopo svariate prove in autostrada e non, posso dire con certeza che HORUS è un 
 
 ## Comodità
 
-La calzata dell'HORUS è molto comoda, gli interni (completamente rimovibili e lavabili) sono ben imbottiti e risulta molto simile al Caberg DUKE II; è più confortevole del LEVO, che richiede una certa abitudine. È una cosa che ho nuotato subito poiché con HORUS calzo la mia taglia abituale (L), mentre con LEVO una in più (XL).
+La calzata dell'HORUS è molto comoda, gli interni (completamente rimovibili e lavabili) sono ben imbottiti e risulta molto simile al Caberg DUKE II; è più confortevole del LEVO, che richiede una certa abitudine. È una cosa che ho notato subito poiché con HORUS calzo la mia taglia abituale (L), mentre con LEVO una in più (XL).
+
+Sia HORUS che LEVO sono molto facili da smontare per permettere le operazioni di pulizia ordinaria. In pochi semplici mosse, si riesce a rimuovere l’imbottitura in tessuto lavabile. Il rivestimento interno del LEVO è in Coolmax® e risulta più traspirante rispetto all'HORUS.
 
 ## Visiera
 
@@ -53,7 +55,7 @@ L'aerazione di LEVO è superiore, le sue prese d’aria presenti sono così effi
 
 ## Ergonomia
 
-TODO
+Pur indossando guanti non proprio morbidi, su entrambi i modelli risulta molto facile avere accesso alle prese d’aria, aprire e chiudere visiere e mentoniera. Sull'HORUS basta scorrere una levetta per agire sul blocco meccanico della mentoniera (dispositivo che rende sicuro e omologato il casco anche in posizione aperta), a differenza del LEVO che risulta più macchinoso.
 
 ## Mentoniera
 
