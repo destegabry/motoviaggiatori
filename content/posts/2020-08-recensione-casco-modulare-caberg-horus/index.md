@@ -19,9 +19,13 @@ Nel 2019 abbiamo apprezzato le qualità delle visiere ultra-grandangolari sul [C
 
 Ad EICMA 2019 Caberg presenta l'HORUS: un nuovo casco modulare che **eredita contenuti e maxi-visiera del LEVO**, ma ad un prezzo più contenuto (listino da €249,99).
 
+Colori HORUS Scout:
+
 ![Caberg Horus Scout D6](./foto/catalog/horus-d6.jpg "Caberg Horus Scout D6 Bianco Metallizzato/Rosso/Blu/Blu Chiaro")
 ![Caberg Horus Scout I5](./foto/catalog/horus-i5.jpg "Caberg Horus Scout I5 Scout Nero Opaco/Giallo Fluo/Antracite/Argento")
 ![Caberg Horus Scout I6](./foto/catalog/horus-i6.jpg "Caberg Horus Scout I6 Nero Opaco/Rosso/Antracite/Argento")
+
+Colori HORUS:
 
 ![Caberg Horus 17](./foto/catalog/horus-17.jpg "Caberg Horus 17 Nero Opaco")
 ![Caberg Horus 48](./foto/catalog/horus-48.jpg "Caberg Horus 48 Blu Opaco YAMA")
@@ -67,7 +71,7 @@ HORUS presenta *scassi* per l’interfono leggermente più larghi rispetto al LE
 
 # Prezzo
 
-Caberg è riuscita a produrre un casco che costa il 35% in meno del top di gamma senza rinunciare ai contenuti, facendo un compromesso su peso e silenziosità. **Se state cercando un casco comodo e completo HORUS fa per voi**. Se invece volete un casco adatto a lunghi viaggi, fate uno sforzo in più e scegliete il [LEVO](/2019/07/recensione-casco-modulare-caberg-levo) (facendo attenzione a provarlo per bene prima di scegliere la taglia).
+Caberg è riuscita a produrre un casco che costa circa il 35% in meno del top di gamma senza rinunciare ai contenuti, facendo un compromesso su peso e silenziosità. **Se state cercando un casco comodo e completo HORUS fa per voi**. Se invece volete un casco adatto a lunghi viaggi, scegliete il [LEVO](/2019/07/recensione-casco-modulare-caberg-levo) (facendo attenzione a provarlo per bene prima di scegliere la taglia).
 
 ## Caratteristiche tecniche
 
