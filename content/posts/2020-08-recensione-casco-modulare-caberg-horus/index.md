@@ -37,13 +37,13 @@ Dopo aver percorso 500 km in tutte le condizioni (città, strade extra-urbane, a
 
 La prima cosa che si nota comparando le caratteristiche tecniche è che l'HORUS (in ABS) pesa circa 200 grammi in più rispetto al LEVO (in fibre composite): 1650g contro 1450g. Ammetto di non aver percepito la differenza o di sentirmi più affaticato nell’utilizzo di HORUS piuttosto che LEVO.
 
-## Rumorosità
+## Rumorosità
 
-Dopo svariate prove in autostrada e non, posso dire con certeza che HORUS è un casco **abbastanza rumoroso**, sicuramente più del LEVO. Anche con tutte le prese d’aria chiuse il rumore si fa sentire ed è più impegnativo nei lunghi tragitti.
+Dopo svariate prove in autostrada e non, posso dire con certezza che HORUS è un casco **abbastanza rumoroso**, sicuramente più del LEVO. Anche con tutte le prese d’aria chiuse il rumore si fa sentire ed è più impegnativo nei lunghi tragitti.
 
 ## Comodità
 
-La calzata dell'HORUS è molto comoda, gli interni (completamente rimovibili e lavabili) sono ben imbottiti e risulta molto simile al Caberg DUKE II; è più confortevole del LEVO, che richiede una certa abitudine. È una cosa che ho notato subito poiché con HORUS calzo la mia taglia abituale (L), mentre con LEVO una in più (XL).
+La calzata dell'HORUS è molto comoda, gli interni sono ben imbottiti e risulta molto simile al Caberg DUKE II; è più confortevole del LEVO, che richiede una certa abitudine. È una cosa che ho notato subito poiché con HORUS calzo la mia taglia abituale (L), mentre con LEVO una in più (XL).
 
 Sia HORUS che LEVO sono molto facili da smontare per permettere le operazioni di pulizia ordinaria. In pochi semplici mosse, si riesce a rimuovere l’imbottitura in tessuto lavabile. Il rivestimento interno del LEVO è in Coolmax® e risulta più traspirante rispetto all'HORUS.
 
@@ -51,7 +51,7 @@ Sia HORUS che LEVO sono molto facili da smontare per permettere le operazioni di
 
 La visiera panoramica è fantastica, praticamente identica a quella montata sul LEVO e dotata di **inserto antiappannante Pinlock di serie**.
 
-Il meccanismo della **visiera parasole integrata** di HORUS è molto più semplice di quello di LEVO, regala purtroppo una sensazione di economicità e inoltre è molto poco fluido, tant’è che a volte mi pare sforzi leggermente.
+Il meccanismo della **visiera parasole integrata** di HORUS è molto più semplice di quello di LEVO, regala purtroppo una sensazione di economicità, inoltre è poco fluido e a volte mi pare sforzi leggermente.
 
 ## Aerazione
 
@@ -59,17 +59,17 @@ L'aerazione di LEVO è superiore, le sue prese d’aria presenti sono così effi
 
 ## Ergonomia
 
-Pur indossando guanti non proprio morbidi, su entrambi i modelli risulta molto facile avere accesso alle prese d’aria, aprire e chiudere visiere e mentoniera. Sull'HORUS basta scorrere una levetta per agire sul blocco meccanico della mentoniera (dispositivo che rende sicuro e omologato il casco anche in posizione aperta), a differenza del LEVO che risulta più macchinoso.
+Pur indossando guanti non proprio morbidi, su entrambi i modelli risulta **molto facile avere accesso alle prese d’aria, aprire e chiudere visiere e mentoniera.** Sull'HORUS basta scorrere una levetta per agire sul blocco meccanico della mentoniera (dispositivo che rende sicuro e omologato il casco anche in posizione aperta), a differenza del LEVO che risulta più macchinoso.
 
 ## Mentoniera
 
-Su HORUS la mentoniera presenta un doppio meccanismo di aggancio che a mio parere lo rende più robusto rispetto a quello di LEVO. Il punto di rotazione della mentoniera è diverso da quello della visiera, per cui **la mentoniera dell’HORUS rimane sempre vicina alla calotta** limitando l’effetto vela.
+Su HORUS la mentoniera presenta un doppio meccanismo di aggancio che a mio parere lo rende più robusto rispetto a quello di LEVO. Il punto di rotazione della mentoniera è diverso da quello della visiera, per cui **la mentoniera dell’HORUS rimane sempre vicina alla calotta** migliorando l'aerodinamica del casco.
 
 ## Compatibilità interfono
 
-HORUS presenta *scassi* per l’interfono leggermente più larghi rispetto al LEVO. Questo ha reso molto facile il montaggio del mio interfono [MIDLAND BTX2 PRO S](/2019/09/recensione-interfoni-midland-serie-bt-pro) (sul LEVO gli speaker entravano faticosamente nell'alloggiamento).
+HORUS presenta *scassi* per l’interfono leggermente più larghi rispetto al LEVO. Questo ha reso molto facile il montaggio del mio [MIDLAND BTX2 PRO S](/2019/09/recensione-interfoni-midland-serie-bt-pro) (sul LEVO gli speaker entravano faticosamente nell'alloggiamento).
 
-# Prezzo
+## Prezzo
 
 Caberg è riuscita a produrre un casco che costa circa il 35% in meno del top di gamma senza rinunciare ai contenuti, facendo un compromesso su peso e silenziosità. **Se state cercando un casco comodo e completo HORUS fa per voi**. Se invece volete un casco adatto a lunghi viaggi, scegliete il [LEVO](/2019/07/recensione-casco-modulare-caberg-levo) (facendo attenzione a provarlo per bene prima di scegliere la taglia).
 
