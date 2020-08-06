@@ -2,11 +2,11 @@
 title: "Recensione casco modulare Caberg HORUS"
 slug: /2020/08/recensione-casco-modulare-caberg-horus
 author: arturo
-featured_image: ./foto/IMG_1420.jpg
+featured_image: ./featured.jpg
 excerpt: Abbiamo provato il nuovo Caberg di media gamma, votato al turismo e dotato di visiera ultra grandangolare
 opening: "<p>Nel 2019 abbiamo apprezzato le qualità delle visiere ultra-grandangolari sul <a href=\"/2019/07/recensione-casco-modulare-caberg-levo\">Caberg LEVO</a>, un ottimo casco modulare in fibre composite caratterizzato da peso contenuto, ottima ventilazione e silenziosità… ma ad un prezzo non proprio popolare: il listino parte da €389,99.</p>
 <p>Ad EICMA 2019 Caberg presenta l'HORUS: un nuovo casco modulare che <strong>eredita dal LEVO contenuti e maxi-visiera</strong>, ma ad un prezzo più contenuto (listino da €249,99).</p>
-<p>Dopo aver percorso 500 km in tutte le condizioni (città, strade extra-urbane, autostrade e strade bianche) è giunto il momento di fare qualche considerazione e mettere l'HORUS a confronto diretto con il LEVO usato fino a poco fa.</p>"
+<p>Dopo aver percorso 500 km in tutte le condizioni (città, strade extra-urbane, autostrade e un po' di sterrato sulla <a href=\"/tag/strada-dellassietta\">Strada dell'Assietta</a>) è giunto il momento di fare qualche considerazione e mettere l'HORUS a confronto diretto con il LEVO usato fino a poco fa.</p>"
 date: "2020-08-05T09:00:00.000Z"
 categories:
 - recensioni
@@ -28,19 +28,19 @@ Dopo svariate prove in autostrada e non, posso dire con certezza che HORUS è un
 
 ## Comodità
 
-La calzata dell'HORUS è molto comoda, gli interni sono ben imbottiti e risulta molto simile al Caberg DUKE II; è più confortevole del LEVO, che richiede una certa abitudine. È una cosa che ho notato subito poiché con HORUS calzo la mia taglia abituale (L), mentre con LEVO una in più (XL).
+La calzata dell'HORUS è molto comoda, gli interni sono ben imbottiti e risultano simili al Caberg DUKE II; è più confortevole del LEVO, che richiede una certa abitudine. È una cosa che ho notato subito poiché con HORUS calzo la mia taglia abituale (L), mentre con LEVO una in più (XL).
 
 Sia HORUS che LEVO sono molto facili da smontare per permettere le operazioni di pulizia ordinaria. In pochi semplici mosse, si riesce a rimuovere l’imbottitura in tessuto lavabile. Il rivestimento interno del LEVO è in Coolmax® e risulta più traspirante rispetto all'HORUS.
+
+![Caberg HORUS vs LEVO](./foto/IMG_1391.jpg "Le nostre moto pronte per la comparativa HORUS vs LEVO al Colle delle Finestre (TO)")
+![Caberg HORUS vs LEVO](./foto/IMG_1392.jpg "Caberg HORUS vs LEVO al Colle delle Finestre (TO)")
+![Caberg HORUS Strada dell'Assietta](./foto/IMG_1402.jpg "Test del nuovo Caberg HORUS sulla Strada dell'Assietta")
 
 ## Visiera
 
 La visiera panoramica è fantastica, praticamente identica a quella montata sul LEVO e dotata di **inserto antiappannante Pinlock di serie**.
 
 Il meccanismo della **visiera parasole integrata** di HORUS è molto più semplice di quello di LEVO, regala purtroppo una sensazione di economicità, inoltre è poco fluido e a volte mi pare sforzi leggermente.
-
-![Caberg HORUS vs LEVO](./foto/IMG_1392.jpg "Caberg HORUS vs LEVO al Colle delle Finestre (TO)")
-![Caberg HORUS Strada dell'Assietta](./foto/IMG_1402.jpg "Test del nuovo Caberg HORUS sulla Strada dell'Assietta")
-![Caberg HORUS Monte Chaberton](./foto/IMG_1410.jpg "Test del nuovo Caberg HORUS sulla Strada dell'Assietta")
 
 ## Ergonomia
 
@@ -53,6 +53,9 @@ Su HORUS la mentoniera presenta un doppio meccanismo di aggancio che a mio parer
 ## Compatibilità interfono
 
 HORUS presenta *scassi* per l’interfono leggermente più larghi rispetto al LEVO. Questo ha reso molto facile il montaggio del mio [MIDLAND BTX2 PRO S](/2019/09/recensione-interfoni-midland-serie-bt-pro) (sul LEVO gli speaker entravano faticosamente nell'alloggiamento).
+
+![Caberg HORUS Monte Chaberton](./foto/IMG_1410.jpg "Test del nuovo Caberg HORUS sulla Strada dell'Assietta")
+![Caberg HORUS Colle Basset](./foto/IMG_1420.jpg "Test del nuovo Caberg HORUS sulla Strada dell'Assietta")
 
 ## Prezzo
 
