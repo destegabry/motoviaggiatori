@@ -40,7 +40,7 @@ Sono state esperienze incredibili, ma dopo l'amputazione della gamba, avvenuta n
 
 Questo sogno si è concretizzato qualche mese fa quando mia moglie, anche lei desiderosa di dedicare le proprie energie a chi ne ha più bisogno, ha scovato su internet l'associazione [Legs4Africa](https://www.legs4africa.org). Da lì è iniziato tutto e grazie al loro supporto potremo finalmente partire per un viaggio, sia fisico che spirituale, interamenete dedicato a raccogliere fondi per questa organizzazione che raccoglie protesi usate nei paesi sviluppati per mandarle in Africa… appunto *l'altro lato del mondo* che tanto volevamo raggiungere.
 
-Abbiamo fissato la partenza il 15 ottobre 2020, ma potremmo doverla rimandare a causa della chiusura delle frontiere dovute  alla pandemia di COVID-19. Stiamo lavorando duramente per avere i visti, il nostro programma di massima è di traghettare da Genova a Tangeri e poi attraversare Marocco e Mauritania, fino a raggiungere la capitale del Senegal, Dakar. Arriveremo al CNAO – *Centre National d’Appareillage Orthopedique* – dove Legs4Africa africa collabora per fonire le protesi.
+Abbiamo fissato la partenza il 15 ottobre 2020, ma potremmo doverla rimandare a causa della chiusura delle frontiere dovute  alla pandemia di COVID-19. Stiamo lavorando duramente per avere i visti, il nostro programma di massima è di traghettare da Genova a Tangeri e poi attraversare Marocco e Mauritania, fino a raggiungere la capitale del Senegal, Dakar. Arriveremo al CNAO – *Centre National d’Appareillage Orthopedique* – dove Legs4Africa africa collabora per fornire le protesi.
 
 Seguiteci sulla [pagina Facebook Karmaontheroad](https://www.facebook.com/Karmaontheroad/) per non perdervi gli aggiornamenti del nostro viaggio benefico!
 
