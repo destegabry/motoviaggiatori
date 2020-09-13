@@ -24,7 +24,7 @@ tags:
 
 A Gennaio appena rientrati dalla [Patagonia](/2020/01/panamericana-sud-america-argentina-patagonia-terra-del-fuoco) siamo stati contattati da un gruppo di giovani della nostra città con i quali ci siamo incontrati per parlare di viaggi. Per questo incontro mi ero preparato molto materiale, ma dopo aver compreso i bisogni di questi ragazzi, ho calato la discussione sui loro sogni, sui loro desideri, sulle loro paure.
 
-Nell'incontro è emerso che per loro è semplice prendere l'aereo e farsi catapultare dall'altra parte del mondo, ma nello stesso tempo è emerso che risulta difficile affrontare un viaggio su due ruote anche solo per pochi giorni, a meno che non lo si faccia in gruppo.
+Nell'incontro è emerso che per loro è semplice prendere l'aereo e farsi catapultare dall'altra parte del mondo, ma nello stesso tempo risulta loro difficile affrontare un viaggio su due ruote anche solo per pochi giorni, a meno che non lo si faccia in gruppo.
 
 Sorridendo ci chiedevano sorpresi come fosse possibile che il venerdì prima di Natale fossimo a cena con amici in città, la domenica fossimo in Uruguay e dopo 6 giorni in sella alla nostra moto postassimo la foto davanti le colonne di Ushuaya. Per chi ha poco tempo come noi, sarebbe importante trovare la formula che permette di concretizzare questi grandi progetti.
 
@@ -120,7 +120,7 @@ Proseguiamo attraversando la Versilia fino a raggiungere Pisa dove ci fermiamo a
 ![](./galleries/03/IMG_6968.JPG "Piazza dei Miracoli a Pisa")
 ![](./galleries/03/IMG_8117.JPG "Rocca di Vicopisano")
 
-Proseguiamo verso Lajatico per raggiungere il Teatro del Silenzio, un anfiteatro naturale situato su una collina ad un chilometro e mezzo dal centro abitato; è un teatro completamente naturale, costituito essenzialmente da un laghetto, una volta utilizzato dagli agricoltori come abbeveratoio per gli animali, al cui centro campeggia una scultura monumentale di un artista contemporaneo, diversa ogni anno, scelta in base al tema dell'edizione. Il tutto è circondato da blocchi di travertino toscano che ricorda un luogo di culto antico. Un panorama di ineguale bellezza che offre una visuale di 180 gradi sulle colline di uno dei versanti più belli del territorio.
+Proseguiamo verso Lajatico per raggiungere il Teatro del Silenzio, un anfiteatro naturale situato su una collina ad un chilometro e mezzo dal centro abitato; è un teatro completamente naturale, costituito essenzialmente da un laghetto, una volta utilizzato dagli agricoltori come abbeveratoio per gli animali, al cui centro campeggia una scultura monumentale di un artista contemporaneo, diversa ogni anno, scelta in base al tema dell'edizione. Il tutto è circondato da blocchi di travertino toscano che ricorda un luogo di culto antico. Un panorama di ineguale bellezza che offre una visuale di 180 gradi sulle colline di uno dei versanti più belli del territorio.
 
 ![](./galleries/03/IMG_6974.JPG "Teatro del Silenzio a Lajatico")
 ![](./galleries/03/IMG_6977.JPG "Teatro del Silenzio a Lajatico")
