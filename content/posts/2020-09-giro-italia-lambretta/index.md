@@ -40,7 +40,7 @@ Spesso chi viaggia cavalca le proprie sicurezze viaggiando su un mezzo nuovo, op
 
 Nella discussione era emerso che un motoviaggiatore deve preparare il fisico, la mente e deve sentire la moto come fosse la prolunga del suo corpo. Sarebbe un enorme insuccesso abbandonare un viaggio perché ci si accorge di aver scelto il mezzo sbagliato. Ma tutte queste sicurezze quanto fanno bene alla mente libera e aperta di un viaggiatore? Siccome non mi nascondo dietro a tante chiacchiere e non mi faccio paranoie, l'ho voluto provare di persona.
 
-40 giorni prima di partire ho iniziato il collaudo della mia Lambretta, restaurata nel 2012 e mai messa su strada. L'ho portata a fare la sua prima revisione e poi ho iniziato a guidarla dopo il lavoro e nei week end, percorrendo 1400 km. In questi 40 giorni ho perso viti e dadi, ho forato 3 volte, ho rotto il filtro della benzina e dopo la rottura della vite che trattiene la rondella del tamburo posteriore ho perso pure la ruota posteriore… e tanto altro ancora!
+40 giorni prima di partire ho iniziato il collaudo della mia Lambretta, restaurata nel 2012 e mai messa su strada. L'ho portata a fare la sua prima revisione e poi ho iniziato a guidarla dopo il lavoro e nei week end, percorrendo 1400 km. In questi 40 giorni ho perso viti e dadi, ho forato 3 volte, ho rotto il filtro della benzina e dopo la rottura della vite che trattiene la rondella del tamburo ho perso pure la ruota posteriore… e tanto altro ancora!
 
 Per 4 volte in 40 giorni sono rientrato a casa con il carro attrezzi, ma ogni volta che sistemavo qualcosa sulla Lambretta mi convincevo che stesse diventando la moto perfetta per questo viaggio. Credo fermamente nei collaudi e per questo mi sono sempre spinto oltre, fino a superare i 500 km percorsi in un solo giorno con Alice. Per fortuna era un sabato e abbiamo sfruttato la domenica per riposare!
 
@@ -68,7 +68,7 @@ Chi mi ha consigliato? Non conoscendo lambrettisti, mi sono affidato ai consigli
 
 E dove andremo?
 
-Dopo tutto quello che è successo in Italia per via del COVID, penso che non ci fossero dubbi sulla destinazione del nostro viaggio. L'Italia è il Paese più bello del mondo ed è il *nostro Paese*. Messo a dura prova dalla doveva per forza essere aiutato, e quale miglior modo di farlo se non attraversandolo in sella ad una moto italiana, soggiornando in strutture condotte dai locali per dare il nostro piccolo contributo alle realtà del posto.
+Dopo tutto quello che è successo in Italia per via del COVID, penso che non ci fossero dubbi sulla destinazione del nostro viaggio. L'Italia è il Paese più bello del mondo ed è il *nostro Paese*. Messo a dura prova dalla pandemia doveva per forza essere aiutato, e quale miglior modo di farlo se non attraversandolo in sella ad una moto italiana, soggiornando in strutture condotte dai locali per dare il nostro piccolo contributo alle realtà del posto.
 
 Ma ora veniamo al viaggio.
 
