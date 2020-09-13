@@ -325,12 +325,12 @@ Trascorriamo la notte a Monte Petruso in una villetta a pochi passi dal mare che
 
 Nei giorni successivi visiteremo la costa Smeralda tra hotel e residenze di lusso, movida scintillante, boutique selezionate e mare cristallino, visitiamo Arzachena, Marinella, Porto Rotondo, Porto Cervo e San Pantaleo, riposiamo al sole davanti ad un mare cristallino nelle spiagge di Porto Istana, Capo coda Cavallo, e Cala di Volpe.
 
-![](./17/IMG_7972.JPG "Golfo Aranci")
-![](./17/IMG_7987.JPG "Porto Marinella")
-![](./17/IMG_7993.JPG "Porto Marinella")
-![](./17/IMG_7997.JPG "Porto Rotondo")
-![](./17/IMG_8011.JPG "Porto Rotondo")
-![](./17/IMG_8014.JPG "Porto Cervo")
+![](./galleries/17/IMG_7972.JPG "Golfo Aranci")
+![](./galleries/17/IMG_7987.JPG "Porto Marinella")
+![](./galleries/17/IMG_7993.JPG "Porto Marinella")
+![](./galleries/17/IMG_7997.JPG "Porto Rotondo")
+![](./galleries/17/IMG_8011.JPG "Porto Rotondo")
+![](./galleries/17/IMG_8014.JPG "Porto Cervo")
 
 La Sardegna è stata la meta dei nostri viaggi per anni e molti di questi luoghi, un tempo sconosciuti, oggi sono mete di villeggiatura densamente popolate durante la stagione estiva. Noi preferiamo la Sardegna a Maggio o a Ottobre, quando il mare limpido e calmo dona il vero relax che questa terra e la sua gente sanno regalare nelle numerose sagre paesane in compagnia delle danze sarde e dei mamuthones, assaggiando il *porceddu*, il torrone sardo e le *seadas*.
 
