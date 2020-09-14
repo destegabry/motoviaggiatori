@@ -30,7 +30,7 @@ Sorridendo ci chiedevano sorpresi come fosse possibile che il venerdì prima di 
 
 Purtroppo formule particolari non ce ne sono. Se desideri viaggiare in moto avendo a disposizione poco tempo devi accumulare esperienza. Servono a poco i tutorial o i consigli di amici: la cosa più utile è mettersi in viaggio, consumare pneumatici su pneumatici e riempire il passaporto di timbri. Solo così ci si prepara, perché ognuno ha il suo modo di viaggiare. Non c'è un modo giusto o uno sbagliato, come non c'è una moto giusta o una sbagliata, ma c'è l'emozione comune a tutti i viaggiatori che si prova prima, durante e dopo un viaggio.
 
-Osservando lo sguardo di un viaggiatore al suo rientro, lo noterete diverso perché dentro quegli occhi è rimasta l'espressione meravigliosa di ciò che la strada gli ha regalato. Più un viaggiatore vive intensamente il viaggio e più lo assimila e lo fa suo, rimanendo indelebile nella sua mente.
+Osservando lo sguardo di un viaggiatore al suo rientro, lo noterete diverso perché dentro quegli occhi è rimasta l'espressione meravigliata di ciò che la strada gli ha regalato. Più un viaggiatore vive intensamente il viaggio e più lo assimila e lo fa suo, rimanendo indelebile nella sua mente.
 
 Salutando i ragazzi nel parcheggio della struttura che ci aveva ospitato, ho notato che solo uno di loro era in sella ad una moto 125 cc, tutti gli altri sono tornati a casa in monopattino, bici elettrica o con il servizio pubblico. La società sta cambiando, ma quanto perderemo? È bastato trascorrere poche ore con questi giovani per comprendere che è in atto una silenziosa mutazione.
 
@@ -64,7 +64,7 @@ Per quanto riguarda i ricambi ho portato come me:
 - Qualche spezzone di filo elettrico
 - Tutte le chiavi per le manutenzioni generali
 
-Chi mi ha consigliato? Non conoscendo lambrettisti, mi sono affidato ai consigli di amici e alle mani esperte di due viaggiatori come Marco Giurin e Fabio Salini, che ho stressato telefonicamente con mille domande. Ovviamente non sono mancati gli amici che mi deridevano quando raccontavamo di questa avventura, perché in molti erano convinti che non avrei concluso il viaggio.
+Chi mi ha consigliato? Non conoscendo lambrettisti, mi sono affidato ai consigli di amici e alle mani esperte di due viaggiatori come Marco Giurin e Fabio Salini, che ho stressato telefonicamente con mille domande. Ovviamente non sono mancati gli amici che mi deridevano quando raccontavo di questa avventura, perché in molti erano convinti che non avrei concluso il viaggio.
 
 E dove andremo?
 
