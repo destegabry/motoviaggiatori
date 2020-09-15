@@ -1,6 +1,6 @@
 ---
 title: "L'Italia in Lambretta"
-date: "2020-09-10T09:00:00.000Z"
+date: "2020-09-15T08:00:00.000Z"
 slug: /2020/09/giro-italia-lambretta
 featured_image: ./featured.jpg
 excerpt: "Giro d'Italia a passo di Lambretta"
