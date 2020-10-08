@@ -51,12 +51,9 @@ const Header = ({ sticky }) => {
 
   function close(event) {
     event.preventDefault();
-    if (window.ga) {
-      window.ga('send', {
-        hitType: 'event',
-        eventCategory: 'dismiss-donate',
-        eventAction: 'click',
-        transport: 'beacon'
+    if (window.gtag) {
+      window.gtag('event', 'click', {
+        event_category: 'dismiss-donate',
       });
     }
     setHidden(true)

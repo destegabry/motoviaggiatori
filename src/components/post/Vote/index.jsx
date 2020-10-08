@@ -75,12 +75,10 @@ function Vote({ campaign, children }) {
 
       setVoted(value);
 
-      window.ga('send', 'event', campaign, {
-        eventCategory: 'vote',
-        eventAction: 'click',
-        eventLabel: campaign,
-        eventValue: value,
-        transport: 'beacon'
+      window.gtag('event', 'click', {
+        event_category: 'vote',
+        event_label: campaign,
+        value: value,
       });
     } catch (err) {}
   }

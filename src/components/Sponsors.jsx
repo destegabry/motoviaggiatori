@@ -9,9 +9,10 @@ import {
 } from '../utils/breakpoints'
 
 const openSponsorLink = url => {
-  if (window.ga) {
-    window.ga('send', 'event', 'sponsor', 'click', url, {
-      'transport': 'beacon'
+  if (window.gtag) {
+    window.gtag('event', 'click', {
+      event_category: 'sponsor',
+      event_label: url,
     });
   }
 }
