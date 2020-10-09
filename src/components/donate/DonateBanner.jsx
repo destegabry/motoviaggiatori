@@ -2,7 +2,6 @@ import React, {useState, useEffect} from 'react'
 import styled from '@emotion/styled'
 
 import DonateButton from './DonateButton'
-import Flex from '../Flex'
 import { palette } from '../../utils/colors'
 import { altFontStack } from '../../utils/theme'
 import { IconClose } from '../Icons'
@@ -13,6 +12,10 @@ const LS_HIDE_DONATE_KEY = 'hideDonate';
 
 const DonateBannerWrapper = styled.div`
   background: ${palette.secondary.main};
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
   z-index: 1;
   height: 0;
   transition: height .5s;
@@ -31,6 +34,7 @@ const DonateBannerWrapper = styled.div`
   }
 
   button {
+    flex: 1;
     background: transparent;
     border: 0;
     outline: 0;
@@ -80,7 +84,6 @@ const Header = ({ sticky }) => {
         <DonateButton trackLabel="donate-banner">
           Ti piace MotoViaggiatori? Contribusici con una donazione
         </DonateButton>
-        <Flex />
         <IconClose onClick={close} />
       </div>
     </DonateBannerWrapper>

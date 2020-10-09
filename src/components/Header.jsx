@@ -6,7 +6,6 @@ import Color from 'color'
 import Logo from './Logo'
 import MainMenu from './MainMenu'
 import SocialLinks from './SocialLinks'
-import DonateButton from './donate/DonateButton'
 import Flex from './Flex'
 import headerFooterStyle from '../utils/headerFooterStyle'
 import {
@@ -14,19 +13,24 @@ import {
   LARGE_SCREEN_UP,
 } from '../utils/breakpoints'
 import { palette } from '../utils/colors'
-import { altFontStack } from '../utils/theme'
 import {
   IconHamburger,
   IconClose,
   IconArrowToTop
 } from './Icons'
 
-const headerHeightDesktopNormal = 100;
-const headerHeightDesktopCollapsed = 60;
+export const headerHeightDesktopNormal = 100;
+export const headerHeightDesktopCollapsed = 60;
 
-const headerHeightMobile = 60;
+export const headerHeightMobile = 60;
 
 const HeaderElement = styled.header`
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+
   .logo {
     text-decoration: none;
     display: block;

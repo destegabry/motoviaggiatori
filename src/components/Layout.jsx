@@ -2,7 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { useInView } from 'react-intersection-observer'
 import { Helmet } from 'react-helmet-async'
-import { useWindowHeight } from '@react-hook/window-size'
 import { withPrefix } from 'gatsby'
 import { css, Global } from '@emotion/core'
 import styled from '@emotion/styled'
@@ -10,7 +9,14 @@ import moment from 'moment'
 import 'moment/locale/it'
 
 import { colors } from '../utils/theme'
-import Header from './Header'
+import Header, {
+  headerHeightDesktopNormal,
+  headerHeightMobile,
+} from './Header'
+import {
+  MEDIUM_SCREEN_DOWN,
+  LARGE_SCREEN_UP,
+} from '../utils/breakpoints'
 import Footer from './Footer'
 import DonateBanner from './donate/DonateBanner'
 
@@ -19,8 +25,6 @@ moment.locale('it');
 const globalStyles = css`
   html, body {
     background: ${colors.palette.primary.light};
-    overflow: hidden;
-    height: 100%;
   }
 
   body {
@@ -61,19 +65,23 @@ const globalStyles = css`
   .pace-inactive {
     display: none;
   }
+
+  .in-view-ref {
+    ${MEDIUM_SCREEN_DOWN} {
+      height: ${headerHeightMobile}px;
+    }
+
+    ${LARGE_SCREEN_UP} {
+      height: ${headerHeightDesktopNormal}px;
+    }
+  }
 `;
 
 const OuterWrapper = styled.div`
   background: ${colors.palette.primary.light};
   display: flex;
   flex-direction: column;
-  height: 100%;
   margin: 0;
-`;
-
-const ScrollWrapper = styled.div`
-  flex: 1 0 0%;
-  overflow: auto;
 `;
 
 const Main = styled.main`
@@ -88,22 +96,18 @@ const Layout = ({ children, ...otherProps }) => {
     threshold: 0
   });
 
-  const viewportHeight = useWindowHeight()
-
   return (
-    <OuterWrapper {...otherProps} style={{height: viewportHeight}}>
+    <OuterWrapper {...otherProps}>
       <Helmet>
         <script src={withPrefix('/pace.min.js')} async></script>
       </Helmet>
       <Global styles={globalStyles} />
       <Header sticky={inView} />
-      <ScrollWrapper>
-        <div className="in-view-ref" ref={ref} />
-        <Main className="wrapper">
-          {children}
-        </Main>
-        <Footer />
-      </ScrollWrapper>
+      <div className="in-view-ref" ref={ref} />
+      <Main className="wrapper">
+        {children}
+      </Main>
+      <Footer />
       <DonateBanner />
     </OuterWrapper>
   );
