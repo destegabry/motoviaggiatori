@@ -51,7 +51,8 @@ const HeaderElement = styled.header`
     font-size: .8rem;
 
     nav {
-      z-index: 1;
+      z-index: 2;
+
       a {
         text-transform: uppercase;
 
@@ -72,10 +73,10 @@ const HeaderElement = styled.header`
       ${MEDIUM_SCREEN_DOWN} {
         background: ${Color(palette.primary.main).darken(.2).string()};
         overflow: auto;
-        position: absolute;
+        position: fixed;
         top: ${headerHeightMobile}px;
+        bottom: 0;
         right: -100vw;
-        height: calc(100vh - ${headerHeightMobile}px);
         width: 100vw;
         transition: right .3s ease-in-out;
 
