@@ -248,10 +248,11 @@ const HeaderElement = styled.header`
 
 const scrollTop = event => {
   event.preventDefault();
-  document.getElementById('header-menu').scrollIntoView({
-    behavior: 'smooth',
-    block: 'start'
-  });
+  document.getElementsByClassName('in-view-ref')[0]
+    .scrollIntoView({
+      behavior: 'smooth',
+      block: 'start'
+    });
 }
 
 const Header = ({ sticky }) => {
