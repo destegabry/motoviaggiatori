@@ -79,7 +79,7 @@ const GalleryLightboxCSS = css`
     .control-next,
     .control-prev {
       top: 0;
-      height: 100vh;
+      height: 100%;
 
       ${SMALL_SCREEN_ONLY} {
         width: 2rem;

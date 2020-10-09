@@ -6,7 +6,6 @@ import Color from 'color'
 import Logo from './Logo'
 import MainMenu from './MainMenu'
 import SocialLinks from './SocialLinks'
-import DonateButton from './donate/DonateButton'
 import Flex from './Flex'
 import headerFooterStyle from '../utils/headerFooterStyle'
 import {
@@ -14,19 +13,24 @@ import {
   LARGE_SCREEN_UP,
 } from '../utils/breakpoints'
 import { palette } from '../utils/colors'
-import { altFontStack } from '../utils/theme'
 import {
   IconHamburger,
   IconClose,
   IconArrowToTop
 } from './Icons'
 
-const headerHeightDesktopNormal = 100;
-const headerHeightDesktopCollapsed = 60;
+export const headerHeightDesktopNormal = 100;
+export const headerHeightDesktopCollapsed = 60;
 
-const headerHeightMobile = 60;
+export const headerHeightMobile = 60;
 
 const HeaderElement = styled.header`
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+
   .logo {
     text-decoration: none;
     display: block;
@@ -51,7 +55,8 @@ const HeaderElement = styled.header`
     font-size: .8rem;
 
     nav {
-      z-index: 1;
+      z-index: 2;
+
       a {
         text-transform: uppercase;
 
@@ -72,10 +77,10 @@ const HeaderElement = styled.header`
       ${MEDIUM_SCREEN_DOWN} {
         background: ${Color(palette.primary.main).darken(.2).string()};
         overflow: auto;
-        position: absolute;
+        position: fixed;
         top: ${headerHeightMobile}px;
+        bottom: 0;
         right: -100vw;
-        height: calc(100vh - ${headerHeightMobile}px);
         width: 100vw;
         transition: right .3s ease-in-out;
 
@@ -247,10 +252,11 @@ const HeaderElement = styled.header`
 
 const scrollTop = event => {
   event.preventDefault();
-  document.getElementById('header-menu').scrollIntoView({
-    behavior: 'smooth',
-    block: 'start'
-  });
+  document.getElementsByClassName('in-view-ref')[0]
+    .scrollIntoView({
+      behavior: 'smooth',
+      block: 'start'
+    });
 }
 
 const Header = ({ sticky }) => {
