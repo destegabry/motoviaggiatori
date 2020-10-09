@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { useInView } from 'react-intersection-observer'
 import { Helmet } from 'react-helmet-async'
+import { useWindowHeight } from '@react-hook/window-size'
 import { withPrefix } from 'gatsby'
 import { css, Global } from '@emotion/core'
 import styled from '@emotion/styled'
@@ -18,7 +19,8 @@ moment.locale('it');
 const globalStyles = css`
   html, body {
     background: ${colors.palette.primary.light};
-    overflow: hidden
+    overflow: hidden;
+    height: 100%;
   }
 
   body {
@@ -65,12 +67,12 @@ const OuterWrapper = styled.div`
   background: ${colors.palette.primary.light};
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: 100%;
   margin: 0;
 `;
 
 const ScrollWrapper = styled.div`
-  flex-grow: 1;
+  flex: 1 0 0%;
   overflow: auto;
 `;
 
@@ -86,8 +88,10 @@ const Layout = ({ children, ...otherProps }) => {
     threshold: 0
   });
 
+  const viewportHeight = useWindowHeight()
+
   return (
-    <OuterWrapper {...otherProps}>
+    <OuterWrapper {...otherProps} style={{height: viewportHeight}}>
       <Helmet>
         <script src={withPrefix('/pace.min.js')} async></script>
       </Helmet>
