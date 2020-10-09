@@ -7,7 +7,7 @@ import { palette } from '../../utils/colors'
 import { altFontStack } from '../../utils/theme'
 import { IconClose } from '../Icons'
 
-const bannerHeight = '1.5rem';
+const bannerHeight = '2rem';
 const LS_HIDE_DONATE_KEY = 'hideDonate';
 
 
@@ -19,6 +19,10 @@ const DonateBannerWrapper = styled.div`
 
   &.show {
     height: ${bannerHeight};
+
+    @supports (margin-bottom: env(safe-area-inset-bottom)) {
+      height: calc(env(safe-area-inset-bottom) + ${bannerHeight});
+    }
   }
 
   .wrapper {
@@ -32,6 +36,7 @@ const DonateBannerWrapper = styled.div`
     outline: 0;
     cursor: pointer;
     height: ${bannerHeight};
+    line-height: ${bannerHeight};
     font-family: ${altFontStack.join(',')};
     font-size: .65rem;
 
@@ -73,7 +78,7 @@ const Header = ({ sticky }) => {
     <DonateBannerWrapper className={hidden ? null : 'show'}>
       <div className="wrapper">
         <DonateButton trackLabel="donate-banner">
-          <span>Ti piace MotoViaggiatori? Contribusici con una donazione</span>
+          Ti piace MotoViaggiatori? Contribusici con una donazione
         </DonateButton>
         <Flex />
         <IconClose onClick={close} />
