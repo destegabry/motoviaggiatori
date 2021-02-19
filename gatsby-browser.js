@@ -9,6 +9,7 @@ exports.onClientEntry = () => {
   require('intersection-observer');
   require('smoothscroll-polyfill').polyfill();
   // End polyfills
+  window._epn = { campaign: process.env.GATSBY_EPN_CAMPAIGN_ID };
 }
 
 exports.onRouteUpdate = () => {

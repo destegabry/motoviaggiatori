@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import PropTypes from 'prop-types'
 import styled from '@emotion/styled'
-import { css } from '@emotion/core'
+import { css } from '@emotion/react'
 import { SMALL_SCREEN_UP } from '../utils/breakpoints';
 
 const ColumnsWrapper = styled.div`
@@ -12,6 +12,8 @@ const ColumnsWrapper = styled.div`
   }
 
   > div {
+    flex: 1 0 0%;
+
     ${SMALL_SCREEN_UP} {
       margin: 0 .5rem;
     }

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import PropTypes from 'prop-types'
 import { useInView } from 'react-intersection-observer'
-import { css } from '@emotion/core'
+import { css } from '@emotion/react'
 
 import useAllBanners from '../hooks/use-all-banners'
 

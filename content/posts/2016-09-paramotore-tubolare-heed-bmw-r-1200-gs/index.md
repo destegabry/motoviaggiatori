@@ -26,7 +26,7 @@ Sicuramente sono in grado di proteggere il motore Boxer da una caduta da fermo o
 
 ## Paramotore HEED Full Bunker per BMW R 1200 GS 04-12
 
-Dopo [varie considerazioni](https://www.amazon.it/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&camp=3370&creative=23322&index=aps&keywords=paramotore%20bmw%20r%201200%20gs&linkCode=ur2&tag=motovia-21) ho deciso di acquistare le crash bar [HEED Full Bunker](https://amzn.to/2zNJDm1) specifiche per le annate da 2004 a 2012: oltre a proteggere completamente il motore offrono protezione per serbatoio, possibilità di aggiungere due borse laterali sull'avantreno e faretti supplementari.
+Dopo [varie considerazioni](https://amzn.to/3ay0cSt) ho deciso di acquistare le crash bar [HEED Full Bunker](https://amzn.to/2zNJDm1) specifiche per le annate da 2004 a 2012: oltre a proteggere completamente il motore offrono protezione per serbatoio, possibilità di aggiungere due borse laterali sull'avantreno e faretti supplementari.
 
 Il prezzo è molto allettante ma a giudicare dalle [foto presenti sul sito ufficiale](http://www.heed.com.pl/index.php/en/gmole-heed-for-r-1200-gs-08-12-full-bunker-en) sembrano un po' invasive.
 
@@ -60,7 +60,7 @@ Da valutare l'acquisto di un [kit di inserti con chiave a bussola](https://amzn.
 
 È consigliabile farsi aiutare da un amico: per inserire senza sforzi la vite che collega il traliccio posteriore al motore bisogna alzare leggermente la moto agendo sul portapacchi posteriore.
 
-Questa vite è facilmente riconoscibile perché è l'unica a richiedere una [chiave TORX T55](https://amzn.to/2HyamFL). Va rimpiazzata con la vite a brugola da 10 in dotazione al paramotore e chiusa con una [chiave dinamometrica](https://amzn.to/2U9mx1G) (coppia di serraggio: 55 Nm).
+Questa vite è facilmente riconoscibile perché è l'unica a richiedere una [chiave TORX T55](https://amzn.to/2HyamFL). Va rimpiazzata con la vite a brugola da 10 in dotazione al paramotore e chiusa con una [chiave dinamometrica](https://amzn.to/3pEsChX) (coppia di serraggio: 55 Nm).
 
 È una buona idea mettere una goccia di [frenafiletti](https://amzn.to/2ToQoyG) sulle viti più grosse per evitare che le vibrazioni possano farle svitare durante la marcia.
 
@@ -82,10 +82,8 @@ Ho considerato diverse alternative prima di effettuare questo acquisto. Ne elenc
 
 - Paracilindri originali BMW: disponibili in plastica (~€100) e alluminio (~€180), sono più economici delle crash bar e spesso sono di serie sulla moto. Non mi convincono perché il motore picchia direttamente a terra, ma possono essere un buon complemento al paramotore originale.
 
-- [Protezione motore](http://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_ff3=9&pub=5575226208&toolid=10001&campid=5337960068&customid=&icep_uq=hepco+becker+bmw+motore&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229494&kwid=902099&mtid=824&kw=lg) e [serbatoio](http://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_ff3=9&pub=5575226208&toolid=10001&campid=5337960068&customid=&icep_uq=hepco+becker+bmw+protezione+serbatoio&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229494&kwid=902099&mtid=824&kw=lg) Hepco & Becker: sembrano un ottimo prodotto e sono vendute direttamente da BMW. Il prezzo è più alto delle HEED (~€420).
-
 - [Protezione motore](https://shop.touratech.it/barra-paracilindro-e-paramotore-acciaio-inox-per-bmw-r1200gs-fino-a-2012.html) e [serbatoio](https://shop.touratech.it/barra-anticaduta-per-carenatura-acciaio-inox-per-bmw-r1200gs-2008-2012.html) Touratech: il marchio è una certezza, sono le uniche in acciaio inox. Prezzo elevato (~€500), scartate anche perché a mio parere necessitano dei paratesta per proteggere completamente il motore.
 
 ## Update
 
-Abbiamo montato anche il [paramotore HEED per Honda Transalp](https://www.ebay.it/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=heed+transalp&_sacat=0)! [Leggi l'articolo](/2018/02/paramotore-heed-honda-xl-700-transalp/).
+Abbiamo montato anche il [paramotore HEED per Honda Transalp](http://ebay.us/2pniTA)! [Leggi l'articolo](/2018/02/paramotore-heed-honda-xl-700-transalp/).

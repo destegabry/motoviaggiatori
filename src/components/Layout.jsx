@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { useInView } from 'react-intersection-observer'
 import { Helmet } from 'react-helmet-async'
 import { withPrefix } from 'gatsby'
-import { css, Global } from '@emotion/core'
+import { css, Global } from '@emotion/react'
 import styled from '@emotion/styled'
 import moment from 'moment'
 import 'moment/locale/it'
@@ -100,6 +100,7 @@ const Layout = ({ children, ...otherProps }) => {
     <OuterWrapper {...otherProps}>
       <Helmet>
         <script src={withPrefix('/pace.min.js')} async></script>
+        <script src="https://epnt.ebay.com/static/epn-smart-tools.js"></script>
       </Helmet>
       <Global styles={globalStyles} />
       <Header sticky={inView} />

@@ -1,5 +1,5 @@
 import ReactDOM from "react-dom";
-import { css } from 'emotion'
+import { css } from '@emotion/css'
 import { SMALL_SCREEN_ONLY } from './breakpoints'
 import {
   IconClose,

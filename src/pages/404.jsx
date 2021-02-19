@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import { css } from '@emotion/core'
+import { css } from '@emotion/react'
 
 import Layout from '../components/Layout'
 import SEO from '../components/seo'

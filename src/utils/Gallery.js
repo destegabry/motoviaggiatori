@@ -1,5 +1,5 @@
 import { debounce } from 'debounce'
-import { css } from 'emotion'
+import { css } from '@emotion/css'
 
 import GalleryLightbox from './GalleryLightbox'
 

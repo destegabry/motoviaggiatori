@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import styled from '@emotion/styled'
 import {colors} from '../utils/theme';
@@ -11,7 +11,6 @@ import PostPreviewFull from './PostPreviewFull'
 
 import {
   SMALL_SCREEN_MAX_SIZE,
-  LARGE_SCREEN_MAX_SIZE,
   MEDIUM_SCREEN_MAX_SIZE,
 } from '../utils/breakpoints'
 

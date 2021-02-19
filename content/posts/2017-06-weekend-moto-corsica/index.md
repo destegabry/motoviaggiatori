@@ -76,7 +76,7 @@ In realtà il deserto è coperto di vegetazione e non ha molto a che vedere con 
 
 La strada può essere percorsa da qualunque moto… ma un paio di cerchi a raggi coperti da gomme tassellate, un mezzo alto da terra e un po’ di esperienza nella guida fuoristrada vi aiuteranno parecchio.
 
-Noi abbiamo fatto il percorso con le moto stracariche (tris bauli e passeggero) senza troppi problemi… ma quando abbiamo provato a rifare il percorso guidando le moto scariche in piedi ci siamo davvero divertiti! Le [Pirelli Scorpion Trail II](http://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_ff3=10&pub=5575226208&toolid=10001&campid=5337960068&customid=&icep_uq=pirelli+scorpion+trail+2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229494&kwid=902099&mtid=824&kw=lg) continuano a non deludermi.
+Noi abbiamo fatto il percorso con le moto stracariche (tris bauli e passeggero) senza troppi problemi… ma quando abbiamo provato a rifare il percorso guidando le moto scariche in piedi ci siamo davvero divertiti! Le [Pirelli Scorpion Trail II](http://ebay.us/9QglIC) continuano a non deludermi.
 
 <div class="message pro-tip">
 <p>Portare una scorta di acqua fresca, a Saleccia non ne troverete.</p>
