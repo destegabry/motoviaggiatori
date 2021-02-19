@@ -35,13 +35,6 @@ const boxStyle = css`
 function PostTemplate (props) {
   useEffect(() => {
     let galleries = [];
-    let epn;
-    // Adding EPN script after page render will trigger link replacement
-    window._epn = {campaign: process.env.GATSBY_EPN_CAMPAIGN_ID};
-    epn = document.createElement('script');
-    epn.id = 'epn';
-    epn.setAttribute('src', 'https://epnt.ebay.com/static/epn-smart-tools.js');
-    document.querySelector('body').appendChild(epn);
 
     const rowRatio = document.documentElement.clientWidth <= SMALL_SCREEN_MAX_SIZE ? 3 : 5;
     const rawFigures = document.querySelectorAll('.gatsby-resp-image-figure');
@@ -64,9 +57,6 @@ function PostTemplate (props) {
     return () => {
       // Remove galleries listeners
       galleries.forEach(gallery => gallery.destroy());
-      // Remove EPN script
-      epn.remove();
-      document.querySelectorAll('img[src^="https://rover.ebay.com"]').forEach(node => node.remove())
     };
   });
 
