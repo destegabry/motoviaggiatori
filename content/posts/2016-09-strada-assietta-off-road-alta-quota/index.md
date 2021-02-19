@@ -171,14 +171,14 @@ Il percorso è praticabile con qualunque moto, anche se per divertirsi davvero
 
 Ci siamo trovati molto bene con **pneumatici per enduro-stradali**:
 
-- [Metzeler Tourance NEXT](http://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_ff3=9&pub=5575226208&toolid=10001&campid=5337960068&customid=&icep_uq=metzeler+tourance+next&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229494&kwid=902099&mtid=824&kw=lg)
-- [Pirelli Scorpion Trail](http://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_ff3=9&pub=5575226208&toolid=10001&campid=5337960068&customid=&icep_uq=pirelli+scorpion+trail&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229494&kwid=902099&mtid=824&kw=lg)
-- [Dunlop TrailSmart](http://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_ff3=9&pub=5575226208&toolid=10001&campid=5337960068&customid=&icep_uq=dunlop+trailsmart&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229494&kwid=902099&mtid=824&kw=lg)
+- [Metzeler Tourance NEXT](http://ebay.us/PeT5sc)
+- [Pirelli Scorpion Trail](http://ebay.us/k7Ixd1)
+- [Dunlop TrailSmart](http://ebay.us/X2ncN8)
 
 Sulla terra compatta danno un’ottima stabilità, sulla ghiaia bisogna aprire il gas e frenare prudentemente!
 
 L’**abbigliamento multistrato** è d’obbligo, a metà settembre le temperature in quota erano intorno ai 10°C nonostante il sole battente.
 
-Per viaggiare tranquilli, non guasta montare un [paramotore](http://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_ff3=9&pub=5575226208&toolid=10001&campid=5337960068&customid=&icep_uq=paramotore+HEED&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229494&kwid=902099&mtid=824&kw=lg), purtroppo io ho *collaudato* quello [recensito](/2016/09/paramotore-tubolare-heed-bmw-r-1200-gs/) qualche tempo fa…
+Per viaggiare tranquilli, non guasta montare un [paramotore](http://ebay.us/gyxuGc), purtroppo io ho *collaudato* quello [recensito](/2016/09/paramotore-tubolare-heed-bmw-r-1200-gs/) qualche tempo fa…
 
 ![Collaudo HEED crashbar R1200GS](./galleries/7/0.jpg "Moto parcheggiata in discesa e prima innestata, ancora mi chiedo quanto sarebbe costato lo scherzo senza paramotore")

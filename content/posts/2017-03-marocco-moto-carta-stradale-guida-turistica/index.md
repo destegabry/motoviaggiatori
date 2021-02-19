@@ -54,7 +54,7 @@ La cartina è disponibile in un’unica versione multi-lingua (tedesco, inglese,
 
 Le [guide sul Marocco](http://amzn.to/2mBmQxk) non mancano, tra tutte sconsiglio le tanto osannate [Lonely Planet](http://amzn.to/2nOheAP): dedicano troppo spazio a ristoranti ed hotel, informazioni spesso non aggiornate che secondo me non sono altro che spreco di carta (e peso da trascinarsi appresso). Meglio chiedere consiglio sul posto oppure scegliere su [Booking](https://www.booking.com/s/beb68c12) e TripAdvisor!
 
-La mia scelta è ricaduta sulla guida del [Marocco Dorling Kindersley tradotta e distribuita da Mondadori (ISBN 9788837085261)](https://rover.ebay.com/rover/1/724-53478-19255-0/1?toolid=20001&campid=5337960068&customid=link&mpre=http%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_nkw%3D9788837085261): abbastanza compatta (circa 400 pagine per 600 gr di peso) ma ricca di informazioni pratiche e consigli sugli itinerari.
+La mia scelta è ricaduta sulla guida del [Marocco Dorling Kindersley tradotta e distribuita da Mondadori (ISBN 9788837085261)](https://amzn.to/3s0OExc): abbastanza compatta (circa 400 pagine per 600 gr di peso) ma ricca di informazioni pratiche e consigli sugli itinerari.
 
 È composta da una parte iniziale con informazioni generali su storia, cultura e geografia marocchine, seguita dal dettaglio zona per zona ed infine alcune informazioni turistiche su acquisti, ristorazione e pernottamenti.
 Le informazioni sono accompagnate da numerose foto a colori, cartine turistiche, curiosità e approfondimenti, tutto stampato su carta lucida.

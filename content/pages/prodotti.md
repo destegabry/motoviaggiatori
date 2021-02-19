@@ -40,61 +40,61 @@ Abbiamo affidato la protezione delle nostre teste a Caberg Helmets, azienza berg
 
 Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usiamo la linea **Midland BT Next Pro** che abbiamo [recensito qui](/2019/09/recensione-interfoni-midland-serie-bt-pro). Comprandoli a coppie si risparmia parecchio.
 
-- Interfono [Midland BTX2 Pro S](https://amzn.to/3d248tO) bluetooth dual chip per l'utilizzo con device multipli e moto dotate di TFT, portata max 1200m, conferenza fino a 8 persone. Rapporto prezzo/prestazioni altissimo, a nostro giudizio **la versione da comprare**.
-- Interfono [Midland BTX1 Pro S](https://amzn.to/2XuyUF4) entry level ma completissimo, portata max 800m, conferenza fino a 3 persone. Ideale per l'uso in coppia o come interfono passeggero associato ad un prodotto di grado superiore.
-- Interfono [Midland BT Next Pro](https://amzn.to/2zzvTLJ) il top di gamma con portata massima 1600m e *BTT Button* incluso nella confezione. Per chi cerca il top.
+- Interfono [Midland BTX2 Pro S](http://ebay.us/45kQpp) bluetooth dual chip per l'utilizzo con device multipli e moto dotate di TFT, portata max 1200m, conferenza fino a 8 persone. Rapporto prezzo/prestazioni altissimo, a nostro giudizio **la versione da comprare**.
+- Interfono [Midland BTX1 Pro S](http://ebay.us/WUQaO2) entry level ma completissimo, portata max 800m, conferenza fino a 3 persone. Ideale per l'uso in coppia o come interfono passeggero associato ad un prodotto di grado superiore.
+- Interfono [Midland BT Next Pro](https://amzn.to/3bAeEJl) il top di gamma con portata massima 1600m e *BTT Button* incluso nella confezione. Per chi cerca il top.
 
 ### Foto & Video
 
-- [iPhone 11](https://amzn.to/3bKYBqg): affidabile e robusto, resistente all'acqua, foto e video (4K) di qualità elevatissima anche con poca luce. La versione *normale* dispone di grandangolo e super-grandangolo, la versione [11 Pro](https://amzn.to/3aItUCg) dispone anche di un medio-tele. Accoppiato ad app come [OsmAnd](https://itunes.apple.com/app/apple-store/id934850257) diventa un ottimo navigatore GPS offline. Si risparmia comprando un [ricondizionato](https://amzn.to/3dPGqBR).
+- [iPhone 11](https://amzn.to/3dtlpyQ): affidabile e robusto, resistente all'acqua, foto e video (4K) di qualità elevatissima anche con poca luce. La versione *normale* dispone di grandangolo e super-grandangolo, la [versione Pro](https://amzn.to/3s6rxBk) dispone anche di un medio-tele. Accoppiato ad app come [OsmAnd](https://itunes.apple.com/app/apple-store/id934850257) diventa un ottimo navigatore GPS offline. Si risparmia comprando un [ricondizionato](https://amzn.to/2ZvGwsd).
 - [Sony RX100M4](https://amzn.to/2Jy5wan): macchina fotografica compatta con grande sensore da 1", ottica ZEISS equivalente 24-70mm ƒ/1.8-2.8, mirino OLED, schermo LCD reclinabile, possibilità di utilizzo completamente manuale. Fa grandi foto ed è sempre a portata di mano nelle tasche della giacca da moto. Esiste anche una [versione ultrazoom](https://amzn.to/3bCYEEG).
 
 ## Campeggio
 
-- [Tenda Coleman Coastline Compact](https://amzn.to/3bTONdF): abbastanza compatta da stare nel bauletto, la struttura *a tunnel* la rende piuttosto semplice e veloce da montare.
-- [Materassino singolo compatto](https://amzn.to/3bYlQNV): occupa poco spazio e si gonfia velocemente a fiato (o con la [mini pompa a pedale](https://amzn.to/2I8Tiq8)).
-- [Materassino 2 posti Decathlon Quechua](https://www.decathlon.it/materasso-gonfiabile-air-basic-id_8492757.html): ingombrante ma comodo, consigliato quando lo spazio non è un problema.
-- [Pompa elettrica ricaricabile Decathlon Quechua](https://www.decathlon.it/pompa-elettrica-ricaricabile-id_8336472.html): compatta, leggera, gonfia almeno 3 volte il materassino doppio e poi si ricarica con la presa 12V della moto.
+- [Tenda 2 Seconds EASY Fresh&Black](https://www.decathlon.it/p/tenda-da-campeggio-2-seconds-easy-fresh-black-2-posti/_/R-p-308355?mc=8553541&c=BIANCO): velocissima da montare grazie alla struttura "a ombrello", da chiusa è abbastanza compatta e pesa meno di 5kg.
+- [Materassino singolo compatto](https://amzn.to/3bYlQNV): occupa poco spazio e si gonfia velocemente a fiato (o con la [mini pompa a pedale](https://amzn.to/3dyWOZP)).
+- [Materassino 2 posti Decathlon Quechua](https://www.decathlon.it/p/materasso-gonfiabile-campeggio-air-basic-140-2-persone/_/R-p-310021?mc=8561145&c=BEIGE): ingombrante ma comodo, consigliato quando lo spazio non è un problema.
+- [Pompa elettrica ricaricabile Decathlon Quechua](https://www.decathlon.it/p/pompa-elettrica-campeggio-ricaricabile/_/R-p-310028?mc=8561203): compatta, leggera, gonfia almeno 3 volte il materassino doppio e poi si ricarica con la presa 12V della moto.
 - [Sacco lenzuolo Ferrino](https://amzn.to/3dWEN5e): per dormire al pulito ovunque.
-- [Sacco letto Ferrino](https://amzn.to/34fIVJl): il top, da scegliere in base a volume e temperatura di utilizzo; per risparmiare c'è [Decathlon](https://www.decathlon.it/C-800841-sacchi-a-pelo).
+- [Sacco letto Ferrino](https://amzn.to/2NcgMPh): il top, da scegliere in base a volume e temperatura di utilizzo; per risparmiare c'è [Decathlon](https://www.decathlon.it/C-800841-sacchi-a-pelo).
 
 ## Per la moto
 
-- Pastiglie freno [Brembo "bianche" mescola LA](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dm570.l1313%26_nkw%3Dbrembo%2BLA%26_sacat%3D): sinterizzate a lunga durata per uso prettamente stradale, non necessitano di rodaggio, potenza frenante costante a tutte le temperature. Frenano tanto, ma avendole provate per soli 15.000km non ci sbilanciamo sulla durata effettiva.
-- Oli [Putoline](https://www.rinolfi.it/putoline): li abbiamo usati in cambio, motore e coppia conica; il motore boxer BMW non ha richiesto alcun rabbocco in 10.000km di percorrenza ed il cambio è sembrato bello morbido in tutte le condizioni. Al prossimo tagliando li utilizzeremo anche su Honda XL700V Transalp. Inserendo marca e modello della propria moto sul [sito ufficiale](https://www.putoline.com/en/) vengono consigliati i giusti prodotti per il tagliando.
+- Pastiglie freno [Brembo "bianche" mescola LA](http://ebay.us/VVnsd5): sinterizzate a lunga durata per uso prettamente stradale, non necessitano di rodaggio, potenza frenante costante a tutte le temperature. Frenano tanto, ma avendole provate per soli 15.000km non ci sbilanciamo sulla durata effettiva.
+- [Oli Putoline](https://www.rinolfi.it/putoline): li abbiamo usati in cambio, motore e coppia conica; il motore boxer BMW non ha richiesto alcun rabbocco in 10.000km di percorrenza ed il cambio è sembrato bello morbido in tutte le condizioni. Al prossimo tagliando li utilizzeremo anche su Honda XL700V Transalp. Inserendo marca e modello della propria moto sul [sito ufficiale](https://www.putoline.com/en/) vengono consigliati i giusti prodotti per il tagliando.
 - Molle progressive [HyperPro](https://www.wrs.it/it/130_hyperpro): il coefficiente elastico progressivo permette di avere molle morbide durante la prima fase di compressione ma sempre più rigide all’aumentare della forza esercitata sulla molla… ovvero: la moto è confortevole ma si comporta molto meglio in curva. Minima spesa e massima resa, disponibili anche come ammortizzatore completo e per BMW con sospensioni elettroniche ESA.
 - [Sonda S.M.A.R.T. IAT di Belinassu](http://www.belinassu.it): sensore di temperatura aria plug&play, *ingrassa* la miscela aria/benzina miliorando le prestazioni del motore, soprattutto ai bassi regimi. Smorza parecchio l'effetto on/off dei bicilindrici e nel caso dei boxer BMW aria/olio riduce il *buco* di erograzione a 4500-500rpm.
-- [Cupolini WRS](https://www.wrs.it/it/400-prodotti-wrs-cupolini): qualità italiana per proteggerci dal vento nelle lunghe tratte ad alta velocità
+- [Cupolini WRS](http://ebay.us/kZJCAP): qualità italiana per proteggerci dal vento nelle lunghe tratte ad alta velocità
 - Barre paramotore [Touratech](https://shop.touratech.it/per-la-moto/protezione.html#/products/1?category=10940): robuste e in acciaio inossidabile, costano care ma valgono tanto; in caso di caduta proteggono bene il motore ed essendo in inox non vengono aggredite dalla ruggine.
-- Barre paramotore [HEED](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fstr%2Fheedmoto): ottimo rapporto qualità prezzo, proteggono un sacco ma sono in ferro vernicato; le abbiamo montate sia su [Honda XL700V Transalp](/2018/02/paramotore-heed-honda-xl-700-transalp/) che [BMW R1200GS](/2016/09/paramotore-tubolare-heed-bmw-r-1200-gs).
+- Barre paramotore [HEED](http://ebay.us/gyxuGc): ottimo rapporto qualità prezzo, proteggono un sacco ma sono in ferro vernicato; le abbiamo montate sia su [Honda XL700V Transalp](/2018/02/paramotore-heed-honda-xl-700-transalp/) che [BMW R1200GS](/2016/09/paramotore-tubolare-heed-bmw-r-1200-gs).
 - [Supporti smartphone universali LAMPA Opti Line](https://amzn.to/2X9URux) compatibili con qualunque moto e smartphone, i miei preferiti sono:
   - [piastra adesiva universale](https://amzn.to/3bYw5ll) appiccicata direttamente sulla cover del telefono;
   - [Opti Case universale](https://amzn.to/39LRCMn) visibilità ottimale ed evita il surriscaldamento;
   - [Opti Belt](https://amzn.to/2V3eYrH) fissata a manubrio o sull'archetto porta strumenti.
 - [Lucchetto ad arco ABUS Granit eXtreme](https://amzn.to/34mc2L2): quasi indistruttibile, entra perfettamente nel foro della coppia conica delle BMW R1200GS e calza a pennello sotto la sella. Per non fare danni è fondamentale un [cavo promemoria](https://amzn.to/34fxqBk).
-- [Cavo d'acciaio KryptoFlex](https://amzn.to/2JVdN8F): ci si lega di tutto, dai caschi alle giacche (passandolo attraverso le maniche).
+- [Cavo d'acciaio KryptoFlex](https://amzn.to/2JVdN8F): ci si lega di tutto, dai caschi alle giacche (passando attraverso le maniche).
 
 ### Attrezzatura
 
 - [Kit pronto soccorso omologato](https://amzn.to/2xWemfi): andrebbe sempre portato con sè, in alcuni Paesi è obbligatorio.
 - [Kit per la riparazione pneumatici tubeless](https://amzn.to/2U1EYB6), se avete la camera d'aria meglio avere con sè le [leve smontagomme](https://amzn.to/2IaTGEf).
-- [Mini pompa a pedale](https://amzn.to/2I8Tiq8): più affidabile delle usa e getta, più compatta e leggera di un compressore 12V, la vende anche [Decathlon](https://www.decathlon.it/pompa-a-colonna-520-id_8303660.html).
+- [Mini pompa a pedale](https://amzn.to/37upvmK): più affidabile delle bombole di CO2 usa e getta, più compatta e leggera di un compressore 12V, la vende anche [Decathlon](https://www.decathlon.it/pompa-a-colonna-520-id_8303660.html).
 - [Cavi avviamento moto](https://amzn.to/2VukbYA).
 - [Tanica di emergenza](https://amzn.to/3bW5e9r) e un piccolo [imbuto pieghevole in silicone](https://amzn.to/2P324X5).
 - [Stucco epossidico bicomponente](https://amzn.to/2JJuYtu): Permette di riparare un carter forato.
 
 ### Pneumatici
 
-- [Pirelli Scorpion Trail 2](http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5575226208&toolid=10001&campid=5337960068&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dp2380057.m570.l1311.R1.TR5.TRC1.A0.H0.Xpirelli%2Bscor.TRS0%26_nkw%3Dpirelli%2Bscorpion%2Btrail%2B2%26_sacat%3D0): gomme bimescola 90% road 10% off, silenziose, ottimo feeling su asfalto asciutto e strade bianche, **eccezionali sul bagnato**. Dopo 10.000km su BMW R1200GS 2008 il posteriore era praticamente finito. Ampia gamma di misure disponibili.
+- [Pirelli Scorpion Trail 2](http://ebay.us/9QglIC): gomme bimescola 90% road 10% off, silenziose, ottimo feeling su asfalto asciutto e strade bianche, **eccezionali sul bagnato**. Dopo 10.000km su BMW R1200GS 2008 il posteriore era praticamente finito. Ampia gamma di misure disponibili.
 
 ### Bagagli
 
-- Borsa da serbatoio [GIVI EA118 TanckLock](https://amzn.to/2ytxT7l): si posiziona su una flangia installata sul tappo del serbatoio e si rimuove velocemente per fare il pieno. Si espande in altezza con un sistema a cerniera, dispone di tracolla per il trasporto e cuffia antipioggia. La tasca porta cartina in realtà non è molto pratica dato che la *bocca* è situata nella parte più stretta della borsa e quindi le cartine fanno molta difficoltà ad entrare.
+- Borsa da serbatoio [GIVI EA118 TankLock](https://amzn.to/2ytxT7l): si posiziona su una flangia installata sul tappo del serbatoio e si rimuove velocemente per fare il pieno. Si espande in altezza con un sistema a cerniera, dispone di tracolla per il trasporto e cuffia antipioggia. La tasca porta cartina in realtà non è molto pratica dato che la *bocca* è situata nella parte più stretta della borsa e quindi le cartine fanno molta difficoltà ad entrare.
 - Bauletto [GIVI Trekker Outback 58](https://amzn.to/2U1xyxV): enorme (capacità 58 litri), qualità altissima, disponibilità di accessori (cari). Il prezzo è giustificato se si viaggia in due a pieno carico, non troverete di meglio!
-- Bauletto [Kappa Garda 52](https://amzn.to/2U1xyxV): alternativa *low cost* in plastica, capacità 52 litri (c'è posto per 2 caschi modulari), passanti per cinghie integrati. Niente male!
+- Bauletto [Kappa Garda 52](https://amzn.to/3pz2ANj): alternativa *low cost* in plastica, capacità 52 litri (c'è posto per 2 caschi modulari), passanti per cinghie integrati. Niente male!
 - Valigie laterali in alluminio [Heavy Duties](https://heavyduties.ro): altissimo rapporto qualità prezzo, qui la nostra [recensione](/2018/04/borse-alluminio-heavy-duties-bmw-r1200gs).
 - [Sacche stagne Decathlon Itwit](https://www.decathlon.it/C-1129407-sacche-bidoni-contenitori-stagni): i passanti permettono di legarle saldamente alle valigie laterali, disponibili anche in versione zaino.
-- [Cubi organizzatori](https://amzn.to/2R6VOQi): invece di utilizzare un unico grande borsone dentro le valigie, è molto comodo suddividere il carico in varie borsette dal contenuto omegeneo, in modo da avere a portata di mano tutto quel che si cerca. Li vende anche [Decathlon](https://www.decathlon.it/kit-3-sacche-di-stoccaggio-id_8512006.html).
+- [Cubi organizzatori](https://amzn.to/3bk18JF): invece di utilizzare un unico grande borsone dentro le valigie, è molto comodo suddividere il carico in varie borsette dal contenuto omegeneo, in modo da avere a portata di mano tutto quel che si cerca. Li vende anche [Decathlon](https://www.decathlon.it/kit-3-sacche-di-stoccaggio-id_8512006.html).
 - [Trousse appendibile](https://amzn.to/2USKLeI): spesso nei bagni non si sa dove appoggiare la roba, un beauty appendibile risolve il problema. Non male quello di [Decathlon](https://www.decathlon.it/trousse-da-toilette-nera-id_8514768.html).
 - [Borsa rotolo porta attrezzi](https://amzn.to/341WFHt): da lasciare sempre in moto con tutto il necessario per non farsi fermare dalla piccola magagna al tagliando on-the-road.
 
@@ -107,7 +107,7 @@ Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usi
 - Chiave dinamometrica [Proxxon 6-30 nm](https://amzn.to/341R43S)
 - Chiave dinamometrica [Proxxon 20-100 nm](https://amzn.to/3eo1Vcu)
 - Set cricchetti e bussole [Wiesmann](https://amzn.to/2ylJqp4): particolarmente completo, possiede anche gli inserti E per alcune viti delle moto BMW
-- Set brugole [Hex e Torx](https://amzn.to/3ayuv9k) con impugnatura morbida e codifica colore
+- Set brugole [Hex e Torx](https://amzn.to/2ZvRwWC) con impugnatura morbida e codifica colore
 - [Set chiavi a forchetta doppia BGS](https://amzn.to/2JuJNA2), ideali anche in viaggio: sono spesse soltanto 3mm, la forchetta doppia permette di dimezzare il numero di chiavi da portare
 - [Smontagomme Proworks Road](https://www.xlmoto.it/smontagomme-proworks-road): attrezzo manuale adatto per ruote da 17" a 21", aiuta anche nel rimontaggio delle ruote
 - [Equilibratrice statica](https://amzn.to/348BNOS)
