@@ -1,4 +1,4 @@
-import css from '@emotion/css'
+import { css } from '@emotion/react'
 import Color from 'color'
 
 import { palette } from '../utils/colors'

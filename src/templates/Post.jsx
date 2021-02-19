@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import { graphql } from 'gatsby'
-import { css } from '@emotion/core'
+import { css } from '@emotion/react'
 
 import {
   SMALL_SCREEN_MAX_SIZE,

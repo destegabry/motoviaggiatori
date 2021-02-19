@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Img from 'gatsby-image/withIEPolyfill'
 import styled from '@emotion/styled'
-import { css } from '@emotion/core'
+import { css } from '@emotion/react'
 
 import getAuthorUrl from '../utils/getAuthorUrl'
 import { palette } from '../utils/colors'

@@ -1,7 +1,7 @@
 import React from 'react'
 import { withPrefix } from 'gatsby'
 import styled from '@emotion/styled'
-import { css } from '@emotion/core'
+import { css } from '@emotion/react'
 
 import { useSiteMetadata } from '../hooks/use-site-metadata'
 import {

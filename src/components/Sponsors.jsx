@@ -1,6 +1,6 @@
 import React from 'react'
 import Img from 'gatsby-image/withIEPolyfill'
-import { css } from '@emotion/core'
+import { css } from '@emotion/react'
 
 import useAllSponsors from '../hooks/use-all-sponsors'
 import {
