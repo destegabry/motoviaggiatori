@@ -100,7 +100,6 @@ const Layout = ({ children, ...otherProps }) => {
     <OuterWrapper {...otherProps}>
       <Helmet>
         <script src={withPrefix('/pace.min.js')} async></script>
-        <script>window._epn = { campaign: process.env.GATSBY_EPN_CAMPAIGN_ID };</script>
         <script src="https://epnt.ebay.com/static/epn-smart-tools.js"></script>
       </Helmet>
       <Global styles={globalStyles} />
