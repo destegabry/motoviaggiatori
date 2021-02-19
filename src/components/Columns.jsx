@@ -12,6 +12,8 @@ const ColumnsWrapper = styled.div`
   }
 
   > div {
+    flex: 1 0 0%;
+
     ${SMALL_SCREEN_UP} {
       margin: 0 .5rem;
     }
