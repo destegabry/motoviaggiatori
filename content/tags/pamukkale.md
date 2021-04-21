@@ -1,0 +1,4 @@
+---
+slug: pamukkale
+name: Pamukkale
+---

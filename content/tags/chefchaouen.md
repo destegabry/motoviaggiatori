@@ -1,0 +1,4 @@
+---
+slug: chefchaouen
+name: Chefchaouen
+---

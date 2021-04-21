@@ -1,0 +1,4 @@
+---
+slug: ifrane
+name: Ifrane
+---
