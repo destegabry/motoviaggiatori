@@ -2,6 +2,8 @@ backend:
   name: github
   repo: destegabry/motoviaggiatori
   branch: v3
+publish_mode: editorial_workflow
+site_url: https://motoviaggiatori.it
 media_folder: static/assets
 public_folder: /assets
 collections:
@@ -10,7 +12,36 @@ collections:
     folder: post
     create: true
     fields:
-      - { name: slug, label: Slug }
+      - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
+  - name: author
+    label: Author
+    folder: author
+    create: true
+    fields:
+      - { name: slug, label: Slug }
+      - { name: name, label: Name }
+      - { name: website, label: Website }
+      - name: instagram,
+        label: Instagram
+        required: false
+        widget: object
+        fields:
+        - { name: url, label: Url  }
+        - { name: title, label: Title  }
+      - name: facebook,
+        label: Facebook
+        required: false
+        widget: object
+        fields:
+        - { name: url, label: Url  }
+        - { name: title, label: Title  }
+      - name: youtube,
+        label: Youtube
+        required: false
+        widget: object
+        fields:
+        - { name: url, label: Url  }
+        - { name: title, label: Title  }
