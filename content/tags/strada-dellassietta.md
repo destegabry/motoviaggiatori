@@ -1,4 +1,4 @@
 ---
 slug: strada-dellassietta
-name: Strada dell'Assietta
+title: Strada dell'Assietta
 ---

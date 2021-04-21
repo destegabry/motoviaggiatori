@@ -1,4 +1,4 @@
 ---
 slug: peter-fleming
-name: Peter Fleming
+title: Peter Fleming
 ---

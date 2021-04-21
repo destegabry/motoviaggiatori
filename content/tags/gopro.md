@@ -1,4 +1,4 @@
 ---
 slug: gopro
-name: GoPro
+title: GoPro
 ---

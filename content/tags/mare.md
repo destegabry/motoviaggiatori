@@ -1,4 +1,4 @@
 ---
 slug: mare
-name: Mare
+title: Mare
 ---

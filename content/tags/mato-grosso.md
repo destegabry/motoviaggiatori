@@ -1,4 +1,4 @@
 ---
 slug: mato-grosso
-name: Mato Grosso
+title: Mato Grosso
 ---

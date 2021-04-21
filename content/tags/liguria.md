@@ -1,4 +1,4 @@
 ---
 slug: liguria
-name: Liguria
+title: Liguria
 ---

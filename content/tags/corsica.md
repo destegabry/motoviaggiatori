@@ -1,4 +1,4 @@
 ---
 slug: corsica
-name: Corsica
+title: Corsica
 ---

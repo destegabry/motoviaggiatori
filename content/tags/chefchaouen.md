@@ -1,4 +1,4 @@
 ---
 slug: chefchaouen
-name: Chefchaouen
+title: Chefchaouen
 ---

@@ -1,4 +1,4 @@
 ---
 slug: efeso
-name: Efeso
+title: Efeso
 ---

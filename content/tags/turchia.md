@@ -1,4 +1,4 @@
 ---
 slug: turchia
-name: Turchia
+title: Turchia
 ---

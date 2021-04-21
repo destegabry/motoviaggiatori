@@ -1,4 +1,4 @@
 ---
 slug: guida
-name: Guida
+title: Guida
 ---

@@ -1,4 +1,4 @@
 ---
 slug: pamukkale
-name: Pamukkale
+title: Pamukkale
 ---

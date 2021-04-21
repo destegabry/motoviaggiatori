@@ -1,4 +1,4 @@
 ---
 slug: made-in-italy
-name: Made in Italy
+title: Made in Italy
 ---

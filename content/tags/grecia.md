@@ -1,4 +1,4 @@
 ---
 slug: grecia
-name: Grecia
+title: Grecia
 ---

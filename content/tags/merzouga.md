@@ -1,4 +1,4 @@
 ---
 slug: merzouga
-name: Merzouga
+title: Merzouga
 ---

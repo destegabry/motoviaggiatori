@@ -1,4 +1,4 @@
 ---
 slug: macedonia
-name: Macedonia
+title: Macedonia
 ---

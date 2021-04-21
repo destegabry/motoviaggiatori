@@ -1,4 +1,4 @@
 ---
 slug: appenninata
-name: Appenninata
+title: Appenninata
 ---

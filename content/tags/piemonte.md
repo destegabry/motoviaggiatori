@@ -1,4 +1,4 @@
 ---
 slug: piemonte
-name: Piemonte
+title: Piemonte
 ---

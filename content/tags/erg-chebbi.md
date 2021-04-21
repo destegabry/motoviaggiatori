@@ -1,4 +1,4 @@
 ---
 slug: erg-chebbi
-name: Erg Chebbi
+title: Erg Chebbi
 ---

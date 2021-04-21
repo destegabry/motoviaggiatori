@@ -1,4 +1,4 @@
 ---
 slug: action-camera
-name: Action Camera
+title: Action Camera
 ---

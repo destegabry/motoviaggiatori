@@ -1,4 +1,4 @@
 ---
 slug: sony-rx100
-name: Sony RX100
+title: Sony RX100
 ---

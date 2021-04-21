@@ -1,4 +1,4 @@
 ---
 slug: uruguay
-name: Uruguay
+title: Uruguay
 ---

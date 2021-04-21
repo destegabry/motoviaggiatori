@@ -1,4 +1,4 @@
 ---
 slug: marrakech
-name: Marrakech
+title: Marrakech
 ---

@@ -1,4 +1,4 @@
 ---
 slug: honda-xl-700-transalp
-name: Honda XL 700 Transalp
+title: Honda XL 700 Transalp
 ---

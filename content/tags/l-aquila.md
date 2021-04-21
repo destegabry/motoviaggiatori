@@ -1,4 +1,4 @@
 ---
 slug: l-aquila
-name: L'Aquila
+title: L'Aquila
 ---

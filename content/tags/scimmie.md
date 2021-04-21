@@ -1,4 +1,4 @@
 ---
 slug: scimmie
-name: Scimmie
+title: Scimmie
 ---

@@ -1,4 +1,4 @@
 ---
 slug: hyperpro
-name: Hyperpro
+title: Hyperpro
 ---

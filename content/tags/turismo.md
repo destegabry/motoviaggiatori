@@ -1,4 +1,4 @@
 ---
 slug: turismo
-name: Tursimo
+title: Tursimo
 ---

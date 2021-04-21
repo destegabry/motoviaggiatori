@@ -1,4 +1,4 @@
 ---
 slug: cappadocia
-name: Cappadocia
+title: Cappadocia
 ---

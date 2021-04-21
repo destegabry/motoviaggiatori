@@ -1,4 +1,4 @@
 ---
 slug: giorgio-bettinelli
-name: Giorgio Bettinelli
+title: Giorgio Bettinelli
 ---

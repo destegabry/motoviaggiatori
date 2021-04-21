@@ -1,4 +1,4 @@
 ---
 slug: alpi
-name: Alpi
+title: Alpi
 ---

@@ -1,4 +1,4 @@
 ---
 slug: colle-delle-finestre
-name: Colle delle Finestre
+title: Colle delle Finestre
 ---

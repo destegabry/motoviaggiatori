@@ -1,4 +1,4 @@
 ---
 slug: sardegna
-name: Sardegna
+title: Sardegna
 ---

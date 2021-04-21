@@ -1,4 +1,4 @@
 ---
 slug: heed
-name: HEED
+title: HEED
 ---

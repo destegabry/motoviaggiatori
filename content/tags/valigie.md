@@ -1,4 +1,4 @@
 ---
 slug: valigie
-name: Valigie
+title: Valigie
 ---

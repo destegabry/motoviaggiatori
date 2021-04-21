@@ -1,4 +1,4 @@
 ---
 slug: albania
-name: Albania
+title: Albania
 ---

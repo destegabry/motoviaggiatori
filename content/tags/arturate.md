@@ -1,4 +1,4 @@
 ---
 slug: arturate
-name: Arturate
+title: Arturate
 ---

@@ -1,4 +1,4 @@
 ---
 slug: wrs
-name: WRS
+title: WRS
 ---

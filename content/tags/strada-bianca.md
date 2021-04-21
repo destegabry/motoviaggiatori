@@ -1,4 +1,4 @@
 ---
 slug: strada-bianca
-name: Strada Bianca
+title: Strada Bianca
 ---

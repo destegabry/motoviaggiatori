@@ -1,4 +1,4 @@
 ---
 slug: givi
-name: GIVI
+title: GIVI
 ---

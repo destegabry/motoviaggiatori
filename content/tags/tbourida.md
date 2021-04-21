@@ -1,4 +1,4 @@
 ---
 slug: tbourida
-name: Tbourida
+title: Tbourida
 ---

@@ -1,4 +1,4 @@
 ---
 slug: mauritania
-name: Mauritania
+title: Mauritania
 ---

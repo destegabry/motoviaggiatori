@@ -1,4 +1,4 @@
 ---
 slug: caberg-helmets
-name: Caberg Helmets
+title: Caberg Helmets
 ---

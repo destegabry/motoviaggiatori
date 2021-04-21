@@ -1,4 +1,4 @@
 ---
 slug: montenegro
-name: Montenegro
+title: Montenegro
 ---

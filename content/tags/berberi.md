@@ -1,4 +1,4 @@
 ---
 slug: berberi
-name: Berberi
+title: Berberi
 ---

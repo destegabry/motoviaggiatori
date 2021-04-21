@@ -1,4 +1,4 @@
 ---
 slug: italia
-name: Italia
+title: Italia
 ---

@@ -1,4 +1,4 @@
 ---
 slug: tangeri
-name: Tangeri
+title: Tangeri
 ---

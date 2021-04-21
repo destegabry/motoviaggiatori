@@ -1,4 +1,4 @@
 ---
 slug: video
-name: Video
+title: Video
 ---

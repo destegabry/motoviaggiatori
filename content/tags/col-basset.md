@@ -1,4 +1,4 @@
 ---
 slug: col-basset
-name: Col Basset
+title: Col Basset
 ---

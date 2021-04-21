@@ -1,4 +1,4 @@
 ---
 slug: savona
-name: Savona
+title: Savona
 ---

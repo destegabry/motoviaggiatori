@@ -1,4 +1,4 @@
 ---
 slug: campo-imperatore
-name: Campo Imperatore
+title: Campo Imperatore
 ---

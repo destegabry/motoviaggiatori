@@ -1,4 +1,4 @@
 ---
 slug: carta-stradale
-name: Carta stradale
+title: Carta stradale
 ---

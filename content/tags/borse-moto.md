@@ -1,4 +1,4 @@
 ---
 slug: borse-moto
-name: Borse moto
+title: Borse moto
 ---

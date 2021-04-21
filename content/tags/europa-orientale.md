@@ -1,4 +1,4 @@
 ---
 slug: europa-orientale
-name: Europa Orientale
+title: Europa Orientale
 ---

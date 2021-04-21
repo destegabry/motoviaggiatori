@@ -1,4 +1,4 @@
 ---
 slug: karmaontheroad
-name: Karmaontheroad
+title: Karmaontheroad
 ---

@@ -1,4 +1,4 @@
 ---
 slug: vespa
-name: Vespa
+title: Vespa
 ---

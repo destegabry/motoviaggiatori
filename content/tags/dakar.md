@@ -1,4 +1,4 @@
 ---
 slug: dakar
-name: Dakar
+title: Dakar
 ---

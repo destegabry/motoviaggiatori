@@ -1,4 +1,4 @@
 ---
 slug: langhe
-name: Langhe
+title: Langhe
 ---

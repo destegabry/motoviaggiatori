@@ -1,4 +1,4 @@
 ---
 slug: nallihan
-name: Nallıhan
+title: Nallıhan
 ---

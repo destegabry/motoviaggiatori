@@ -1,4 +1,4 @@
 ---
 slug: lambretta
-name: Lambretta
+title: Lambretta
 ---

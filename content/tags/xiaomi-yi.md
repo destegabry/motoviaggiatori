@@ -1,4 +1,4 @@
 ---
 slug: xiaomi-yi
-name: Xiaomi Yi
+title: Xiaomi Yi
 ---

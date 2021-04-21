@@ -1,4 +1,4 @@
 ---
 slug: sud
-name: Sud
+title: Sud
 ---

@@ -1,4 +1,4 @@
 ---
 slug: bolivia
-name: Bolivia
+title: Bolivia
 ---

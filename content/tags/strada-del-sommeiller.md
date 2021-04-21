@@ -1,4 +1,4 @@
 ---
 slug: strada-del-sommeiller
-name: Strada del Sommeiller
+title: Strada del Sommeiller
 ---

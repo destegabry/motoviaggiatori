@@ -1,4 +1,4 @@
 ---
 slug: brasile
-name: Brasile
+title: Brasile
 ---

@@ -1,4 +1,4 @@
 ---
 slug: valli-di-lanzo
-name: Valli di Lanzo
+title: Valli di Lanzo
 ---

@@ -1,4 +1,4 @@
 ---
 slug: letture
-name: Letture
+title: Letture
 ---

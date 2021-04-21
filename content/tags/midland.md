@@ -1,4 +1,4 @@
 ---
 slug: midland
-name: Midland
+title: Midland
 ---

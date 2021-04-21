@@ -1,4 +1,4 @@
 ---
 slug: fes
-name: Fes
+title: Fes
 ---

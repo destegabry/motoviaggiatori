@@ -1,4 +1,4 @@
 ---
 slug: romania
-name: Romania
+title: Romania
 ---

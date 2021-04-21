@@ -1,4 +1,4 @@
 ---
 slug: meknes
-name: Meknes
+title: Meknes
 ---

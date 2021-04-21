@@ -1,4 +1,4 @@
 ---
 slug: appennini
-name: Appennini
+title: Appennini
 ---

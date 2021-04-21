@@ -1,4 +1,4 @@
 ---
 slug: cascate-di-ouzoud
-name: Cascate di Ouzoud
+title: Cascate di Ouzoud
 ---
