@@ -1,0 +1,4 @@
+---
+slug: uruguay
+name: Uruguay
+---

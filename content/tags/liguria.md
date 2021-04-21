@@ -1,0 +1,4 @@
+---
+slug: liguria
+name: Liguria
+---

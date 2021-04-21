@@ -1,0 +1,4 @@
+---
+slug: corsica
+name: Corsica
+---

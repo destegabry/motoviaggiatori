@@ -1,0 +1,4 @@
+---
+slug: meknes
+name: Meknes
+---
