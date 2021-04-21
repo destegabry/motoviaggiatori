@@ -1,7 +1,7 @@
 ---
 path: miral
 title: MIRAL
-avatar: /assets/uploads/miral.jpg
+avatar: /assets/miral.jpg
 links:
   - title: MIRAL
     url: https://www.facebook.com/23miral/

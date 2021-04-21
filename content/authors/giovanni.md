@@ -1,7 +1,7 @@
 ---
 path: giovanni
 title: Giovanni
-avatar: /assets/uploads/giovanni.jpg
+avatar: /assets/giovanni.jpg
 links:
   - title: Instagram
     url: https://instagram.com/mr_brap_

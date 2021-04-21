@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: destegabry/motoviaggiatori
-  branch: v3
+  name: git-gateway
 publish_mode: editorial_workflow
 site_url: https://motoviaggiatori.it
 media_folder: static/assets/uploads

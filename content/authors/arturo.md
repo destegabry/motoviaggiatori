@@ -1,7 +1,7 @@
 ---
 path: arturo
 title: Arturo
-avatar: /assets/uploads/arturo.jpg
+avatar: /assets/arturo.jpg
 website: http://www.xanderelectronics.com/
 links:
   - name: Facebook

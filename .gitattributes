@@ -1,1 +1,2 @@
+static/assets/uploads/ filter=lfs diff=lfs merge=lfs -text
 static/assets/uploads/* filter=lfs diff=lfs merge=lfs -text
