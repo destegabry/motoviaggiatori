@@ -4,7 +4,7 @@ backend:
   branch: v3
 publish_mode: editorial_workflow
 site_url: https://motoviaggiatori.it
-media_folder: static/assets
+media_folder: static/assets/uploads
 public_folder: /assets
 collections:
   - name: posts
@@ -21,8 +21,26 @@ collections:
         label: Author
         widget: relation
         collection: authors
-        value_field: title
+        value_field: path
         search_fields: [title]
+        display_fields: [title]
+      - name: category
+        label: Category
+        widget: relation
+        collection: categories
+        value_field: path
+        search_fields: [title]
+        display_fields: [title]
+      - name: tags
+        label: Tags
+        widget: relation
+        collection: tags
+        value_field: path
+        search_fields: [title]
+        display_fields: [title]
+        multiple: true
+      - { name: featured_image, label: Featured image, widget: image }
+      - { name: excerpt, label: Excerpt }
       - { name: body, label: Body, widget: markdown }
   - name: authors
     label: Authors
@@ -39,8 +57,8 @@ collections:
         required: false
         widget: list
         fields:
-        - { name: title, label: Title, required: false  }
-        - { name: url, label: Url  }
+          - { name: title, label: Title, required: false }
+          - { name: url, label: Url }
       - { name: body, label: Body, widget: markdown }
   - name: tags
     label: Tags
@@ -48,17 +66,17 @@ collections:
     folder: content/tags
     create: true
     slug: "{{fields.path}}"
-      - { name: path, label: Path }
     fields:
+      - { name: path, label: Path }
       - { name: title, label: Title }
-      - { name: body, label: Body, widget: markdown, required: false}
+      - { name: body, label: Body, widget: markdown, required: false }
   - name: categories
     label: Categories
     label_singular: Category
     folder: content/categories
     create: true
     slug: "{{fields.path}}"
-      - { name: path, label: Path }
     fields:
+      - { name: path, label: Path }
       - { name: title, label: Title }
-      - { name: body, label: Body, widget: markdown, required: false}
+      - { name: body, label: Body, widget: markdown, required: false }

@@ -1,7 +1,7 @@
 ---
 path: alice
 title: Alice
-avatar: /assets/alice.jpg
+avatar: /assets/uploads/alice.jpg
 links:
   - title: Instagram
     url: https://www.instagram.com/__aliceughetto__/

@@ -1,7 +1,7 @@
 ---
 path: Stefania
 title: Stefania
-avatar: /assets/stefania.jpg
+avatar: /assets/uploads/stefania.jpg
 links:
   - url: https://stefania.mellai.it
 ---

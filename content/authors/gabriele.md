@@ -1,7 +1,7 @@
 ---
 path: gabriele
 title: Gabriele
-avatar: /assets/gabriele.jpg
+avatar: /assets/uploads/gabriele.jpg
 links:
   - url: https://destefanis.eu
   - title: Instagram
