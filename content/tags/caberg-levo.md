@@ -1,4 +1,4 @@
 ---
 slug: caberg-levo
-name: Caberg Levo
+title: Caberg Levo
 ---

@@ -1,4 +1,4 @@
 ---
 slug: calabria
-name: Calabria
+title: Calabria
 ---

@@ -1,4 +1,4 @@
 ---
 slug: val-chisone
-name: Val Chisone
+title: Val Chisone
 ---

@@ -1,4 +1,4 @@
 ---
 slug: azrou
-name: Azrou
+title: Azrou
 ---

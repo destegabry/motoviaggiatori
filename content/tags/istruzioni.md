@@ -1,4 +1,4 @@
 ---
 slug: istruzioni
-name: Istruzioni
+title: Istruzioni
 ---

@@ -1,4 +1,4 @@
 ---
 slug: cibo
-name: Cibo
+title: Cibo
 ---

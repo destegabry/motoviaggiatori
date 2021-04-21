@@ -1,4 +1,4 @@
 ---
 slug: beni-mellal
-name: Beni Mellal
+title: Beni Mellal
 ---

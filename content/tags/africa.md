@@ -1,4 +1,4 @@
 ---
 slug: africa
-name: Africa
+title: Africa
 ---

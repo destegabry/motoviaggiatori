@@ -1,4 +1,4 @@
 ---
 slug: lazio
-name: Lazio
+title: Lazio
 ---

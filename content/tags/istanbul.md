@@ -1,4 +1,4 @@
 ---
 slug: istanbul
-name: Istanbul
+title: Istanbul
 ---

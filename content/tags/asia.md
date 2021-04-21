@@ -1,4 +1,4 @@
 ---
 slug: asia
-name: Asia
+title: Asia
 ---

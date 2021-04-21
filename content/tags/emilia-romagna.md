@@ -1,4 +1,4 @@
 ---
 slug: emilia-romagna
-name: Emilia Romagna
+title: Emilia Romagna
 ---

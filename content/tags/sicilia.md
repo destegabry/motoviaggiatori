@@ -1,4 +1,4 @@
 ---
 slug: sicilia
-name: Sicilia
+title: Sicilia
 ---

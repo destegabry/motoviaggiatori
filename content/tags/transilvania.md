@@ -1,4 +1,4 @@
 ---
 slug: transilvania
-name: Transilvania
+title: Transilvania
 ---

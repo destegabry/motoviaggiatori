@@ -1,4 +1,4 @@
 ---
 slug: sestriere
-name: Sestriere
+title: Sestriere
 ---

@@ -1,4 +1,4 @@
 ---
 slug: marocco
-name: Marocco
+title: Marocco
 ---

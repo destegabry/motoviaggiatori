@@ -1,4 +1,4 @@
 ---
 slug: svizzera
-name: Svizzera
+title: Svizzera
 ---

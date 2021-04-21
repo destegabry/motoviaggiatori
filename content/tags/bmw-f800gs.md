@@ -1,4 +1,4 @@
 ---
 slug: bmw-f800gs
-name: BMW F800GS
+title: BMW F800GS
 ---

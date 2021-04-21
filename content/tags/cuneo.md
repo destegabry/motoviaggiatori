@@ -1,4 +1,4 @@
 ---
 slug: cuneo
-name: Cuneo
+title: Cuneo
 ---

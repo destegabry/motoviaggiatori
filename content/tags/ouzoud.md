@@ -1,4 +1,4 @@
 ---
 slug: ouzoud
-name: Ouzoud
+title: Ouzoud
 ---

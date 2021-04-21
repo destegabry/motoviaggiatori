@@ -1,4 +1,4 @@
 ---
 slug: transalp
-name: Transalp
+title: Transalp
 ---

@@ -1,4 +1,4 @@
 ---
 slug: protezione
-name: Protezione
+title: Protezione
 ---

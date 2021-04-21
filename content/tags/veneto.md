@@ -1,4 +1,4 @@
 ---
 slug: veneto
-name: Veneto
+title: Veneto
 ---

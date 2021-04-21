@@ -1,4 +1,4 @@
 ---
 slug: marocco-in-moto
-name: "#MaroccoInMoto"
+title: "#MaroccoInMoto"
 ---

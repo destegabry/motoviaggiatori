@@ -1,4 +1,4 @@
 ---
 slug: lombardia
-name: Lombardia
+title: Lombardia
 ---

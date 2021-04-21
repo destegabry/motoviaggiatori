@@ -1,4 +1,4 @@
 ---
 slug: magnesia
-name: Magnesia
+title: Magnesia
 ---

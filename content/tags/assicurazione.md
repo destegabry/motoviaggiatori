@@ -1,4 +1,4 @@
 ---
 slug: assicurazione
-name: Assicurazione
+title: Assicurazione
 ---

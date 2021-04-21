@@ -1,4 +1,4 @@
 ---
 slug: valigie-laterali
-name: Valigie laterali
+title: Valigie laterali
 ---

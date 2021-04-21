@@ -1,4 +1,4 @@
 ---
 slug: heavy-duties
-name: Heavy Duties
+title: Heavy Duties
 ---

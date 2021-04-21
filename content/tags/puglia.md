@@ -1,4 +1,4 @@
 ---
 slug: puglia
-name: Puglia
+title: Puglia
 ---

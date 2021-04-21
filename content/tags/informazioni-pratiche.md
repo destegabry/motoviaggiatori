@@ -1,4 +1,4 @@
 ---
 slug: informazioni-pratiche
-name: Informazioni pratiche
+title: Informazioni pratiche
 ---

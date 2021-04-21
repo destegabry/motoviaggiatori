@@ -1,4 +1,4 @@
 ---
 slug: koboldbike
-name: Koboldbike
+title: Koboldbike
 ---

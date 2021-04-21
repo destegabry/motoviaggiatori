@@ -1,4 +1,4 @@
 ---
 slug: toscana
-name: Toscana
+title: Toscana
 ---

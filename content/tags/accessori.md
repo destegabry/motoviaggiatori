@@ -1,4 +1,4 @@
 ---
 slug: accessori
-name: Accessori
+title: Accessori
 ---

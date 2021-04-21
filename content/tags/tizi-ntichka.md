@@ -1,4 +1,4 @@
 ---
 slug: tizi-ntichka
-name: Tizi n'Tichka
+title: Tizi n'Tichka
 ---

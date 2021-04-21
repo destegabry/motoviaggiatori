@@ -1,4 +1,4 @@
 ---
 slug: dune
-name: Dune
+title: Dune
 ---

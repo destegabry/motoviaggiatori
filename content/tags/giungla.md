@@ -1,4 +1,4 @@
 ---
 slug: giungla
-name: Giungla
+title: Giungla
 ---

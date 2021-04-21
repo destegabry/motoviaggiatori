@@ -1,4 +1,4 @@
 ---
 slug: quadlock
-name: QuadLock
+title: QuadLock
 ---

@@ -1,4 +1,4 @@
 ---
 slug: danni
-name: Danni
+title: Danni
 ---

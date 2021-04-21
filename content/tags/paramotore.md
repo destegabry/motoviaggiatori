@@ -1,4 +1,4 @@
 ---
 slug: paramotore
-name: Paramotore
+title: Paramotore
 ---

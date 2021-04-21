@@ -1,4 +1,4 @@
 ---
 slug: paraguay
-name: Paraguay
+title: Paraguay
 ---

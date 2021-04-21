@@ -1,4 +1,4 @@
 ---
 slug: america
-name: America
+title: America
 ---

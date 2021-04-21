@@ -1,4 +1,4 @@
 ---
 slug: campania
-name: Campania
+title: Campania
 ---

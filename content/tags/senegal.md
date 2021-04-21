@@ -1,4 +1,4 @@
 ---
 slug: senegal
-name: Senegal
+title: Senegal
 ---

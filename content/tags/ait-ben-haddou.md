@@ -1,4 +1,4 @@
 ---
 slug: ait-ben-haddou
-name: Ait Ben Haddou
+title: Ait Ben Haddou
 ---

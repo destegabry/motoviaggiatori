@@ -1,4 +1,4 @@
 ---
 slug: troia
-name: Troia
+title: Troia
 ---

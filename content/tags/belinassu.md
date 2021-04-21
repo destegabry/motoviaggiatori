@@ -1,4 +1,4 @@
 ---
 slug: belinassu
-name: Belinassu
+title: Belinassu
 ---

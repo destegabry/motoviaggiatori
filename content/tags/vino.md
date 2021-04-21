@@ -1,4 +1,4 @@
 ---
 slug: vino
-name: Vino
+title: Vino
 ---

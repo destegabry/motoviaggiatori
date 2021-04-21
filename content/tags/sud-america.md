@@ -1,4 +1,4 @@
 ---
 slug: sud-america
-name: Sud America
+title: Sud America
 ---

@@ -1,4 +1,4 @@
 ---
 slug: colle-del-sommeiller
-name: Colle del Sommeiller
+title: Colle del Sommeiller
 ---

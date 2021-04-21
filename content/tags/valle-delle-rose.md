@@ -1,4 +1,4 @@
 ---
 slug: valle-delle-rose
-name: Valle delle Rose
+title: Valle delle Rose
 ---

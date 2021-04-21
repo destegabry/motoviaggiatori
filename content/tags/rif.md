@@ -1,4 +1,4 @@
 ---
 slug: rif
-name: Rif
+title: Rif
 ---

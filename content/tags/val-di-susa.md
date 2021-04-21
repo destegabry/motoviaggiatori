@@ -1,4 +1,4 @@
 ---
 slug: val-di-susa
-name: Val di Susa
+title: Val di Susa
 ---

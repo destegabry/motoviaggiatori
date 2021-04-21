@@ -1,4 +1,4 @@
 ---
 slug: alto-atlante
-name: Alto Atlante
+title: Alto Atlante
 ---

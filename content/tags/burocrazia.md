@@ -1,4 +1,4 @@
 ---
 slug: burocrazia
-name: Burocrazia
+title: Burocrazia
 ---

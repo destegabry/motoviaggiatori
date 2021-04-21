@@ -1,4 +1,4 @@
 ---
 slug: borse-alluminio
-name: Borse alluminio
+title: Borse alluminio
 ---

@@ -1,4 +1,4 @@
 ---
 slug: frana
-name: Frana
+title: Frana
 ---

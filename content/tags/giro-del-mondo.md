@@ -1,4 +1,4 @@
 ---
 slug: giro-del-mondo
-name: Giro del mondo
+title: Giro del mondo
 ---

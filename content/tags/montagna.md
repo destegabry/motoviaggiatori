@@ -1,4 +1,4 @@
 ---
 slug: montagna
-name: Montagna
+title: Montagna
 ---

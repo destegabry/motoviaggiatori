@@ -1,4 +1,4 @@
 ---
 slug: torino-transilvania
-name: "#TorinoTransilvania"
+title: "#TorinoTransilvania"
 ---

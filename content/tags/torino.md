@@ -1,4 +1,4 @@
 ---
 slug: torino
-name: Torino
+title: Torino
 ---

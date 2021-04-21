@@ -1,4 +1,4 @@
 ---
 slug: rhone-alpes
-name: Rhône-Alpes
+title: Rhône-Alpes
 ---

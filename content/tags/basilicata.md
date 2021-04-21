@@ -1,4 +1,4 @@
 ---
 slug: basilicata
-name: Basilicata
+title: Basilicata
 ---

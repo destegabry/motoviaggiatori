@@ -1,4 +1,4 @@
 ---
 slug: mangiare-bene
-name: Mangiare bene
+title: Mangiare bene
 ---

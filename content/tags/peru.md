@@ -1,4 +1,4 @@
 ---
 slug: peru
-name: Perù
+title: Perù
 ---

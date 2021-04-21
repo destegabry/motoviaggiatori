@@ -1,4 +1,4 @@
 ---
 slug: miral
-name: MIRAL
+title: MIRAL
 ---

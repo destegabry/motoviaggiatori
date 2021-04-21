@@ -1,4 +1,4 @@
 ---
 slug: moto-taccuino
-name: Moto Taccuino
+title: Moto Taccuino
 ---

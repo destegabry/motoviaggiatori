@@ -1,4 +1,4 @@
 ---
 slug: molise
-name: Molise
+title: Molise
 ---

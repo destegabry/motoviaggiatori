@@ -1,4 +1,4 @@
 ---
 slug: ifrane
-name: Ifrane
+title: Ifrane
 ---

@@ -1,4 +1,4 @@
 ---
 slug: abruzzo
-name: Abruzzo
+title: Abruzzo
 ---

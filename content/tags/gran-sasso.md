@@ -1,4 +1,4 @@
 ---
 slug: gran-sasso
-name: Gran Sasso
+title: Gran Sasso
 ---

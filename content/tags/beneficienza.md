@@ -1,4 +1,4 @@
 ---
 slug: beneficienza
-name: Beneficienza
+title: Beneficienza
 ---

@@ -1,4 +1,4 @@
 ---
 slug: tuz-golu
-name: Tuz Gölü
+title: Tuz Gölü
 ---

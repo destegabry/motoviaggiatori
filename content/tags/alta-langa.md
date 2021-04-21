@@ -1,4 +1,4 @@
 ---
 slug: alta-langa
-name: Alta Langa
+title: Alta Langa
 ---

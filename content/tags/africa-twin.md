@@ -1,4 +1,4 @@
 ---
 slug: africa-twin
-name: Africa Twin
+title: Africa Twin
 ---

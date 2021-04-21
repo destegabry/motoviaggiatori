@@ -1,4 +1,4 @@
 ---
 slug: kawasaki-versys
-name: Kawasaki Versys
+title: Kawasaki Versys
 ---

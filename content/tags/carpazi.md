@@ -1,4 +1,4 @@
 ---
 slug: carpazi
-name: Carpazi
+title: Carpazi
 ---

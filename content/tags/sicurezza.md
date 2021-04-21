@@ -1,4 +1,4 @@
 ---
 slug: sicurezza
-name: Sicurezza
+title: Sicurezza
 ---

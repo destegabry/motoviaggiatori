@@ -1,4 +1,4 @@
 ---
 slug: interfoni
-name: Interfoni
+title: Interfoni
 ---
