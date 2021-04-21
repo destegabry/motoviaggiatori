@@ -1,6 +1,6 @@
 ---
 slug: giovanni
-name: Giovanni
+title: Giovanni
 avatar: /assets/giovanni.jpg
 links:
   - title: Instagram

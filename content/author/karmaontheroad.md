@@ -1,6 +1,6 @@
 ---
 slug: karmaontheroad
-name: Karmaontheroad
+title: Karmaontheroad
 avatar: /assets/karmaontheroad.jpg
 links:
   - title: Facebook

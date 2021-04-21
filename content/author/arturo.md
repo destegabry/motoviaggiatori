@@ -1,6 +1,6 @@
 ---
 slug: arturo
-name: Arturo
+title: Arturo
 avatar: /assets/arturo.jpg
 website: http://www.xanderelectronics.com/
 links:

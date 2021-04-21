@@ -1,6 +1,6 @@
 ---
 slug: miral
-name: MIRAL
+title: MIRAL
 avatar: /assets/miral.jpg
 links:
   - title: MIRAL
