@@ -7,41 +7,36 @@ site_url: https://motoviaggiatori.it
 media_folder: static/assets
 public_folder: /assets
 collections:
-  - name: post
+  - name: posts
     label: Post
-    folder: post
+    folder: content/post
     create: true
-    fields:
-      - { name: path, label: Path }
-      - { name: date, label: Date, widget: datetime }
-      - { name: title, label: Title }
-      - { name: body, label: Body, widget: markdown }
-  - name: author
-    label: Author
-    folder: author
-    create: true
+    slug: "{{year}}-{{month}}-fields.slug}}"
     fields:
       - { name: slug, label: Slug }
-      - { name: name, label: Name }
-      - { name: website, label: Website }
-      - name: instagram,
-        label: Instagram
+      - { name: title, label: Title }
+      - { name: date, label: Date, widget: datetime }
+      - name: author
+        label: Author
+        widget: relation
+        collection: authors
+        value_field: title
+        search_fields: [title]
+      - { name: body, label: Body, widget: markdown }
+  - name: authors
+    label: Author
+    folder: content/author
+    create: true
+    slug: "{{fields.slug}}"
+    fields:
+      - { name: slug, label: Slug }
+      - { name: title, label: Name }
+      - { name: avatar, label: Avatar, widget: image }
+      - name: links
+        label: Links
         required: false
-        widget: object
+        widget: list
         fields:
+        - { name: title, label: Title, required: false  }
         - { name: url, label: Url  }
-        - { name: title, label: Title  }
-      - name: facebook,
-        label: Facebook
-        required: false
-        widget: object
-        fields:
-        - { name: url, label: Url  }
-        - { name: title, label: Title  }
-      - name: youtube,
-        label: Youtube
-        required: false
-        widget: object
-        fields:
-        - { name: url, label: Url  }
-        - { name: title, label: Title  }
+      - { name: body, label: Body, widget: markdown }

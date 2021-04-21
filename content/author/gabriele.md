@@ -2,8 +2,7 @@
 slug: gabriele
 title: Gabriele
 avatar: /assets/gabriele.jpg
-website: https://destefanis.eu/
-"links,":
+links:
   - url: https://destefanis.eu
   - title: Instagram
     url: https://instagram.com/motoviaggiatori/
