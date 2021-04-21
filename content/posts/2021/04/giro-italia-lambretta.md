@@ -2,10 +2,21 @@
 path: giro-italia-lambretta
 title: L'Italia in Lambretta
 date: 2020-09-18T06:00:00.000Z
-author: MIRAL
-category: Viaggi
+author: miral
+category: viaggi
 tags:
-  - Lambretta
+  - lambretta
+  - italia
+  - calabria
+  - campania
+  - emilia-romagna
+  - lazio
+  - liguria
+  - lombardia
+  - sardegna
+  - sicilia
+  - toscana
+  - umbria
 excerpt: Giro d'Italia a passo di Lambretta
 ---
 A Gennaio appena rientrati dalla [Patagonia](/2020/01/panamericana-sud-america-argentina-patagonia-terra-del-fuoco) siamo stati contattati da un gruppo di giovani della nostra città con i quali ci siamo incontrati per parlare di viaggi. Per questo incontro mi ero preparato molto materiale, ma dopo aver compreso i bisogni di questi ragazzi, ho calato la discussione sui loro sogni, sui loro desideri, sulle loro paure.
