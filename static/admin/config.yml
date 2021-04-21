@@ -1,0 +1,16 @@
+backend:
+  name: github
+  repo: destegabry/motoviaggiatori
+  branch: v3
+media_folder: static/assets
+public_folder: /assets
+collections:
+  - name: post
+    label: Post
+    folder: post
+    create: true
+    fields:
+      - { name: slug, label: Slug }
+      - { name: date, label: Date, widget: datetime }
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }
