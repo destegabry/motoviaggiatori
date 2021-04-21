@@ -2,10 +2,11 @@
 path: giro-italia-lambretta
 title: L'Italia in Lambretta
 date: 2020-09-18T06:00:00.000Z
-author: Gabriele
+author: MIRAL
 category: Viaggi
 tags:
   - Lambretta
+excerpt: Giro d'Italia a passo di Lambretta
 ---
 A Gennaio appena rientrati dalla [Patagonia](/2020/01/panamericana-sud-america-argentina-patagonia-terra-del-fuoco) siamo stati contattati da un gruppo di giovani della nostra città con i quali ci siamo incontrati per parlare di viaggi. Per questo incontro mi ero preparato molto materiale, ma dopo aver compreso i bisogni di questi ragazzi, ho calato la discussione sui loro sogni, sui loro desideri, sulle loro paure.
 
