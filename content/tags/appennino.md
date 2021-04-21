@@ -1,4 +1,4 @@
 ---
-slug: appennino
+path: appennino
 title: Appennino
 ---

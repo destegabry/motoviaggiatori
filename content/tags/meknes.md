@@ -1,4 +1,4 @@
 ---
-slug: meknes
+path: meknes
 title: Meknes
 ---

@@ -1,4 +1,4 @@
 ---
-slug: corsica
+path: corsica
 title: Corsica
 ---

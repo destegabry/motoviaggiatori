@@ -1,4 +1,4 @@
 ---
-slug: lombardia
+path: lombardia
 title: Lombardia
 ---

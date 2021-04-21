@@ -1,4 +1,4 @@
 ---
-slug: torino
+path: torino
 title: Torino
 ---

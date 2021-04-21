@@ -1,4 +1,4 @@
 ---
-slug: azrou
+path: azrou
 title: Azrou
 ---

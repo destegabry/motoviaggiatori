@@ -1,4 +1,4 @@
 ---
-slug: cuneo
+path: cuneo
 title: Cuneo
 ---

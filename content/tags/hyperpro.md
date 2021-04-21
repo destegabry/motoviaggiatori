@@ -1,4 +1,4 @@
 ---
-slug: hyperpro
+path: hyperpro
 title: Hyperpro
 ---

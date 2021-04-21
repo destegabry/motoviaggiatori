@@ -1,4 +1,4 @@
 ---
-slug: tbourida
+path: tbourida
 title: Tbourida
 ---

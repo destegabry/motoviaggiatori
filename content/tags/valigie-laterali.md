@@ -1,4 +1,4 @@
 ---
-slug: valigie-laterali
+path: valigie-laterali
 title: Valigie laterali
 ---

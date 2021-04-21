@@ -1,4 +1,4 @@
 ---
-slug: eubea
+path: eubea
 title: Eubea
 ---

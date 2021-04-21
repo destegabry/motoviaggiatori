@@ -1,4 +1,4 @@
 ---
-slug: giungla
+path: giungla
 title: Giungla
 ---

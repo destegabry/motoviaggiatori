@@ -1,4 +1,4 @@
 ---
-slug: marocco
+path: marocco
 title: Marocco
 ---

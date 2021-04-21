@@ -1,4 +1,4 @@
 ---
-slug: marche
+path: marche
 title: Marche
 ---

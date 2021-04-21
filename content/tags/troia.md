@@ -1,4 +1,4 @@
 ---
-slug: troia
+path: troia
 title: Troia
 ---

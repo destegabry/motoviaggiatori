@@ -1,4 +1,4 @@
 ---
-slug: cartina
+path: cartina
 title: Cartina
 ---

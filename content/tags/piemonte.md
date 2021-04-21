@@ -1,4 +1,4 @@
 ---
-slug: piemonte
+path: piemonte
 title: Piemonte
 ---

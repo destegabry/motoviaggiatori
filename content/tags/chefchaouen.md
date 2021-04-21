@@ -1,4 +1,4 @@
 ---
-slug: chefchaouen
+path: chefchaouen
 title: Chefchaouen
 ---

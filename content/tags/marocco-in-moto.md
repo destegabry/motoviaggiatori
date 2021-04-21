@@ -1,4 +1,4 @@
 ---
-slug: marocco-in-moto
+path: marocco-in-moto
 title: "#MaroccoInMoto"
 ---

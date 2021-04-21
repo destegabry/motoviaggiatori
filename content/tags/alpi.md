@@ -1,4 +1,4 @@
 ---
-slug: alpi
+path: alpi
 title: Alpi
 ---

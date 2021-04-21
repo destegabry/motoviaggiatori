@@ -1,4 +1,4 @@
 ---
-slug: valli-di-lanzo
+path: valli-di-lanzo
 title: Valli di Lanzo
 ---

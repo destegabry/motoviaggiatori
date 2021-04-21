@@ -1,4 +1,4 @@
 ---
-slug: mangiare-bene
+path: mangiare-bene
 title: Mangiare bene
 ---

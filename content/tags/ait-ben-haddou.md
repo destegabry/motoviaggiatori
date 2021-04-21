@@ -1,4 +1,4 @@
 ---
-slug: ait-ben-haddou
+path: ait-ben-haddou
 title: Ait Ben Haddou
 ---

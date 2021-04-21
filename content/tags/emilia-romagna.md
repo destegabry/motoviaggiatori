@@ -1,4 +1,4 @@
 ---
-slug: emilia-romagna
+path: emilia-romagna
 title: Emilia Romagna
 ---

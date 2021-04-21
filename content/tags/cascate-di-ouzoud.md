@@ -1,4 +1,4 @@
 ---
-slug: cascate-di-ouzoud
+path: cascate-di-ouzoud
 title: Cascate di Ouzoud
 ---

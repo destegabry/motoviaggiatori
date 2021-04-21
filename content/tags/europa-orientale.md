@@ -1,4 +1,4 @@
 ---
-slug: europa-orientale
+path: europa-orientale
 title: Europa Orientale
 ---

@@ -1,4 +1,4 @@
 ---
-slug: peru
+path: peru
 title: Perù
 ---

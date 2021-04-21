@@ -1,4 +1,4 @@
 ---
-slug: pastori-in-moto
+path: pastori-in-moto
 title: Pastori in Moto
 ---

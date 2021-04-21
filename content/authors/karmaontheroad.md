@@ -1,5 +1,5 @@
 ---
-slug: karmaontheroad
+path: karmaontheroad
 title: Karmaontheroad
 avatar: /assets/karmaontheroad.jpg
 links:

@@ -1,4 +1,4 @@
 ---
-slug: cappadocia
+path: cappadocia
 title: Cappadocia
 ---

@@ -1,4 +1,4 @@
 ---
-slug: asia
+path: asia
 title: Asia
 ---

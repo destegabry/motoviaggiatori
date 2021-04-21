@@ -1,4 +1,4 @@
 ---
-slug: torino-transilvania
+path: torino-transilvania
 title: "#TorinoTransilvania"
 ---

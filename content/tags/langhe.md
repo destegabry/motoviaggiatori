@@ -1,4 +1,4 @@
 ---
-slug: langhe
+path: langhe
 title: Langhe
 ---

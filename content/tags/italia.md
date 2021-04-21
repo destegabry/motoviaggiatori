@@ -1,4 +1,4 @@
 ---
-slug: italia
+path: italia
 title: Italia
 ---

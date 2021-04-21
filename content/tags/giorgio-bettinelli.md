@@ -1,4 +1,4 @@
 ---
-slug: giorgio-bettinelli
+path: giorgio-bettinelli
 title: Giorgio Bettinelli
 ---

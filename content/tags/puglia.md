@@ -1,4 +1,4 @@
 ---
-slug: puglia
+path: puglia
 title: Puglia
 ---

@@ -1,4 +1,4 @@
 ---
-slug: pamukkale
+path: pamukkale
 title: Pamukkale
 ---

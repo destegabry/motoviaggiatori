@@ -1,4 +1,4 @@
 ---
-slug: calabria
+path: calabria
 title: Calabria
 ---

@@ -1,4 +1,4 @@
 ---
-slug: wrs
+path: wrs
 title: WRS
 ---

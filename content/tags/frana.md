@@ -1,4 +1,4 @@
 ---
-slug: frana
+path: frana
 title: Frana
 ---

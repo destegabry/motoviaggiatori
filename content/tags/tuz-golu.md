@@ -1,4 +1,4 @@
 ---
-slug: tuz-golu
+path: tuz-golu
 title: Tuz Gölü
 ---

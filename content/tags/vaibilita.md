@@ -1,4 +1,4 @@
 ---
-slug: viabilita
+path: viabilita
 title: Viabilità
 ---

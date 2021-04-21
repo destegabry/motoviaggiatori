@@ -1,4 +1,4 @@
 ---
-slug: action-camera
+path: action-camera
 title: Action Camera
 ---

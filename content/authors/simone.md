@@ -1,5 +1,5 @@
 ---
-slug: simone
+path: simone
 title: Simone
 avatar: /assets/simone.jpg
 links:

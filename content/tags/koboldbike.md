@@ -1,4 +1,4 @@
 ---
-slug: koboldbike
+path: koboldbike
 title: Koboldbike
 ---

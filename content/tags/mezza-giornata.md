@@ -1,5 +1,5 @@
 ---
-slug: mezza-giornata
+path: mezza-giornata
 title: Mezza Giornata
 ---
 Itinerari da percorerre in mezza giornata

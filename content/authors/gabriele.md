@@ -1,5 +1,5 @@
 ---
-slug: gabriele
+path: gabriele
 title: Gabriele
 avatar: /assets/gabriele.jpg
 links:

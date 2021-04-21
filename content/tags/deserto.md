@@ -1,4 +1,4 @@
 ---
-slug: deserto
+path: deserto
 title: Deserto
 ---

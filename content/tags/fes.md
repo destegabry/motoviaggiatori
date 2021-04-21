@@ -1,4 +1,4 @@
 ---
-slug: fes
+path: fes
 title: Fes
 ---

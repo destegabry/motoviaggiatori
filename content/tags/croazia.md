@@ -1,4 +1,4 @@
 ---
-slug: croazia
+path: croazia
 title: Croazia
 ---

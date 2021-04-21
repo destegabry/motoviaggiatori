@@ -1,4 +1,4 @@
 ---
-slug: vino
+path: vino
 title: Vino
 ---
