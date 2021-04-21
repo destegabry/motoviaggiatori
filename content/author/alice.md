@@ -1,6 +1,6 @@
 ---
 slug: alice
-name: Alice
+title: Alice
 avatar: /assets/alice.jpg
 links:
   - title: Instagram

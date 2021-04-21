@@ -1,6 +1,6 @@
 ---
 slug: simone
-name: Simone
+title: Simone
 avatar: /assets/simone.jpg
 links:
   - url: https://simonemiottophotography.wordpress.com
