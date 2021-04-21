@@ -1,4 +1,4 @@
 ---
-slug: mare
+path: mare
 title: Mare
 ---

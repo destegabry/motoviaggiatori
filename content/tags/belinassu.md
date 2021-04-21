@@ -1,4 +1,4 @@
 ---
-slug: belinassu
+path: belinassu
 title: Belinassu
 ---

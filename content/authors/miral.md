@@ -1,5 +1,5 @@
 ---
-slug: miral
+path: miral
 title: MIRAL
 avatar: /assets/miral.jpg
 links:

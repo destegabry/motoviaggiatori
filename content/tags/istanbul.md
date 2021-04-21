@@ -1,4 +1,4 @@
 ---
-slug: istanbul
+path: istanbul
 title: Istanbul
 ---

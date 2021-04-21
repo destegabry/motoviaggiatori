@@ -1,4 +1,4 @@
 ---
-slug: col-de-liseran
+path: col-de-liseran
 title: Col de l'Iseran
 ---

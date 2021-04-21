@@ -1,4 +1,4 @@
 ---
-slug: veneto
+path: veneto
 title: Veneto
 ---

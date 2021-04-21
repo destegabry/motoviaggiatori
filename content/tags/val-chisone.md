@@ -1,4 +1,4 @@
 ---
-slug: val-chisone
+path: val-chisone
 title: Val Chisone
 ---

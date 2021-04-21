@@ -1,4 +1,4 @@
 ---
-slug: liguria
+path: liguria
 title: Liguria
 ---

@@ -1,4 +1,4 @@
 ---
-slug: brasile
+path: brasile
 title: Brasile
 ---

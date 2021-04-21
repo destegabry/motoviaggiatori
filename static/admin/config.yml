@@ -8,12 +8,13 @@ media_folder: static/assets
 public_folder: /assets
 collections:
   - name: posts
-    label: Post
+    label: Blog
+    label_singular: Post
     folder: content/posts
     create: true
-    slug: "{{year}}-{{month}}-fields.slug}}"
+    slug: "{{year}}/{{month}}/{{fields.path}}"
     fields:
-      - { name: slug, label: Slug }
+      - { name: path, label: Path }
       - { name: title, label: Title }
       - { name: date, label: Date, widget: datetime }
       - name: author
@@ -24,12 +25,13 @@ collections:
         search_fields: [title]
       - { name: body, label: Body, widget: markdown }
   - name: authors
-    label: Author
+    label: Authors
+    label_singular: Author
     folder: content/authors
     create: true
-    slug: "{{fields.slug}}"
+    slug: "{{fields.path}}"
     fields:
-      - { name: slug, label: Slug }
+      - { name: path, label: Path }
       - { name: title, label: Name }
       - { name: avatar, label: Avatar, widget: image }
       - name: links
@@ -41,11 +43,22 @@ collections:
         - { name: url, label: Url  }
       - { name: body, label: Body, widget: markdown }
   - name: tags
-    label: Tag
+    label: Tags
+    label_singular: Tag
     folder: content/tags
     create: true
-    slug: "{{fields.slug}}"
+    slug: "{{fields.path}}"
+      - { name: path, label: Path }
     fields:
-      - { name: slug, label: Slug }
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown, required: false}
+  - name: categories
+    label: Categories
+    label_singular: Category
+    folder: content/categories
+    create: true
+    slug: "{{fields.path}}"
+      - { name: path, label: Path }
+    fields:
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown, required: false}

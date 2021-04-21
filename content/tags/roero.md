@@ -1,4 +1,4 @@
 ---
-slug: roero
+path: roero
 title: Roero
 ---

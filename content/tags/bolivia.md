@@ -1,4 +1,4 @@
 ---
-slug: bolivia
+path: bolivia
 title: Bolivia
 ---

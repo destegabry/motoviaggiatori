@@ -1,4 +1,4 @@
 ---
-slug: efeso
+path: efeso
 title: Efeso
 ---

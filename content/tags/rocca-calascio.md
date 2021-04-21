@@ -1,4 +1,4 @@
 ---
-slug: rocca-calascio
+path: rocca-calascio
 title: Rocca Calascio
 ---

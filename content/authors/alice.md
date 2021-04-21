@@ -1,5 +1,5 @@
 ---
-slug: alice
+path: alice
 title: Alice
 avatar: /assets/alice.jpg
 links:

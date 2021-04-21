@@ -1,4 +1,4 @@
 ---
-slug: colle-dellassietta
+path: colle-dellassietta
 title: Colle dell'Assietta
 ---

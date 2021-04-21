@@ -1,4 +1,4 @@
 ---
-slug: karmaontheroad
+path: karmaontheroad
 title: Karmaontheroad
 ---

@@ -1,4 +1,4 @@
 ---
-slug: turchia
+path: turchia
 title: Turchia
 ---

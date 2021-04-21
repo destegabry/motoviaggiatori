@@ -1,4 +1,4 @@
 ---
-slug: nallihan
+path: nallihan
 title: Nallıhan
 ---

@@ -1,4 +1,4 @@
 ---
-slug: africa-twin
+path: africa-twin
 title: Africa Twin
 ---

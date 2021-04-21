@@ -1,4 +1,4 @@
 ---
-slug: valle-delle-rose
+path: valle-delle-rose
 title: Valle delle Rose
 ---

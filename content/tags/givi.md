@@ -1,4 +1,4 @@
 ---
-slug: givi
+path: givi
 title: GIVI
 ---

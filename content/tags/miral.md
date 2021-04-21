@@ -1,4 +1,4 @@
 ---
-slug: miral
+path: miral
 title: MIRAL
 ---

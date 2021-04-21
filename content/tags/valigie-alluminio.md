@@ -1,4 +1,4 @@
 ---
-slug: valigie-alluminio
+path: valigie-alluminio
 title: Valigie alluminio
 ---

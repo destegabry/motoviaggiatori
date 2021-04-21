@@ -1,4 +1,4 @@
 ---
-slug: heed
+path: heed
 title: HEED
 ---

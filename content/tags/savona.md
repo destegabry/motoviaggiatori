@@ -1,4 +1,4 @@
 ---
-slug: savona
+path: savona
 title: Savona
 ---

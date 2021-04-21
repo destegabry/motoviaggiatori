@@ -1,4 +1,4 @@
 ---
-slug: assicurazione
+path: assicurazione
 title: Assicurazione
 ---

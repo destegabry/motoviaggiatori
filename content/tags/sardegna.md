@@ -1,4 +1,4 @@
 ---
-slug: sardegna
+path: sardegna
 title: Sardegna
 ---

@@ -1,4 +1,4 @@
 ---
-slug: sicilia
+path: sicilia
 title: Sicilia
 ---

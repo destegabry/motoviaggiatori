@@ -1,4 +1,4 @@
 ---
-slug: scimmie
+path: scimmie
 title: Scimmie
 ---

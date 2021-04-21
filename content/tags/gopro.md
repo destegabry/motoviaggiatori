@@ -1,4 +1,4 @@
 ---
-slug: gopro
+path: gopro
 title: GoPro
 ---

@@ -1,4 +1,4 @@
 ---
-slug: informazioni-pratiche
+path: informazioni-pratiche
 title: Informazioni pratiche
 ---

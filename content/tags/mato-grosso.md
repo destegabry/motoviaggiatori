@@ -1,4 +1,4 @@
 ---
-slug: mato-grosso
+path: mato-grosso
 title: Mato Grosso
 ---

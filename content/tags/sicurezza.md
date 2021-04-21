@@ -1,4 +1,4 @@
 ---
-slug: sicurezza
+path: sicurezza
 title: Sicurezza
 ---

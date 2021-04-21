@@ -1,4 +1,4 @@
 ---
-slug: furto
+path: furto
 title: Furto
 ---

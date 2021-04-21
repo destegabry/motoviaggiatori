@@ -1,4 +1,4 @@
 ---
-slug: turchia-in-moto
+path: turchia-in-moto
 title: "#TurchiaInMoto"
 ---

@@ -1,4 +1,4 @@
 ---
-slug: grecia
+path: grecia
 title: Grecia
 ---

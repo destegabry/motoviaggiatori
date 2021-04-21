@@ -1,4 +1,4 @@
 ---
-slug: rif
+path: rif
 title: Rif
 ---

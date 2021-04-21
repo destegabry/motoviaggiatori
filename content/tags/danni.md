@@ -1,4 +1,4 @@
 ---
-slug: danni
+path: danni
 title: Danni
 ---

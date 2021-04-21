@@ -1,5 +1,5 @@
 ---
-slug: Stefania
+path: Stefania
 title: Stefania
 avatar: /assets/stefania.jpg
 links:

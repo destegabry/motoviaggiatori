@@ -1,4 +1,4 @@
 ---
-slug: marrakech
+path: marrakech
 title: Marrakech
 ---

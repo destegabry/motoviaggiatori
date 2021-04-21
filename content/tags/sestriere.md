@@ -1,4 +1,4 @@
 ---
-slug: sestriere
+path: sestriere
 title: Sestriere
 ---

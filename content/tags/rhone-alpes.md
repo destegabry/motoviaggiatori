@@ -1,4 +1,4 @@
 ---
-slug: rhone-alpes
+path: rhone-alpes
 title: Rhône-Alpes
 ---

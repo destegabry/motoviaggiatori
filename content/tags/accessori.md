@@ -1,4 +1,4 @@
 ---
-slug: accessori
+path: accessori
 title: Accessori
 ---

@@ -1,4 +1,4 @@
 ---
-slug: val-di-susa
+path: val-di-susa
 title: Val di Susa
 ---

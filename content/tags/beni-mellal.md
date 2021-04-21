@@ -1,4 +1,4 @@
 ---
-slug: beni-mellal
+path: beni-mellal
 title: Beni Mellal
 ---

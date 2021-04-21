@@ -1,4 +1,4 @@
 ---
-slug: vespa
+path: vespa
 title: Vespa
 ---

@@ -1,4 +1,4 @@
 ---
-slug: col-basset
+path: col-basset
 title: Col Basset
 ---
