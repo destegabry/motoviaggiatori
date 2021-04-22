@@ -1,5 +1,7 @@
 backend:
   name: git-gateway
+  branch: v3
+  use_large_media_transforms_in_media_library: false
 publish_mode: editorial_workflow
 site_url: https://motoviaggiatori.it
 media_folder: static/assets/uploads
