@@ -10,7 +10,7 @@ collections:
   - name: posts
     label: Blog
     label_singular: Post
-    folder: content/posts
+    folder: content/blog
     create: true
     slug: "{{year}}/{{month}}/{{fields.path}}"
     fields:
