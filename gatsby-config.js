@@ -10,8 +10,10 @@ module.exports = {
     description: 'Due ruote, infinite emozioni',
   },
   plugins: [
+    `gatsby-plugin-emotion`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-react-svg`,
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -56,7 +58,7 @@ module.exports = {
             }
           },
           `gatsby-remark-embed-video`,
-          `gatsby-remark-responsive-iframe`
+          `gatsby-remark-responsive-iframe`,
           `gatsby-remark-smartypants`,
           `gatsby-remark-autolink-headers`,
         ],

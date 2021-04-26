@@ -1,8 +1,4 @@
-/**
- * Implement Gatsby's Node APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/node-apis/
- */
+/* eslint-disable no-console */
 const path = require('path');
 
 async function createBlogPages(graphql, createPage) {

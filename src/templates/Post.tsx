@@ -1,13 +1,35 @@
 import React from 'react';
-import { graphql } from 'gatsby';
+import { graphql, PageProps } from 'gatsby';
 
-export default function Post(props: unknown): JSX.Element {
-  return <pre>{JSON.stringify({ props }, null, 2)}</pre>;
+type PostPageProps = PageProps & {
+  data: {
+    markdownRemark: {
+      frontmatter: {
+        title: string;
+        links: {
+          title?: string;
+          url: string;
+        }[];
+      };
+      html: string;
+    };
+  };
+};
+
+export default function Post({ data, location }: PostPageProps): JSX.Element {
+  const post = data.markdownRemark.frontmatter;
+  return (
+    <>
+      <h1>{post.title}</h1>
+      <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} itemProp="articleBody" />
+    </>
+  );
 }
 
 export const pageQuery = graphql`
   query BlogPostById($id: String!, $previousPostId: String, $nextPostId: String) {
     markdownRemark(id: { eq: $id }) {
+      html
       frontmatter {
         path
         title
