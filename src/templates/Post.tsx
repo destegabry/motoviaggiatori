@@ -16,7 +16,7 @@ type PostPageProps = PageProps & {
   };
 };
 
-export default function Post({ data, location }: PostPageProps): JSX.Element {
+export default function Post({ data }: PostPageProps): JSX.Element {
   const post = data.markdownRemark.frontmatter;
   return (
     <>

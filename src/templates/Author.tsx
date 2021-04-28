@@ -1,20 +1,18 @@
 import React from 'react';
 import { graphql, PageProps } from 'gatsby';
 
-type AuthorPageProps = PageProps & {
-  data: {
-    markdownRemark: {
-      frontmatter: {
-        title: string;
-        links: {
-          title?: string;
-          url: string;
-        }[];
-      };
-      html: string;
+type AuthorPageProps = PageProps<{
+  markdownRemark: {
+    frontmatter: {
+      title: string;
+      links: {
+        title?: string;
+        url: string;
+      }[];
     };
+    html: string;
   };
-};
+}>;
 
 export default function Author({ data, location }: AuthorPageProps): JSX.Element {
   const author = data.markdownRemark.frontmatter;
