@@ -26,7 +26,7 @@ export default function Header(): JSX.Element {
     >
       <Container
         css={(theme) => ({
-          height: 60,
+          height: theme.components.header.height,
           display: 'flex',
           alignItems: 'stretch',
           paddingTop: theme.spacing(1),
@@ -34,7 +34,12 @@ export default function Header(): JSX.Element {
         })}
       >
         <Link to="/">
-          <LandscapeLogo css={(theme) => ({ height: '100%', fill: theme.palette.primary.light })} />
+          <LandscapeLogo
+            css={(theme) => ({
+              height: theme.components.header.height - theme.spacing(2),
+              fill: theme.palette.primary.light,
+            })}
+          />
         </Link>
         <Spacer />
         <nav
@@ -42,7 +47,7 @@ export default function Header(): JSX.Element {
             display: 'flex',
             alignItems: 'center',
             textTransform: 'uppercase',
-            'a+a': { marginLeft: theme.spacing(2) },
+            'a + a': { marginLeft: theme.spacing(2) },
           })}
         >
           <Link to="/itinerari">Itinerari</Link>

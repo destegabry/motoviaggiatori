@@ -127,7 +127,12 @@ export const theme = {
   container: {
     maxWidth: '900px',
   },
-  spacing: (space: number): string => `${spacingBase * space}px`,
+  spacing: (space: number): number => spacingBase * space,
+  components: {
+    header: {
+      height: 60,
+    }
+  }
 };
 
 export type TheTheme = typeof theme;
