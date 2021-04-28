@@ -38,26 +38,25 @@ async function createBlogPages(graphql, createPage) {
     throw result.errors;
   }
 
-  const template = path.resolve('./src/templates/Post.tsx');
+  const template = path.resolve('./src/pages/Post.tsx');
 
   result.data.allFile.edges.forEach(({ node, next, previous }) => {
-    const date = new Date(node.childMarkdownRemark.frontmatter.date);
     createPage({
-      path: `${date.getFullYear()}/${date.getMonth()}/${node.childMarkdownRemark.frontmatter.path}`,
+      path: `${node.childMarkdownRemark.frontmatter.path}`,
       component: template,
       context: {
         id: node.childMarkdownRemark.id,
-        previousPostId: previous?.childMarkdownRemark.frontmatter.id,
-        nextPostId: next?.childMarkdownRemark.frontmatter.id,
+        previousPostId: previous?.childMarkdownRemark.id,
+        nextPostId: next?.childMarkdownRemark.id,
       },
     });
   });
 }
 
-async function createAuthorsPages(graphql, createPage) {
+async function createInstancePages(graphql, createPage, instanceName, pathPrefix, template) {
   const result = await graphql(`
     {
-      allFile(filter: { sourceInstanceName: { eq: "authors" } }) {
+      allFile(filter: { sourceInstanceName: { eq: "${instanceName}" } }) {
         edges {
           node {
             childMarkdownRemark {
@@ -77,11 +76,9 @@ async function createAuthorsPages(graphql, createPage) {
     throw result.errors;
   }
 
-  const template = path.resolve('./src/templates/Author.tsx');
-
   result.data.allFile.edges.forEach(({ node }) => {
     createPage({
-      path: `author/${node.childMarkdownRemark.frontmatter.path}`,
+      path: `${pathPrefix}/${node.childMarkdownRemark.frontmatter.path}`,
       component: template,
       context: {
         id: node.childMarkdownRemark.id,
@@ -105,5 +102,7 @@ exports.createPages = async ({ graphql, actions }) => {
   //   isPermanent: true,
   // });
   await createBlogPages(graphql, createPage);
-  await createAuthorsPages(graphql, createPage);
+  await createInstancePages(graphql, createPage, 'authors', 'author', path.resolve('./src/pages/Author.tsx'));
+  await createInstancePages(graphql, createPage, 'tags', 'tag', path.resolve('./src/pages/Tag.tsx'));
+  await createInstancePages(graphql, createPage, 'categories', 'category', path.resolve('./src/pages/Category.tsx'));
 };
