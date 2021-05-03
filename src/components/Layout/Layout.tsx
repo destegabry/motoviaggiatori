@@ -10,9 +10,7 @@ type LayoutProps = {
   children: React.ReactNode | React.ReactNode[];
 };
 
-export default function Layout(props: LayoutProps): JSX.Element {
-  const { children } = props;
-
+export default function Layout({ children }: LayoutProps): JSX.Element {
   return (
     <ThemeProvider theme={theme}>
       <GlobalStyles />

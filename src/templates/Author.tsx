@@ -1,5 +1,6 @@
 import React from 'react';
 import { graphql, PageProps } from 'gatsby';
+import { Layout } from '../components/Layout';
 
 type AuthorPageProps = PageProps<{
   markdownRemark: {
@@ -17,7 +18,7 @@ type AuthorPageProps = PageProps<{
 export default function Author({ data, location }: AuthorPageProps): JSX.Element {
   const author = data.markdownRemark.frontmatter;
   return (
-    <>
+    <Layout>
       <h1>{author.title}</h1>
       {author.links.map(({ title, url }, index) => (
         <div key={index}>
@@ -28,7 +29,7 @@ export default function Author({ data, location }: AuthorPageProps): JSX.Element
       ))}
       <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} itemProp="articleBody" />
       <pre>{JSON.stringify({ data, location }, null, 2)}</pre>
-    </>
+    </Layout>
   );
 }
 

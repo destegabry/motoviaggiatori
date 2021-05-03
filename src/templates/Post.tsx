@@ -1,5 +1,6 @@
 import React from 'react';
 import { graphql, PageProps } from 'gatsby';
+import { Layout } from '../components/Layout';
 
 type PostPageProps = PageProps & {
   data: {
@@ -19,10 +20,10 @@ type PostPageProps = PageProps & {
 export default function Post({ data }: PostPageProps): JSX.Element {
   const post = data.markdownRemark.frontmatter;
   return (
-    <>
+    <Layout>
       <h1>{post.title}</h1>
       <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} itemProp="articleBody" />
-    </>
+    </Layout>
   );
 }
 

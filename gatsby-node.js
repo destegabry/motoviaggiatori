@@ -39,7 +39,7 @@ async function createBlogPages(graphql, createPage) {
     throw result.errors;
   }
 
-  const template = path.resolve('./src/pages/Post.tsx');
+  const template = path.resolve('./src/templates/Post.tsx');
 
   result.data.allFile.edges.forEach(({ node, next, previous }) => {
     createPage({
@@ -99,8 +99,8 @@ exports.createPages = async ({ graphql, actions }) => {
 
   await Promise.all([
     createBlogPages(graphql, createPage),
-    createInstancePages(graphql, createPage, 'authors', 'autore', path.resolve('./src/pages/Author.tsx')),
-    createInstancePages(graphql, createPage, 'tags', 'tag', path.resolve('./src/pages/Tag.tsx')),
-    createInstancePages(graphql, createPage, 'categories', 'categoria', path.resolve('./src/pages/Category.tsx')),
+    createInstancePages(graphql, createPage, 'authors', 'autore', path.resolve('./src/templates/Author.tsx')),
+    createInstancePages(graphql, createPage, 'tags', 'tag', path.resolve('./src/templates/Tag.tsx')),
+    createInstancePages(graphql, createPage, 'categories', 'categoria', path.resolve('./src/templates/Category.tsx')),
   ]);
 };
