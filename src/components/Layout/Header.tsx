@@ -50,8 +50,8 @@ export default function Header(): JSX.Element {
             'a + a': { marginLeft: theme.spacing(2) },
           })}
         >
-          <Link to="/itinerari">Itinerari</Link>
-          <Link to="/viaggi">Viaggi</Link>
+          <Link to="/categoria/itinerari">Itinerari</Link>
+          <Link to="/categoria/viaggi">Viaggi</Link>
         </nav>
       </Container>
     </header>

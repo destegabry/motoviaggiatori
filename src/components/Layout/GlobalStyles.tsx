@@ -48,6 +48,31 @@ export default function GlobalStyles(): JSX.Element {
 
           blockquote: {
             fontStyle: 'italic',
+            position: 'relative',
+            display: 'inline-block',
+            margin: 0,
+            paddingTop: 1,
+            paddingBottom: 1,
+            paddingLeft: theme.spacing(4),
+            paddingRight: theme.spacing(4),
+
+            '&:before, &:after': {
+              fontSize: '2em',
+              position: 'absolute',
+              lineHeight: 1,
+            },
+
+            '&:before': {
+              content: '"“"',
+              left: 0,
+              top: 0,
+            },
+
+            '&:after': {
+              content: '"„"',
+              right: 0,
+              bottom: theme.spacing(1),
+            },
           },
         },
 
@@ -56,7 +81,7 @@ export default function GlobalStyles(): JSX.Element {
           textDecoration: 'none',
 
           '&:visited': {
-            color: theme.palette.primary.main,
+            color: theme.palette.secondary.light,
             textDecoration: 'underline',
           },
 

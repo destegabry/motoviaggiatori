@@ -34,7 +34,11 @@ Osservando lo sguardo di un viaggiatore al suo rientro, lo noterete diverso perc
 
 Salutando i ragazzi nel parcheggio della struttura che ci aveva ospitato, ho notato che solo uno di loro era in sella ad una moto 125 cc, tutti gli altri sono tornati a casa in monopattino, bici elettrica o con il servizio pubblico. La società sta cambiando, ma quanto perderemo? È bastato trascorrere poche ore con questi giovani per comprendere che è in atto una silenziosa mutazione.
 
-Nel frattempo rientrando a casa ho cercato di riflettere su una domanda che mi era stata posta: "*affronteresti un viaggio su una moto più piccola del tuo [BMW R1200 GS Adventure](/tag/bmw-r1200gs)?*" Avevo risposto frettolosamente in modo affermativo, ma una volta a casa ho compreso che dietro quella domanda c'era qualcosa di più.
+Nel frattempo rientrando a casa ho cercato di riflettere su una domanda che mi era stata posta:
+
+> Affronteresti un viaggio su una moto più piccola del tuo [BMW R1200 GS Adventure](/tag/bmw-r1200gs)?
+
+Avevo risposto frettolosamente in modo affermativo, ma una volta a casa ho compreso che dietro quella domanda c'era qualcosa di più.
 
 Spesso chi viaggia cavalca le proprie sicurezze viaggiando su un mezzo nuovo, oppure su una moto vecchia di cui conosce l'affidabilità. Ma **come si comporterebbe un viaggiatore se ad un tratto perdesse queste sue sicurezze?**
 
@@ -44,7 +48,7 @@ Nella discussione era emerso che un motoviaggiatore deve preparare il fisico, la
 
 Per 4 volte in 40 giorni sono rientrato a casa con il carro attrezzi, ma ogni volta che sistemavo qualcosa sulla Lambretta mi convincevo che stesse diventando la moto perfetta per questo viaggio. Credo fermamente nei collaudi e per questo mi sono sempre spinto oltre, fino a superare i 500 km percorsi in un solo giorno con Alice. Per fortuna era un sabato e abbiamo sfruttato la domenica per riposare!
 
-Cosa ho imparato in questi 1400 km di collaudo?
+**Cosa ho imparato in questi 1400 km di collaudo?**
 
 - La giusta velocità di crociera in due con i bagagli è di 55 km/h
 - Il peso dei bagagli deve essere limitato e quindi per questo abbiamo portato con noi la borsa [Ride-N-Dry di GUGLAtech](https://www.guglatech.com/categoria-prodotto/ride-n-dry/)

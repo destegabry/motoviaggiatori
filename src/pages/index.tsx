@@ -22,13 +22,15 @@ export default function Home({ data }: HomeProps): JSX.Element {
         css={(theme) => ({
           article: {
             display: 'flex',
-            marginTop: theme.spacing(4),
-            marginBottom: theme.spacing(4),
+            marginTop: theme.spacing(2),
+            marginBottom: theme.spacing(2),
             fontSize: '.8em',
           },
           picture: {
+            display: 'inline-block',
             flexShrink: 0,
-            marginRight: theme.spacing(4),
+            marginRight: theme.spacing(2),
+            marginTop: theme.spacing(1),
           },
           h3: {
             marginTop: 0,
@@ -47,11 +49,17 @@ export default function Home({ data }: HomeProps): JSX.Element {
             itemType="https://schema.org/BlogPosting"
           >
             {childMarkdownRemark.frontmatter.featured_image && (
-              <Picture src={childMarkdownRemark.frontmatter.featured_image} alt="" height={160} width={160} />
+              <Link to={childMarkdownRemark.frontmatter.path} title={childMarkdownRemark.frontmatter.title}>
+                <Picture src={childMarkdownRemark.frontmatter.featured_image} alt="" height={160} width={240} />
+              </Link>
             )}
             <div>
               <h3 itemProp="name headline">
-                <Link to={childMarkdownRemark.frontmatter.path} itemProp="mainEntityOfPage url">
+                <Link
+                  to={childMarkdownRemark.frontmatter.path}
+                  title="Leggi l'articolo"
+                  itemProp="mainEntityOfPage url"
+                >
                   {childMarkdownRemark.frontmatter.title}
                 </Link>
               </h3>

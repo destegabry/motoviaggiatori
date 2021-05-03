@@ -30,7 +30,11 @@ export default function PostMeta(props: PostMetaProps): JSX.Element {
       )}
       {post.frontmatter.author && (
         <span itemProp="author" itemScope itemType="https://schema.org/Person">
-          <Link to={`/autore/${post.frontmatter.author.frontmatter.path}`} itemProp="url">
+          <Link
+            to={`/autore/${post.frontmatter.author.frontmatter.path}`}
+            title={`Guarda tutti i post di ${post.frontmatter.author.frontmatter.title}`}
+            itemProp="url"
+          >
             <span itemProp="name">{post.frontmatter.author.frontmatter.title}</span>
           </Link>
         </span>
@@ -38,7 +42,12 @@ export default function PostMeta(props: PostMetaProps): JSX.Element {
       {post.frontmatter.categories &&
         post.frontmatter.categories.map((category) => (
           <span key={category.frontmatter.path}>
-            <Link to={`/categoria/${category.frontmatter.path}`}>{category.frontmatter.title}</Link>
+            <Link
+              to={`/categoria/${category.frontmatter.path}`}
+              title={`Guarda tutti nella categoria ${category.frontmatter.title}`}
+            >
+              {category.frontmatter.title}
+            </Link>
           </span>
         ))}
     </div>

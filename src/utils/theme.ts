@@ -56,14 +56,14 @@ export const theme = {
       marginBlockEnd: '.75em',
     },
     h3: {
-      fontSize: '1.5rem',
+      fontSize: '1.25rem',
       fontWeight: fontWeight.regular,
       lineHeight: 1.2,
       marginBlockStart: '.8em',
       marginBlockEnd: '.8em',
     },
     h4: {
-      fontSize: '1.25rem',
+      fontSize: '1.15rem',
       fontWeight: fontWeight.regular,
       lineHeight: 1.25,
       marginBlockStart: '.8em',

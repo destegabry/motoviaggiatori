@@ -16,7 +16,6 @@ type PictureProps = {
 
 export default function Picture({ src, alt, height, width }: PictureProps): JSX.Element {
   const nf_resize = height && width ? 'smartcrop' : 'fit';
-  const imgProps = height ? { height: '100%' } : { width: '100%' };
   const params1x = new URLSearchParams({ nf_resize });
   const params2x = new URLSearchParams({ nf_resize });
   const params3x = new URLSearchParams({ nf_resize });
@@ -31,26 +30,14 @@ export default function Picture({ src, alt, height, width }: PictureProps): JSX.
     params3x.append('h', `${height * 3}`);
   }
   return (
-    <picture
-      itemProp="image"
-      itemScope
-      itemType="https://schema.org/ImageObject"
-      css={{
-        display: 'inline-flex',
-        overflow: 'hidden',
-        justifyContent: 'center',
-        alignItems: 'center',
-        width,
-        height,
-      }}
-    >
+    <picture itemProp="image" itemScope itemType="https://schema.org/ImageObject">
       <source
         srcSet={`
           ${src}?${params2x} 2x,
           ${src}?${params3x} 3x
         `}
       />
-      <img src={`${src}?${params1x}`} alt={alt} {...imgProps} />
+      <img src={`${src}?${params1x}`} alt={alt} width={width} height={height} />
       {width && <meta itemProp="width" content={`${width}`} />}
       {height && <meta itemProp="height" content={`${height}`} />}
     </picture>
