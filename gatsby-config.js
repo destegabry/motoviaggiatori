@@ -71,12 +71,6 @@ module.exports = {
               rel: `noopener norefferer`
             }
           },
-          // {
-          //   resolve: 'gatsby-remark-relative-images',
-          //   options: {
-          //     name: 'uploads',
-          //   },
-          // },
           `gatsby-remark-embed-video`,
           `gatsby-remark-responsive-iframe`,
           `gatsby-remark-smartypants`,
@@ -103,7 +97,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-netlify-cache`,
     `gatsby-plugin-netlify`, // make sure to keep it last in the array
   ],
   mapping: {
