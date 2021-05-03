@@ -2,7 +2,7 @@
 template: author
 path: arturo
 title: Arturo
-avatar: /assets/arturo.jpg
+avatar: /assets/author/arturo.jpg
 website: http://www.xanderelectronics.com/
 links:
   - name: Facebook

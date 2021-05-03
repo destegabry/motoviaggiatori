@@ -12,9 +12,12 @@ export default function PostMeta(props: PostMetaProps): JSX.Element {
   const { post } = props;
   return (
     <div
+      className="post-meta"
       css={{
         '> span + span:before': {
-          content: '" ~ "',
+          content: '"/"',
+          marginLeft: '.25ch',
+          marginRight: '.25ch',
         },
       }}
     >
@@ -26,9 +29,9 @@ export default function PostMeta(props: PostMetaProps): JSX.Element {
         </span>
       )}
       {post.frontmatter.author && (
-        <span>
-          <Link to={`/autore/${post.frontmatter.author.frontmatter.path}`}>
-            {post.frontmatter.author.frontmatter.title}
+        <span itemProp="author" itemScope itemType="https://schema.org/Person">
+          <Link to={`/autore/${post.frontmatter.author.frontmatter.path}`} itemProp="url">
+            <span itemProp="name">{post.frontmatter.author.frontmatter.title}</span>
           </Link>
         </span>
       )}

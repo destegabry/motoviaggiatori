@@ -2,7 +2,7 @@
 template: author
 path: karmaontheroad
 title: Karmaontheroad
-avatar: /assets/karmaontheroad.jpg
+avatar: /assets/author/karmaontheroad.jpg
 links:
   - title: Facebook
     url: https://www.facebook.com/Karmaontheroad/

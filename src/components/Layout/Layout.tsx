@@ -17,7 +17,7 @@ export default function Layout(props: LayoutProps): JSX.Element {
     <ThemeProvider theme={theme}>
       <GlobalStyles />
       <Header />
-      <main>
+      <main itemScope itemType="https://schema.org/Blog">
         <Container>{children}</Container>
       </main>
       <Footer />

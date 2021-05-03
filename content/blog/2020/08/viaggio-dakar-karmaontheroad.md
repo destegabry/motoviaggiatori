@@ -14,7 +14,7 @@ tags:
   - marocco
   - senegal
   - mauritania
-featured_image: /assets/featured_image.jpg
+featured_image: /assets/uploads/featured_image.jpg
 excerpt: Una coppia di MotoViaggiatori con una marcia in più e una gamba in meno
 ---
 

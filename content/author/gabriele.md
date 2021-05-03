@@ -2,7 +2,7 @@
 template: author
 path: gabriele
 title: Gabriele
-avatar: /assets/gabriele.jpg
+avatar: /assets/author/gabriele.jpg
 links:
   - url: https://destefanis.eu
   - title: Instagram

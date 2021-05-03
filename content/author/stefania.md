@@ -2,7 +2,7 @@
 template: author
 path: Stefania
 title: Stefania
-avatar: /assets/stefania.jpg
+avatar: /assets/author/stefania.jpg
 links:
   - url: https://stefania.mellai.it
 ---

@@ -71,12 +71,12 @@ module.exports = {
               rel: `noopener norefferer`
             }
           },
-          {
-            resolve: 'gatsby-remark-relative-images',
-            options: {
-              name: 'uploads',
-            },
-          },
+          // {
+          //   resolve: 'gatsby-remark-relative-images',
+          //   options: {
+          //     name: 'uploads',
+          //   },
+          // },
           `gatsby-remark-embed-video`,
           `gatsby-remark-responsive-iframe`,
           `gatsby-remark-smartypants`,

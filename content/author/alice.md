@@ -2,7 +2,7 @@
 template: author
 path: alice
 title: Alice
-avatar: /assets/alice.jpg
+avatar: /assets/author/alice.jpg
 links:
   - title: Instagram
     url: https://www.instagram.com/__aliceughetto__/
