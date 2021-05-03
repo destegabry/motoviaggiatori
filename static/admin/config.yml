@@ -22,21 +22,22 @@ collections:
         widget: relation
         collection: authors
         value_field: path
-        search_fields: [title]
+        search_fields: [title, path]
         display_fields: [title]
-      - name: category
-        label: Category
+      - name: categories
+        label: Categories
         widget: relation
         collection: categories
         value_field: path
-        search_fields: [title]
+        search_fields: [title, path]
         display_fields: [title]
+        multiple: true
       - name: tags
         label: Tags
         widget: relation
         collection: tags
         value_field: path
-        search_fields: [title]
+        search_fields: [title, path]
         display_fields: [title]
         multiple: true
       - { name: featured_image, label: Featured image, widget: image }

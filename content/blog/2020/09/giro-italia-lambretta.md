@@ -4,7 +4,8 @@ path: /2020/09/giro-italia-lambretta
 title: L'Italia in Lambretta
 date: 2020-09-18T06:00:00.000Z
 author: miral
-category: viaggi
+categories:
+  - viaggi
 tags:
   - lambretta
   - italia

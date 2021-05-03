@@ -1,24 +1,38 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.com/docs/gatsby-config/
- */
+require('dotenv').config();
+const mime = require('mime');
+
+const name = `MotoViaggiatori`;
+const title = name;
+const description = `Due ruote, infinite emozioni`;
+const language = `it`;
+const languageCode = `it_IT`;
+const colors = require('./src/utils/colors.js');
+const siteUrl = `https://motoviaggiatori.it`;
+const { version, repository } = require('./package.json');
 
 module.exports = {
   siteMetadata: {
-    title: 'MotoViaggiatori',
-    description: 'Due ruote, infinite emozioni',
+    siteUrl,
+    repositoryUrl: repository.url,
+    name,
+    version,
+    description,
+    title,
+    image_url: `${siteUrl}/images/static/motoviaggiatori_icon_small.png`,
+    language,
+    languageCode
   },
   plugins: [
+    `gatsby-plugin-remove-fingerprints`, // Fingerprints are not needed on Netlify
     `gatsby-plugin-emotion`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-react-svg`,
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/static/assets`,
-        name: 'assets',
+        name: `assets`,
       },
     },
     {
@@ -57,6 +71,12 @@ module.exports = {
               rel: `noopener norefferer`
             }
           },
+          {
+            resolve: 'gatsby-remark-relative-images',
+            options: {
+              name: 'uploads',
+            },
+          },
           `gatsby-remark-embed-video`,
           `gatsby-remark-responsive-iframe`,
           `gatsby-remark-smartypants`,
@@ -64,6 +84,31 @@ module.exports = {
         ],
       },
     },
-    'gatsby-plugin-netlify', // make sure to keep it last in the array
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: name,
+        short_name: name,
+        start_url: `/`,
+        background_color: colors.primary.main,
+        theme_color: colors.primary.main,
+        display: `minimal-ui`,
+        icon: `static/icons/motoviaggiatori_helmet.png`, // This path is relative to the root of the site.
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [process.env.GOOGLE_ANALYTICS_TRACKING_ID],
+      },
+    },
+    `gatsby-plugin-sitemap`,
+    `gatsby-plugin-netlify-cache`,
+    `gatsby-plugin-netlify`, // make sure to keep it last in the array
   ],
+  mapping: {
+    'MarkdownRemark.frontmatter.author': `MarkdownRemark.frontmatter.path`,
+    'MarkdownRemark.frontmatter.categories': `MarkdownRemark.frontmatter.path`,
+    'MarkdownRemark.frontmatter.tags': `MarkdownRemark.frontmatter.path`,
+  },
 }

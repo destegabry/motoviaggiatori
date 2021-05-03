@@ -1,4 +1,5 @@
 /* eslint-disable no-console */
+require('dotenv').config();
 const path = require('path');
 
 async function createBlogPages(graphql, createPage) {
@@ -90,19 +91,16 @@ async function createInstancePages(graphql, createPage, instanceName, pathPrefix
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage, createRedirect } = actions;
 
-  // createRedirect({
-  //   fromPath: '/author',
-  //   toPath: '/authors',
-  //   isPermanent: true,
-  // });
+  createRedirect({ fromPath: '/author', toPath: '/autori', isPermanent: true, });
+  createRedirect({ fromPath: '/authors', toPath: '/autori', isPermanent: true, });
 
-  // createRedirect({
-  //   fromPath: '/foto',
-  //   toPath: process.env.GATSBY_INSTAGRAM_PROFILE_URL,
-  //   isPermanent: true,
-  // });
-  await createBlogPages(graphql, createPage);
-  await createInstancePages(graphql, createPage, 'authors', 'author', path.resolve('./src/pages/Author.tsx'));
-  await createInstancePages(graphql, createPage, 'tags', 'tag', path.resolve('./src/pages/Tag.tsx'));
-  await createInstancePages(graphql, createPage, 'categories', 'category', path.resolve('./src/pages/Category.tsx'));
+  createRedirect({ fromPath: '/foto', toPath: process.env.GATSBY_INSTAGRAM_PROFILE_URL, isPermanent: true, });
+
+
+  await Promise.all([
+    createBlogPages(graphql, createPage),
+    createInstancePages(graphql, createPage, 'authors', 'autore', path.resolve('./src/pages/Author.tsx')),
+    createInstancePages(graphql, createPage, 'tags', 'tag', path.resolve('./src/pages/Tag.tsx')),
+    createInstancePages(graphql, createPage, 'categories', 'categoria', path.resolve('./src/pages/Category.tsx')),
+  ]);
 };

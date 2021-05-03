@@ -6,11 +6,9 @@ import '@fontsource/palanquin/300.css';
 import '@fontsource/palanquin/400.css';
 import '@fontsource/palanquin/500.css';
 import '@fontsource/palanquin/700.css';
+import { accent, black, error, primary, secondary, success, warning, white } from './colors';
 
 const spacingBase = 8;
-
-const white = '#f8f5f1';
-const black = 'rgba(0, 0, 0, 0.85)';
 
 const fontFamilySerif = ['EB Garamond', 'serif'].join(', ');
 const fontFamilySansSerif = ['Palanquin', 'sans-serif'].join(', ');
@@ -31,42 +29,12 @@ export const theme = {
       secondary: 'rgba(0, 0, 0, 0.6)',
       disabled: 'rgba(0, 0, 0, 0.37)',
     },
-    primary: {
-      light: '#8bdac8',
-      main: '#5aa897',
-      dark: '#277969',
-      contrastText: white,
-    },
-    secondary: {
-      light: '#717e9a',
-      main: '#45526c',
-      dark: '#1b2a41',
-      contrastText: white,
-    },
-    accent: {
-      light: '#ffd6b8',
-      main: '#f8a488',
-      dark: '#c3755b',
-      contrastText: black,
-    },
-    error: {
-      light: '#e57373',
-      main: '#f44336',
-      dark: '#d32f2f',
-      contrastText: white,
-    },
-    warning: {
-      light: '#ffb74d',
-      main: '#ff9800',
-      dark: '#f57c00',
-      contrastText: black,
-    },
-    success: {
-      light: '#81c784',
-      main: '#4caf50',
-      dark: '#388e3c',
-      contrastText: black,
-    },
+    primary,
+    secondary,
+    accent,
+    error,
+    warning,
+    success,
   },
   typography: {
     fontSize: 24,
@@ -131,8 +99,8 @@ export const theme = {
   components: {
     header: {
       height: 60,
-    }
-  }
+    },
+  },
 };
 
 export type TheTheme = typeof theme;

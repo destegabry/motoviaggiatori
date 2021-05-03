@@ -1,24 +1,17 @@
 import React from 'react';
-import { graphql, PageProps } from 'gatsby';
+import { format } from 'date-fns';
+import { it } from 'date-fns/locale';
+import { graphql, Link, PageProps } from 'gatsby';
+import { PostMeta } from '../components/Post';
+import { Post } from '../entities';
 
 type HomeProps = PageProps<{
   allFile: {
-    edges: {
+    edges: Array<{
       node: {
-        childMarkdownRemark: {
-          id: string;
-          frontmatter: {
-            date: string;
-            path: string;
-            author: string;
-            category: string;
-            excerpt: string;
-            featured_image: string;
-            title: string;
-          };
-        };
+        childMarkdownRemark: Post;
       };
-    }[];
+    }>;
   };
 }>;
 
@@ -26,10 +19,17 @@ export default function Home({ data }: HomeProps): JSX.Element {
   return (
     <>
       {data.allFile.edges.map(({ node: { childMarkdownRemark } }) => (
-        <article key={childMarkdownRemark.id} itemScope itemType="http://schema.org/Article">
-          <header>
-            <h3>{childMarkdownRemark.frontmatter.title}</h3>
-          </header>
+        <article key={childMarkdownRemark.frontmatter.path} itemScope itemType="http://schema.org/Article">
+          <h3>
+            <Link to={childMarkdownRemark.frontmatter.path}>{childMarkdownRemark.frontmatter.title}</Link>
+          </h3>
+          <PostMeta post={childMarkdownRemark} />
+          {childMarkdownRemark.frontmatter.excerpt && (
+            <section
+              dangerouslySetInnerHTML={{ __html: childMarkdownRemark.frontmatter.excerpt }}
+              itemProp="articleBody"
+            />
+          )}
         </article>
       ))}
     </>
@@ -46,12 +46,21 @@ export const pageQuery = graphql`
       edges {
         node {
           childMarkdownRemark {
-            id
             frontmatter {
               date
               path
-              author
-              category
+              author {
+                frontmatter {
+                  path
+                  title
+                }
+              }
+              categories {
+                frontmatter {
+                  path
+                  title
+                }
+              }
               excerpt
               featured_image
               title
