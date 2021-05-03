@@ -25,6 +25,11 @@ export default function Picture({ src, alt, height, width }: PictureProps): JSX.
     params2x.append('w', `${width * 2}`);
     params3x.append('w', `${width * 3}`);
   }
+  if (height) {
+    params1x.append('h', `${height}`);
+    params2x.append('h', `${height * 2}`);
+    params3x.append('h', `${height * 3}`);
+  }
   return (
     <picture
       itemProp="image"
