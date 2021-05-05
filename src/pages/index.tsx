@@ -1,8 +1,7 @@
 import React from 'react';
-import { graphql, Link, PageProps } from 'gatsby';
+import { graphql, PageProps } from 'gatsby';
 import { Layout } from '../components/Layout';
-import { Picture } from '../components/Picture';
-import { PostMeta } from '../components/Post';
+import PostList from '../components/Post/PostList';
 import { Post } from '../entities';
 
 type HomeProps = PageProps<{
@@ -18,62 +17,7 @@ type HomeProps = PageProps<{
 export default function Home({ data }: HomeProps): JSX.Element {
   return (
     <Layout>
-      <div
-        css={(theme) => ({
-          article: {
-            display: 'flex',
-            marginTop: theme.spacing(2),
-            marginBottom: theme.spacing(2),
-            fontSize: '.8em',
-          },
-          picture: {
-            display: 'inline-block',
-            flexShrink: 0,
-            marginRight: theme.spacing(2),
-            marginTop: theme.spacing(1),
-          },
-          h3: {
-            marginTop: 0,
-            marginBottom: theme.spacing(1),
-          },
-          '.post-meta': {
-            marginBottom: theme.spacing(1),
-          },
-        })}
-      >
-        {data.allFile.edges.map(({ node: { childMarkdownRemark } }) => (
-          <article
-            key={childMarkdownRemark.frontmatter.path}
-            itemProp="blogPost"
-            itemScope
-            itemType="https://schema.org/BlogPosting"
-          >
-            {childMarkdownRemark.frontmatter.featured_image && (
-              <Link to={childMarkdownRemark.frontmatter.path} title={childMarkdownRemark.frontmatter.title}>
-                <Picture src={childMarkdownRemark.frontmatter.featured_image} alt="" height={160} width={240} />
-              </Link>
-            )}
-            <div>
-              <h3 itemProp="name headline">
-                <Link
-                  to={childMarkdownRemark.frontmatter.path}
-                  title="Leggi l'articolo"
-                  itemProp="mainEntityOfPage url"
-                >
-                  {childMarkdownRemark.frontmatter.title}
-                </Link>
-              </h3>
-              <PostMeta post={childMarkdownRemark} />
-              {childMarkdownRemark.frontmatter.excerpt && (
-                <section
-                  dangerouslySetInnerHTML={{ __html: childMarkdownRemark.frontmatter.excerpt }}
-                  itemProp="abstract"
-                />
-              )}
-            </div>
-          </article>
-        ))}
-      </div>
+      <PostList posts={data.allFile.edges.map(({ node: { childMarkdownRemark } }) => childMarkdownRemark)} />
     </Layout>
   );
 }

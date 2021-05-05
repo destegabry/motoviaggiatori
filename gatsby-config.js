@@ -68,7 +68,7 @@ module.exports = {
             resolve: `gatsby-remark-external-links`,
             options: {
               target: `_blank`,
-              rel: `noopener norefferer`
+              rel: `noopener noreferrer`
             }
           },
           `gatsby-remark-embed-video`,

@@ -1,9 +1,9 @@
 ---
 path: miral
 title: MIRAL
-avatar: /assets/miral.jpg
+avatar: /assets/authors/miral.jpg
 links:
-  - title: MIRAL
+  - title: Facebook
     url: https://www.facebook.com/23miral/
 ---
 Quattro ruote muovono il corpo… due l'anima.

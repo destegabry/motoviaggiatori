@@ -15,7 +15,11 @@ export default function Layout({ children }: LayoutProps): JSX.Element {
     <ThemeProvider theme={theme}>
       <GlobalStyles />
       <Header />
-      <main itemScope itemType="https://schema.org/Blog">
+      <main
+        itemScope
+        itemType="https://schema.org/Blog"
+        css={(theme) => ({ marginTop: theme.spacing(4), marginBottom: theme.spacing(4) })}
+      >
         <Container>{children}</Container>
       </main>
       <Footer />

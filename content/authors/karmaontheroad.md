@@ -1,7 +1,7 @@
 ---
 path: karmaontheroad
 title: Karmaontheroad
-avatar: /assets/karmaontheroad.jpg
+avatar: /assets/authors/karmaontheroad.jpg
 links:
   - title: Facebook
     url: https://www.facebook.com/Karmaontheroad/

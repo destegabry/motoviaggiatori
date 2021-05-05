@@ -1,6 +1,8 @@
 import React from 'react';
 import { graphql, PageProps } from 'gatsby';
 import { Layout } from '../components/Layout';
+import PostList from '../components/Post/PostList';
+import { Post } from '../entities';
 
 type CategoryPageProps = PageProps<{
   markdownRemark: {
@@ -9,30 +11,66 @@ type CategoryPageProps = PageProps<{
     };
     html: string;
   };
+  allFile: {
+    edges: Array<{
+      node: {
+        childMarkdownRemark: Post;
+      };
+    }>;
+  };
 }>;
 
-export default function Category({ data, location }: CategoryPageProps): JSX.Element {
+export default function CategoryPage({ data }: CategoryPageProps): JSX.Element {
   const category = data.markdownRemark.frontmatter;
   return (
     <Layout>
       <h1>{category.title}</h1>
-      <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
-      <pre>{JSON.stringify({ data, location }, null, 2)}</pre>
+      {data.markdownRemark.html && <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />}
+      <PostList posts={data.allFile.edges.map(({ node }) => node.childMarkdownRemark)} />
     </Layout>
   );
 }
 
 export const pageQuery = graphql`
-  query CategoryById($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+  query CategoryByPath($id: String!) {
+    markdownRemark(frontmatter: { path: { eq: $id } }) {
       frontmatter {
         title
-        links {
-          title
-          url
-        }
       }
       html
+    }
+    allFile(
+      sort: { fields: childMarkdownRemark___frontmatter___date, order: DESC }
+      filter: {
+        childMarkdownRemark: { frontmatter: { categories: { elemMatch: { frontmatter: { path: { eq: $id } } } } } }
+        sourceInstanceName: { eq: "blog" }
+      }
+    ) {
+      edges {
+        node {
+          childMarkdownRemark {
+            frontmatter {
+              date
+              path
+              author {
+                frontmatter {
+                  path
+                  title
+                }
+              }
+              categories {
+                frontmatter {
+                  path
+                  title
+                }
+              }
+              excerpt
+              featured_image
+              title
+            }
+          }
+        }
+      }
     }
   }
 `;

@@ -1,4 +1,0 @@
----
-path: miral
-title: MIRAL
----

@@ -61,7 +61,6 @@ async function createInstancePages(graphql, createPage, instanceName, pathPrefix
         edges {
           node {
             childMarkdownRemark {
-              id
               frontmatter {
                 path
               }
@@ -82,7 +81,7 @@ async function createInstancePages(graphql, createPage, instanceName, pathPrefix
       path: `${pathPrefix}/${node.childMarkdownRemark.frontmatter.path}`,
       component: template,
       context: {
-        id: node.childMarkdownRemark.id,
+        id: node.childMarkdownRemark.frontmatter.path,
       },
     });
   });

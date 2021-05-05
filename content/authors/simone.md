@@ -1,7 +1,7 @@
 ---
 path: simone
 title: Simone
-avatar: /assets/simone.jpg
+avatar: /assets/authors/simone.jpg
 links:
   - url: https://simonemiottophotography.wordpress.com
   - url: https://www.facebook.com/Miotss/
