@@ -19,7 +19,6 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
           fontSize: '.8em',
         },
         picture: {
-          display: 'inline-block',
           flexShrink: 0,
           marginRight: theme.spacing(2),
           marginTop: theme.spacing(1),
@@ -48,7 +47,7 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
             </h3>
             <PostMeta post={post} />
             {post.frontmatter.excerpt && (
-              <section dangerouslySetInnerHTML={{ __html: post.frontmatter.excerpt }} itemProp="abstract" />
+              <section dangerouslySetInnerHTML={{ __html: post.frontmatter.excerpt }} itemProp="description" />
             )}
           </div>
         </article>

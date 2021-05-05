@@ -10,6 +10,7 @@ type CategoryPageProps = PageProps<{
       title: string;
     };
     html: string;
+    excerpt: string;
   };
   allFile: {
     edges: Array<{
@@ -23,7 +24,7 @@ type CategoryPageProps = PageProps<{
 export default function CategoryPage({ data }: CategoryPageProps): JSX.Element {
   const category = data.markdownRemark.frontmatter;
   return (
-    <Layout>
+    <Layout title={category.title} description={data.markdownRemark.excerpt}>
       <h1>{category.title}</h1>
       {data.markdownRemark.html && <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />}
       <PostList posts={data.allFile.edges.map(({ node }) => node.childMarkdownRemark)} />
@@ -38,6 +39,7 @@ export const pageQuery = graphql`
         title
       }
       html
+      excerpt
     }
     allFile(
       sort: { fields: childMarkdownRemark___frontmatter___date, order: DESC }
@@ -49,25 +51,7 @@ export const pageQuery = graphql`
       edges {
         node {
           childMarkdownRemark {
-            frontmatter {
-              date
-              path
-              author {
-                frontmatter {
-                  path
-                  title
-                }
-              }
-              categories {
-                frontmatter {
-                  path
-                  title
-                }
-              }
-              excerpt
-              featured_image
-              title
-            }
+            ...PostPreviewData
           }
         }
       }

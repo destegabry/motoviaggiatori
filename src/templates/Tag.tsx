@@ -49,25 +49,7 @@ export const pageQuery = graphql`
       edges {
         node {
           childMarkdownRemark {
-            frontmatter {
-              date
-              path
-              author {
-                frontmatter {
-                  path
-                  title
-                }
-              }
-              categories {
-                frontmatter {
-                  path
-                  title
-                }
-              }
-              excerpt
-              featured_image
-              title
-            }
+            ...PostPreviewData
           }
         }
       }

@@ -8,8 +8,8 @@ export default function Footer(): JSX.Element {
   return (
     <footer
       css={(theme) => ({
-        background: theme.palette.secondary.main,
-        color: theme.palette.secondary.contrastText,
+        background: theme.palette.background.negative,
+        color: theme.palette.text.negative,
 
         a: {
           color: 'inherit',

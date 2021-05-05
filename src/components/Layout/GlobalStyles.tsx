@@ -13,13 +13,16 @@ export default function GlobalStyles(): JSX.Element {
         },
 
         html: {
+          background: theme.palette.background.negative,
+          margin: 0,
+          padding: 0,
           fontFamily: theme.typography.fontFamily,
           fontSize: theme.typography.fontSize,
-          lineHeight: theme.typography.lineHeight,
           fontWeight: theme.typography.fontWeight.regular,
+          lineHeight: theme.typography.lineHeight,
         },
 
-        'html, body': {
+        body: {
           backgroundColor: theme.palette.common.white,
           color: theme.palette.common.black,
           margin: 0,
@@ -93,6 +96,20 @@ export default function GlobalStyles(): JSX.Element {
 
         svg: {
           fill: 'currentcolor',
+        },
+
+        picture: {
+          position: 'relative',
+          display: 'block',
+
+          '> img': {
+            position: 'absolute',
+            top: 0,
+            left: 0,
+            width: '100%',
+            height: '100%',
+            objectFit: 'cover',
+          },
         },
       })}
     />

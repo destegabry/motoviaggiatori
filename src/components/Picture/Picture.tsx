@@ -3,34 +3,26 @@ import React from 'react';
 type PictureProps = {
   alt: string;
   src: string;
-} & (
-  | {
-      height: number;
-      width?: number;
-    }
-  | {
-      height?: number;
-      width: number;
-    }
-);
+  className?: string;
+  height: number;
+  width: number;
+};
 
-export default function Picture({ src, alt, height, width }: PictureProps): JSX.Element {
+export default function Picture(props: PictureProps): JSX.Element {
+  const { src, alt, className, height, width } = props;
   const nf_resize = height && width ? 'smartcrop' : 'fit';
-  const params1x = new URLSearchParams({ nf_resize });
-  const params2x = new URLSearchParams({ nf_resize });
-  const params3x = new URLSearchParams({ nf_resize });
-  if (width) {
-    params1x.append('w', `${width}`);
-    params2x.append('w', `${width * 2}`);
-    params3x.append('w', `${width * 3}`);
-  }
-  if (height) {
-    params1x.append('h', `${height}`);
-    params2x.append('h', `${height * 2}`);
-    params3x.append('h', `${height * 3}`);
-  }
+  const params1x = new URLSearchParams({ nf_resize, w: `${width}`, h: `${height}` });
+  const params2x = new URLSearchParams({ nf_resize, w: `${width * 2}`, h: `${height * 2}` });
+  const params3x = new URLSearchParams({ nf_resize, w: `${width * 3}`, h: `${height * 3}` });
+
   return (
-    <picture itemProp="image" itemScope itemType="https://schema.org/ImageObject">
+    <picture
+      itemProp="image"
+      itemScope
+      itemType="https://schema.org/ImageObject"
+      className={className}
+      css={{ paddingTop: `${(height / width) * 100}%` }}
+    >
       <source
         srcSet={`
           ${src}?${params2x} 2x,
@@ -38,8 +30,8 @@ export default function Picture({ src, alt, height, width }: PictureProps): JSX.
         `}
       />
       <img src={`${src}?${params1x}`} alt={alt} width={width} height={height} />
-      {width && <meta itemProp="width" content={`${width}`} />}
-      {height && <meta itemProp="height" content={`${height}`} />}
+      <meta itemProp="width" content={`${width}`} />
+      <meta itemProp="height" content={`${height}`} />
     </picture>
   );
 }

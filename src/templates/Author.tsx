@@ -16,6 +16,7 @@ type AuthorPageProps = PageProps<{
       }[];
     };
     html: string;
+    excerpt: string;
   };
   allFile: {
     edges: Array<{
@@ -29,7 +30,7 @@ type AuthorPageProps = PageProps<{
 export default function AuthorPage({ data }: AuthorPageProps): JSX.Element {
   const author = data.markdownRemark.frontmatter;
   return (
-    <Layout>
+    <Layout title={author.title} description={data.markdownRemark.excerpt} image={author.avatar}>
       <div
         itemScope
         itemType="http://schema.org/Person"
@@ -37,7 +38,6 @@ export default function AuthorPage({ data }: AuthorPageProps): JSX.Element {
           display: 'flex',
           flexDirection: 'row',
           picture: {
-            display: 'inline-block',
             flexShrink: 0,
             marginRight: theme.spacing(2),
             marginTop: theme.spacing(1),
@@ -78,6 +78,7 @@ export const pageQuery = graphql`
         }
       }
       html
+      excerpt
     }
     allFile(
       sort: { fields: childMarkdownRemark___frontmatter___date, order: DESC }
@@ -89,25 +90,7 @@ export const pageQuery = graphql`
       edges {
         node {
           childMarkdownRemark {
-            frontmatter {
-              date
-              path
-              author {
-                frontmatter {
-                  path
-                  title
-                }
-              }
-              categories {
-                frontmatter {
-                  path
-                  title
-                }
-              }
-              excerpt
-              featured_image
-              title
-            }
+            ...PostPreviewData
           }
         }
       }

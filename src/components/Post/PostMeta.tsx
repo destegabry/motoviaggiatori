@@ -34,22 +34,26 @@ export default function PostMeta(props: PostMetaProps): JSX.Element {
             to={`/autore/${post.frontmatter.author.frontmatter.path}`}
             title={`Guarda tutti i post di ${post.frontmatter.author.frontmatter.title}`}
             itemProp="url"
+            rel="author"
           >
             <span itemProp="name">{post.frontmatter.author.frontmatter.title}</span>
           </Link>
         </span>
       )}
-      {post.frontmatter.categories &&
-        post.frontmatter.categories.map((category) => (
-          <span key={category.frontmatter.path}>
+      {post.frontmatter.categories && (
+        <span itemProp="keywords">
+          {post.frontmatter.categories.map((category) => (
             <Link
               to={`/categoria/${category.frontmatter.path}`}
-              title={`Guarda tutti nella categoria ${category.frontmatter.title}`}
+              title={`Guarda i post nella categoria ${category.frontmatter.title}`}
+              key={category.frontmatter.path}
+              rel="category"
             >
               {category.frontmatter.title}
             </Link>
-          </span>
-        ))}
+          ))}
+        </span>
+      )}
     </div>
   );
 }

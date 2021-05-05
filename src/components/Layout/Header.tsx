@@ -8,8 +8,8 @@ export default function Header(): JSX.Element {
   return (
     <header
       css={(theme) => ({
-        background: theme.palette.secondary.main,
-        color: theme.palette.secondary.contrastText,
+        background: theme.palette.background.negative,
+        color: theme.palette.text.negative,
 
         a: {
           color: 'rgba(255, 255, 255, 0.7)',
