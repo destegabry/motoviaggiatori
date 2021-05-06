@@ -8,6 +8,11 @@ type PostListProps = {
   posts: Array<Post>;
 };
 
+const pictureSize = {
+  width: 240,
+  height: 160,
+};
+
 export default function PostList({ posts }: PostListProps): JSX.Element {
   return (
     <div
@@ -18,11 +23,6 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
           marginBottom: theme.spacing(2),
           fontSize: '.8em',
         },
-        picture: {
-          flexShrink: 0,
-          marginRight: theme.spacing(2),
-          marginTop: theme.spacing(1),
-        },
         h3: {
           marginTop: 0,
           marginBottom: theme.spacing(1),
@@ -30,13 +30,18 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
         '.post-meta': {
           marginBottom: theme.spacing(1),
         },
+        '.image-wrapper': {
+          flex: `0 0 ${pictureSize.width}px`,
+          marginRight: theme.spacing(2),
+          marginTop: theme.spacing(1),
+        },
       })}
     >
       {posts.map((post) => (
         <article key={post.frontmatter.path} itemProp="blogPost" itemScope itemType="https://schema.org/BlogPosting">
           {post.frontmatter.featured_image && (
-            <Link to={post.frontmatter.path} title={post.frontmatter.title}>
-              <Picture src={post.frontmatter.featured_image} alt="" height={160} width={240} />
+            <Link to={post.frontmatter.path} title={post.frontmatter.title} className="image-wrapper">
+              <Picture src={post.frontmatter.featured_image} alt="" {...pictureSize} />
             </Link>
           )}
           <div>

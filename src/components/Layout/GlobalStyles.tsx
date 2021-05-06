@@ -99,6 +99,8 @@ export default function GlobalStyles(): JSX.Element {
         },
 
         picture: {
+          height: 0,
+          overflow: 'hidden',
           position: 'relative',
           display: 'block',
 

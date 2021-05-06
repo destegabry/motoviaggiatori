@@ -27,6 +27,11 @@ type AuthorPageProps = PageProps<{
   };
 }>;
 
+const pictureSize = {
+  width: 240,
+  height: 240,
+};
+
 export default function AuthorPage({ data }: AuthorPageProps): JSX.Element {
   const author = data.markdownRemark.frontmatter;
   return (
@@ -34,22 +39,24 @@ export default function AuthorPage({ data }: AuthorPageProps): JSX.Element {
       <div
         itemScope
         itemType="http://schema.org/Person"
-        css={(theme) => ({
+        css={{
           display: 'flex',
           flexDirection: 'row',
-          picture: {
-            flexShrink: 0,
+        }}
+      >
+        <div
+          css={(theme) => ({
+            flex: `0 0 ${pictureSize.width}px`,
             marginRight: theme.spacing(2),
             marginTop: theme.spacing(1),
-          },
-          h1: {
-            marginTop: 0,
-          },
-        })}
-      >
-        <Picture src={author.avatar} alt={`Avatar ${author.title}`} width={240} height={240} />
+          })}
+        >
+          <Picture src={author.avatar} alt={`Avatar ${author.title}`} {...pictureSize} />
+        </div>
         <div>
-          <h1 itemProp="name">{author.title}</h1>
+          <h1 itemProp="name" css={{ marginTop: 0 }}>
+            {author.title}
+          </h1>
           {author.links?.map(({ title, url }, index) => (
             <div key={index}>
               <a itemProp="sameAs" href={url} title={title} target="_blank" rel="noopener noreferrer">
