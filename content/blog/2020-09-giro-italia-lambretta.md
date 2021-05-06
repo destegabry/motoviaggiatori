@@ -19,7 +19,7 @@ tags:
   - sicilia
   - toscana
   - umbria
-featured_image: /assets/uploads/featured.jpg
+featured_image: /assets/uploads/2020/09/giro-italia-lambretta/featured.jpg
 excerpt: Giro d'Italia a passo di Lambretta
 ---
 A Gennaio appena rientrati dalla [Patagonia](/2020/01/panamericana-sud-america-argentina-patagonia-terra-del-fuoco) siamo stati contattati da un gruppo di giovani della nostra città con i quali ci siamo incontrati per parlare di viaggi. Per questo incontro mi ero preparato molto materiale, ma dopo aver compreso i bisogni di questi ragazzi, ho calato la discussione sui loro sogni, sui loro desideri, sulle loro paure.
@@ -76,9 +76,9 @@ Dopo tutto quello che è successo in Italia per via del COVID, penso che non ci 
 
 Ma ora veniamo al viaggio.
 
-![5,8 kg di bagaglio per 17 giorni di viaggio](./galleries/01/HRQA0505.JPG "5,8 kg di bagaglio per 17 giorni di viaggio")
-![Campagne di Soncino](./galleries/01/IMG_6852.JPG "Campagne di Soncino")
-![La nostra ombra in sella alla Lambretta ](./galleries/01/IMG_8369.JPG "La nostra ombra in sella alla Lambretta ")
+![5,8 kg di bagaglio per 17 giorni di viaggio](/assets/uploads/2020/09/giro-italia-lambretta/galleries/01/HRQA0505.JPG "5,8 kg di bagaglio per 17 giorni di viaggio")
+![Campagne di Soncino](/assets/uploads/2020/09/giro-italia-lambretta/galleries/01/IMG_6852.JPG "Campagne di Soncino")
+![La nostra ombra in sella alla Lambretta ](/assets/uploads/2020/09/giro-italia-lambretta/galleries/01/IMG_8369.JPG "La nostra ombra in sella alla Lambretta ")
 
 ## Partenza e piccoli inconvenienti
 
@@ -94,8 +94,8 @@ Nel Medioevo la costruzione di un ponte veniva considerata un'opera prodigiosa, 
 
 Dopo aver scattato qualche foto, a pomeriggio inoltrato ci rimettiamo in sella. C'è ancora molta strada tortuosa e in salita da percorrere lungo il fiume prima di raggiungere la Liguria.
 
-![Ponte di Bobbio](./galleries/01/IMG_6874.JPG "Ponte di Bobbio")
-![Ponte di Bobbio](./galleries/01/IMG_6880.JPG "Ponte di Bobbio")
+![Ponte di Bobbio](/assets/uploads/2020/09/giro-italia-lambretta/galleries/01/IMG_6874.JPG "Ponte di Bobbio")
+![Ponte di Bobbio](/assets/uploads/2020/09/giro-italia-lambretta/galleries/01/IMG_6880.JPG "Ponte di Bobbio")
 
 ## Liguria, borghi e mare
 
@@ -113,23 +113,23 @@ Il Parco Nazionale delle Cinque Terre, offre caratteristiche ambientali e cultur
 
 Ci fermiamo a fare merenda a Portovenere caratteristica e famosa località di villeggiatura della Liguria, un esempio perfetto del connubio tra natura e architettura: dal lungomare che incornicia il porticciolo turistico all'infinita gamma di colori delle sue strette case, dalle ripide scalinate e dagli stretti vicoli all'estremità del promontorio delle Bocche dove svetta la Chiesa di San Pietro, di epoca paleocristiana.
 
-![Travo](./galleries/02/IMG_6886.JPG "Travo")
-![Passo del Bracco](./galleries/02/IMG_6948.JPG "Passo del Bracco")
-![Portovenere](./galleries/02/IMG_6956.JPG "Portovenere")
+![Travo](/assets/uploads/2020/09/giro-italia-lambretta/galleries/02/IMG_6886.JPG "Travo")
+![Passo del Bracco](/assets/uploads/2020/09/giro-italia-lambretta/galleries/02/IMG_6948.JPG "Passo del Bracco")
+![Portovenere](/assets/uploads/2020/09/giro-italia-lambretta/galleries/02/IMG_6956.JPG "Portovenere")
 
 ## Toscana, Umbria e fascette
 
 Proseguiamo attraversando la Versilia fino a raggiungere Pisa dove ci fermiamo a visitare la famosa torre della Cattedrale di Santa Maria Assunta, nella celeberrima Piazza dei Miracoli di cui è il monumento più famoso per via della caratteristica pendenza, simbolo di Pisa e fra i simboli iconici d'Italia. Si tratta di uno dei monumenti più rappresentativi e visitati d'Italia con i suoi 3,9 gradi di inclinazione, i suoi 56 metri e 293 scalini.
 
-![Piazza dei Miracoli a Pisa](./galleries/03/IMG_6968.JPG "Piazza dei Miracoli a Pisa")
-![Rocca di Vicopisano](./galleries/03/IMG_8117.JPG "Rocca di Vicopisano")
+![Piazza dei Miracoli a Pisa](/assets/uploads/2020/09/giro-italia-lambretta/galleries/03/IMG_6968.JPG "Piazza dei Miracoli a Pisa")
+![Rocca di Vicopisano](/assets/uploads/2020/09/giro-italia-lambretta/galleries/03/IMG_8117.JPG "Rocca di Vicopisano")
 
 Proseguiamo verso Lajatico per raggiungere il Teatro del Silenzio, un anfiteatro naturale situato su una collina ad un chilometro e mezzo dal centro abitato; è un teatro completamente naturale, costituito essenzialmente da un laghetto, una volta utilizzato dagli agricoltori come abbeveratoio per gli animali, al cui centro campeggia una scultura monumentale di un artista contemporaneo, diversa ogni anno, scelta in base al tema dell'edizione. Il tutto è circondato da blocchi di travertino toscano che ricorda un luogo di culto antico. Un panorama di ineguale bellezza che offre una visuale di 180 gradi sulle colline di uno dei versanti più belli del territorio.
 
-![Teatro del Silenzio a Lajatico](./galleries/03/IMG_6974.JPG "Teatro del Silenzio a Lajatico")
-![Teatro del Silenzio a Lajatico](./galleries/03/IMG_6977.JPG "Teatro del Silenzio a Lajatico")
-![Teatro del Silenzio a Lajatico](./galleries/03/IMG_6979.JPG "Teatro del Silenzio a Lajatico")
-![Panorama dal Teatro del Silenzio a Lajatico](./galleries/03/IMG_6982.JPG "Panorama dal Teatro del Silenzio a Lajatico")
+![Teatro del Silenzio a Lajatico](/assets/uploads/2020/09/giro-italia-lambretta/galleries/03/IMG_6974.JPG "Teatro del Silenzio a Lajatico")
+![Teatro del Silenzio a Lajatico](/assets/uploads/2020/09/giro-italia-lambretta/galleries/03/IMG_6977.JPG "Teatro del Silenzio a Lajatico")
+![Teatro del Silenzio a Lajatico](/assets/uploads/2020/09/giro-italia-lambretta/galleries/03/IMG_6979.JPG "Teatro del Silenzio a Lajatico")
+![Panorama dal Teatro del Silenzio a Lajatico](/assets/uploads/2020/09/giro-italia-lambretta/galleries/03/IMG_6982.JPG "Panorama dal Teatro del Silenzio a Lajatico")
 
 Oggi pomeriggio c'è un caldo insopportabile, le cicale cantano e non si trova refrigerio neanche all'ombra dei grandi cipressi. Lasciamo Lajatico per raggiungere Radda in Chianti dove imbocchiamo l'*Eroica*. La Lambretta carica si comporta bene sullo sterrato, fino a quando non sopraggiungono le prime salite: in qualche occasione sarà necessario scendere dalla moto per aiutarla a superare pendenze per lei impegnative, fortunatamente all'ombra dei cipressi. Ma dopo ogni salita c'è sempre una discesa ad accoglierci, con viste su panorami mozzafiato strati di vigneti, che rappresentano alcuni dei passaggi più affascinanti della Toscana.
 
@@ -139,12 +139,12 @@ Mi fermo subito, ma il danno sembra ormai irreparabile. Purtroppo il portapacchi
 
 Mentre Alice fa il check-in, io e un addetto alla manutenzione della struttura cerchiamo di recuperare la saldatrice, ma ahimè non funziona. Con un po' fascette ben posizionate cerco di bloccare il portabagagli, la riparazione di fortuna resisterà fino alla fine del viaggio.
 
-![Colle di Val d'Elsa](./galleries/04/IMG_6997.JPG "Colle di Val d'Elsa")
-![Strada dell'Eroica vicino a Radda in Chianti](./galleries/04/IMG_7015.JPG "Strada dell'Eroica vicino a Radda in Chianti")
-![Buonconvento](./galleries/04/IMG_7018.JPG "Buonconvento")
-![San Quirico d'Orcia](./galleries/04/IMG_7044.JPG "San Quirico d'Orcia")
-![San Quirico d'Orcia](./galleries/04/IMG_8083.JPG "San Quirico d'Orcia")
-![San Quirico d'Orcia](./galleries/04/IMG_8123.JPG "San Quirico d'Orcia")
+![Colle di Val d'Elsa](/assets/uploads/2020/09/giro-italia-lambretta/galleries/04/IMG_6997.JPG "Colle di Val d'Elsa")
+![Strada dell'Eroica vicino a Radda in Chianti](/assets/uploads/2020/09/giro-italia-lambretta/galleries/04/IMG_7015.JPG "Strada dell'Eroica vicino a Radda in Chianti")
+![Buonconvento](/assets/uploads/2020/09/giro-italia-lambretta/galleries/04/IMG_7018.JPG "Buonconvento")
+![San Quirico d'Orcia](/assets/uploads/2020/09/giro-italia-lambretta/galleries/04/IMG_7044.JPG "San Quirico d'Orcia")
+![San Quirico d'Orcia](/assets/uploads/2020/09/giro-italia-lambretta/galleries/04/IMG_8083.JPG "San Quirico d'Orcia")
+![San Quirico d'Orcia](/assets/uploads/2020/09/giro-italia-lambretta/galleries/04/IMG_8123.JPG "San Quirico d'Orcia")
 
 Sono le ore 20.00, mentre tutti si apprestano a cenare io mi butto in piscina. Un addetto della struttura mi sgrida perché la piscina è stata chiusa alle ore 19.30, ma rimango a mollo lo stesso per qualche minuto, giusto il tempo di recuperare un po' di refrigerio. Questo momento di relax me lo sono proprio guadagnato. Il giorno seguente partiamo all'alba raggiungendo Buonconvento per poi proseguire verso Montalcino, riconoscibile dalle sue grandi mura medievali e dominata da un imponente castello, incastonata tra sinuose colline, patria del famoso vino Brunello.
 
@@ -154,12 +154,12 @@ Appena inizia la salita sono costretto a mettere in seconda marcia, per poi pass
 
 Giunti sul tetto dell'Umbria a quota 1450 m. s.l.m. dove di fronte si erge l'imponente e maestosa sagoma del Monte Vettore che con i suoi 2.476 metri è la cima più alta della catena dei Monti Sibillini. Le nuvole raramente lasciano spazio a pochi e deboli raggi di sole, a tratti cadono grosse gocce di pioggia. Ci fermiamo a scattare delle foto nella piana che ha una estensione di circa 15 km².
 
-![Assisi](./galleries/05/IMG_7080.JPG "Assisi")
-![Castelluccio](./galleries/05/IMG_7104.JPG "Castelluccio")
-![Castelluccio](./galleries/05/IMG_7112.JPG "Castelluccio")
-![Castelluccio](./galleries/05/IMG_7128.JPG "Castelluccio")
-![Castelluccio](./galleries/05/IMG_7135.JPG "Castelluccio")
-![Castelluccio](./galleries/05/IMG_7137.JPG "Castelluccio")
+![Assisi](/assets/uploads/2020/09/giro-italia-lambretta/galleries/05/IMG_7080.JPG "Assisi")
+![Castelluccio](/assets/uploads/2020/09/giro-italia-lambretta/galleries/05/IMG_7104.JPG "Castelluccio")
+![Castelluccio](/assets/uploads/2020/09/giro-italia-lambretta/galleries/05/IMG_7112.JPG "Castelluccio")
+![Castelluccio](/assets/uploads/2020/09/giro-italia-lambretta/galleries/05/IMG_7128.JPG "Castelluccio")
+![Castelluccio](/assets/uploads/2020/09/giro-italia-lambretta/galleries/05/IMG_7135.JPG "Castelluccio")
+![Castelluccio](/assets/uploads/2020/09/giro-italia-lambretta/galleries/05/IMG_7137.JPG "Castelluccio")
 
 Il vento si alza, segno che a breve inizierà a piovere e difatti raggiungeremo appena in tempo i locali lungo la strada dove troveremo riparo. Appena smette di piovere risaliamo in sella raggiungendo velocemente la struttura che ci ospiterà la notte. Scendendo verso valle attraversiamo paesi transennati, con impalcature che sorreggono edifici distrutti in quella devastante scossa del 30 ottobre 2017. Il silenzio irreale viene rotto solo dai rumori provenienti dal vicino villaggio di prefabbricati che ospitano i pochi cittadini rimasti aggrappati a questa terra. È un immagine di abbandono che non si vorrebbe vedere. Parlando con un anziano del posto traspare dalle sue parole il forte desiderio di ripartire subito dopo la scossa, tramutato dal tempo in rabbia e poi in rassegnazione e sconforto.
 
@@ -173,13 +173,13 @@ Saliti in sella raggiungiamo velocemente il Vaticano, che si mostra nudo in una 
 
 Transiteremo davanti a molti altri monumenti di inestimabile bellezza, del resto Roma rimane un museo a cielo aperto, una città unica che potrebbe sfruttare il suo potenziale in modo diverso e invece preferisce sprecarlo e abbandonarlo.
 
-![Altare della Patria a Roma](./galleries/06/IMG_7151.JPG "Altare della Patria a Roma")
-![Lungotevere di Roma](./galleries/06/IMG_7165.JPG "Lungotevere di Roma")
-![Castel Sant'Angelo a Roma](./galleries/06/IMG_7169.JPG "Castel Sant'Angelo a Roma")
-![Città del Vaticano](./galleries/06/IMG_7173.JPG "Città del Vaticano")
-![Colosseo Roma](./galleries/06/IMG_7183.JPG "Colosseo Roma")
-![Arco di Costantino ai Fori Imperiali di Roma](./galleries/06/IMG_7194.JPG "Arco di Costantino ai Fori Imperiali di Roma")
-![Arco di Costantino ai Fori Imperiali di Roma](./galleries/06/IMG_7196.JPG "Arco di Costantino ai Fori Imperiali di Roma")
+![Altare della Patria a Roma](/assets/uploads/2020/09/giro-italia-lambretta/galleries/06/IMG_7151.JPG "Altare della Patria a Roma")
+![Lungotevere di Roma](/assets/uploads/2020/09/giro-italia-lambretta/galleries/06/IMG_7165.JPG "Lungotevere di Roma")
+![Castel Sant'Angelo a Roma](/assets/uploads/2020/09/giro-italia-lambretta/galleries/06/IMG_7169.JPG "Castel Sant'Angelo a Roma")
+![Città del Vaticano](/assets/uploads/2020/09/giro-italia-lambretta/galleries/06/IMG_7173.JPG "Città del Vaticano")
+![Colosseo Roma](/assets/uploads/2020/09/giro-italia-lambretta/galleries/06/IMG_7183.JPG "Colosseo Roma")
+![Arco di Costantino ai Fori Imperiali di Roma](/assets/uploads/2020/09/giro-italia-lambretta/galleries/06/IMG_7194.JPG "Arco di Costantino ai Fori Imperiali di Roma")
+![Arco di Costantino ai Fori Imperiali di Roma](/assets/uploads/2020/09/giro-italia-lambretta/galleries/06/IMG_7196.JPG "Arco di Costantino ai Fori Imperiali di Roma")
 
 Raggiungiamo Castel Gandolfo, accolti dal lago Albano dove molti romani si sono trasferiti proprio perché questo lago vulcanico ha un enorme vocazione turistica e le strutture ricettive sono accoglienti e sfarzose. Proseguiamo verso Sud raggiungendo Pozzuoli dove prendiamo il traghetto per raggiungere la prima isola di questo viaggio.
 
@@ -197,11 +197,11 @@ Nel frattempo raggiungiamo la Costiera Amalfitana, 50 chilometri di ripide scogl
 
 Proseguiamo verso Positano, famosa per le spiagge di ciottoli e le stradine strette e scoscese ricche di negozi e caffè. La Chiesa di Santa Maria Assunta ha la cupola in maiolica e un'icona bizantina della Vergine Maria del XIII secolo. Raggiungiamo Amalfi, città che si trova in un ambiente naturale suggestivo sotto le ripide scogliere sulla costa Sud-occidentale dell'Italia, e poi Ravello a 365 metri sopra il Mar Tirreno, nota per gli straordinari giardini sulle scogliere. E poi ancora Maiori e Minori fino a raggiungere Salerno, dove ci dirigeremo verso Agropoli, borgo cilentano il cui nome deriva dal greco e significa "città alta" per la sua posizione arroccata su di un promontorio, ricca di una storia che inzia in epoca classica.
 
-![Ischia - Sant'Angelo](./galleries/07/IMG_7264.JPG "Ischia - Sant'Angelo")
-![Vico Equense](./galleries/07/IMG_7282.JPG "Vico Equense")
-![Sorrento](./galleries/07/IMG_7288.JPG "Sorrento")
-![Positano](./galleries/07/IMG_7316.JPG "Positano")
-![Maratea](./galleries/07/IMG_7352.JPG "Maratea")
+![Ischia - Sant'Angelo](/assets/uploads/2020/09/giro-italia-lambretta/galleries/07/IMG_7264.JPG "Ischia - Sant'Angelo")
+![Vico Equense](/assets/uploads/2020/09/giro-italia-lambretta/galleries/07/IMG_7282.JPG "Vico Equense")
+![Sorrento](/assets/uploads/2020/09/giro-italia-lambretta/galleries/07/IMG_7288.JPG "Sorrento")
+![Positano](/assets/uploads/2020/09/giro-italia-lambretta/galleries/07/IMG_7316.JPG "Positano")
+![Maratea](/assets/uploads/2020/09/giro-italia-lambretta/galleries/07/IMG_7352.JPG "Maratea")
 
 Ad Agropoli notiamo subito che cambiano le regole nei confronti della gestione e del monitoraggio del COVID: alberghi e ristoranti misurano la febbre, registrano nominativi e numeri di telefono. Ci è capitato di assistere in più occasioni di persone che non hanno ottenuto l'autorizzazione ad accedere al ristorante dopo la misurazione della febbre. Il giorno seguente proseguiamo lungo la costa fermandoci a salutare l'amico Valerio Pnd a Lamezia Terme. È stato un vero piacere conoscerlo di persona dopo esserci contattati spesso sui social, un motoviaggiatore come noi che ha sposato la passione per il vento sulla faccia e il desiderio di imparare ciò che la strada gli saprà donare.
 
@@ -209,17 +209,17 @@ Arriviamo nel primo pomeriggio a Tropea dove riusciamo a fare un bagno nel mare 
 
 In serata passeggiamo fino al Santuario benedettino di Santa Maria dell'Isola, uno dei luoghi più fotografati di Tropea. Il Santuario sorge infatti su uno scoglio proprio davanti al paese e si affaccia sul suo mare limpido. Proseguiamo la nostra passeggiata lungo il centro città, camminando tra i tanti palazzi del '600 e '700, ammirando la Chiesa di san Demetrio.
 
-![Tropea](./galleries/08/IMG_7409.JPG "Tropea")
-![Tropea](./galleries/08/IMG_7431.JPG "Tropea")
-![Tropea](./galleries/08/IMG_7454.JPG "Tropea")
+![Tropea](/assets/uploads/2020/09/giro-italia-lambretta/galleries/08/IMG_7409.JPG "Tropea")
+![Tropea](/assets/uploads/2020/09/giro-italia-lambretta/galleries/08/IMG_7431.JPG "Tropea")
+![Tropea](/assets/uploads/2020/09/giro-italia-lambretta/galleries/08/IMG_7454.JPG "Tropea")
 
 ## Sicilia, imprevisti e Lambrette
 
 L'appuntamento con la seconda isola di questo viaggio è arrivato. A Villa San Giovanni abbandoniamo il continente traghettando fino a Messina, dove usciamo rapidamente dal centro città per recarci a salutare gli amici di [ARPAX](http://www.arpax.it) a Barcellona Pozzo di Gotto.
 
-![Bagnara Calabra](./galleries/09/IMG_7474.JPG "Bagnara Calabra")
-![Scilla](./galleries/09/IMG_7485.JPG "Scilla")
-![Imbarco a Villa San Giovanni](./galleries/09/IMG_7489.JPG "Imbarco a Villa San Giovanni")
+![Bagnara Calabra](/assets/uploads/2020/09/giro-italia-lambretta/galleries/09/IMG_7474.JPG "Bagnara Calabra")
+![Scilla](/assets/uploads/2020/09/giro-italia-lambretta/galleries/09/IMG_7485.JPG "Scilla")
+![Imbarco a Villa San Giovanni](/assets/uploads/2020/09/giro-italia-lambretta/galleries/09/IMG_7489.JPG "Imbarco a Villa San Giovanni")
 
 Percorrendo la SS113, una bellissima strada in salita che attraversa una foresta piena di curve, alcune delle quali piastrellate con i sampietrini. Giunti sulla sommità delle colline inizia la discesa che ci condurrà a Villafranca Tirrena.
 
@@ -233,16 +233,16 @@ Raggiungo il meccanico con non poche difficoltà visto che sono senza freni e de
 
 Sono le ore 20:30 quando ringrazio e saluto Franco raggiungendo l'hotel sotto una fitta pioggia, in un buio pesto. Ogni sera dopo la doccia, io e Alice ripercorriamo le giornate di viaggio e ripensando alla giornata appena trascorsa siamo felici: pur essendo diversa rispetto alle precedenti, è stata appassionante, piena di sorprese e decisioni da prendere. Dovevamo proseguire il nostro viaggio verso Taormina incontrando degli amici, ma purtroppo siamo stati costretti a deviare, cogliendo questo imprevisto con il solito spirito che ci accumuna alla ricerca di nuove conoscenze. Il viaggio è meraviglioso proprio per questo.
 
-![Pollina](./galleries/10/IMG_7525.JPG "Pollina")
-![Monreale](./galleries/10/IMG_7538.JPG "Monreale")
-![Monreale](./galleries/10/IMG_8284.JPG "Monreale")
-![Gibellina](./galleries/10/IMG_8288.JPG "Gibellina")
+![Pollina](/assets/uploads/2020/09/giro-italia-lambretta/galleries/10/IMG_7525.JPG "Pollina")
+![Monreale](/assets/uploads/2020/09/giro-italia-lambretta/galleries/10/IMG_7538.JPG "Monreale")
+![Monreale](/assets/uploads/2020/09/giro-italia-lambretta/galleries/10/IMG_8284.JPG "Monreale")
+![Gibellina](/assets/uploads/2020/09/giro-italia-lambretta/galleries/10/IMG_8288.JPG "Gibellina")
 
 Per tutta la notte è piovuto e il mattino si presenta fresco e imbronciato. Dopo aver caricato la Lambretta e averla accesa alla prima pedalata, facciamo il pieno di miscela e iniziamo questa giornata alla scoperta di questo mondo su strada, attraversando l'entroterra siciliano tra masserie e vigneti, raggiungendo Marsala dove ci attende un caro amico. Uscendo da Marsala transitiamo lungo le saline della laguna davanti all'isola di Mozia, dove i mulini a vento dominano i numerosi cumuli di sale fotografati dai turisti di tutto il mondo.
 
-![Marsala](./galleries/11/IMG_7547.JPG "Marsala")
-![Saline a Trapani](./galleries/11/IMG_7562.JPG "Saline a Trapani")
-![Saline a Trapani](./galleries/11/IMG_7570.JPG "Saline a Trapani")
+![Marsala](/assets/uploads/2020/09/giro-italia-lambretta/galleries/11/IMG_7547.JPG "Marsala")
+![Saline a Trapani](/assets/uploads/2020/09/giro-italia-lambretta/galleries/11/IMG_7562.JPG "Saline a Trapani")
+![Saline a Trapani](/assets/uploads/2020/09/giro-italia-lambretta/galleries/11/IMG_7570.JPG "Saline a Trapani")
 
 È una giornata calda e quindi ci fermiamo all'ombra di un supermercato per sorseggiare una bibita. In Sicilia continuiamo ad incontrare appassionati di Lambretta che ci fermano per chiedere informazioni. In tutti i viaggi che abbiamo fatto, il contatto con le persone del posto ti fa sentire a casa. C'è sempre qualcosa che ti unisce, c'è sempre un elemento che accumuna le persone che incrociamo e questo continua a sorprendermi.
 
@@ -250,8 +250,8 @@ Nel frattempo ci mettiamo in contatto con Francesco Oddo, presidente del [Lambre
 
 Intanto, sotto le mani sapienti di Paolo la Lambretta ritorna in sesto rapidamente. Paraolio e ganasce vengono sostituite, anche se ancora buone si erano inzuppate nuovamente di olio. Ma il momento difficile arriva al momento della richiesta del conto… sì perché mentre per noi è una cosa naturale, per tutti i presenti sembra una offesa. Paolo mi consiglia di parlare del conto con il presidente Francesco Oddo, che continuiamo a sentire telefonicamente, e che non abbiamo ancora conosciuto. Dopo la riparazione veniamo accompagnati in una gelateria del centro dove consumiamo per la prima volta un buon gelato al gelsomino dalle dimensioni generose.
 
-![Le sapienti mani di Paolo all'opera sulla Lambretta](./galleries/12/IMG_7594.JPG "Le sapienti mani di Paolo all'opera sulla Lambretta")
-![La Lambretta è di nuovo pronta a partire grazie a Paolo](./galleries/12/IMG_7601.JPG "La Lambretta è di nuovo pronta a partire grazie a Paolo")
+![Le sapienti mani di Paolo all'opera sulla Lambretta](/assets/uploads/2020/09/giro-italia-lambretta/galleries/12/IMG_7594.JPG "Le sapienti mani di Paolo all'opera sulla Lambretta")
+![La Lambretta è di nuovo pronta a partire grazie a Paolo](/assets/uploads/2020/09/giro-italia-lambretta/galleries/12/IMG_7601.JPG "La Lambretta è di nuovo pronta a partire grazie a Paolo")
 
 Nel frattempo chiediamo consiglio su dove alloggiare, ma Francesco ci dice che ha già organizzato tutto. Alloggeremo in un appartamento di uno dei soci del club, già preparato per l'occasione. Continuiamo a venire sorpresi dall'ospitalità e ci sentiamo sempre di più in debito e sempre più in imbarazzo. Raggiunto l'appartamento a Valderice, parcheggiamo la Lambretta nel garage del proprietario affianco ad un'altra Lambretta e ad alcune auto d'epoca. È un garage pregiato, e la nostra Lambretta così sporca fa decisamente brutta figura.
 
@@ -263,15 +263,15 @@ Ci fermiamo ad ammirare il Castello del Mare, alto ben 32 metri con 4 piani sovr
 
 Come non bastasse la vista spettacolare appena ammirata, ci dirigiamo tutti assieme alle saline di Marsala dove osserviamo il lento calare del sole che piano piano scompare dietro gli alberi illuminando di rosso lo specchio d'acqua di fronte a noi. Concludiamo la serata in un vicino ristorante consumando succulento pesce locale e cannoli siciliani superlativi, tra racconti di viaggi e grandi avventure vissute in questa terra fantastica.
 
-![San Vito Lo Capo](./galleries/13/IMG_7707.JPG "San Vito Lo Capo")
-![San Vito Lo Capo](./galleries/13/IMG_7712.JPG "San Vito Lo Capo")
-![Trapani](./galleries/13/IMG_7714.JPG "Trapani")
-![Trapani](./galleries/13/IMG_7716.JPG "Trapani")
-![Trapani](./galleries/13/IMG_7737.JPG "Trapani")
-![Lambrette del club siciliano](./galleries/13/IMG_7749.JPG "Lambrette del club siciliano")
-![Scopello](./galleries/13/IMG_7754.JPG "Scopello")
-![Scopello](./galleries/13/IMG_7759.JPG "Scopello")
-![Mondello](./galleries/13/IMG_7782.JPG "Mondello")
+![San Vito Lo Capo](/assets/uploads/2020/09/giro-italia-lambretta/galleries/13/IMG_7707.JPG "San Vito Lo Capo")
+![San Vito Lo Capo](/assets/uploads/2020/09/giro-italia-lambretta/galleries/13/IMG_7712.JPG "San Vito Lo Capo")
+![Trapani](/assets/uploads/2020/09/giro-italia-lambretta/galleries/13/IMG_7714.JPG "Trapani")
+![Trapani](/assets/uploads/2020/09/giro-italia-lambretta/galleries/13/IMG_7716.JPG "Trapani")
+![Trapani](/assets/uploads/2020/09/giro-italia-lambretta/galleries/13/IMG_7737.JPG "Trapani")
+![Lambrette del club siciliano](/assets/uploads/2020/09/giro-italia-lambretta/galleries/13/IMG_7749.JPG "Lambrette del club siciliano")
+![Scopello](/assets/uploads/2020/09/giro-italia-lambretta/galleries/13/IMG_7754.JPG "Scopello")
+![Scopello](/assets/uploads/2020/09/giro-italia-lambretta/galleries/13/IMG_7759.JPG "Scopello")
+![Mondello](/assets/uploads/2020/09/giro-italia-lambretta/galleries/13/IMG_7782.JPG "Mondello")
 
 In Sicilia e con i siciliani ho sempre vissuto dei momenti fantastici, che rimarranno indelebili nel mio cuore. Tutto ha avuto inizio quasi 30 anni fa quando in questa terra ho fatto il servizio militare. Durante i permessi, non potendo tornare a casa per via della lontananza, ho avuto modo di visitare questa terra assieme ad amici siciliani, percorrendo non solo la costa, ma anche l'entroterra, vistando le isole Eolie durante i periodi meno affollati ed entrando a diretto contatto con le persone che le vivevano tutto l'anno. Poi negli anni ho rivissuto quei luoghi ed altri ancora, viaggiando in auto e in moto in quasi tutte le stagioni, sapendo cogliere la crescita che questa regione e i suoi abitanti hanno fatto nel corso degli anni.
 
@@ -287,8 +287,8 @@ Mancano 2 ore alla partenza della nave e quindi preferisco avvicinarmi al porto 
 
 Superato il check-in spieghiamo all'addetto all'imbarco che devo sostituire il filo della frizione e quindi mi servirebbe un posto all'ombra dove parcheggiare la Lambretta per compiere il lavoro. L'addetto smette immediatamente di controllare i biglietti e si rende subito disponibile a trovarmi il posto all'ombra, portandomi da bere e alcune chiavi per la manutenzione in una cassettina nuova. Smonto i cofani della Lambretta e verifico i cavi che ho in dotazione. I fili dei freni sono corti, ma il filo del comando dell'aria è lungo abbastanza, anche se di diametro nettamente inferiore. Purtroppo questo filo non ha il fermo che serve per agganciare il filo alla maniglia. Verifico tra i ricambi che mi sono portato se riesco a trovare una soluzione e nel frattempo ci raggiunge l'amico Enzo Garofalo, che saputo della nuova rottura ci ha raggiunti. Dovevamo incontrare Enzo a Palermo, ma purtroppo l'imprevisto ci ha costretti al cambio di programma. Anche Enzo porta con se delle chiavi per eseguire la riparazione, ma quando arriva ho quasi concluso e dopo un breve test rimonto i cofani della Lambretta e saliamo in nave pronti per salpare in direzione della Sardegna. Ci dispiace di non aver avuto modo di trascorrere più tempo in compagnia di Enzo, ci saranno sicuramente altre occasioni in futuro.
 
-![Palermo - rottura filo frizione](./galleries/14/IMG_7792.JPG "Palermo - rottura filo frizione")
-![Palermo - rottura filo frizione](./galleries/14/IMG_7793.JPG "Palermo - rottura filo frizione")
+![Palermo - rottura filo frizione](/assets/uploads/2020/09/giro-italia-lambretta/galleries/14/IMG_7792.JPG "Palermo - rottura filo frizione")
+![Palermo - rottura filo frizione](/assets/uploads/2020/09/giro-italia-lambretta/galleries/14/IMG_7793.JPG "Palermo - rottura filo frizione")
 
 Alcuni amici ci hanno chiesto di rimanere ancora qualche altro giorno in Sicilia, ma purtroppo da Palermo le navi per Cagliari salpano solo la domenica e il mercoledì e quindi la nostra è stata una scelta obbligata.
 
@@ -300,8 +300,8 @@ Dopo l'attracco siamo tra i primi a scendere. Ormai Cagliari la percorriamo come
 
 Nel frattempo ci eravamo accordati con Nicola Manca che avremmo fatto visita al MAAN GARAGE di Cagliari dove ci ha accolti l'amico Matteo Murgia. Si percepisce subito la forte passione e l'arte che trasudano dalle mani di questi ragazzi. Il tempo trascorre velocemente in compagnia di Matteo che ci racconta storia e provenienza di ogni pezzo di questo garage, descrivendoci la sua visione dell'arte espressa modellando il ferro. Prima di lasciare il garage Matteo mi consegna uno dei fili della frizione di Nicola, perché dovrò sostituire il cavo della nostra Lambretta prima che si rompa.
 
-![Cagliari - garage MAAN](./galleries/15/IMG_7815.JPG "Cagliari - garage MAAN")
-![Pieno di miscela](./galleries/15/IMG_7825.JPG "Pieno di miscela")
+![Cagliari - garage MAAN](/assets/uploads/2020/09/giro-italia-lambretta/galleries/15/IMG_7815.JPG "Cagliari - garage MAAN")
+![Pieno di miscela](/assets/uploads/2020/09/giro-italia-lambretta/galleries/15/IMG_7825.JPG "Pieno di miscela")
 
 Usciamo da Cagliari raggiungendo Torre delle Stelle, dove sostituisco il cavo della frizione nel parcheggio della struttura che ci ospiterà per la notte. Purtroppo il perno che si dovrebbe bloccare nella maniglia è troppo grande e quindi il giorno seguente a Villasimius mi reco in un officina e con una mola a disco riesco ad adattare il pezzo come fosse l'originale. Proseguiamo verso Costa Rei fino a Bari Sardo. Nel primo pomeriggio ci sistemiamo rapidamente nella struttura per poi raggiungere la spiaggia di ghiaino e finire per farci cullare dalle quieti onde del mare in questa giornata dal clima africano.
 
@@ -315,13 +315,13 @@ Solo chi ha vissuto momenti difficili aggrappato alle poche cose che contano del
 
 Il giorno seguente partiamo presto dalla struttura che ci ha ospitati per la notte, oggi affronteremo il passo Genna Silana e vogliamo evitare di viaggiare con i 40°C del giorno precedente. Raggiunto il passo ci fermiamo a fare colazione nel bar SS125 quando giunge una coppia di coetanei su un [BMW R1200GS Adventure](/tag/bmw-r1200gs) che ci saluta. Parcheggiando le moto vicino scambiamo qualche parola e ci fa sorridere il fatto che siano stanchi per il centinaio di km appena percorsi in sella a quella straordinaria moto che è il GS. Preferiamo non dire niente di noi e del nostro viaggio consumando scherzosamente la colazione assieme.
 
-![Villasimius](./galleries/16/IMG_7837.JPG "Villasimius")
-![Costa Rei](./galleries/16/IMG_7862.JPG "Costa Rei")
-![Villasimius](./galleries/16/IMG_7866.JPG "Villasimius")
-![Villaputzu](./galleries/16/IMG_7875.JPG "Villaputzu")
-![Passo Genna Silana](./galleries/16/IMG_7901.JPG "Passo Genna Silana")
-![Passo Genna Silana](./galleries/16/IMG_7906.JPG "Passo Genna Silana")
-![Passo Genna Silana](./galleries/16/IMG_8389.JPG "Passo Genna Silana")
+![Villasimius](/assets/uploads/2020/09/giro-italia-lambretta/galleries/16/IMG_7837.JPG "Villasimius")
+![Costa Rei](/assets/uploads/2020/09/giro-italia-lambretta/galleries/16/IMG_7862.JPG "Costa Rei")
+![Villasimius](/assets/uploads/2020/09/giro-italia-lambretta/galleries/16/IMG_7866.JPG "Villasimius")
+![Villaputzu](/assets/uploads/2020/09/giro-italia-lambretta/galleries/16/IMG_7875.JPG "Villaputzu")
+![Passo Genna Silana](/assets/uploads/2020/09/giro-italia-lambretta/galleries/16/IMG_7901.JPG "Passo Genna Silana")
+![Passo Genna Silana](/assets/uploads/2020/09/giro-italia-lambretta/galleries/16/IMG_7906.JPG "Passo Genna Silana")
+![Passo Genna Silana](/assets/uploads/2020/09/giro-italia-lambretta/galleries/16/IMG_8389.JPG "Passo Genna Silana")
 
 Proseguendo il nostro viaggio raggiungiamo Cala Gonone per poi fermarci a pranzare a Porto Ottiolu. Qui conosciamo un giovane vespista con un PX200 che partito da Bologna ha raggiunto Livorno per poi traghettare ad Olbia. Quando gli raccontiamo il nostro viaggio ci fa i complimenti, ma ciò che lo sorprende sono le dimensioni del nostro bagaglio, tanto che inizialmente era addirittura incredulo e pensava si trattasse del bagaglio per la spiaggia.
 
@@ -329,19 +329,19 @@ Trascorriamo la notte a Monte Petruso in una villetta a pochi passi dal mare che
 
 Nei giorni successivi visiteremo la costa Smeralda tra hotel e residenze di lusso, movida scintillante, boutique selezionate e mare cristallino, visitiamo Arzachena, Marinella, Porto Rotondo, Porto Cervo e San Pantaleo, riposiamo al sole davanti ad un mare cristallino nelle spiagge di Porto Istana, Capo coda Cavallo, e Cala di Volpe.
 
-![Golfo Aranci](./galleries/17/IMG_7972.JPG "Golfo Aranci")
-![Porto Marinella](./galleries/17/IMG_7987.JPG "Porto Marinella")
-![Porto Marinella](./galleries/17/IMG_7993.JPG "Porto Marinella")
-![Porto Rotondo](./galleries/17/IMG_7997.JPG "Porto Rotondo")
-![Porto Rotondo](./galleries/17/IMG_8011.JPG "Porto Rotondo")
-![Porto Cervo](./galleries/17/IMG_8014.JPG "Porto Cervo")
+![Golfo Aranci](/assets/uploads/2020/09/giro-italia-lambretta/galleries/17/IMG_7972.JPG "Golfo Aranci")
+![Porto Marinella](/assets/uploads/2020/09/giro-italia-lambretta/galleries/17/IMG_7987.JPG "Porto Marinella")
+![Porto Marinella](/assets/uploads/2020/09/giro-italia-lambretta/galleries/17/IMG_7993.JPG "Porto Marinella")
+![Porto Rotondo](/assets/uploads/2020/09/giro-italia-lambretta/galleries/17/IMG_7997.JPG "Porto Rotondo")
+![Porto Rotondo](/assets/uploads/2020/09/giro-italia-lambretta/galleries/17/IMG_8011.JPG "Porto Rotondo")
+![Porto Cervo](/assets/uploads/2020/09/giro-italia-lambretta/galleries/17/IMG_8014.JPG "Porto Cervo")
 
 La Sardegna è stata la meta dei nostri viaggi per anni e molti di questi luoghi, un tempo sconosciuti, oggi sono mete di villeggiatura densamente popolate durante la stagione estiva. Noi preferiamo la Sardegna a Maggio o a Ottobre, quando il mare limpido e calmo dona il vero relax che questa terra e la sua gente sanno regalare nelle numerose sagre paesane in compagnia delle danze sarde e dei mamuthones, assaggiando il *porceddu*, il torrone sardo e le *seadas*.
 
 Oggi è sabato e lunedì Alice rientrerà a lavoro. Domani sbarcheremo a Livorno risalendo verso nord attraverso la valle del Chianti fino agli Appennini, oltrepassati i quali raggiungeremo Bologna attraversando le campagne ferraresi e veronesi fino a Vicenza, dove si concluderà questo viaggio iniziato 17 giorni fa, dopo 3.416 km percorsi in territorio italiano con la nostra Lambretta 125cc da 5,5CV.
 
-![Vicenza davanti alla Basilica palladiana](./galleries/18/IMG_8135.JPG "Vicenza davanti alla Basilica palladiana")
-![Ruota posteriore appena arrivati a casa](./galleries/18/IMG_8140.JPG "Ruota posteriore appena arrivati a casa")
+![Vicenza davanti alla Basilica palladiana](/assets/uploads/2020/09/giro-italia-lambretta/galleries/18/IMG_8135.JPG "Vicenza davanti alla Basilica palladiana")
+![Ruota posteriore appena arrivati a casa](/assets/uploads/2020/09/giro-italia-lambretta/galleries/18/IMG_8140.JPG "Ruota posteriore appena arrivati a casa")
 
 Questa esperienza è servita in primis a me e ad Alice, perché abbiamo acquisito una maggiore consapevolezza delle nostre possibilità e capacità, sapendo spingerci oltre su vari fronti, soprattutto sul bagaglio. Spero che questa esperienza sia servita anche a molti altri motoviaggiatori che spesso si nascondono dietro mille scuse per non partire. La passione alimenta ogni mente libera.
 

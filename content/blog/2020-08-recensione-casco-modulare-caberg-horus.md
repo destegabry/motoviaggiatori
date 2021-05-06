@@ -11,7 +11,7 @@ tags:
   - casco
   - made-in-italy
   - sicurezza
-featured_image: /assets/featured.jpg
+featured_image: /assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/featured.jpg
 excerpt: Abbiamo provato il nuovo Caberg di media gamma, votato al turismo e
   dotato di visiera ultra grandangolare
 opening: >-
@@ -41,9 +41,9 @@ La calzata dell'HORUS è molto comoda, gli interni sono ben imbottiti e risultan
 
 Sia HORUS che LEVO sono molto facili da smontare per permettere le operazioni di pulizia ordinaria. In pochi semplici mosse, si riesce a rimuovere l’imbottitura in tessuto lavabile. Il rivestimento interno del LEVO è in Coolmax® e risulta più traspirante rispetto all'HORUS.
 
-![Caberg HORUS vs LEVO](./foto/IMG_1391.jpg "Le nostre moto pronte per la comparativa HORUS vs LEVO al Colle delle Finestre (TO)")
-![Caberg HORUS vs LEVO](./foto/IMG_1392.jpg "Caberg HORUS vs LEVO al Colle delle Finestre (TO)")
-![Caberg HORUS Strada dell'Assietta](./foto/IMG_1402.jpg "Test del nuovo Caberg HORUS sulla Strada dell'Assietta")
+![Caberg HORUS vs LEVO](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/IMG_1391.jpg "Le nostre moto pronte per la comparativa HORUS vs LEVO al Colle delle Finestre (TO)")
+![Caberg HORUS vs LEVO](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/IMG_1392.jpg "Caberg HORUS vs LEVO al Colle delle Finestre (TO)")
+![Caberg HORUS Strada dell'Assietta](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/IMG_1402.jpg "Test del nuovo Caberg HORUS sulla Strada dell'Assietta")
 
 ## Visiera
 
@@ -63,8 +63,8 @@ Su HORUS la mentoniera presenta un doppio meccanismo di aggancio che a mio parer
 
 HORUS presenta *scassi* per l’interfono leggermente più larghi rispetto al LEVO. Questo ha reso molto facile il montaggio del mio [MIDLAND BTX2 PRO S](/2019/09/recensione-interfoni-midland-serie-bt-pro) (sul LEVO gli speaker entravano faticosamente nell'alloggiamento).
 
-![Caberg HORUS Monte Chaberton](./foto/IMG_1410.jpg "Test del nuovo Caberg HORUS sulla Strada dell'Assietta")
-![Caberg HORUS Colle Basset](./foto/IMG_1420.jpg "Test del nuovo Caberg HORUS sulla Strada dell'Assietta")
+![Caberg HORUS Monte Chaberton](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/IMG_1410.jpg "Test del nuovo Caberg HORUS sulla Strada dell'Assietta")
+![Caberg HORUS Colle Basset](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/IMG_1420.jpg "Test del nuovo Caberg HORUS sulla Strada dell'Assietta")
 
 ## Prezzo
 
@@ -84,12 +84,12 @@ Caberg è riuscita a produrre un casco che costa circa il 35% in meno del top di
 
 Colori HORUS Scout:
 
-![Caberg Horus Scout D6](./foto/catalog/horus-d6.jpg "Caberg Horus Scout D6 Bianco Metallizzato/Rosso/Blu/Blu Chiaro")
-![Caberg Horus Scout I5](./foto/catalog/horus-i5.jpg "Caberg Horus Scout I5 Scout Nero Opaco/Giallo Fluo/Antracite/Argento")
-![Caberg Horus Scout I6](./foto/catalog/horus-i6.jpg "Caberg Horus Scout I6 Nero Opaco/Rosso/Antracite/Argento")
+![Caberg Horus Scout D6](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/catalog/horus-d6.jpg "Caberg Horus Scout D6 Bianco Metallizzato/Rosso/Blu/Blu Chiaro")
+![Caberg Horus Scout I5](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/catalog/horus-i5.jpg "Caberg Horus Scout I5 Scout Nero Opaco/Giallo Fluo/Antracite/Argento")
+![Caberg Horus Scout I6](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/catalog/horus-i6.jpg "Caberg Horus Scout I6 Nero Opaco/Rosso/Antracite/Argento")
 
 Colori HORUS:
 
-![Caberg Horus 17](./foto/catalog/horus-17.jpg "Caberg Horus 17 Nero Opaco")
-![Caberg Horus 48](./foto/catalog/horus-48.jpg "Caberg Horus 48 Blu Opaco YAMA")
-![Caberg Horus A5](./foto/catalog/horus-a5.jpg "Caberg Horus A5 Bianco Metallizzato")
+![Caberg Horus 17](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/catalog/horus-17.jpg "Caberg Horus 17 Nero Opaco")
+![Caberg Horus 48](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/catalog/horus-48.jpg "Caberg Horus 48 Blu Opaco YAMA")
+![Caberg Horus A5](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/catalog/horus-a5.jpg "Caberg Horus A5 Bianco Metallizzato")

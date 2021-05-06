@@ -42,15 +42,17 @@ export default function PostMeta(props: PostMetaProps): JSX.Element {
       )}
       {post.frontmatter.categories && (
         <span itemProp="keywords">
-          {post.frontmatter.categories.map((category) => (
-            <Link
-              to={`/categoria/${category.frontmatter.path}`}
-              title={`Guarda i post nella categoria ${category.frontmatter.title}`}
-              key={category.frontmatter.path}
-              rel="category"
-            >
-              {category.frontmatter.title}
-            </Link>
+          {post.frontmatter.categories.map((category, index, list) => (
+            <span key={category.frontmatter.path}>
+              <Link
+                to={`/categoria/${category.frontmatter.path}`}
+                title={`Guarda i post nella categoria ${category.frontmatter.title}`}
+                rel="category"
+              >
+                {category.frontmatter.title}
+              </Link>
+              {index < list?.length - 1 && ', '}
+            </span>
           ))}
         </span>
       )}

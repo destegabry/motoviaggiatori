@@ -42,6 +42,7 @@ collections:
         multiple: true
       - { name: featured_image, label: Featured image, widget: image }
       - { name: excerpt, label: Excerpt }
+      - { name: opening, label: Opening, widget: markdown }
       - { name: body, label: Body, widget: markdown }
   - name: authors
     label: Authors
