@@ -1,5 +1,4 @@
 ---
-template: post
 path: /2020/08/viaggio-dakar-karmaontheroad
 title: "Karmaontheroad: la semplice filosofia di seminare del bene lungo la strada"
 date: 2020-08-28T09:00:00.000Z
