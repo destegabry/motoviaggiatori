@@ -1,5 +1,4 @@
 require('dotenv').config();
-const mime = require('mime');
 
 const name = `MotoViaggiatori`;
 const title = name;
@@ -97,6 +96,68 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+                image_url
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { allFile } }) => {
+              return allFile.edges.map(
+                ({ node: { childMarkdownRemark: { frontmatter } } }) => ({
+                  title: frontmatter.title,
+                  description: frontmatter.excerpt,
+                  date: frontmatter.date,
+                  url: `${siteUrl}${frontmatter.path}`,
+                  guid: `${siteUrl}${frontmatter.path}`,
+                  custom_elements: [],
+                  enclosure: {
+                    url: `${siteUrl}${frontmatter.featured_image}?nf_resize=smartcrop&w=960&h=480`,
+                    type: `image/jpg`
+                  }
+                })
+              )
+            },
+            query: `
+              {
+                allFile(
+                  filter: { sourceInstanceName: { eq: "blog" } }
+                  sort: { fields: [childMarkdownRemark___frontmatter___date], order: DESC }
+                ) {
+                  edges {
+                    node {
+                      childMarkdownRemark {
+                        frontmatter {
+                          path
+                          title
+                          excerpt
+                          date
+                          featured_image
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss.xml",
+            title: "MotoViaggiatori",
+          },
+        ]
+      }
+    },
     `gatsby-plugin-netlify`, // make sure to keep it last in the array
   ],
   mapping: {
