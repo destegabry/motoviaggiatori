@@ -80,17 +80,21 @@ export default function GlobalStyles(): JSX.Element {
         },
 
         a: {
-          color: theme.palette.primary.dark,
-          textDecoration: 'none',
+          color: 'currentcolor',
+          textDecorationColor: theme.palette.primary.light,
+          textDecorationLine: 'underline',
 
           '&:visited': {
-            color: theme.palette.secondary.light,
-            textDecoration: 'underline',
+            textDecorationColor: theme.palette.primary.main,
           },
 
-          '&:hover, &:active': {
+          '&:hover': {
+            color: theme.palette.primary.dark,
+          },
+
+          '&:active': {
             color: theme.palette.accent.dark,
-            textDecoration: 'underline',
+            textDecorationColor: theme.palette.accent.main,
           },
         },
 

@@ -26,6 +26,10 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
         h3: {
           marginTop: 0,
           marginBottom: theme.spacing(1),
+
+          a: {
+            textDecoration: 'none',
+          },
         },
         '.post-meta': {
           marginBottom: theme.spacing(1),

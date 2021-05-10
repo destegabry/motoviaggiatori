@@ -14,10 +14,10 @@ export default function Footer(): JSX.Element {
         a: {
           color: 'inherit',
           display: 'block',
+          textDecoration: 'none',
 
           '&:hover': {
             color: theme.palette.primary.light,
-            textDecoration: 'none',
           },
         },
       })}

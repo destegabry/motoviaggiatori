@@ -16,10 +16,10 @@ export default function Header(): JSX.Element {
           fontWeight: theme.typography.fontWeight.medium,
           display: 'block',
           transition: 'color .3s',
+          textDecoration: 'none',
 
           '&:hover, &[aria-current]': {
             color: 'rgba(255, 255, 255, 1)',
-            textDecoration: 'none',
           },
         },
       })}

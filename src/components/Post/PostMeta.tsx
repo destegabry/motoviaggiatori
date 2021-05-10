@@ -19,6 +19,10 @@ export default function PostMeta(props: PostMetaProps): JSX.Element {
           marginLeft: '.25ch',
           marginRight: '.25ch',
         },
+
+        a: {
+          textDecorationThickness: 2,
+        },
       }}
     >
       {post.frontmatter.date && (
