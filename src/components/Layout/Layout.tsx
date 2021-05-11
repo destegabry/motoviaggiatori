@@ -26,8 +26,8 @@ export default function Layout(props: LayoutProps): JSX.Element {
         itemType="https://schema.org/Blog"
         css={(theme) => ({
           minHeight: `calc(70vh - ${theme.components.header.height}px)`,
-          marginTop: theme.spacing(2),
-          marginBottom: theme.spacing(2),
+          paddingTop: theme.spacing(2) + theme.components.header.height,
+          paddingBottom: theme.spacing(2),
         })}
       >
         <Container>{children}</Container>

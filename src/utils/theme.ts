@@ -37,6 +37,7 @@ export const theme = {
     },
     header: {
       height: 60,
+      zIndex: 1000,
     },
   },
   breakpoints,
