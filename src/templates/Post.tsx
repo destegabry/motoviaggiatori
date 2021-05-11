@@ -1,8 +1,8 @@
 import React from 'react';
 import { graphql, Link, PageProps } from 'gatsby';
 import { Layout } from '../components/Layout';
-import { Picture } from '../components/Picture';
 import { PostMeta } from '../components/Post';
+import FeaturedMedia from '../components/Post/FeaturedMedia';
 import { Post } from '../entities';
 
 type PostPageProps = PageProps & {
@@ -18,17 +18,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
       <div itemProp="blogPost" itemScope itemType="https://schema.org/BlogPosting">
         <h1 itemProp="name headline">{post.title}</h1>
         <PostMeta post={data.markdownRemark} />
-        {post.featured_image && (
-          <Picture
-            src={post.featured_image}
-            alt=""
-            width={884}
-            height={442}
-            css={(theme) => ({
-              marginTop: theme.spacing(4),
-            })}
-          />
-        )}
+        <FeaturedMedia post={data.markdownRemark} />
         {data.markdownRemark.html && (
           <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} itemProp="articleBody" />
         )}

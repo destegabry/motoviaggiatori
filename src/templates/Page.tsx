@@ -30,7 +30,9 @@ export default function CmsPage({ data }: CmsPageProps): JSX.Element {
             css={(theme) => ({ fontStyle: 'italic', fontSize: theme.typography.caption.fontSize, textAlign: 'center' })}
           >
             Ultimo aggiornamento: &nbsp;
-            {format(new Date(page.date), 'dd MMMM yyyy', { locale })}
+            <time dateTime={page.date} itemProp="datePublished" {...{ content: page.date }}>
+              {format(new Date(page.date), 'dd MMMM yyyy', { locale })}
+            </time>
           </p>
         )}
       </div>

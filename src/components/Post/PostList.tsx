@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import React from 'react';
 import { useTheme } from '@emotion/react';
 import { Link } from 'gatsby';
 import { Post } from '../../entities';
@@ -62,8 +62,8 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
                 responsive={[
                   {
                     screenMaxWidth: theme.breakpoints.values.sm,
-                    width: theme.breakpoints.values.sm,
-                    height: theme.breakpoints.values.sm / 2,
+                    width: theme.breakpoints.values.sm - theme.spacing(2),
+                    height: (theme.breakpoints.values.sm - theme.spacing(2)) / 2,
                   },
                 ]}
               />
