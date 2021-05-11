@@ -16,7 +16,7 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
 
   const pictureSize = useMemo(
     () =>
-      windowWidth < theme.breakpoints.values.sm
+      windowWidth > 0 && windowWidth < theme.breakpoints.values.sm
         ? {
             width: windowWidth,
             height: windowWidth / 2,
@@ -57,7 +57,7 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
           [theme.breakpoints.down('sm')]: {
             marginBottom: theme.spacing(1),
           },
-          [theme.breakpoints.up('md')]: {
+          [theme.breakpoints.up('sm')]: {
             flex: `0 0 ${pictureSize.width}px`,
             marginTop: theme.spacing(1),
             marginRight: theme.spacing(2),
