@@ -77,8 +77,9 @@ async function createInstancePages(graphql, createPage, instanceName, pathPrefix
   }
 
   result.data.allFile.edges.forEach(({ node }) => {
+    const path = pathPrefix ? `${pathPrefix}/${node.childMarkdownRemark.frontmatter.path}` : node.childMarkdownRemark.frontmatter.path;
     createPage({
-      path: `${pathPrefix}/${node.childMarkdownRemark.frontmatter.path}`,
+      path: path,
       component: template,
       context: {
         id: node.childMarkdownRemark.frontmatter.path,
@@ -98,6 +99,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
   await Promise.all([
     createBlogPages(graphql, createPage),
+    createInstancePages(graphql, createPage, 'pages', null, path.resolve('./src/templates/Page.tsx')),
     createInstancePages(graphql, createPage, 'authors', 'autore', path.resolve('./src/templates/Author.tsx')),
     createInstancePages(graphql, createPage, 'tags', 'tag', path.resolve('./src/templates/Tag.tsx')),
     createInstancePages(graphql, createPage, 'categories', 'categoria', path.resolve('./src/templates/Category.tsx')),

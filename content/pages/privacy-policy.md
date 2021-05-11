@@ -3,8 +3,8 @@ path: /privacy-policy
 title: Privacy Policy
 date: 2021-05-11T09:57:02.407Z
 excerpt: I dati forniti a MotoViaggiatori tramite la semplice navigazione sul
-  sito internet l'invio di email all'indirizzo info@motoviaggiatori.it saranno
-  trattati nel rispetto delle disposizioni del Regolamento UE 2016/679
+  sito internet o l'invio di email saranno trattati nel rispetto delle
+  disposizioni del Regolamento UE 2016/679
 ---
 
 I dati forniti a MotoViaggiatori tramite la semplice navigazione del sito internet https://motoviaggiatori.it (di seguito il “Sito) o l'invio di email all'indirizzo [info@motoviaggiatori.it](mailto:info@motoviaggiatori.it) saranno trattati nel rispetto delle disposizioni del Regolamento UE 2016/679. Ai sensi dell’articolo 13 del Regolamento, MotoViaggiatori informa l’utente di quanto segue:

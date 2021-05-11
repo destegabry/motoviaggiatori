@@ -1,6 +1,6 @@
 import React from 'react';
 import { format } from 'date-fns';
-import { it } from 'date-fns/locale';
+import locale from 'date-fns/locale/it';
 import { graphql, Link, PageProps } from 'gatsby';
 import { Layout } from '../components/Layout';
 import { Post } from '../entities';
@@ -65,7 +65,7 @@ export default function ArchivesPage({ data }: ArchivesPageProps): JSX.Element {
               {postsByYear[year].map((post) => (
                 <article key={post.frontmatter.path}>
                   <time dateTime={post.frontmatter.date} itemProp="datePublished" className="label">
-                    {post.frontmatter.date && format(new Date(post.frontmatter.date), 'dd MMMM', { locale: it })}
+                    {post.frontmatter.date && format(new Date(post.frontmatter.date), 'dd MMMM', { locale })}
                   </time>
                   <h3>
                     <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>

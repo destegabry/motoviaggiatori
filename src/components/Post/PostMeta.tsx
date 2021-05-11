@@ -1,6 +1,6 @@
 import React from 'react';
 import { format } from 'date-fns';
-import { it } from 'date-fns/locale';
+import locale from 'date-fns/locale/it';
 import { Link } from 'gatsby';
 import { Post } from '../../entities/Post';
 
@@ -28,7 +28,7 @@ export default function PostMeta(props: PostMetaProps): JSX.Element {
       {post.frontmatter.date && (
         <span>
           <time dateTime={post.frontmatter.date} itemProp="datePublished" {...{ content: post.frontmatter.date }}>
-            {format(new Date(post.frontmatter.date), 'dd MMM yyyy', { locale: it })}
+            {format(new Date(post.frontmatter.date), 'dd MMM yyyy', { locale })}
           </time>
         </span>
       )}

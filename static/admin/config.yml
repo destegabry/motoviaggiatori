@@ -82,3 +82,15 @@ collections:
       - { name: path, label: Path }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown, required: false }
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: content/pages
+    create: true
+    slug: "{{fields.path}}"
+    fields:
+      - { name: path, label: Path }
+      - { name: title, label: Title }
+      - { name: date, label: Date, widget: datetime }
+      - { name: excerpt, label: Excerpt }
+      - { name: body, label: Body, widget: markdown, required: false }
