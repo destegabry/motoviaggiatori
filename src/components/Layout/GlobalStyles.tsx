@@ -124,18 +124,11 @@ export default function GlobalStyles(): JSX.Element {
         },
 
         picture: {
-          height: 0,
-          overflow: 'hidden',
-          position: 'relative',
           display: 'block',
 
           '> img': {
-            position: 'absolute',
-            top: 0,
-            left: 0,
-            width: '100%',
-            height: '100%',
-            objectFit: 'cover',
+            maxWidth: '100%',
+            height: 'auto',
           },
         },
       })}
