@@ -6,24 +6,7 @@ import Spacer from './Spacer';
 
 export default function Header(): JSX.Element {
   return (
-    <header
-      css={(theme) => ({
-        background: theme.palette.background.negative,
-        color: theme.palette.text.negative,
-
-        a: {
-          color: 'rgba(255, 255, 255, 0.7)',
-          fontWeight: theme.typography.fontWeight.medium,
-          display: 'block',
-          transition: 'color .3s',
-          textDecoration: 'none',
-
-          '&:hover, &[aria-current]': {
-            color: 'rgba(255, 255, 255, 1)',
-          },
-        },
-      })}
-    >
+    <header>
       <Container
         css={(theme) => ({
           height: theme.components.header.height,

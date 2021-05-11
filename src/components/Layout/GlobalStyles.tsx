@@ -37,6 +37,23 @@ export default function GlobalStyles(): JSX.Element {
         h6: theme.typography.h6,
         p: theme.typography.body,
 
+        'header, footer, aside': {
+          background: theme.palette.background.negative,
+          color: theme.palette.text.negative,
+
+          a: {
+            color: 'rgba(255, 255, 255, 0.7)',
+            fontWeight: theme.typography.fontWeight.medium,
+            display: 'inline-block',
+            transition: 'color .3s',
+            textDecoration: 'none',
+
+            '&:hover, &[aria-current]': {
+              color: 'rgba(255, 255, 255, 1)',
+            },
+          },
+        },
+
         main: {
           ol: {
             ...theme.typography.body,
