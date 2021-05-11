@@ -1,6 +1,5 @@
 import React, { useMemo } from 'react';
 import { useTheme } from '@emotion/react';
-import { useWindowWidth } from '@react-hook/window-size';
 import { Link } from 'gatsby';
 import { Post } from '../../entities';
 import { Picture } from '../Picture';
@@ -10,23 +9,10 @@ type PostListProps = {
   posts: Array<Post>;
 };
 
-export default function PostList({ posts }: PostListProps): JSX.Element {
-  const windowWidth = useWindowWidth();
-  const theme = useTheme();
+const pictureSize = { width: 240, height: 160 };
 
-  const pictureSize = useMemo(
-    () =>
-      windowWidth > 0 && windowWidth < theme.breakpoints.values.sm
-        ? {
-            width: windowWidth,
-            height: windowWidth / 2,
-          }
-        : {
-            width: 240,
-            height: 160,
-          },
-    [theme.breakpoints.values.sm, windowWidth]
-  );
+export default function PostList({ posts }: PostListProps): JSX.Element {
+  const theme = useTheme();
 
   return (
     <div
@@ -69,7 +55,18 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
         <article key={post.frontmatter.path} itemProp="blogPost" itemScope itemType="https://schema.org/BlogPosting">
           {post.frontmatter.featured_image && (
             <Link to={post.frontmatter.path} title={post.frontmatter.title} className="image-wrapper">
-              <Picture src={post.frontmatter.featured_image} alt="" {...pictureSize} />
+              <Picture
+                src={post.frontmatter.featured_image}
+                alt=""
+                {...pictureSize}
+                responsive={[
+                  {
+                    screenMaxWidth: theme.breakpoints.values.sm,
+                    width: theme.breakpoints.values.sm,
+                    height: theme.breakpoints.values.sm / 2,
+                  },
+                ]}
+              />
             </Link>
           )}
           <div>
