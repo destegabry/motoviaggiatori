@@ -20,6 +20,10 @@ export default function GlobalStyles(): JSX.Element {
           fontSize: theme.typography.fontSize,
           fontWeight: theme.typography.fontWeight.regular,
           lineHeight: theme.typography.lineHeight,
+
+          [theme.breakpoints.down('sm')]: {
+            fontSize: (theme.typography.fontSize / 4) * 3,
+          },
         },
 
         body: {

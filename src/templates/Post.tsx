@@ -57,10 +57,10 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
                     paddingRight: theme.spacing(2),
                     paddingTop: theme.spacing(1 / 2),
                     paddingBottom: theme.spacing(1),
+                    textDecoration: 'none',
 
                     '&:hover': {
                       background: theme.palette.primary.main,
-                      textDecoration: 'none',
                     },
                   },
                 },

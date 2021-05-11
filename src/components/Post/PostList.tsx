@@ -1,19 +1,33 @@
-import React from 'react';
+import React, { useMemo } from 'react';
+import { useTheme } from '@emotion/react';
+import { useWindowWidth } from '@react-hook/window-size';
 import { Link } from 'gatsby';
 import { Post } from '../../entities';
 import { Picture } from '../Picture';
-import { PostMeta } from '.';
+import PostMeta from './PostMeta';
 
 type PostListProps = {
   posts: Array<Post>;
 };
 
-const pictureSize = {
-  width: 240,
-  height: 160,
-};
-
 export default function PostList({ posts }: PostListProps): JSX.Element {
+  const windowWidth = useWindowWidth();
+  const theme = useTheme();
+
+  const pictureSize = useMemo(
+    () =>
+      windowWidth < theme.breakpoints.values.sm
+        ? {
+            width: windowWidth,
+            height: windowWidth / 2,
+          }
+        : {
+            width: 240,
+            height: 160,
+          },
+    [theme.breakpoints.values.sm, windowWidth]
+  );
+
   return (
     <div
       css={(theme) => ({
@@ -22,6 +36,11 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
           marginTop: theme.spacing(2),
           marginBottom: theme.spacing(2),
           fontSize: '.8em',
+
+          [theme.breakpoints.down('sm')]: {
+            flexDirection: 'column',
+            marginBottom: theme.spacing(4),
+          },
         },
         h3: {
           marginTop: 0,
@@ -35,9 +54,14 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
           marginBottom: theme.spacing(1),
         },
         '.image-wrapper': {
-          flex: `0 0 ${pictureSize.width}px`,
-          marginRight: theme.spacing(2),
-          marginTop: theme.spacing(1),
+          [theme.breakpoints.down('sm')]: {
+            marginBottom: theme.spacing(1),
+          },
+          [theme.breakpoints.up('md')]: {
+            flex: `0 0 ${pictureSize.width}px`,
+            marginTop: theme.spacing(1),
+            marginRight: theme.spacing(2),
+          },
         },
       })}
     >
