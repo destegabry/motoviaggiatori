@@ -59,6 +59,9 @@ export default function GlobalStyles(): JSX.Element {
         },
 
         main: {
+          paddingTop: theme.spacing(2) + theme.components.header.height,
+          paddingBottom: theme.spacing(2),
+
           ol: {
             ...theme.typography.body,
           },

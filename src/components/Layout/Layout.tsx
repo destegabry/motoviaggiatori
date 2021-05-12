@@ -21,15 +21,7 @@ export default function Layout(props: LayoutProps): JSX.Element {
       <SEO {...seoProps} />
       <GlobalStyles />
       <Header />
-      <main
-        itemScope
-        itemType="https://schema.org/Blog"
-        css={(theme) => ({
-          minHeight: `calc(70vh - ${theme.components.header.height}px)`,
-          paddingTop: theme.spacing(2) + theme.components.header.height,
-          paddingBottom: theme.spacing(2),
-        })}
-      >
+      <main itemScope itemType="https://schema.org/Blog">
         <Container>{children}</Container>
       </main>
       <Footer />
