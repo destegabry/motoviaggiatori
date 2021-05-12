@@ -61,7 +61,7 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
                 {...pictureSize}
                 responsive={[
                   {
-                    screenMaxWidth: theme.breakpoints.values.sm,
+                    key: 'sm',
                     width: theme.breakpoints.values.sm - theme.spacing(2),
                     height: (theme.breakpoints.values.sm - theme.spacing(2)) / 2,
                   },

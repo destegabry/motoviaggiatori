@@ -6,27 +6,31 @@ const values: Record<Breakpoint, number> = { xs: 0, sm: 600, md: 960, lg: 1280, 
 const ε = 0.05;
 const unit = 'px';
 
-const createMediaQuery = ({ start, end }: { start?: Breakpoint; end?: Breakpoint }): string => {
+const minWidthConstraint = (minWidth: number): string => `(min-width: ${minWidth}${unit})`;
+const maxWidthConstraint = (maxWidth: number): string => `(max-width: ${maxWidth - ε}${unit})`;
+
+const createMediaQuery = ({ start, end }: { start?: number; end?: number }): string => {
   const constraints: string[] = [];
   if (start) {
-    constraints.push(`(min-width: ${values[start]}${unit})`);
+    constraints.push(minWidthConstraint(start));
   }
   if (end) {
-    constraints.push(`(max-width: ${values[end] - ε}${unit})`);
+    constraints.push(maxWidthConstraint(end));
   }
   return `@media ${constraints.join(' and ')}`;
 };
 
-const up = (start: Breakpoint): string => createMediaQuery({ start });
+const up = (start: Breakpoint): string => createMediaQuery({ start: values[start] });
 
-const down = (end: Breakpoint): string => createMediaQuery({ end });
+const down = (end: Breakpoint): string => createMediaQuery({ end: values[end] });
 
-const between = (start: Breakpoint, end: Breakpoint): string => createMediaQuery({ start, end });
+const between = (start: Breakpoint, end: Breakpoint): string =>
+  createMediaQuery({ start: values[start], end: values[end] });
 
 const only = (key: Breakpoint): string => {
   const keyIndex = keys.findIndex((k) => k === key);
   const nextKey = keys[keyIndex + 1];
-  return createMediaQuery({ start: key, end: nextKey });
+  return createMediaQuery({ start: values[key], end: values[nextKey] });
 };
 
 export const breakpoints = {
@@ -36,4 +40,7 @@ export const breakpoints = {
   down,
   between,
   only,
+  createMediaQuery,
+  minWidthConstraint,
+  maxWidthConstraint,
 };

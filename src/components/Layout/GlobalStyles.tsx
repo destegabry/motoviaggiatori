@@ -122,15 +122,6 @@ export default function GlobalStyles(): JSX.Element {
         svg: {
           fill: 'currentcolor',
         },
-
-        picture: {
-          display: 'block',
-
-          '> img': {
-            maxWidth: '100%',
-            height: 'auto',
-          },
-        },
       })}
     />
   );

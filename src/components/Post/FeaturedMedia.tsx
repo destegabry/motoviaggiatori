@@ -23,7 +23,7 @@ export default function FeaturedMedia(props: FeaturedMediaProps): JSX.Element {
         height={width / 2}
         responsive={[
           {
-            screenMaxWidth: theme.breakpoints.values.sm,
+            key: 'sm',
             width: smWidth,
             height: smWidth / 2,
           },
