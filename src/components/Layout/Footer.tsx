@@ -50,10 +50,10 @@ export default function Footer(): JSX.Element {
             },
           })}
         >
-          <Link to="/viaggi">Viaggi</Link>
-          <Link to="/itinerari">Itinerari</Link>
-          <Link to="/recensioni">Recensioni</Link>
-          <Link to="/recensioni">Video</Link>
+          <Link to="/categoria/viaggi">Viaggi</Link>
+          <Link to="/categoria/itinerari">Itinerari</Link>
+          <Link to="/categoria/recensioni">Recensioni</Link>
+          <Link to="/categoria/video">Video</Link>
           <Link to="/archivi">Archivi</Link>
           <Link to="/autori">Autori</Link>
         </nav>
