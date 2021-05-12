@@ -17,12 +17,10 @@ export default function SEO(props: SEOProps): JSX.Element {
     ? `${props.title} | ${siteMetadata.title}`
     : `${siteMetadata.title} | ${siteMetadata.description}`;
   const description = props.description || siteMetadata.description;
-  const image = props.image
-    ? `${props.image}?nf_resize=smartcrop&w=600&h=315`
-    : `/static/icons/motoviaggiatori_opengraph.png`;
+  const image = props.image ? `${props.image}?nf_resize=smartcrop&w=600&h=315` : `/icons/motoviaggiatori_opengraph.png`;
 
   const meta = [
-    { property: `description`, content: description },
+    { name: `description`, content: description },
     { property: `og:title`, content: title },
     { property: `og:description`, content: description },
     { property: `og:type`, content: `website` },
