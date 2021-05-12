@@ -17,7 +17,7 @@ export const typography = {
     fontSize: '2.25rem',
     fontWeight: fontWeight.regular,
     lineHeight: 1.15,
-    marginBlockStart: '.6em',
+    marginBlockStart: 0,
     marginBlockEnd: '.6em',
   },
   h2: {
