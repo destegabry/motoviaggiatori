@@ -39,7 +39,7 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
         '.post-meta': {
           marginBottom: theme.spacing(1),
         },
-        '.image-wrapper': {
+        '.picture-wrapper': {
           [theme.breakpoints.down('sm')]: {
             marginBottom: theme.spacing(1),
           },
@@ -54,7 +54,7 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
       {posts.map((post) => (
         <article key={post.frontmatter.path} itemProp="blogPost" itemScope itemType="https://schema.org/BlogPosting">
           {post.frontmatter.featured_image && (
-            <Link to={post.frontmatter.path} title={post.frontmatter.title} className="image-wrapper">
+            <Link to={post.frontmatter.path} title={post.frontmatter.title} className="picture-wrapper">
               <Picture
                 src={post.frontmatter.featured_image}
                 alt=""

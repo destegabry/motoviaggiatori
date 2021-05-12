@@ -39,16 +39,32 @@ export default function AuthorPage({ data }: AuthorPageProps): JSX.Element {
       <div
         itemScope
         itemType="http://schema.org/Person"
-        css={{
+        css={(theme) => ({
           display: 'flex',
-          flexDirection: 'row',
-        }}
+
+          [theme.breakpoints.down('sm')]: {
+            flexDirection: 'column',
+            textAlign: 'center',
+
+            p: {
+              textAlign: 'left',
+            },
+          },
+        })}
       >
         <div
           css={(theme) => ({
-            flex: `0 0 ${pictureSize.width}px`,
-            marginRight: theme.spacing(2),
-            marginTop: theme.spacing(1),
+            ...pictureSize,
+
+            [theme.breakpoints.up('sm')]: {
+              flex: `0 0 ${pictureSize.width}px`,
+              marginRight: theme.spacing(2),
+              marginTop: theme.spacing(1),
+            },
+
+            [theme.breakpoints.down('sm')]: {
+              margin: `0 auto ${theme.spacing(2)}px`,
+            },
           })}
         >
           <Picture src={author.avatar} alt={`Avatar ${author.title}`} {...pictureSize} />
@@ -58,7 +74,7 @@ export default function AuthorPage({ data }: AuthorPageProps): JSX.Element {
             {author.title}
           </h1>
           {author.links?.map(({ title, url }, index) => (
-            <div key={index}>
+            <div key={index} css={(theme) => ({ fontSize: theme.typography.caption.fontSize })}>
               <a itemProp="sameAs" href={url} title={title} target="_blank" rel="noopener noreferrer">
                 {title || url}
               </a>
