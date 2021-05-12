@@ -15,8 +15,8 @@ export default function SocialIcons(): JSX.Element {
         justifyContent: 'center',
         a: {
           display: 'inline-block',
-          marginLeft: theme.spacing(1),
-          marginRight: theme.spacing(1),
+          paddingLeft: theme.spacing(1),
+          paddingRight: theme.spacing(1),
         },
       })}
     >
