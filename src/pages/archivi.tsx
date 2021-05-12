@@ -16,7 +16,6 @@ type ArchivesPageProps = PageProps<{
 }>;
 
 const title = 'Archivi';
-const labelWidth = 120;
 
 export default function ArchivesPage({ data }: ArchivesPageProps): JSX.Element {
   const postsByYear = data.allFile.edges.reduce((byYear, { node }) => {
@@ -32,21 +31,26 @@ export default function ArchivesPage({ data }: ArchivesPageProps): JSX.Element {
       <div
         css={(theme) => ({
           '.label': {
-            display: 'inline-block',
-            minWidth: labelWidth,
-            textAlign: 'right',
+            [theme.breakpoints.up('sm')]: {
+              display: 'inline-block',
+              textAlign: 'right',
+              minWidth: 120,
+            },
           },
           article: {
-            display: 'flex',
-            alignItems: 'baseline',
             marginBottom: theme.spacing(2),
+
+            [theme.breakpoints.up('sm')]: {
+              display: 'flex',
+              alignItems: 'baseline',
+            },
           },
           time: {
             ...theme.typography.caption,
             marginRight: theme.spacing(4),
           },
           h1: {
-            marginBottom: 0,
+            margin: 0,
           },
           h2: {
             marginBottom: theme.spacing(1),

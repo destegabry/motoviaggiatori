@@ -15,6 +15,11 @@ export default function Footer(): JSX.Element {
           alignItems: 'stretch',
           paddingTop: theme.spacing(2),
           paddingBottom: theme.spacing(2),
+
+          [theme.breakpoints.down('md')]: {
+            flexDirection: 'column',
+            alignItems: 'center',
+          },
         })}
       >
         <div>
@@ -32,11 +37,25 @@ export default function Footer(): JSX.Element {
             display: 'flex',
             alignItems: 'center',
             textTransform: 'uppercase',
-            'a + a': { marginLeft: theme.spacing(2) },
+
+            [theme.breakpoints.down('md')]: {
+              flexDirection: 'column',
+              marginTop: theme.spacing(2),
+            },
+
+            [theme.breakpoints.up('md')]: {
+              'a + a': {
+                marginLeft: theme.spacing(2),
+              },
+            },
           })}
         >
-          <Link to="/itinerari">Itinerari</Link>
           <Link to="/viaggi">Viaggi</Link>
+          <Link to="/itinerari">Itinerari</Link>
+          <Link to="/recensioni">Recensioni</Link>
+          <Link to="/recensioni">Video</Link>
+          <Link to="/archivi">Archivi</Link>
+          <Link to="/autori">Autori</Link>
         </nav>
       </Container>
       <Credits />
