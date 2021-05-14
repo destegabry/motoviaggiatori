@@ -125,6 +125,63 @@ export default function GlobalStyles(): JSX.Element {
         svg: {
           fill: 'currentcolor',
         },
+
+        '.md-gallery': {
+          position: 'relative',
+          left: '50%',
+          width: '100vw',
+          marginLeft: '-50vw',
+          marginTop: '3em',
+          overflow: 'auto hidden',
+
+          '.md-gallery-scroller': {
+            display: 'flex',
+            justifyContent: 'center',
+            position: 'absolute',
+            top: 0,
+            height: '100%',
+            minWidth: '100vw',
+            padding: `0 ${theme.spacing(1 / 2)}px`,
+          },
+
+          figure: {
+            position: 'relative',
+            margin: `0 ${theme.spacing(1 / 2)}px`,
+            width: 'auto',
+            height: '100%',
+          },
+
+          figcaption: {
+            ...theme.typography.caption,
+            padding: '.5em',
+            position: 'absolute',
+            left: 0,
+            width: '100%',
+          },
+
+          [theme.breakpoints.down('sm')]: {
+            height: `calc(${theme.components.gallery.smHeight}px + 4em)`,
+
+            img: {
+              height: theme.components.gallery.smHeight,
+            },
+
+            figcaption: {
+              top: theme.components.gallery.smHeight,
+            },
+          },
+          [theme.breakpoints.up('sm')]: {
+            height: `calc(${theme.components.gallery.height}px + 4em)`,
+
+            img: {
+              height: theme.components.gallery.height,
+            },
+
+            figcaption: {
+              top: theme.components.gallery.height,
+            },
+          },
+        },
       })}
     />
   );

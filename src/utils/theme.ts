@@ -8,6 +8,7 @@ import '@fontsource/palanquin/500.css';
 import '@fontsource/palanquin/700.css';
 import { breakpoints } from './breakpoints';
 import { accent, black, error, primary, secondary, success, warning, white } from './colors';
+import { components } from './components';
 import { typography } from './typography';
 
 const spacingBase = 8;
@@ -31,15 +32,7 @@ export const theme = {
   },
   typography,
   spacing: (space: number): number => spacingBase * space,
-  components: {
-    container: {
-      maxWidth: breakpoints.values.md,
-    },
-    header: {
-      height: 60,
-      zIndex: 1000,
-    },
-  },
+  components,
   breakpoints,
 };
 

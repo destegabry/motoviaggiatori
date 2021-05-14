@@ -22,21 +22,21 @@ Tornando da lavoro in moto, sono stato investito e dopo 41 interventi, 28 aneste
 
 Credo che la passione per la moto mi abbia salvato la vita, dopotutto da qualche parte dovevo iniziare a ricostruirne una nuova. Perchè la moto? Perchè il viaggio on the road ti mette in contatto col mondo e ti da un forte senso di libertà. La strada, il caldo, il freddo, la pioggia… li senti addosso, ti entrano dentro e ne fanno un esperienza che definirei autentica. E quando sei immerso nel baratro le cose autentiche sono le uniche che contano.
 
-![Karmaontheroad Filippine](/assets/uploads/2020/09/giro-italia-lambretta/galleries/filippine2.jpg "Luna di miele nelle Filippine")
-![Karmaontheroad Filippine](/assets/uploads/2020/09/giro-italia-lambretta/galleries/filippine3.jpg "Luna di miele nelle Filippine")
-![Karmaontheroad Filippine](/assets/uploads/2020/09/giro-italia-lambretta/galleries/filippine4.jpg "Luna di miele nelle Filippine")
+![Karmaontheroad Filippine](/assets/uploads/2020/08/viaggio-dakar-karmaontheroad/galleries/filippine2.jpg "Luna di miele nelle Filippine")
+![Karmaontheroad Filippine](/assets/uploads/2020/08/viaggio-dakar-karmaontheroad/galleries/filippine3.jpg "Luna di miele nelle Filippine")
+![Karmaontheroad Filippine](/assets/uploads/2020/08/viaggio-dakar-karmaontheroad/galleries/filippine4.jpg "Luna di miele nelle Filippine")
 
 In questi anni sono partito assieme a mia moglie Giulia per delle moto-avventure che hanno lasciato in noi ricordi indelebili: la nostra luna di miele zaino in spalla di due mesi alle Filippine, in cui abbiamo vagabondato tra meravigliose isole, risaie e foreste; il primo viaggio post amputazione (a sei mesi dall'intervento) in cui siamo arrivati fino alle porte del deserto in Tunisia… e come dimenticare il mio viaggio in solitaria a Capo Nord, con un vecchio BMW F650GS del 2001, una tenda e un budget decisamente limitato!
 
-![Karmaontheroad Nordkapp](/assets/uploads/2020/09/giro-italia-lambretta/galleries/nordkapp1.jpg "Viaggio in solitaria Capo Nord")
-![Karmaontheroad Nordkapp](/assets/uploads/2020/09/giro-italia-lambretta/galleries/nordkapp2.jpg "Viaggio in solitaria Capo Nord")
-![Karmaontheroad Nordkapp](/assets/uploads/2020/09/giro-italia-lambretta/galleries/nordkapp3.jpg "Viaggio in solitaria Capo Nord")
+![Karmaontheroad Nordkapp](/assets/uploads/2020/08/viaggio-dakar-karmaontheroad/galleries/nordkapp1.jpg "Viaggio in solitaria Capo Nord")
+![Karmaontheroad Nordkapp](/assets/uploads/2020/08/viaggio-dakar-karmaontheroad/galleries/nordkapp2.jpg "Viaggio in solitaria Capo Nord")
+![Karmaontheroad Nordkapp](/assets/uploads/2020/08/viaggio-dakar-karmaontheroad/galleries/nordkapp3.jpg "Viaggio in solitaria Capo Nord")
 
 Sono state esperienze incredibili, ma dopo l'amputazione della gamba, avvenuta nel 2019 a causa di complicazioni mediche, mi sono reso conto di essere nato nel *lato giusto del mondo* e questo ha stravolto alcune delle mie priorità. Il viaggio in moto fine a se stesso non mi bastava più, sentivo crescere in me il desiderio trasmettere anche un forte messaggio di speranza.
 
-![Karmaontheroad Tunisia](/assets/uploads/2020/09/giro-italia-lambretta/galleries/tunisia1.jpg "Viaggio alle porte del deserto in Tunisia")
-![Karmaontheroad Tunisia](/assets/uploads/2020/09/giro-italia-lambretta/galleries/tunisia2.jpg "Viaggio alle porte del deserto in Tunisia")
-![Karmaontheroad Tunisia](/assets/uploads/2020/09/giro-italia-lambretta/galleries/tunisia3.jpg "Viaggio alle porte del deserto in Tunisia")
+![Karmaontheroad Tunisia](/assets/uploads/2020/08/viaggio-dakar-karmaontheroad/galleries/tunisia1.jpg "Viaggio alle porte del deserto in Tunisia")
+![Karmaontheroad Tunisia](/assets/uploads/2020/08/viaggio-dakar-karmaontheroad/galleries/tunisia2.jpg "Viaggio alle porte del deserto in Tunisia")
+![Karmaontheroad Tunisia](/assets/uploads/2020/08/viaggio-dakar-karmaontheroad/galleries/tunisia3.jpg "Viaggio alle porte del deserto in Tunisia")
 
 Questo sogno si è concretizzato qualche mese fa quando mia moglie, anche lei desiderosa di dedicare le proprie energie a chi ne ha più bisogno, ha scovato su internet l'associazione [Legs4Africa](https://www.legs4africa.org). Da lì è iniziato tutto e grazie al loro supporto potremo finalmente partire per un viaggio, sia fisico che spirituale, interamenete dedicato a raccogliere fondi per questa organizzazione che raccoglie protesi usate nei paesi sviluppati per mandarle in Africa… appunto *l'altro lato del mondo* che tanto volevamo raggiungere.
 
@@ -44,5 +44,5 @@ Abbiamo fissato la partenza il 15 ottobre 2020, ma potremmo doverla rimandare a 
 
 Seguiteci sulla [pagina Facebook Karmaontheroad](https://www.facebook.com/Karmaontheroad/) per non perderti gli aggiornamenti del nostro viaggio benefico!
 
-"Non importa se stai procedendo molto lentamente; ciò che importa è che tu non ti sia fermato" <br>
+"Non importa se stai procedendo molto lentamente; ciò che importa è che tu non ti sia fermato"\
 – Confucio

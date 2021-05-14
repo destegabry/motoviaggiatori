@@ -90,6 +90,6 @@ Colori HORUS Scout:
 
 Colori HORUS:
 
-![Caberg Horus 17](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/catalog/horus-17.jpg "Caberg Horus 17 Nero Opaco")
-![Caberg Horus 48](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/catalog/horus-48.jpg "Caberg Horus 48 Blu Opaco YAMA")
-![Caberg Horus A5](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/catalog/horus-a5.jpg "Caberg Horus A5 Bianco Metallizzato")
+![Caberg Horus 17 Nero Opaco](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/catalog/horus-17.jpg "Caberg Horus 17 Nero Opaco")
+![Caberg Horus 48 Blu Opaco YAMA](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/catalog/horus-48.jpg "Caberg Horus 48 Blu Opaco YAMA")
+![Caberg Horus A5 Bianco Metallizzato](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/catalog/horus-a5.jpg "Caberg Horus A5 Bianco Metallizzato")
