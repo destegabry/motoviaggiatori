@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import { icon } from '@fortawesome/fontawesome-svg-core';
+import { faHandPointUp } from '@fortawesome/free-solid-svg-icons';
 import { graphql, Link, PageProps } from 'gatsby';
 import { Layout } from '../components/Layout';
 import { PostMeta } from '../components/Post';
 import FeaturedMedia from '../components/Post/FeaturedMedia';
 import { Post } from '../entities';
+
+const SwipeIcon = icon(faHandPointUp);
 
 type PostPageProps = PageProps & {
   data: {
@@ -11,8 +15,52 @@ type PostPageProps = PageProps & {
   };
 };
 
+function onGalleryScroll(this: HTMLDivElement): void {
+  this.removeEventListener('scroll', onGalleryScroll);
+  this.classList.add('swiped');
+  const swipe = this.querySelector('.swipe-wrapper') as HTMLDivElement;
+  swipe.style.opacity = '0';
+  swipe.style.animation = 'none';
+}
+
 export default function PostPage({ data }: PostPageProps): JSX.Element {
   const post = data.markdownRemark.frontmatter;
+
+  useEffect(() => {
+    const options = {
+      root: null,
+      rootMargin: '0px',
+      threshold: 1,
+    };
+
+    const observer = new IntersectionObserver(
+      (changes) =>
+        changes
+          .filter(
+            ({ isIntersecting, target }) =>
+              isIntersecting && !target.classList.contains('swiped') && !target.querySelector('.swipe-wrapper')
+          )
+          .forEach(({ target }) => {
+            const scroller = target.querySelector('.md-gallery-scroller');
+            if ((scroller?.scrollWidth || 0) > window.outerWidth) {
+              const swipeWrapper = document.createElement('div');
+              swipeWrapper.className = 'swipe-wrapper';
+              swipeWrapper.appendChild(SwipeIcon.node[0]);
+              target.append(swipeWrapper);
+              target.addEventListener('scroll', onGalleryScroll);
+            }
+          }),
+      options
+    );
+    const galleries = document.querySelectorAll('.md-gallery');
+    galleries.forEach((gallery) => observer.observe(gallery));
+
+    return () => {
+      galleries.forEach((gallery) => gallery.removeEventListener('scroll', onGalleryScroll));
+      observer.disconnect();
+    };
+  }, []);
+
   return (
     <Layout title={post.title} description={post.excerpt} image={post.featured_image}>
       <div itemProp="blogPost" itemScope itemType="https://schema.org/BlogPosting">

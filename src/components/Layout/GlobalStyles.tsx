@@ -1,5 +1,17 @@
 import React from 'react';
-import { Global } from '@emotion/react';
+import { Global, keyframes } from '@emotion/react';
+
+const swipeLeft = keyframes`
+	0% {
+		transform: translatex(0);
+	}
+	25% {
+		transform: translatex(-10vw);
+	}
+	100% {
+		transform: translatex(0);
+	}
+`;
 
 export default function GlobalStyles(): JSX.Element {
   return (
@@ -133,6 +145,21 @@ export default function GlobalStyles(): JSX.Element {
           marginLeft: '-50vw',
           marginTop: '3em',
           overflow: 'auto hidden',
+
+          '.swipe-wrapper': {
+            position: 'absolute',
+            bottom: '5em',
+            right: '1em',
+            color: theme.palette.accent.light,
+            animation: `${swipeLeft} 1.5s ease infinite`,
+            opacity: 0.95,
+            transition: `opacity 1s`,
+
+            svg: {
+              height: '2.5rem',
+              width: '2.5rem',
+            },
+          },
 
           '.md-gallery-scroller': {
             display: 'flex',

@@ -34,7 +34,7 @@ module.exports = async (
                             />`
                           )
                           .join('')}
-                        <img src="${url}" alt="${alt}" />
+                        <img src="${url}" alt="${alt}" loading="lazy" />
                       </picture>
                       <figcaption>${title}</figcaption>
                     </figure>

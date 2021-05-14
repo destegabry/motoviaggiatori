@@ -80,7 +80,7 @@ export default function Picture(props: PictureProps): JSX.Element {
         />
       ))}
       <source srcSet={createSrcSet(src, width, height)} />
-      <img src={src} alt={alt} />
+      <img src={src} alt={alt} loading="lazy" />
     </PictureWrapper>
   );
 }
