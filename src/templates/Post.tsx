@@ -11,7 +11,10 @@ const SwipeIcon = icon(faHandPointUp);
 
 type PostPageProps = PageProps & {
   data: {
-    markdownRemark: Post;
+    markdownRemark: Post & {
+      timeToRead: number;
+      tableOfContents: string;
+    };
   };
 };
 
@@ -67,6 +70,25 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
         <h1 itemProp="name headline">{post.title}</h1>
         <PostMeta post={data.markdownRemark} />
         <FeaturedMedia post={data.markdownRemark} />
+        <div
+          itemProp="timeRequired"
+          {...{ content: `PT${data.markdownRemark.timeToRead}M` }}
+          css={(theme) => ({
+            ...theme.typography.caption,
+            textAlign: 'center',
+            marginTop: theme.spacing(2),
+            marginBottom: theme.spacing(2),
+          })}
+        >
+          Tempo di lettura: circa{' '}
+          {data.markdownRemark.timeToRead > 1 ? `${data.markdownRemark.timeToRead} minuti` : `1 minuto`}
+        </div>
+        {data.markdownRemark.frontmatter.opening && (
+          <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.frontmatter.opening }} itemProp="backstory" />
+        )}
+        {data.markdownRemark.tableOfContents && (
+          <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.tableOfContents }} />
+        )}
         {data.markdownRemark.html && (
           <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} itemProp="articleBody" />
         )}
@@ -124,7 +146,10 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       ...PostPreviewData
       html
+      timeToRead
+      tableOfContents(maxDepth: 2)
       frontmatter {
+        opening
         tags {
           frontmatter {
             path

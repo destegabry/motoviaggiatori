@@ -12,5 +12,6 @@ export type Post = {
     categories?: Array<Category>;
     tags?: Array<Tag>;
     excerpt?: string;
+    opening?: string;
   };
 };
