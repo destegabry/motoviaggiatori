@@ -77,7 +77,9 @@ async function createInstancePages(graphql, createPage, instanceName, pathPrefix
   }
 
   result.data.allFile.edges.forEach(({ node }) => {
-    const path = pathPrefix ? `${pathPrefix}/${node.childMarkdownRemark.frontmatter.path}` : node.childMarkdownRemark.frontmatter.path;
+    const path = pathPrefix
+      ? `${pathPrefix}/${node.childMarkdownRemark.frontmatter.path}`
+      : node.childMarkdownRemark.frontmatter.path;
     createPage({
       path: path,
       component: template,
@@ -91,11 +93,10 @@ async function createInstancePages(graphql, createPage, instanceName, pathPrefix
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage, createRedirect } = actions;
 
-  createRedirect({ fromPath: '/author', toPath: '/autori', isPermanent: true, });
-  createRedirect({ fromPath: '/authors', toPath: '/autori', isPermanent: true, });
+  createRedirect({ fromPath: '/author', toPath: '/autori', isPermanent: true });
+  createRedirect({ fromPath: '/authors', toPath: '/autori', isPermanent: true });
 
-  createRedirect({ fromPath: '/foto', toPath: process.env.GATSBY_INSTAGRAM_PROFILE_URL, isPermanent: true, });
-
+  createRedirect({ fromPath: '/foto', toPath: process.env.GATSBY_INSTAGRAM_PROFILE_URL, isPermanent: true });
 
   await Promise.all([
     createBlogPages(graphql, createPage),

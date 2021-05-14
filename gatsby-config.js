@@ -1,13 +1,13 @@
 require('dotenv').config();
+const { version, repository } = require('./package.json');
+const colors = require('./src/utils/colors.js');
 
 const name = `MotoViaggiatori`;
 const title = name;
 const description = `Due ruote, infinite emozioni`;
 const language = `it`;
 const languageCode = `it_IT`;
-const colors = require('./src/utils/colors.js');
 const siteUrl = `https://motoviaggiatori.it`;
-const { version, repository } = require('./package.json');
 
 module.exports = {
   siteMetadata: {
@@ -19,7 +19,7 @@ module.exports = {
     title,
     image_url: `${siteUrl}/images/static/motoviaggiatori_icon_small.png`,
     language,
-    languageCode
+    languageCode,
   },
   plugins: [
     `gatsby-plugin-remove-fingerprints`, // Fingerprints are not needed on Netlify
@@ -41,25 +41,29 @@ module.exports = {
         path: `${__dirname}/content/blog`,
         name: `blog`,
       },
-    }, {
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/categories`,
         name: `categories`,
       },
-    }, {
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/tags`,
         name: `tags`,
       },
-    }, {
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/authors`,
         name: `authors`,
       },
-    }, {
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/pages`,
@@ -74,14 +78,23 @@ module.exports = {
             resolve: `gatsby-remark-external-links`,
             options: {
               target: `_blank`,
-              rel: `noopener noreferrer`
-            }
+              rel: `noopener noreferrer`,
+            },
           },
           `gatsby-remark-embed-video`,
           `gatsby-remark-responsive-iframe`,
           `gatsby-remark-smartypants`,
           `gatsby-remark-autolink-headers`,
-          `gatsby-remark-image-galleries`,
+          {
+            resolve: `gatsby-remark-image-galleries`,
+            options: {
+              // TODO: use `theme` as soon as `gatsby-plugin-ts-config@2` is released
+              responsive: [
+                { mediaQuery: `(min-width: 600px)`, height: 500 },
+                { mediaQuery: `(max-width: 599.95px)`, height: 250 },
+              ],
+            },
+          },
         ],
       },
     },
@@ -124,7 +137,11 @@ module.exports = {
           {
             serialize: ({ query: { allFile } }) => {
               return allFile.edges.map(
-                ({ node: { childMarkdownRemark: { frontmatter } } }) => ({
+                ({
+                  node: {
+                    childMarkdownRemark: { frontmatter },
+                  },
+                }) => ({
                   title: frontmatter.title,
                   description: frontmatter.excerpt,
                   date: frontmatter.date,
@@ -133,10 +150,10 @@ module.exports = {
                   custom_elements: [],
                   enclosure: {
                     url: `${siteUrl}${frontmatter.featured_image}?nf_resize=smartcrop&w=960&h=480`,
-                    type: `image/jpg`
-                  }
+                    type: `image/jpg`,
+                  },
                 })
-              )
+              );
             },
             query: `
               {
@@ -160,11 +177,11 @@ module.exports = {
                 }
               }
             `,
-            output: "/rss.xml",
-            title: "MotoViaggiatori",
+            output: '/rss.xml',
+            title: 'MotoViaggiatori',
           },
-        ]
-      }
+        ],
+      },
     },
     `gatsby-plugin-netlify`, // make sure to keep it last in the array
   ],
@@ -173,4 +190,4 @@ module.exports = {
     'MarkdownRemark.frontmatter.categories': `MarkdownRemark.frontmatter.path`,
     'MarkdownRemark.frontmatter.tags': `MarkdownRemark.frontmatter.path`,
   },
-}
+};

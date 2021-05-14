@@ -26,6 +26,7 @@ module.exports = {
   ],
   ignorePatterns: ['.eslintrc.js'],
   rules: {
+    '@typescript-eslint/no-var-requires': 'off', // DELETE ME when gatsby will support typescript
     // Place to specify ESLint rules. Can be used to overwrite rules specified from the extended configs
     // e.g. "@typescript-eslint/explicit-function-return-type": "off",
     '@typescript-eslint/no-explicit-any': 'warn',
