@@ -63,7 +63,7 @@ Non potete fare a meno dell’app Uber che vi permetterà di compiere rapidi tra
 
 Se decidete di noleggiare una moto o un’auto, sappiate che fuori da ogni aeroporto ci sono agenzie che vi possono aiutare nella scelta del mezzo adatto alle vostre esigenze. L’unica pecca è che molte di queste agenzie non vi permetteranno di espatriare con i loro mezzi.
 
-## Patente
+## Patente
 
 In tutta la Comunità Europea e in molti altri Stati al di fuori di questa è valida la patente italiana, ma per maggiori informazioni vi consiglio di consultare il sito [Viaggiare Sicuri](http://www.viaggiaresicuri.it/).
 
@@ -73,7 +73,7 @@ Preciso che alle dogane sudamericane i funzionari hanno sempre voluto visionare 
 
 Quando solcherò il confine degli Stati Uniti d’America, so già che dovrò stipulare la patente internazionale della convenzione di Ginevra.
 
-## Assicurazione e bollo moto
+## Assicurazione e bollo moto
 
 L’**assicurazione italiana non è valida in Sud America** quindi, una volta spedita la moto, ho trasferito l’assicurazione su un’altro mezzo di mia proprietà. Nel frattempo ho stipulato su internet una RC Allianz che copre Cile, Bolivia, Argentina, Uruguay e Paraguay. Preciso che solo in Uruguay e in Bolivia i funzionari mi hanno chiesto di visionare il tagliando dell'assicurazione. Ho letto che in alcuni casi per sdoganare la moto serve esibire il tagliando, a noi non è stato chiesto.
 
@@ -132,7 +132,7 @@ Il peggior rifornimento di questo viaggio l’ho fatto a San Pedro di Atacama, d
 
 ![Rifornimento (Cile)](../2019-09-panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/4_3.JPG "Rifornimento con l'aggiunta di un po' di ottani (Cile)")
 
-## Vaccini e medicinali
+## Vaccini e medicinali
 
 Prima del viaggio non abbiamo fatto alcun vaccino perché due anni fa abbiamo affrontato un viaggio in Gambia dove ci siamo vaccinati per tutte quelle malattie tipiche dei paesi poveri.
 

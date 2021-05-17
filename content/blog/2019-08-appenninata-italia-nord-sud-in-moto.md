@@ -28,7 +28,7 @@ tags:
 - giro-italia
 ---
 
-## L'idea
+## L'idea
 
 Torino – Brindisi, crica 1200 km di autostrada in estate… Una noia mortale specialmente in moto! Apro Google Maps e scelgo l’opzione evita autostrade e pedaggi, ma non sono convinto del percorso; Google suggerisce statali vicino al mare, ovvero: gente, gente, gente e caldo, caldo caldo! Poi penso alla bellissima catena montuosa situata al centro del nostro bellissimo Paese, inizio a spostare e forzare il percorso. Cosa vien fuori? 1400 km di statale montuosa, al fresco!
 

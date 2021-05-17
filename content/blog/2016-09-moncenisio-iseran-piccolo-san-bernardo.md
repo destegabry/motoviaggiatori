@@ -46,7 +46,7 @@ Così in una bella giornata di metà luglio ho finalmente deciso di percorrere l
 
 In generale le strade sono molto ben asfaltate, ad eccezione del tratto che congiunge Lanslebourg al Col de l'Iseran... ma vediamo il tragitto nel dettaglio.
 
-## Torino - Susa
+## Torino - Susa
 
 La strada per il primo dei colli affrontati passa per la Val di Susa, e qui sono possibili 3 opzioni:
 
@@ -89,7 +89,7 @@ In compenso il paesaggio è stupendo e vale la pena arrivare al Col de l'Iseran,
 ![Un po' di neve sulla strada per il Col del l'Iseran](/assets/uploads/2016/09/moncenisio-iseran-piccolo-san-bernardo/galleries/1/1.jpg "Un po' di neve sulla strada per il Col del l'Iseran")
 ![Nonostante sia luglio c'è ancora ghiaccio nei laghetti](/assets/uploads/2016/09/moncenisio-iseran-piccolo-san-bernardo/galleries/1/2.jpg "Nonostante sia luglio c'è ancora ghiaccio nei laghetti")
 
-## Iseran - Colle del Piccolo San Bernardo
+## Iseran - Colle del Piccolo San Bernardo
 
 La discesa che dal colle porta al paese di Val-d'Isère migliora decisamente come fondo stradale. La strada torna ad essere divertente, ma bisogna stare attenti alla miriade di ciclisti!
 
@@ -107,8 +107,8 @@ Parliamoci chiaramente: la strada per il colle non è niente male ed è molto be
 
 Rettilineo, tornante, rettilineo, tornante, rettilineo, tornante... ogni tanto l'imprevisto di una controcurva a salvare dalla monotonia!
 
-![L'area sciistica di La Rosière si fa pubblicità anche così](/assets/uploads/2016/09/moncenisio-iseran-piccolo-san-bernardo/galleries/4/0.jpg "L'area sciistica di La Rosière si fa pubblicità anche così")
-![Toh, un'altra diga a Chevril!](/assets/uploads/2016/09/moncenisio-iseran-piccolo-san-bernardo/galleries/4/1.jpg "Toh, un'altra diga a Chevril!")
+![Toh, un'altra diga a Chevril!](/assets/uploads/2016/09/moncenisio-iseran-piccolo-san-bernardo/galleries/4/0.jpg "Toh, un'altra diga a Chevril!")
+![L'area sciistica di La Rosière si fa pubblicità anche così](/assets/uploads/2016/09/moncenisio-iseran-piccolo-san-bernardo/galleries/4/1.jpg "L'area sciistica di La Rosière si fa pubblicità anche così")
 
 Finalmente si arriva al Colle del Piccolo San Bernardo! Mi aspettavo di trovare gli omonimi cani, ma a quanto pare li tengono nascosti da qualche parte...
 
@@ -119,6 +119,7 @@ Molto bella la discesa dal colle a La Thuile: **divertente, varia, asfaltata ben
 All'inizio bisogna stare un po' attenti al freddo (si parte da 2188 m), poi le temperature cominciano a salire ed è meglio togliersi qualche strato.
 
 ![Muro di neve! Fortunatamente c'era una piccola variante della strada...](/assets/uploads/2016/09/moncenisio-iseran-piccolo-san-bernardo/galleries/5/0.jpg "Muro di neve! Fortunatamente c'era una piccola variante della strada...")
+
 Ci si diverte ancora fino a Prè Saint Didier, poi il mio consiglio è di andare in statale fino ad Aosta per evitare il salasso dell'autostrada del Monte Bianco, da lì proseguire per Torino in autostrada: sono 100km per circa 16€ di pedaggi, ma dopo 3 colli e svariate ora in sella è giusto rilassarsi un po'!
 
 ## Un consiglio finale
