@@ -26,17 +26,17 @@ module.exports = async (
                           .map(
                             ({ mediaQuery, height }) =>
                               `<source
-                              media="${mediaQuery}"
-                              srcset="
-                                ${url}?nf_resize=fit&h=${height} 1x,
-                                ${url}?nf_resize=fit&h=${height * 2} 2x
-                              "
-                            />`
+                                  media="${mediaQuery}"
+                                  srcset="
+                                    ${url}?nf_resize=fit&h=${height} 1x,
+                                    ${url}?nf_resize=fit&h=${height * 2} 2x
+                                  "
+                                />`
                           )
                           .join('')}
                         <img src="${url}" alt="${alt}" loading="lazy" />
                       </picture>
-                      <figcaption>${title}</figcaption>
+                      ${title ? `<figcaption>${title}</figcaption>` : ``}
                     </figure>
                   `
                 )
