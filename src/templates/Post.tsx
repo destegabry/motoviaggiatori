@@ -29,6 +29,16 @@ function onGalleryScroll(this: HTMLDivElement): void {
 export default function PostPage({ data }: PostPageProps): JSX.Element {
   const post = data.markdownRemark.frontmatter;
 
+  const disclaimers = post.categories
+    ? post.categories
+        .filter(({ frontmatter: { disclaimer } }) => Boolean(disclaimer))
+        .map(({ frontmatter: { disclaimer } }) => disclaimer as string)
+    : [];
+
+  if (post.disclaimer) {
+    disclaimers.unshift(post.disclaimer);
+  }
+
   useEffect(() => {
     const options = {
       root: null,
@@ -83,13 +93,11 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
           Tempo di lettura: circa{' '}
           {data.markdownRemark.timeToRead > 1 ? `${data.markdownRemark.timeToRead} minuti` : `1 minuto`}
         </div>
-        {data.markdownRemark.frontmatter.opening && (
-          <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.frontmatter.opening }} itemProp="backstory" />
-        )}
+        {post.opening && <section dangerouslySetInnerHTML={{ __html: post.opening }} itemProp="backstory" />}
         {data.markdownRemark.tableOfContents && (
           <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.tableOfContents }} />
         )}
-        {data.markdownRemark.frontmatter.attributes && (
+        {post.attributes && (
           <table
             css={(theme) => ({
               fontFamily: theme.typography.body.fontFamily,
@@ -105,7 +113,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
               },
             })}
           >
-            {data.markdownRemark.frontmatter.attributes.map(({ key, value }) => (
+            {post.attributes.map(({ key, value }) => (
               <tr key={key}>
                 <th>{key}</th>
                 <td dangerouslySetInnerHTML={{ __html: value }}></td>
@@ -115,6 +123,13 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
         )}
         {data.markdownRemark.html && (
           <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} itemProp="articleBody" />
+        )}
+        {disclaimers && (
+          <section css={(theme) => ({ p: { fontSize: theme.typography.caption.fontSize } })}>
+            {disclaimers.map((disclaimer, index) => (
+              <p key={index} dangerouslySetInnerHTML={{ __html: disclaimer }}></p>
+            ))}
+          </section>
         )}
         {post.tags && (
           <div>
@@ -175,6 +190,11 @@ export const pageQuery = graphql`
       frontmatter {
         opening
         disclaimer
+        categories {
+          frontmatter {
+            disclaimer
+          }
+        }
         attributes {
           key
           value

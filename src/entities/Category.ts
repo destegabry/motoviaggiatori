@@ -2,5 +2,7 @@ import { CmsFrontmatterData } from './CmsFrontmatterData';
 
 export type Category = {
   html?: string;
-  frontmatter: CmsFrontmatterData;
+  frontmatter: CmsFrontmatterData & {
+    disclaimer?: string;
+  };
 };
