@@ -17,6 +17,7 @@ collections:
       - { name: path, label: Path }
       - { name: title, label: Title }
       - { name: date, label: Date, widget: datetime }
+      - { name: modified, label: Date, widget: datetime, required: false }
       - name: author
         label: Author
         widget: relation
@@ -41,8 +42,20 @@ collections:
         display_fields: [title]
         multiple: true
       - { name: featured_image, label: Featured image, widget: image }
+      - {
+          name: featured_youtube,
+          label: Featured YouTube video,
+          required: false,
+        }
       - { name: excerpt, label: Excerpt }
-      - { name: opening, label: Opening, widget: markdown }
+      - name: opening
+        label: Opening
+        widget: markdown
+        required: false
+      - name: disclaimer
+        label: Disclaimer
+        widget: markdown
+        required: false
       - { name: body, label: Body, widget: markdown }
   - name: authors
     label: Authors
