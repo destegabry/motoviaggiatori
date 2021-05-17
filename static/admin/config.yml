@@ -56,6 +56,13 @@ collections:
         label: Disclaimer
         widget: markdown
         required: false
+      - name: attributes
+        label: Attributes
+        required: false
+        widget: list
+        fields:
+          - { name: key, label: Key }
+          - { name: value, label: Value }
       - { name: body, label: Body, widget: markdown }
   - name: authors
     label: Authors

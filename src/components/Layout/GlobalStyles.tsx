@@ -138,6 +138,11 @@ export default function GlobalStyles(): JSX.Element {
           fill: 'currentcolor',
         },
 
+        table: {
+          width: '100%',
+          borderCollapse: 'collapse',
+        },
+
         '.md-gallery': {
           position: 'relative',
           left: '50%',

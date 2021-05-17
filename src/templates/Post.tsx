@@ -89,6 +89,30 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
         {data.markdownRemark.tableOfContents && (
           <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.tableOfContents }} />
         )}
+        {data.markdownRemark.frontmatter.attributes && (
+          <table
+            css={(theme) => ({
+              fontFamily: theme.typography.body.fontFamily,
+
+              'th, td': {
+                paddingTop: theme.spacing(2),
+                paddingBottom: theme.spacing(2),
+                borderBottom: `1px solid ${theme.palette.text.disabled}`,
+              },
+              th: {
+                paddingRight: theme.spacing(3),
+                textAlign: 'left',
+              },
+            })}
+          >
+            {data.markdownRemark.frontmatter.attributes.map(({ key, value }) => (
+              <tr key={key}>
+                <th>{key}</th>
+                <td dangerouslySetInnerHTML={{ __html: value }}></td>
+              </tr>
+            ))}
+          </table>
+        )}
         {data.markdownRemark.html && (
           <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} itemProp="articleBody" />
         )}
@@ -150,6 +174,11 @@ export const pageQuery = graphql`
       tableOfContents(maxDepth: 2)
       frontmatter {
         opening
+        disclaimer
+        attributes {
+          key
+          value
+        }
         tags {
           frontmatter {
             path

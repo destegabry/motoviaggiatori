@@ -9,11 +9,13 @@ export type Post = {
     featured_image?: string;
     featured_youtube?: string;
     date?: string;
+    modified?: string;
     author?: Author;
     categories?: Array<Category>;
     tags?: Array<Tag>;
     excerpt?: string;
     opening?: string;
     disclaimer?: string;
+    attributes?: Array<{ key: string; value: string }>;
   };
 };
