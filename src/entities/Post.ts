@@ -7,11 +7,13 @@ export type Post = {
   html?: string;
   frontmatter: CmsFrontmatterData & {
     featured_image?: string;
+    featured_youtube?: string;
     date?: string;
     author?: Author;
     categories?: Array<Category>;
     tags?: Array<Tag>;
     excerpt?: string;
     opening?: string;
+    disclaimer?: string;
   };
 };
