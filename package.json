@@ -24,6 +24,7 @@
     "@fortawesome/free-regular-svg-icons": "^5.15.3",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
+    "@types/gtag.js": "^0.0.4",
     "date-fns": "^2.21.3",
     "dotenv": "^9.0.2",
     "emotion-reset": "^3.0.0",

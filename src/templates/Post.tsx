@@ -7,7 +7,7 @@ import locale from 'date-fns/locale/it';
 import { graphql, Link, PageProps } from 'gatsby';
 import { Layout } from '../components/Layout';
 import { Picture } from '../components/Picture';
-import { PostMeta } from '../components/Post';
+import { PostMeta, Vote } from '../components/Post';
 import FeaturedMedia from '../components/Post/FeaturedMedia';
 import { Post } from '../entities';
 
@@ -89,22 +89,27 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
 
   return (
     <Layout title={postMeta.title} description={postMeta.excerpt} image={postMeta.featured_image}>
-      <div itemProp="blogPost" itemScope itemType="https://schema.org/BlogPosting">
-        <h1 itemProp="name headline">{postMeta.title}</h1>
-        <PostMeta post={data.markdownRemark} />
-        <FeaturedMedia post={data.markdownRemark} css={(theme) => ({ marginTop: theme.spacing(4) })} />
-        <div
+      <div
+        itemProp="blogPost"
+        itemScope
+        itemType="https://schema.org/BlogPosting"
+        css={(theme) => ({ section: { marginBottom: theme.spacing(8), marginTop: theme.spacing(8) } })}
+      >
+        <section>
+          <h1 itemProp="name headline">{postMeta.title}</h1>
+          <PostMeta post={data.markdownRemark} />
+        </section>
+        <FeaturedMedia post={data.markdownRemark} />
+        <section
           itemProp="timeRequired"
           {...{ content: `PT${post.timeToRead}M` }}
           css={(theme) => ({
             ...theme.typography.caption,
             textAlign: 'center',
-            marginTop: theme.spacing(2),
-            marginBottom: theme.spacing(2),
           })}
         >
           Tempo di lettura: circa {post.timeToRead > 1 ? `${post.timeToRead} minuti` : `1 minuto`}
-        </div>
+        </section>
         {post.fields?.opening_html && (
           <section dangerouslySetInnerHTML={{ __html: post.fields.opening_html }} itemProp="backstory" />
         )}
@@ -151,8 +156,9 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
             </time>
           </p>
         )}
+        <Vote campaign={postMeta.path}>Ti è piaciuto questo articolo?</Vote>
         {postMeta.tags && (
-          <div>
+          <section>
             <h4>Tags</h4>
             <ul
               itemProp="keywords"
@@ -193,7 +199,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
                 </li>
               ))}
             </ul>
-          </div>
+          </section>
         )}
         {postMeta.author && (
           <section
@@ -201,7 +207,6 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
             itemType="http://schema.org/Person"
             css={(theme) => ({
               display: 'flex',
-              margin: '1em 0',
 
               [theme.breakpoints.down('sm')]: {
                 flexDirection: 'column',
@@ -250,12 +255,10 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
             </div>
           </section>
         )}
-        <div
+        <section
           css={(theme) => ({
             display: 'flex',
             justifyContent: 'space-between',
-            marginTop: theme.spacing(4),
-            marginBottom: theme.spacing(4),
 
             '.next, .prev': {
               [theme.breakpoints.down('sm')]: {
@@ -303,7 +306,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
               </Link>
             </div>
           )}
-        </div>
+        </section>
       </div>
     </Layout>
   );
