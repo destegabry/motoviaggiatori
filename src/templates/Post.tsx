@@ -2,6 +2,8 @@ import React, { useEffect } from 'react';
 import { icon } from '@fortawesome/fontawesome-svg-core';
 import { faHandPointUp, faChevronLeft, faChevronRight } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { format } from 'date-fns';
+import locale from 'date-fns/locale/it';
 import { graphql, Link, PageProps } from 'gatsby';
 import { Layout } from '../components/Layout';
 import { Picture } from '../components/Picture';
@@ -140,6 +142,16 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
               <p key={index} dangerouslySetInnerHTML={{ __html: disclaimer }}></p>
             ))}
           </section>
+        )}
+        {post.modified && (
+          <p
+            css={(theme) => ({ fontStyle: 'italic', fontSize: theme.typography.caption.fontSize, textAlign: 'center' })}
+          >
+            Ultimo aggiornamento: &nbsp;
+            <time dateTime={post.modified} itemProp="dateModified" {...{ content: post.modified }}>
+              {format(new Date(post.modified), 'dd MMMM yyyy', { locale })}
+            </time>
+          </p>
         )}
         {post.tags && (
           <div>
@@ -307,6 +319,7 @@ export const pageQuery = graphql`
       timeToRead
       tableOfContents(maxDepth: 2)
       frontmatter {
+        modified
         opening
         disclaimer
         categories {
