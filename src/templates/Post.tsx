@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { icon } from '@fortawesome/fontawesome-svg-core';
-import { faHandPointUp } from '@fortawesome/free-solid-svg-icons';
+import { faHandPointUp, faArrowLeft, faArrowRight } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { graphql, Link, PageProps } from 'gatsby';
 import { Layout } from '../components/Layout';
 import { PostMeta } from '../components/Post';
@@ -15,6 +16,8 @@ type PostPageProps = PageProps & {
       timeToRead: number;
       tableOfContents: string;
     };
+    previous?: Post;
+    next?: Post;
   };
 };
 
@@ -27,6 +30,7 @@ function onGalleryScroll(this: HTMLDivElement): void {
 }
 
 export default function PostPage({ data }: PostPageProps): JSX.Element {
+  const { next, previous } = data;
   const post = data.markdownRemark.frontmatter;
 
   const disclaimers = post.categories
@@ -175,6 +179,60 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
             </ul>
           </div>
         )}
+        <div
+          css={(theme) => ({
+            display: 'flex',
+            justifyContent: 'space-between',
+            marginTop: theme.spacing(4),
+            marginBottom: theme.spacing(4),
+
+            '.next, .prev': {
+              [theme.breakpoints.down('sm')]: {
+                width: '49%',
+              },
+              [theme.breakpoints.up('sm')]: {
+                width: '40%',
+              },
+            },
+
+            a: {
+              textDecorationLine: 'none',
+            },
+            label: {
+              display: 'flex',
+              alignItems: 'center',
+              textDecorationColor: theme.palette.primary.light,
+              textDecorationLine: 'underline',
+            },
+
+            span: {
+              ...theme.typography.caption,
+            },
+          })}
+        >
+          {previous && (
+            <div className="prev">
+              <Link to={previous.frontmatter.path}>
+                <label>
+                  <FontAwesomeIcon icon={faArrowLeft} css={(theme) => ({ marginRight: theme.spacing(1) })} />
+                  Articolo precedente
+                </label>
+                <span>{previous.frontmatter.title}</span>
+              </Link>
+            </div>
+          )}
+          {next && (
+            <div className="next" css={{ textAlign: 'right' }}>
+              <Link to={next.frontmatter.path}>
+                <label css={{ justifyContent: 'flex-end' }}>
+                  Articolo successivo
+                  <FontAwesomeIcon icon={faArrowRight} css={(theme) => ({ marginLeft: theme.spacing(1) })} />
+                </label>
+                <span>{next.frontmatter.title}</span>
+              </Link>
+            </div>
+          )}
+        </div>
       </div>
     </Layout>
   );
@@ -208,16 +266,10 @@ export const pageQuery = graphql`
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
-      frontmatter {
-        path
-        title
-      }
+      ...PostPreviewData
     }
     next: markdownRemark(id: { eq: $nextPostId }) {
-      frontmatter {
-        path
-        title
-      }
+      ...PostPreviewData
     }
   }
 `;
