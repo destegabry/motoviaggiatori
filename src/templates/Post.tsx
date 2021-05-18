@@ -1,9 +1,10 @@
 import React, { useEffect } from 'react';
 import { icon } from '@fortawesome/fontawesome-svg-core';
-import { faHandPointUp, faArrowLeft, faArrowRight } from '@fortawesome/free-solid-svg-icons';
+import { faHandPointUp, faChevronLeft, faChevronRight } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { graphql, Link, PageProps } from 'gatsby';
 import { Layout } from '../components/Layout';
+import { Picture } from '../components/Picture';
 import { PostMeta } from '../components/Post';
 import FeaturedMedia from '../components/Post/FeaturedMedia';
 import { Post } from '../entities';
@@ -19,6 +20,11 @@ type PostPageProps = PageProps & {
     previous?: Post;
     next?: Post;
   };
+};
+
+const authorPictureSize = {
+  width: 240,
+  height: 240,
 };
 
 function onGalleryScroll(this: HTMLDivElement): void {
@@ -179,6 +185,61 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
             </ul>
           </div>
         )}
+        {post.author && (
+          <section
+            itemScope
+            itemType="http://schema.org/Person"
+            css={(theme) => ({
+              display: 'flex',
+              margin: '1em 0',
+
+              [theme.breakpoints.down('sm')]: {
+                flexDirection: 'column',
+                textAlign: 'center',
+
+                p: {
+                  textAlign: 'left',
+                },
+              },
+            })}
+          >
+            {post.author.frontmatter.avatar && (
+              <div
+                css={(theme) => ({
+                  ...authorPictureSize,
+
+                  [theme.breakpoints.up('sm')]: {
+                    flex: `0 0 ${authorPictureSize.width}px`,
+                    marginRight: theme.spacing(2),
+                    marginTop: theme.spacing(1),
+                  },
+
+                  [theme.breakpoints.down('sm')]: {
+                    margin: `0 auto ${theme.spacing(2)}px`,
+                  },
+                })}
+              >
+                <Picture
+                  src={post.author.frontmatter.avatar}
+                  alt={`Avatar ${post.author.frontmatter.title}`}
+                  {...authorPictureSize}
+                />
+              </div>
+            )}
+            <div>
+              <h2 itemProp="name" css={{ marginTop: 0 }}>
+                {post.author.frontmatter.title}
+              </h2>
+              {post.author.html && (
+                <div dangerouslySetInnerHTML={{ __html: post.author.html }} itemProp="description" />
+              )}
+              <Link to={`/autore/${post.author.frontmatter.path}`}>
+                Tutti i post di {post.author.frontmatter.title}
+                <FontAwesomeIcon icon={faChevronRight} css={(theme) => ({ marginLeft: theme.spacing(1) })} />
+              </Link>
+            </div>
+          </section>
+        )}
         <div
           css={(theme) => ({
             display: 'flex',
@@ -214,7 +275,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
             <div className="prev">
               <Link to={previous.frontmatter.path}>
                 <label>
-                  <FontAwesomeIcon icon={faArrowLeft} css={(theme) => ({ marginRight: theme.spacing(1) })} />
+                  <FontAwesomeIcon icon={faChevronLeft} css={(theme) => ({ marginRight: theme.spacing(1) })} />
                   Articolo precedente
                 </label>
                 <span>{previous.frontmatter.title}</span>
@@ -226,7 +287,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
               <Link to={next.frontmatter.path}>
                 <label css={{ justifyContent: 'flex-end' }}>
                   Articolo successivo
-                  <FontAwesomeIcon icon={faArrowRight} css={(theme) => ({ marginLeft: theme.spacing(1) })} />
+                  <FontAwesomeIcon icon={faChevronRight} css={(theme) => ({ marginLeft: theme.spacing(1) })} />
                 </label>
                 <span>{next.frontmatter.title}</span>
               </Link>
@@ -261,6 +322,12 @@ export const pageQuery = graphql`
           frontmatter {
             path
             title
+          }
+        }
+        author {
+          html
+          frontmatter {
+            avatar
           }
         }
       }
