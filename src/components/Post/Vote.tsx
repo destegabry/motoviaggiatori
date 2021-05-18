@@ -1,6 +1,7 @@
 import React, { useCallback, useState } from 'react';
 import { faThumbsDown, faThumbsUp, IconDefinition } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { DonateButton } from '../Donate';
 
 const LS_VOTES_KEY = 'votes';
 
@@ -91,14 +92,12 @@ export default function Vote({ campaign, children }: VoteProps): JSX.Element {
           })}
         />
       </div>
-      {/* {voted > 0 && (
-        <div>
-          &nbsp; Contribuisci a nuovi articoli: &nbsp;
-          <a href="#" trackLabel={campaign} className="donate-button">
-            offrici un pieno o una birra!
-          </a>
+      {votes[campaign] > 0 && (
+        <div css={(theme) => ({ marginTop: theme.spacing(1) })}>
+          Contribuisci a nuovi articoli: &nbsp;
+          <DonateButton trackLabel={campaign}>offrici un pieno o una birra!</DonateButton>
         </div>
-      )} */}
+      )}
     </section>
   );
 }
