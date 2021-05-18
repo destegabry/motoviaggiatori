@@ -4,7 +4,11 @@ path: /2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo
 author: gabriele
 featured_image: /assets/uploads/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo/galleries/Caberg-Levo-wall.jpeg
 excerpt: "Siamo andati a toccare con mano i modelli di pre-produzione del nuovo LEVO: ecco le prime impressioni sul casco Caberg per i motoviaggiatori esigenti."
-opening: "<p>Siamo utilizzatori di caschi Caberg da diversi anni (<a rel=\"noreferrer noopener\" href=\"https://amzn.to/2QDbIDX\" target=\"_blank\">Duke II</a> e <a href=\"https://amzn.to/2Sd8XWO\" target=\"_blank\" rel=\"noreferrer noopener\">Tourmax</a>) e la presentazione ad EICMA 2018 di un nuovo modello a vocazione turistica non ha potuto che incuriosirci.</p><p>Il Caberg Levo è un casco modulare in fibre composite, dal peso contenuto e un’ottima ventilazione, caratterizzato dalla visiera panoramica che offre il campo visivo tra i più ampi della categoria.</p>"
+opening: >-
+  Siamo utilizzatori di caschi Caberg da diversi anni (<a rel="noreferrer noopener" href="https://amzn.to/2QDbIDX" target="_blank">Duke II</a> e <a href="https://amzn.to/2Sd8XWO" target="_blank" rel="noreferrer noopener">Tourmax</a>) e la presentazione ad EICMA 2018 di un nuovo modello a vocazione turistica non ha potuto che incuriosirci.
+
+
+  Il Caberg Levo è un casco modulare in fibre composite, dal peso contenuto e un’ottima ventilazione, caratterizzato dalla visiera panoramica che offre il campo visivo tra i più ampi della categoria.
 date: 2018-12-20T09:29:14.000Z
 modified: 2019-04-03T14:34:00.000Z
 categories:

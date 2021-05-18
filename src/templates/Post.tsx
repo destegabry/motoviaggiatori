@@ -39,16 +39,17 @@ function onGalleryScroll(this: HTMLDivElement): void {
 
 export default function PostPage({ data }: PostPageProps): JSX.Element {
   const { next, previous } = data;
-  const post = data.markdownRemark.frontmatter;
+  const post = data.markdownRemark;
+  const postMeta = post.frontmatter;
 
-  const disclaimers = post.categories
-    ? post.categories
-        .filter(({ frontmatter: { disclaimer } }) => Boolean(disclaimer))
-        .map(({ frontmatter: { disclaimer } }) => disclaimer as string)
+  const disclaimers = postMeta.categories
+    ? postMeta.categories
+        .filter(({ fields }) => Boolean(fields?.disclaimer_html))
+        .map(({ fields }) => fields?.disclaimer_html as string)
     : [];
 
-  if (post.disclaimer) {
-    disclaimers.unshift(post.disclaimer);
+  if (post.fields?.disclaimer_html) {
+    disclaimers.unshift(post.fields.disclaimer_html);
   }
 
   useEffect(() => {
@@ -87,14 +88,14 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
   }, []);
 
   return (
-    <Layout title={post.title} description={post.excerpt} image={post.featured_image}>
+    <Layout title={postMeta.title} description={postMeta.excerpt} image={postMeta.featured_image}>
       <div itemProp="blogPost" itemScope itemType="https://schema.org/BlogPosting">
-        <h1 itemProp="name headline">{post.title}</h1>
+        <h1 itemProp="name headline">{postMeta.title}</h1>
         <PostMeta post={data.markdownRemark} />
         <FeaturedMedia post={data.markdownRemark} css={(theme) => ({ marginTop: theme.spacing(4) })} />
         <div
           itemProp="timeRequired"
-          {...{ content: `PT${data.markdownRemark.timeToRead}M` }}
+          {...{ content: `PT${post.timeToRead}M` }}
           css={(theme) => ({
             ...theme.typography.caption,
             textAlign: 'center',
@@ -102,14 +103,13 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
             marginBottom: theme.spacing(2),
           })}
         >
-          Tempo di lettura: circa{' '}
-          {data.markdownRemark.timeToRead > 1 ? `${data.markdownRemark.timeToRead} minuti` : `1 minuto`}
+          Tempo di lettura: circa {post.timeToRead > 1 ? `${post.timeToRead} minuti` : `1 minuto`}
         </div>
-        {post.opening && <section dangerouslySetInnerHTML={{ __html: post.opening }} itemProp="backstory" />}
-        {data.markdownRemark.tableOfContents && (
-          <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.tableOfContents }} />
+        {post.fields?.opening_html && (
+          <section dangerouslySetInnerHTML={{ __html: post.fields.opening_html }} itemProp="backstory" />
         )}
-        {post.attributes && (
+        {post.tableOfContents && <section dangerouslySetInnerHTML={{ __html: post.tableOfContents }} />}
+        {postMeta.attributes && (
           <table
             css={(theme) => ({
               fontFamily: theme.typography.body.fontFamily,
@@ -125,7 +125,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
               },
             })}
           >
-            {post.attributes.map(({ key, value }) => (
+            {postMeta.attributes.map(({ key, value }) => (
               <tr key={key}>
                 <th>{key}</th>
                 <td dangerouslySetInnerHTML={{ __html: value }}></td>
@@ -133,27 +133,25 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
             ))}
           </table>
         )}
-        {data.markdownRemark.html && (
-          <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} itemProp="articleBody" />
-        )}
+        {post.html && <section dangerouslySetInnerHTML={{ __html: post.html }} itemProp="articleBody" />}
         {disclaimers && (
           <section css={(theme) => ({ p: { fontSize: theme.typography.caption.fontSize } })}>
             {disclaimers.map((disclaimer, index) => (
-              <p key={index} dangerouslySetInnerHTML={{ __html: disclaimer }}></p>
+              <div key={index} dangerouslySetInnerHTML={{ __html: disclaimer }}></div>
             ))}
           </section>
         )}
-        {post.modified && (
+        {postMeta.modified && (
           <p
             css={(theme) => ({ fontStyle: 'italic', fontSize: theme.typography.caption.fontSize, textAlign: 'center' })}
           >
             Ultimo aggiornamento: &nbsp;
-            <time dateTime={post.modified} itemProp="dateModified" {...{ content: post.modified }}>
-              {format(new Date(post.modified), 'dd MMMM yyyy', { locale })}
+            <time dateTime={postMeta.modified} itemProp="dateModified" {...{ content: postMeta.modified }}>
+              {format(new Date(postMeta.modified), 'dd MMMM yyyy', { locale })}
             </time>
           </p>
         )}
-        {post.tags && (
+        {postMeta.tags && (
           <div>
             <h4>Tags</h4>
             <ul
@@ -187,7 +185,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
                 },
               })}
             >
-              {post.tags.map(({ frontmatter: { title, path } }) => (
+              {postMeta.tags.map(({ frontmatter: { title, path } }) => (
                 <li key={path}>
                   <Link to={`/tag/${path}`} rel="tag" title={`Guarda tutti i post con il tag ${title}`}>
                     {title}
@@ -197,7 +195,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
             </ul>
           </div>
         )}
-        {post.author && (
+        {postMeta.author && (
           <section
             itemScope
             itemType="http://schema.org/Person"
@@ -215,7 +213,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
               },
             })}
           >
-            {post.author.frontmatter.avatar && (
+            {postMeta.author.frontmatter.avatar && (
               <div
                 css={(theme) => ({
                   ...authorPictureSize,
@@ -232,21 +230,21 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
                 })}
               >
                 <Picture
-                  src={post.author.frontmatter.avatar}
-                  alt={`Avatar ${post.author.frontmatter.title}`}
+                  src={postMeta.author.frontmatter.avatar}
+                  alt={`Avatar ${postMeta.author.frontmatter.title}`}
                   {...authorPictureSize}
                 />
               </div>
             )}
             <div>
               <h2 itemProp="name" css={{ marginTop: 0 }}>
-                {post.author.frontmatter.title}
+                {postMeta.author.frontmatter.title}
               </h2>
-              {post.author.html && (
-                <div dangerouslySetInnerHTML={{ __html: post.author.html }} itemProp="description" />
+              {postMeta.author.html && (
+                <div dangerouslySetInnerHTML={{ __html: postMeta.author.html }} itemProp="description" />
               )}
-              <Link to={`/autore/${post.author.frontmatter.path}`}>
-                Tutti i post di {post.author.frontmatter.title}
+              <Link to={`/autore/${postMeta.author.frontmatter.path}`}>
+                Tutti i post di {postMeta.author.frontmatter.title}
                 <FontAwesomeIcon icon={faChevronRight} css={(theme) => ({ marginLeft: theme.spacing(1) })} />
               </Link>
             </div>
@@ -318,13 +316,15 @@ export const pageQuery = graphql`
       html
       timeToRead
       tableOfContents(maxDepth: 2)
+      fields {
+        opening_html
+        disclaimer_html
+      }
       frontmatter {
         modified
-        opening
-        disclaimer
         categories {
-          frontmatter {
-            disclaimer
+          fields {
+            disclaimer_html
           }
         }
         attributes {

@@ -7,7 +7,6 @@ path: /2016/09/strada-assietta-off-road-alta-quota
 featured_image: /assets/uploads/2016/09/strada-assietta-off-road-alta-quota/galleries/0/0.jpg
 featured_youtube: "-A0hRkNO8WE"
 excerpt: Frana sulla SP 173 Strada dell’Assietta tra il Colle delle Finestre ed il Colle dell’Assetta, strada chiusa dal 16 settembre 2016 a data indefinita
-opening: "Itinerario mototuristico di 220km con partenza da Torino, 60 km di off-road leggero adatto a tutte le moto.<br/>È il percorso militare più alto d’Europa, tocca la quota di 2550m alla Testa dell’Assietta."
 categories:
 - itinerari
 - itinerari/italia
@@ -47,6 +46,11 @@ attributes:
   value: A causa dei dislivelli molto ampi lo sbalzo termico è notevole, consigliato abbigliamento multistrato e un paio di guanti invernali in aggiunta a quelli estivi
 - key: Rifornimenti
   value: Benzinai assenti su tutto il tratto montano, è consigliato fare il pieno a Susa ed eventualmente un rabbocco a Sestriere o Pragelato
+opening:  >-
+  Itinerario mototuristico di 220km con partenza da Torino, 60 km di off-road leggero adatto a tutte le moto.
+
+
+  È il percorso militare più alto d’Europa, tocca la quota di 2550m alla Testa dell’Assietta.
 ---
 
 La Strada dell’Assietta (SP 173) è un itinerario indimenticabile a due passi da Torino: una **strada militare ad alta quota** (la più alta d’Europa) che si snoda dal Colle delle Finestre al Col Basset attraverso panorami mozzafiato, pascoli verdissimi e cime raggiungibili senza grossi sforzi.

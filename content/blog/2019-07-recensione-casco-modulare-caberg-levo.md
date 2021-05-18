@@ -4,8 +4,8 @@ path: /2019/07/recensione-casco-modulare-caberg-levo
 author: gabriele
 featured_image: /assets/uploads/2019/07/recensione-casco-modulare-caberg-levo/galleries/girola/ORG_DSC02315.jpg
 excerpt: "Le nostre impressioni dopo sei mesi, un viaggio in Turchia e decine di migliaia di km totali"
-opening: "<p>Sono passati più di 6 mesi dal <a href=\"/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo\">primo contatto</a> con il casco Caberg LEVO, lo abbiamo messo alla prova durante un <a href=\"/categoria/viaggi/turchia\">viaggio in Turchia</a> da 5500km in 18 giorni e durante tutte le uscite del 2019: finalmente siamo pronti a raccontarvi come va!</p>"
-disclaimer: "<strong>Nota<\/strong>: i caschi recensiti sono stati messi a disposizione da Caberg Helmets gratuitamente."
+opening: >-
+  Sono passati più di 6 mesi dal [primo contatto](/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo) con il casco Caberg LEVO, lo abbiamo messo alla prova durante un [viaggio in Turchia](/categoria/viaggi/turchia) da 5500km in 18 giorni e durante tutte le uscite del 2019: finalmente siamo pronti a raccontarvi come va!
 date: 2019-07-11T08:00:00.000Z
 categories:
 - recensioni
@@ -16,6 +16,8 @@ tags:
 - casco
 - made-in-italy
 - sicurezza
+disclaimer: >-
+  **Nota**: i caschi recensiti sono stati messi a disposizione da Caberg Helmets gratuitamente.
 ---
 
 LEVO è il casco modulare al vertice della gamma Caberg, concepito per il mototurismo e progettato per raggiungere alti livelli di leggerezza, silenziosità, ventilazione, visibilità e rapporto qualità/prezzo. Per cominciare vi lasciamo al video ufficiale girato a Bergamo e dintorni:

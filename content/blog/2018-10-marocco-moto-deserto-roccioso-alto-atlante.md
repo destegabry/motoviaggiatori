@@ -6,7 +6,8 @@ modified: 2019-04-03T11:31:00.000Z
 author: gabriele
 featured_image: /assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/5/GAB3284-1.jpg
 excerpt: "Entriamo nel vivo del viaggio in Marocco visitando Marrakech e attraversando i variopinti paesaggi offerti dalla catena montuosa dell’Alto Atlante tra valichi in quota, deserto roccioso, valli ricoperte di palmeti, ksar da favola ed una natura quasi incontaminata"
-opening: "Dopo l’<a href=\"/2018/03/marocco-moto-torino-marrakech\">oziosa traghettata raccontata nella prima parte</a>, finalmente entriamo nel vivo del viaggio in Marocco: visitiamo Marrakech e attraversiamo i variopinti paesaggi offerti dalla catena montuosa dell’Alto Atlante, tra valichi in quota, deserto roccioso, valli ricoperte di palmeti, ksar da favola ed una natura quasi incontaminata."
+opening: >-
+  Dopo [l’oziosa traghettata raccontata nella prima parte](/2018/03/marocco-moto-torino-marrakech), finalmente entriamo nel vivo del viaggio in Marocco: visitiamo Marrakech e attraversiamo i variopinti paesaggi offerti dalla catena montuosa dell’Alto Atlante, tra valichi in quota, deserto roccioso, valli ricoperte di palmeti, ksar da favola ed una natura quasi incontaminata.
 categories:
 - viaggi
 - viaggi/marocco

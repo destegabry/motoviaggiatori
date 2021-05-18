@@ -6,7 +6,8 @@ modified: 2019-04-03T15:15:00.000Z
 author: gabriele
 featured_image: /assets/uploads/2018/12/marocco-moto-cascate-ouzoud-scimmie-meknes-fes/galleries/GAB3629.jpg
 excerpt: "Esplorando il versante Nord dell’Alto Atlante: cascate mozzafiato, parate equestri, scimmie dispettose, foreste di cedri e città imperiali."
-opening: "Dopo aver <a href=\"/2018/10/marocco-moto-deserto-roccioso-alto-atlante/\">esplorato il versante Sud dell’Alto Atlante</a> è ora di scoprire cosa ci riserva la parte Nord: vegetazione mediterranea, cascate mozzafiato, parate equestri, scimmie dispettose, foreste di cedri e città imperiali."
+opening: >-
+  Dopo aver [esplorato il versante Sud dell’Alto Atlante](/2018/10/marocco-moto-deserto-roccioso-alto-atlante) è ora di scoprire cosa ci riserva la parte Nord: vegetazione mediterranea, cascate mozzafiato, parate equestri, scimmie dispettose, foreste di cedri e città imperiali.
 categories:
 - viaggi
 - viaggi/marocco

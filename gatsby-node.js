@@ -1,6 +1,30 @@
 /* eslint-disable no-console */
 require('dotenv').config();
 const path = require('path');
+const remark = require('remark');
+const remarkHTML = require('remark-html');
+
+exports.onCreateNode = ({ node, actions: { createNodeField } }) => {
+  if (node.frontmatter?.opening) {
+    const value = remark().use(remarkHTML).processSync(node.frontmatter.opening).toString();
+
+    createNodeField({
+      name: `opening_html`,
+      node,
+      value,
+    });
+  }
+
+  if (node.frontmatter?.disclaimer) {
+    const value = remark().use(remarkHTML).processSync(node.frontmatter.disclaimer).toString();
+
+    createNodeField({
+      name: `disclaimer_html`,
+      node,
+      value,
+    });
+  }
+};
 
 async function createBlogPages(graphql, createPage) {
   const result = await graphql(`

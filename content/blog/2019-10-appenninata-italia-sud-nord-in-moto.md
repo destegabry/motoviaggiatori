@@ -4,7 +4,8 @@ path: /2019/10/appenninata-italia-sud-nord-in-moto
 author: arturo
 featured_image: /assets/uploads/2019/10/appenninata-italia-sud-nord-in-moto/featured.jpg
 excerpt: "Il viaggio di ritorno dalla Puglia al Piemonte, passando per Molise, Abruzzo, Marche, Emilia Romagna"
-opening: "L'Italia da Sud a Nord: da Brindisi a Torino percorrendo un itinerario diverso da quello del <a href=\"/2019/08/appenninata-italia-nord-sud-in-moto\">viaggio di andata</a>."
+opening: >-
+  L'Italia da Sud a Nord: da Brindisi a Torino percorrendo un itinerario diverso da quello del [viaggio di andata](/2019/08/appenninata-italia-nord-sud-in-moto).
 date: 2019-10-24T20:00:00.000+2:00
 categories:
 - itinerari

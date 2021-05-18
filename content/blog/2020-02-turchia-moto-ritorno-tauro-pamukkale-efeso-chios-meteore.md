@@ -5,7 +5,8 @@ path: /2020/02/turchia-moto-ritorno-tauro-pamukkale-efeso-chios-meteore
 featured_image: /assets/uploads/2020/02/turchia-moto-ritorno-tauro-pamukkale-efeso-chios-meteore/featured.jpg
 featured_youtube: G-IVsr2OsdU
 excerpt: Ritorno dalla Turchia a Torino passando per monti, spiagge, siti archeologici e monasteri ortodossi
-opening: "<a href=\"/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara\">Lasciata alle spalle la fiabesca Cappadocia</a>, rientriamo in Italia passando per i monti del Tauro, Pamukkale, Efeso, Chios e le Meteore."
+opening: >-
+  [Lasciata alle spalle la fiabesca Cappadocia](/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara), rientriamo in Italia passando per i monti del Tauro, Pamukkale, Efeso, Chios e le Meteore.
 author: stefania
 categories:
 - viaggi

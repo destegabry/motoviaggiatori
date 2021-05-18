@@ -5,7 +5,11 @@ author: gabriele
 path: /2019/05/turchia-in-moto-informazioni-pratiche
 featured_image: /assets/uploads/2019/05/turchia-moto-informazioni-pratiche/featured.jpg
 excerpt: "Informazioni su documenti necessari, assicurazione, cultura, economia, lingua, valuta, salute, strade, cibo e hotel per viaggiare in Turchia con la tua moto"
-opening: "<p>Terra di meraviglie e contrasti, la Turchia è una nazione affascinante a cavallo tra Asia ed Europa. Viaggiare sulle sue arterie stradali permette di affacciarsi su una grande varietà di paesaggi e raggiungere luoghi imperdibili.</p><p>In questo articolo non ci dilungheremo sulle meraviglie dell'Asia Minore per concentrarci sulle informazioni necessarie ad organizzare il tuo viaggio in Turchia.</p>"
+opening: >-
+  Terra di meraviglie e contrasti, la Turchia è una nazione affascinante a cavallo tra Asia ed Europa. Viaggiare sulle sue arterie stradali permette di affacciarsi su una grande varietà di paesaggi e raggiungere luoghi imperdibili.
+
+
+  In questo articolo non ci dilungheremo sulle meraviglie dell'Asia Minore per concentrarci sulle informazioni necessarie ad organizzare il tuo viaggio in Turchia.
 categories:
 - viaggi
 - viaggi/turchia

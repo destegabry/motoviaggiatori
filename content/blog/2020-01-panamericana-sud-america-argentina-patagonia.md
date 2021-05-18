@@ -4,7 +4,8 @@ date: 2020-01-20T16:00:00.000Z
 path: /2020/01/panamericana-sud-america-argentina-patagonia-terra-del-fuoco
 featured_image: /assets/uploads/2020/01/panamericana-sud-america-argentina-patagonia/foto/IMG_0694.JPG
 excerpt: "Seconda parte di viaggio nell'estremo Sud del continente americano, tra Argentina e Cile"
-opening: "Nella <a href=\"/2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay\">prima parte del viaggio</a> abbiamo attraversato Cile, Perù, Bolivia, Argentina, Paraguay e Uruguay; a Dicembre 2019 siamo tornati in Sud America per spingerci ai limiti meridionali del continente per esplorare Patagonia e Terra del Fuoco, sulle orme del nostro compaesano Antonio Pigafetta."
+opening: >-
+  Nella [prima parte del viaggio](/2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay) abbiamo attraversato Cile, Perù, Bolivia, Argentina, Paraguay e Uruguay; a Dicembre 2019 siamo tornati in Sud America per spingerci ai limiti meridionali del continente per esplorare Patagonia e Terra del Fuoco, sulle orme del nostro compaesano Antonio Pigafetta.
 author: miral
 categories:
 - viaggi

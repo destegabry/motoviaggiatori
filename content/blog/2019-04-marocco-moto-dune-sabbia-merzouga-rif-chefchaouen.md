@@ -5,7 +5,8 @@ date: 2019-04-16T21:18:00.000Z
 author: gabriele
 featured_image: /assets/uploads/2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen/featured_image.jpg
 excerpt: "Ultimo capitolo del viaggio in Marocco: raggiungiamo le immense dune di sabbia di Merzouga e attraversiamo le montagne del Rif per l'ultima tappa nella blu Chefchaouen, per poi imbarcarci nuovamente e tornare in Italia"
-opening: "Dopo <a href=\"/2018/12/marocco-moto-cascate-ouzoud-scimmie-meknes-fes\">l’esplorazione del versante Nord dell’Alto Atlante e la visita delle città imperiali di Meknes e Fes</a>, torniamo nel Sahara puntando a Sud in direzione Merzouga per affondare le nostre bicilindriche nell'Erg Chebbi. La fine del viaggio si avvicina e torniamo a Tangeri visitando la regione del Rif, la città blu di Chefchaouen e la costa mediterranea del Marocco."
+opening: >-
+  Dopo [l’esplorazione del versante Nord dell’Alto Atlante e la visita delle città imperiali di Meknes e Fes](/2018/12/marocco-moto-cascate-ouzoud-scimmie-meknes-fes), torniamo nel Sahara puntando a Sud in direzione Merzouga per affondare le nostre bicilindriche nell'Erg Chebbi. La fine del viaggio si avvicina e torniamo a Tangeri visitando la regione del Rif, la città blu di Chefchaouen e la costa mediterranea del Marocco.
 categories:
 - viaggi
 - viaggi/marocco
@@ -78,7 +79,7 @@ Stanchi, accaldati e assetatissimi decidiamo di lasciar perdere il nostro obiett
 
 È finalmente arrivato il momento di mettere i piedi sulle immobili onde di sabbia, e per piedi intendo proprio i piedi nudi: la sabbia è finissima e le scarpe se ne riempiono subito, rendendo davvero scomodo camminare. Passiamo i primi minuti a *schivare* le proposte dei tuttofare berberi che provano ad offrirci escursioni, notti in tenda, resti fossili e artigianato locale.
 
-Dopo aver superato 4 o 5 dune lo ksar non si vede più, siamo finalmente immersi in un silenzio totale. Il colore del cielo vira verso il giallo a causa della sabbia sollevata dal vento, rendendo l'atomosfera davvero irreale. La sensazione di essere gli unici esseri umani nella zona viene interrotta dalla vista in lontananza di una comitiva di turisti a groppa di dromedario o dal viavai di moto da enduro: nei prossimi giorni si correrà un rally e ci sono già diversi team sul posto.
+Dopo aver superato 4 o 5 dune lo ksar non si vede più, siamo finalmente immersi in un silenzio totale. Il colore del cielo vira verso il giallo a causa della sabbia sollevata dal vento, rendendo l'atmosfera davvero irreale. La sensazione di essere gli unici esseri umani nella zona viene interrotta dalla vista in lontananza di una comitiva di turisti a groppa di dromedario, o dal viavai di moto da enduro: nei prossimi giorni si correrà un rally e ci sono già diversi team sul posto.
 
 Purtroppo non sono in grado di descrivere le sensazioni provate davanti ad un paesaggio così affascinante, lascio che siano le foto ad ispirarvi.
 

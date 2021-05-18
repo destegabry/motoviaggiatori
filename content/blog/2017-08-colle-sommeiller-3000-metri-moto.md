@@ -7,7 +7,7 @@ path: /2017/08/colle-sommeiller-3000-metri-moto
 featured_image: /assets/uploads/2017/08/colle-sommeiller-3000-metri-moto/galleries/3/1.jpg
 featured_youtube: XSlkYcXqHe8
 excerpt: "Itinerario off-road in alta montagna, si raggiunge la quota di 3000 m tra sterrati, guadi e single track."
-opening: "Itinerario off-road in alta montagna, si raggiunge la quota di 3000 m tra sterrati, guadi e single track."
+opening: Itinerario off-road in alta montagna, si raggiunge la quota di 3000 m tra sterrati, guadi e single track.
 categories:
 - itinerari
 - itinerari/italia

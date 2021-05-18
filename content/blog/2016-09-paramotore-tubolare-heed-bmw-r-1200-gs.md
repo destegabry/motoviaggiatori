@@ -6,7 +6,7 @@ author: gabriele
 path: /2016/09/paramotore-tubolare-heed-bmw-r-1200-gs
 featured_image: /assets/uploads/2016/09/paramotore-tubolare-heed-bmw-r-1200-gs/galleries/1/1.jpg
 excerpt: "Abbiamo montato le crashbar tubolari specifiche per BMW R1200GS 04-12 prodotte da HEED, ecco le nostre foto e considerazioni su paramotore e paraserbatoio"
-opening: "Abbiamo montato le crashbar tubolari specifiche per BMW R1200GS 04-12 prodotte da HEED, ecco le nostre foto e considerazioni su paramotore e paraserbatoio."
+opening: Abbiamo montato le crashbar tubolari specifiche per BMW R1200GS 04-12 prodotte da HEED, ecco le nostre foto e considerazioni su paramotore e paraserbatoio.
 categories:
 - recensioni
 - recensioni/protezione-moto

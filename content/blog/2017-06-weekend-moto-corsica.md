@@ -6,7 +6,7 @@ author: gabriele
 path: /2017/06/weekend-moto-corsica/
 featured_image: /assets/uploads/2017/06/weekend-moto-corsica/galleries/1/5.jpg
 excerpt: "Itinerario mototuristico di 480km: 3 giorni di moto in Corsica tra centinaia di curve, panorami mozzafiato, sterrati polverosi e bagni ristoratori"
-opening: "Itinerario mototuristico di 480 km con partenza da Bastia, 24 km di off-road per raggiungere Saleccia. È un percorso adatto ad un weekend lungo, si può accorciare a 2 giorni saltando Cap Corse (e risparmiando 100 km)."
+opening: Itinerario mototuristico di 480 km con partenza da Bastia, 24 km di off-road per raggiungere Saleccia. È un percorso adatto ad un weekend lungo, si può accorciare a 2 giorni saltando Cap Corse (e risparmiando 100 km).
 categories:
 - itinerari
 - itinerari/francia

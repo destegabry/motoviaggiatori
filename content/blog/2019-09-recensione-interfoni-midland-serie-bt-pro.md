@@ -4,7 +4,8 @@ path: /2019/09/recensione-interfoni-midland-serie-bt-pro
 author: gabriele
 featured_image: /assets/uploads/2019/09/recensione-interfoni-midland-serie-bt-pro/galleries/pics/levo_bt_pro_beach.jpg
 excerpt: "Abbiamo testato in viaggio l'intera gamma di interfoni Midland: BTX1 PRO S, BTX2 PRO S, B NEXT PRO"
-disclaimer: "<strong>Nota<\/strong>: i dispositivi recensiti sono stati messi a disposizione da CTE International gratuitamente."
+disclaimer: >-
+  **Nota**: i dispositivi recensiti sono stati messi a disposizione da CTE International gratuitamente
 date: 2019-09-04T21:00:00.000Z
 categories:
 - recensioni

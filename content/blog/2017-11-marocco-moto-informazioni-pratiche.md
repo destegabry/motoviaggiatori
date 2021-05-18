@@ -6,7 +6,17 @@ author: gabriele
 path: /2017/11/marocco-moto-informazioni-pratiche
 featured_image: /assets/uploads/2017/11/marocco-moto-informazioni-pratiche/featured_image.jpg
 excerpt: "Documenti necessari, informazioni su cultura, economia, lingua, valuta, salute, strade, cibo e hotel per viaggiare in Marocco con la tua moto"
-opening: "<p>Il Marocco è un Paese affascinante, il pezzo d’Africa geograficamente più vicino all’Europa ma con una cultura molto differente.</p><p>La catena montuosa dell’Atlante è il confine naturale che spacca in due il Paese: al Nord grandi città, boschi e coltivazioni, al Sud oasi, kasbah, deserto roccioso e le dune mozzafiato del Sahara.</p><p>Viaggiare in moto per il Marocco significa attraversare una moltitudine di paesaggi dai colori sempre nuovi, conoscere culture molto diverse e soprattutto ritrovarsi in situazioni davvero lontane dai nostri standard.</p><p>In questo articolo non ci dilungheremo sulle meraviglie conosciute durante il nostro #MaroccoInMoto, ma elencheremo un po’ di informazioni pratiche per facilitare l’organizzazione del tuo viaggio… o per convincerti a partire!</p>"
+opening: >-
+  Il Marocco è un Paese affascinante, il pezzo d’Africa geograficamente più vicino all’Europa ma con una cultura molto differente.
+
+
+  La catena montuosa dell’Atlante è il confine naturale che spacca in due il Paese: al Nord grandi città, boschi e coltivazioni, al Sud oasi, kasbah, deserto roccioso e le dune mozzafiato del Sahara.
+
+
+  Viaggiare in moto per il Marocco significa attraversare una moltitudine di paesaggi dai colori sempre nuovi, conoscere culture molto diverse e soprattutto ritrovarsi in situazioni davvero lontane dai nostri standard.
+
+
+  In questo articolo non ci dilungheremo sulle meraviglie conosciute durante il nostro [#MaroccoInMoto](/tag/marocco-in-moto), ma elencheremo un po’ di informazioni pratiche per facilitare l’organizzazione del tuo viaggio… o per convincerti a partire!
 categories:
 - viaggi
 - viaggi/marocco

@@ -4,7 +4,7 @@ path: /2019/08/appenninata-italia-nord-sud-in-moto
 author: arturo
 featured_image: /assets/uploads/2019/08/appenninata-italia-nord-sud-in-moto/galleries/2019-08-05T12.09.06.jpeg
 excerpt: "Da Torino a Brindisi, 1550 km di Appennini tra curve dolci e luoghi incredibili"
-opening: "Agosto, devi tornare in puglia dai parenti. <em>Giù</em> non hai la macchina o altri mezzi (forse una bici) e quindi non sai come muoverti. Che fai? Beh ci vai in moto"
+opening: Agosto, devi tornare in puglia dai parenti. *Giù* non hai la macchina o altri mezzi (forse una bici) e quindi non sai come muoverti. Che fai? Beh ci vai in moto!
 date: 2019-08-07T14:30:00.000+2:00
 categories:
 - itinerari

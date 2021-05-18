@@ -6,7 +6,11 @@ author: gabriele
 path: /2017/01/rhapsody-black-vespa-africa-giorgio-bettinelli
 featured_image: /assets/uploads/2017/01/rhapsody-black-vespa-africa-giorgio-bettinelli/featured_image.jpg
 excerpt: Giorgio Bettinelli racconta 20.000 km di Africa in Vespa
-opening: <p>A Torino la stagione invernale lascia poche giornate alla moto… E così, un po’ per organizzare il nostro <a href="/categoria/viaggi/marocco">#MaroccoInMoto</a>, un po’ per sognare a due ruote, mi sono procurato qualche libro di viaggio.</p><p>Inauguriamo la rubrica con il racconto di un motociclista atipico.</p>
+opening: >-
+  A Torino la stagione invernale lascia poche giornate alla moto… E così, un po’ per organizzare il nostro [#MaroccoInMoto](/categoria/viaggi/marocco), un po’ per sognare a due ruote, mi sono procurato qualche libro di viaggio.
+
+
+  Inauguriamo la rubrica con il racconto di un motociclista atipico.
 categories:
 - recensioni
 - recensioni/libri
