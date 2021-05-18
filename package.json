@@ -5,6 +5,10 @@
   "version": "3.0.0",
   "author": "Gabriele Destefanis <g.destefanis@topsolution.it>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/destegabry/motoviaggiatori"
+  },
   "scripts": {
     "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
     "develop": "gatsby develop",
@@ -12,7 +16,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "prepare": "husky install"
   },
   "dependencies": {
     "@emotion/react": "^11.4.0",
@@ -60,10 +64,13 @@
   "devDependencies": {
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
+    "husky": "^6.0.0",
+    "lint-staged": "^11.0.0",
     "prettier": "^2.3.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/destegabry/motoviaggiatori"
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx}": [
+      "eslint --ignore-path .gitignore --fix --max-warnings=0 ."
+    ]
   }
 }
