@@ -2,14 +2,14 @@ import React from 'react';
 import { useTheme } from '@emotion/react';
 import { Link } from 'gatsby';
 import { Post } from '../../entities';
-import { Picture } from '../Picture';
+import FeaturedMedia from './FeaturedMedia';
 import PostMeta from './PostMeta';
 
 type PostListProps = {
   posts: Array<Post>;
 };
 
-const pictureSize = { width: 240, height: 160 };
+const pictureSize = { width: 240, height: (240 / 16) * 9 };
 
 export default function PostList({ posts }: PostListProps): JSX.Element {
   const theme = useTheme();
@@ -55,10 +55,9 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
         <article key={post.frontmatter.path} itemProp="blogPost" itemScope itemType="https://schema.org/BlogPosting">
           {post.frontmatter.featured_image && (
             <Link to={post.frontmatter.path} title={post.frontmatter.title} className="picture-wrapper">
-              <Picture
-                src={post.frontmatter.featured_image}
-                alt=""
-                {...pictureSize}
+              <FeaturedMedia
+                post={post}
+                size={pictureSize}
                 responsive={[
                   {
                     key: 'sm',

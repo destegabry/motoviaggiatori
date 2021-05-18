@@ -2,12 +2,12 @@ import React from 'react';
 import styled from '@emotion/styled';
 import { Breakpoint, breakpoints } from '../../utils/breakpoints';
 
-type Size = {
+export type Size = {
   height: number;
   width: number;
 };
 
-type PictureProps = Size & {
+export type PictureProps = Size & {
   alt: string;
   src: string;
   className?: string;

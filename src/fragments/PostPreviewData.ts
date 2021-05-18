@@ -19,6 +19,7 @@ export const postPreviewData = graphql`
       }
       excerpt
       featured_image
+      featured_youtube
       title
     }
   }

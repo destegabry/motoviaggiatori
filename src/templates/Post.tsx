@@ -91,7 +91,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
       <div itemProp="blogPost" itemScope itemType="https://schema.org/BlogPosting">
         <h1 itemProp="name headline">{post.title}</h1>
         <PostMeta post={data.markdownRemark} />
-        <FeaturedMedia post={data.markdownRemark} />
+        <FeaturedMedia post={data.markdownRemark} css={(theme) => ({ marginTop: theme.spacing(4) })} />
         <div
           itemProp="timeRequired"
           {...{ content: `PT${data.markdownRemark.timeToRead}M` }}
