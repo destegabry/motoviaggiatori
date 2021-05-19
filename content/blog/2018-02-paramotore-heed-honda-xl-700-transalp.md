@@ -76,7 +76,7 @@ Inseriamo le 2 viti in dotazione sulla staffa del clacson ed avvitiamo il tutto 
 
 Serriamo saldamente tutte le viti, rimontiamo la carena inferiore, piazziamo le borse laterali… e siamo pronti per il prossimo viaggio!
 
-![Paramotore e borse HEED Honda XL 700 Transalp](/galleries/5/0.jpg "Paramotore e borse HEED per Honda XL 700 Transalp")
+![Paramotore e borse HEED Honda XL 700 Transalp](/assets/uploads/2018/02/paramotore-heed-honda-xl-700-transalp/galleries/5/0.jpg "Paramotore e borse HEED per Honda XL 700 Transalp")
 
 ## Considerazioni e prodotti alternativi
 

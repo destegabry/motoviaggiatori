@@ -112,11 +112,11 @@ Se stai cercando un casco modulare di alta gamma per viaggiare, vallo a toccare 
 
 ### Colori
 
-![Caberg LEVO – White Metal](../2018-12-esclusivo-primo-contatto-con-il-casco-caberg-levo/galleries/Caberg-Levo-White-Metal-1.jpg "Caberg LEVO – White Metal")
-![Caberg LEVO – Black Matt](../2018-12-esclusivo-primo-contatto-con-il-casco-caberg-levo/galleries/Caberg-Levo-Black-Matt.jpg "Caberg LEVO – Black Matt")
-![Caberg LEVO HI VIZION](../2018-12-esclusivo-primo-contatto-con-il-casco-caberg-levo/galleries/Caberg-Levo-HI-VIZION.jpg "Caberg LEVO HI VIZION")
-![Caberg LEVO FLOW](../2018-12-esclusivo-primo-contatto-con-il-casco-caberg-levo/galleries/Caberg-Levo-FLOW.jpg "Caberg LEVO FLOW")
-![Caberg LEVO CARBON](../2018-12-esclusivo-primo-contatto-con-il-casco-caberg-levo/galleries/Caberg-Levo-CARBON.jpg "Caberg LEVO CARBON")
+![Caberg LEVO – White Metal](/assets/uploads/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo/galleries/Caberg-Levo-White-Metal-1.jpg "Caberg LEVO – White Metal")
+![Caberg LEVO – Black Matt](/assets/uploads/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo/galleries/Caberg-Levo-Black-Matt.jpg "Caberg LEVO – Black Matt")
+![Caberg LEVO HI VIZION](/assets/uploads/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo/galleries/Caberg-Levo-HI-VIZION.jpg "Caberg LEVO HI VIZION")
+![Caberg LEVO FLOW](/assets/uploads/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo/galleries/Caberg-Levo-FLOW.jpg "Caberg LEVO FLOW")
+![Caberg LEVO CARBON](/assets/uploads/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo/galleries/Caberg-Levo-CARBON.jpg "Caberg LEVO CARBON")
 
 ### Prezzi
 

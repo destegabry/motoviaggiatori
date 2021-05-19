@@ -1,7 +1,6 @@
 ---
 title: Weekend lungo in Corsica
 date: 2017-06-29T23:50:11.000Z
-modified: 2019-04-16:07:00.000Z
 author: gabriele
 path: /2017/06/weekend-moto-corsica/
 featured_image: /assets/uploads/2017/06/weekend-moto-corsica/galleries/1/5.jpg

@@ -71,9 +71,6 @@ Proseguiamo verso il parco nazionale di Butrint dove percorriamo la strada che s
 Immancabile è la visita al sito archeologico di Butrin le cui origini risalgono al VIII secolo A.C dove sono conservati patrimoni della cultura civile ed ecclesiastica dell’epoca bizantina, veneziana, e ottomana. La città antica di “Buthrotum” venne fondata dagli esuli che abbandonarono la citta di Troia dopo la sua caduta. Il teatro olimpico e il castello sono ben conservati anche se il teatro è la più bella attrazione del sito.
 
 ![L'ingresso al parco The Blue Eye](/assets/uploads/2018/11/weekend-in-albania/galleries/MIRAL-Albania-17.jpg "L'ingresso al parco The Blue Eye")
-![Selfie di rito](/assets/uploads/2018/11/weekend-in-albania/galleries/MIRAL-Albania-18.jpg "Selfie di rito")
-![Ci avviciniamo alla sorgente](/assets/uploads/2018/11/weekend-in-albania/galleries/MIRAL-Albania-19.jpg "Ci avviciniamo alla sorgente")
-![Selfie con The Blue Eye](/assets/uploads/2018/11/weekend-in-albania/galleries/MIRAL-Albania-20.jpg "Selfie con The Blue Eye")
 ![I colori della fonte Syri i Kalter](/assets/uploads/2018/11/weekend-in-albania/galleries/MIRAL-Albania-21.jpg "I colori della fonte Syri i Kalter")
 ![I resti di alcune strutture turistiche abusive abbattute dal governo](/assets/uploads/2018/11/weekend-in-albania/galleries/MIRAL-Albania-22.jpg "I resti di alcune strutture turistiche abusive abbattute dal governo")
 ![Verso il parco nazionale di Butrint](/assets/uploads/2018/11/weekend-in-albania/galleries/MIRAL-Albania-23.jpg "Verso il parco nazionale di Butrint")

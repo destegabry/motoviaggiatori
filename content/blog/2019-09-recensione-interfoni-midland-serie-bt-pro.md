@@ -108,7 +108,7 @@ Siamo partiti per la Turchia dopo una breve visita alla sede Midland di Reggio E
 Fissiamo le centraline con le slitte adesive in dotazione, si sposano bene con la linea dei caschi [Caberg Levo](/2019/07/recensione-casco-modulare-caberg-levo) Flow, anch'essi oggetto di test di lunga percorrenza in questo viaggio.
 
 ![Midland BT Pro configurazione in viaggio](/assets/uploads/2019/09/recensione-interfoni-midland-serie-bt-pro/galleries/software/midland_trip_config.jpg "Configurazione Midland BT Pro in viaggio")
-![Foto promozionale Midland MotoViaggiatori](../2019-06-turchia-moto-torino-balcani-istanbul/galleries/0/IMG_2998.jpeg "Pronti per partire, equipaggiati a dovere!")
+![Foto promozionale Midland MotoViaggiatori](/assets/uploads/2019/06/turchia-moto-torino-balcani-istanbul/galleries/0/IMG_2998.jpeg "Pronti per partire, equipaggiati a dovere!")
 
 Gli interfoni mostrano subito le loro qualità nel lungo viaggio in autostrada fino ad Ancona. La qualità dell'audio è migliorata tantissimo rispetto alla vecchia generazione di interfoni Midland, si riesce a comunicare con naturalezza anche ai 130km/h: merito dei rinnovati speaker di maggiore potenza (a scapito di un po' di rumore elettrostatico che si può percepire a moto spenta e volume al massimo), ma soprattutto dell'algoritmo di sopressione del rumore del vento! Si può testarlo chiudendo e riaprendo la comunicazione con il passeggero mentre si viaggia a velocità sostenute: per i primi secondi si sentirà un marcato fruscio provenire dalle cuffie, che però svanisce quasi magicamente in qualche istante.
 

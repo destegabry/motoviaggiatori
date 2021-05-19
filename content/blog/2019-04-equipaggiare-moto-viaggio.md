@@ -150,6 +150,6 @@ Spesso i chilometri da percorrere sono tanti ed il tempo a disposizione è limit
 ![Cupolino WRS Touring](/assets/uploads/2019/04/equipaggiare-moto-viaggio/galleries/accessori/IMG_2805.jpg "Cupolino maggiorato WRS Touring")
 ![Brembo mescola LA](/assets/uploads/2019/04/equipaggiare-moto-viaggio/galleries/accessori/DSC00862.JPG "Pastiglie Brembo in mescola LA")
 ![Molle progressive Hyperpro](/assets/uploads/2019/04/equipaggiare-moto-viaggio/galleries/accessori/IMG_2843.jpg "Le molle Hyperpro (oltre ad essere progressive) sono decisamente viola!")
-![Montaggio SMART IAT](../2019-02-col-del-lis-e-dintorni-di-lanzo-in-moto/galleries/51616429_1514076425400351_9146450744541446144_o.jpg "Montaggio S.M.A.R.T. IAT direttamente sul campo")
+![Montaggio SMART IAT](/assets/uploads/2019/02/col-del-lis-e-dintorni-di-lanzo-in-moto/galleries/51616429_1514076425400351_9146450744541446144_o.jpg "Montaggio S.M.A.R.T. IAT direttamente sul campo")
 
 Buon viaggio!

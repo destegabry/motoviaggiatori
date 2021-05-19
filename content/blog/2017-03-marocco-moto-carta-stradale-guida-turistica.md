@@ -62,12 +62,12 @@ La guida sembra ben rilegata, ma solo al ritorno saprò se tutte le pagine sopra
 
 <div class="message warning"><strong>Aggiornamento</strong>: la guida è bella robusta ed è tornata indenne dal viaggio!</div>
 
-![Guida Marocco Mondadori aperta](galleries/1/0.jpg "Guida Marocco Mondadori aperta")
-![Guida Marocco Mondadori copertina](galleries/1/1.jpg "Guida Marocco Mondadori copertina")
-![Guida Marocco Mondadori dettaglio foto](galleries/1/2.jpg "Guida Marocco Mondadori dettaglio foto")
-![Guida Marocco Mondadori dettaglio zone](galleries/1/3.jpg "Guida Marocco Mondadori dettaglio zone")
-![Guida Marocco Mondadori dettaglio itinerari](galleries/1/4.jpg "Guida Marocco Mondadori dettaglio itinerari")
-![Guida Marocco Mondadori dettaglio approfondimenti](galleries/1/5.jpg "Guida Marocco Mondadori dettaglio approfondimenti")
-![Guida Marocco Mondadori dettaglio contenuti](galleries/1/6.jpg "Guida Marocco Mondadori dettaglio contenuti")
+![Guida Marocco Mondadori aperta](/assets/uploads/2017/03/marocco-moto-carta-stradale-guida-turistica/galleries/1/0.jpg "Guida Marocco Mondadori aperta")
+![Guida Marocco Mondadori copertina](/assets/uploads/2017/03/marocco-moto-carta-stradale-guida-turistica/galleries/1/1.jpg "Guida Marocco Mondadori copertina")
+![Guida Marocco Mondadori dettaglio foto](/assets/uploads/2017/03/marocco-moto-carta-stradale-guida-turistica/galleries/1/2.jpg "Guida Marocco Mondadori dettaglio foto")
+![Guida Marocco Mondadori dettaglio zone](/assets/uploads/2017/03/marocco-moto-carta-stradale-guida-turistica/galleries/1/3.jpg "Guida Marocco Mondadori dettaglio zone")
+![Guida Marocco Mondadori dettaglio itinerari](/assets/uploads/2017/03/marocco-moto-carta-stradale-guida-turistica/galleries/1/4.jpg "Guida Marocco Mondadori dettaglio itinerari")
+![Guida Marocco Mondadori dettaglio approfondimenti](/assets/uploads/2017/03/marocco-moto-carta-stradale-guida-turistica/galleries/1/5.jpg "Guida Marocco Mondadori dettaglio approfondimenti")
+![Guida Marocco Mondadori dettaglio contenuti](/assets/uploads/2017/03/marocco-moto-carta-stradale-guida-turistica/galleries/1/6.jpg "Guida Marocco Mondadori dettaglio contenuti")
 
 Consiglio anche la guida [Traveller National Geographic](http://amzn.to/2nObbfo): in un recente viaggio in Giappone ho optato per questa e l’ho trovata molto ben fatta e pratica, oltre ad essere molto più economica della maggior parte delle altre guide.

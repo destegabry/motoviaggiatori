@@ -52,7 +52,7 @@ Se per qualche motivo decideste di lasciare la vostra moto nel Paese in cui vi t
 Per viaggiare in Sud America **non è necessario dotarsi di *Carnet de passage***.
 
 ![Container moto](/assets/uploads/2019/10/sud-america-moto-informazioni-pratiche/foto/IMG_0759.JPG "Operazioni di carico della nostra BMW R1200GS Adventure nel container")
-![Sdoganamento moto Cile](../2019-09-panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/3_sdoganamento.JPG "Sdoganamento della moto in Cile")
+![Sdoganamento moto Cile](/assets/uploads/2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/3_sdoganamento.JPG "Sdoganamento della moto in Cile")
 ![Importazione moto Cile](/assets/uploads/2019/10/sud-america-moto-informazioni-pratiche/foto/IMG_1932.JPG "Il “Titulo de importación temporal de vehículos” ottenuto in Cile")
 
 ## Mezzi di trasporto
@@ -87,7 +87,7 @@ Per quando riguarda il bollo, essendo una tassa di proprietà, dovrà essere pag
 
 Possiedo inoltre una assicurazione medica di viaggio di [Europe Assistance](https://www.europassistance.it/assicurazioni/viaggi) con scadenza annuale.
 
-![Ragazzi (Perù)](../2019-09-panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/8_2.JPG "Ci fermiamo a stipulare l'assicurazione della moto e veniamo raggiunti da alcuni ragazzi che ci vogliono conoscere (Perù)")
+![Ragazzi (Perù)](/assets/uploads/2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/8_2.JPG "Ci fermiamo a stipulare l'assicurazione della moto e veniamo raggiunti da alcuni ragazzi che ci vogliono conoscere (Perù)")
 
 ## Contanti e carte di credito
 
@@ -116,8 +116,8 @@ Lungo tutta la rete stradale viaggiano liberi animali di ogni genere, quindi con
 Un compagno di viaggio da cui difficilmente vi separerete è il vento: tutto bene finché è costante, quando si trasforma in forti raffiche diventa un problema.
 
 ![Lugo la Panamericana (Cile)](/assets/uploads/2019/10/sud-america-moto-informazioni-pratiche/foto/4_10.JPG)
-![Pista per Puno (Perù)](../2019-09-panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/8_1.JPG)
-![Pista in Bolivia](../2019-09-panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/10_4.JPG)
+![Pista per Puno (Perù)](/assets/uploads/2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/8_1.JPG)
+![Pista in Bolivia](/assets/uploads/2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/10_4.JPG)
 ![Pista in Paraguay](/assets/uploads/2019/10/sud-america-moto-informazioni-pratiche/foto/13_21.JPG)
 
 ## Benzina
@@ -130,7 +130,7 @@ In Sud America viaggio con una [BMW R1200GS Adventure](/tag/bmw-r1200gs), che mo
 
 Il peggior rifornimento di questo viaggio l’ho fatto a San Pedro di Atacama, dove ogni mezzo che circolava in paese aveva problemi di accensione e faceva un gran fumo.
 
-![Rifornimento (Cile)](../2019-09-panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/4_3.JPG "Rifornimento con l'aggiunta di un po' di ottani (Cile)")
+![Rifornimento (Cile)](/assets/uploads/2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/4_3.JPG "Rifornimento con l'aggiunta di un po' di ottani (Cile)")
 
 ## Vaccini e medicinali
 

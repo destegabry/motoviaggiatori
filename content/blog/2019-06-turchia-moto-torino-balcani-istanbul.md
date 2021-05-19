@@ -132,9 +132,9 @@ Raggiungiamo le sponde del Lago di Ohrida, uno dei maggiori bacini della penisol
 
 Dopo tutta la giornata in moto arriviamo finalmente nei sobborghi di Salonicco, dove passeremo la notte. Fa molto freddo e abbiamo preso un po' di pioggia. Per fortuna dopo una giornata monotona e faticosa rimediamo un'ottima cena greca. In Grecia si può ancora fumare nei locali, scoperta che riempie di gioia Simone.
 
-![Fragole albanesi](/./galleries/9/DSC01380.jpeg "Gustose fragole albanesi al passo Qafë Thanë")
-![Pranzo al lago di Ohrida](/./galleries/9/DSC01384.jpeg "Pranzo al lago di Ohrida")
-![Fumo ristorante Grecia](/./galleries/9/DSC01389.jpeg "Per la gioia di Simone in Grecia si può fumare al ristorante")
+![Fragole albanesi](/assets/uploads/2019/06/turchia-moto-torino-balcani-istanbul/galleries/9/DSC01380.jpeg "Gustose fragole albanesi al passo Qafë Thanë")
+![Pranzo al lago di Ohrida](/assets/uploads/2019/06/turchia-moto-torino-balcani-istanbul/galleries/9/DSC01384.jpeg "Pranzo al lago di Ohrida")
+![Fumo ristorante Grecia](/assets/uploads/2019/06/turchia-moto-torino-balcani-istanbul/galleries/9/DSC01389.jpeg "Per la gioia di Simone in Grecia si può fumare al ristorante")
 
 ## Giorno 5: da Sindos a Istanbul
 

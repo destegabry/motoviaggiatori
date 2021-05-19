@@ -91,7 +91,7 @@ Attraversiamo nuovamente il guado e ci fermiamo al *casello* per versare l’obo
 
 ![Cascata rifugio Scarfiotti](/assets/uploads/2017/08/colle-sommeiller-3000-metri-moto/galleries/2/0.jpg "La cascata al fondo del Pian du Fond")
 ![Tornanti rifugio Scarfiotti](/assets/uploads/2017/08/colle-sommeiller-3000-metri-moto/galleries/2/1.jpg "Stretti tornanti portano dal rifugio Scarfiotti al Pian dei Morti")
-![Tornanti la rousse](/assets/uploads/2017/08/colle-sommeiller-3000-metri-moto/galleries/2/2.jpg "Il Pian du Fond visto dai tornanti "la rousse", in basso a destra il rifugio Scarfiotti")
+![Tornanti la rousse](/assets/uploads/2017/08/colle-sommeiller-3000-metri-moto/galleries/2/2.jpg "Il Pian du Fond visto dai tornanti “la rousse” in basso a destra il rifugio Scarfiotti")
 
 Dopo una quindicina di tornanti arriviamo al Pian dei Morti (quota 2290 m), il torrente scorre di nuovo vicino alla strada. Altri 5 tornanti fanno salire di quota fino ai 2676 m del Pian dei Frati. Qui troviamo un guado più profondo e largo rispetto al precedente, aggirabile tramite un ponticello in legno. Ovviamente opto per attraversare il Rio di Fond mettendo le ruote a bagno, approfittandone per dare una sciaquata alla [Xiaomi Yi](/2017/01/xiaomi-yi-action-camera-video-hd-al-prezzo-giusto/ "Recensione Xiaomi Yi") coperta di polvere.
 
