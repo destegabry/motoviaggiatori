@@ -52,8 +52,15 @@ type VoteProps = {
   children: React.ReactNode | React.ReactNode[];
 };
 
+let lsVotes: Record<string, number>;
+try {
+  lsVotes = JSON.parse(window.localStorage.getItem(LS_VOTES_KEY) || '{}');
+} catch (err) {
+  lsVotes = {};
+}
+
 export default function Vote({ campaign, children }: VoteProps): JSX.Element {
-  const [votes, setVotes] = useState<Record<string, number>>(JSON.parse(localStorage.getItem(LS_VOTES_KEY) || '{}'));
+  const [votes, setVotes] = useState(lsVotes);
 
   const handleVote = useCallback(
     (value: number) => {
