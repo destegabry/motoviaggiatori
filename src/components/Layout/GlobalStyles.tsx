@@ -141,6 +141,23 @@ export default function GlobalStyles(): JSX.Element {
         table: {
           width: '100%',
           borderCollapse: 'collapse',
+          marginTop: theme.typography.body.marginBlockStart,
+          marginBottom: theme.typography.body.marginBlockEnd,
+
+          'th, td': {
+            borderBottom: `1px solid ${theme.palette.text.disabled}`,
+            textAlign: 'left',
+            padding: theme.spacing(1),
+            // paddingBottom: theme.spacing(1),
+            // paddingTop: theme.spacing(1),
+            // paddingBottom: theme.spacing(1),
+          },
+
+          tbody: {
+            'th, td': {
+              verticalAlign: 'top',
+            },
+          },
         },
 
         '.md-gallery': {

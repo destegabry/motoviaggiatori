@@ -97,7 +97,7 @@ Se stai cercando un casco modulare di alta gamma per viaggiare, vallo a toccare 
 
 ### Taglie disponibili
 
-| Calotta piccola ||  Calotta grande  ||
+| Calotta piccola | |  Calotta grande  | |
 |--------|---------|---------|---------|
 | **XS** | 53/54cm | **L**   | 59/60cm |
 | **S**  | 55/56cm | **XL**  | 61/62cm |

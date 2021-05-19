@@ -115,27 +115,15 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
         )}
         {post.tableOfContents && <section dangerouslySetInnerHTML={{ __html: post.tableOfContents }} />}
         {postMeta.attributes && (
-          <table
-            css={(theme) => ({
-              fontFamily: theme.typography.body.fontFamily,
-
-              'th, td': {
-                paddingTop: theme.spacing(2),
-                paddingBottom: theme.spacing(2),
-                borderBottom: `1px solid ${theme.palette.text.disabled}`,
-              },
-              th: {
-                paddingRight: theme.spacing(3),
-                textAlign: 'left',
-              },
-            })}
-          >
-            {postMeta.attributes.map(({ key, value }) => (
-              <tr key={key}>
-                <th>{key}</th>
-                <td dangerouslySetInnerHTML={{ __html: value }}></td>
-              </tr>
-            ))}
+          <table css={(theme) => ({ fontFamily: theme.typography.body.fontFamily })}>
+            <tbody>
+              {postMeta.attributes.map(({ key, value }) => (
+                <tr key={key}>
+                  <th>{key}</th>
+                  <td dangerouslySetInnerHTML={{ __html: value }}></td>
+                </tr>
+              ))}
+            </tbody>
           </table>
         )}
         {post.html && <section dangerouslySetInnerHTML={{ __html: post.html }} itemProp="articleBody" />}
