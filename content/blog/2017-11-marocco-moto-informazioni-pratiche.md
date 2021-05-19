@@ -148,7 +148,7 @@ Il Marocco è un Paese a maggioranza musulmana, per cui gli **alcolici sono poco
 
 L’**acqua in bottiglia ha un prezzo calmierato**, in mezzo al deserto come in alta montagna non dovresti mai pagare l’acqua più di 1€ al litro.
 
-<p class="message pro-tip">Nel Sahara le temperature sono alte ed il clima molto secco, non sottovalutare il rischio da disidratazione e bevi moltissimo!</p>
+<div class="message pro-tip">Nel Sahara le temperature sono alte ed il clima molto secco, non sottovalutare il rischio da disidratazione e bevi moltissimo!</div>
 
 Gli **alberghi sono molto economici**, ma bisogna aspettarsi standard di qualità e pulizia inferiore a quelli europei.
 
@@ -162,21 +162,21 @@ Il mondo cambia in fretta e purtroppo alcune di queste informazioni potrebbero n
 
 ### Ambasciata del Regno del Marocco
 
-Via Brenta n° 12/16
+Via Brenta n° 12/16\
 00198, Roma
 
-Telefono: [06.85508001](tel:+39 06 85508001) / [06.8550801](tel:+39 06 8550801)
+Telefono: <a href="tel:+39 06 85508001">06 85508001</a> / <a href="tel:+39 06 8550801">06 8550801</a>
 
-Fax: (+39) 06.4402695
+Fax: (+39) 06 4402695
 
 E-mail: [ambmaroccoroma@maec.gov.ma](mailto:ambmaroccoroma@maec.gov.ma)
 
 ### Consolato generale del Regno del Marocco: Bologna
 
-Via Caduti di Imola, 30
+Via Caduti di Imola, 30\
 Borgo Panigale 40132 Bologna
 
-Telefono: [051 531199](tel:+39 051 531199) / [051 538763](tel:+39 051 538763)
+Telefono: <a href="tel:+39 051 531199">051 531199</a> / <a href="tel:+39 051 538763">051 538763</a>
 
 Fax: 051 531863
 
@@ -184,10 +184,10 @@ E-mail: [consolatobologna@maec.gov.ma](mailto:consolatobologna@maec.gov.ma)
 
 ### Consolato generale del Regno del Marocco: Milano
 
-Via Adele Martignoni, 10
+Via Adele Martignoni, 10\
 20124 Milano
 
-Telefono: [02 66806919](tel:+39 02 66806919)
+Telefono: <a href="tel:+39 02 66806919">02 66806919</a>
 
 Fax: 02 66825086
 
@@ -195,10 +195,10 @@ E-mail: [consolatomilano@maec.gov.ma](mailto:consolatomilano@maec.gov.ma)
 
 ### Consolato generale del Regno del Marocco: Palermo
 
-Via Nunzio Morello, 2/4
+Via Nunzio Morello, 2/4\
 90144, Palermo
 
-Telefono: [09 16882486](tel:+39 09 16882486) / [09 16886023](tel:+39 09 16886023)
+Telefono: <a href="tel:+39 09 16882486">09 16882486</a> / <a href="tel:+39 09 16886023">09 16886023</a>
 
 Fax: 09 16881643
 
@@ -206,10 +206,10 @@ E-mail: [consolatoparlermo@maec.gov.ma](mailto:consolatoparlermo@maec.gov.ma)
 
 ### Consolato generale del Regno del Marocco: Torino
 
-Via Belfiore, 27
+Via Belfiore, 27\
 10126 Torino
 
-Telefono: [011 6506482](tel:+39 011 6506482) / [320 5757555](tel:+39 320 5757555)
+Telefono: <a href="tel:+39 011 6506482">011 6506482</a> / <a href="tel:+39 320 5757555">320 5757555</a>
 
 Fax: 011 6596065
 
@@ -217,10 +217,10 @@ E-mail: [consumaturin@maec.gov.ma](mailto:consumaturin@maec.gov.ma)
 
 ### Consolato generale del Regno del Marocco: Verona
 
-Via Torricelli, 49
+Via Torricelli, 49\
 37136 Verona
 
-Telefono: [045 8620858](tel:+39 045 8620858)
+Telefono: <a href="tel:+39 045 8620858">045 8620858</a>
 
 Fax: 045 951285
 
