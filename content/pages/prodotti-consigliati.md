@@ -33,15 +33,16 @@ Li trovate organizzati per categoria e, dove disponibile, il link alla nostra re
 Abbiamo affidato la protezione delle nostre teste a Caberg Helmets, azienza bergamasca che produce esclusivamente caschi (100% Made in Italy) dal 1974.
 
 - [Caberg Levo](https://amzn.to/3c4qxVK): casco modulare in fibre composite: leggero, dotato di visiera ultrapanoramica, 100% Made in Italy. La nostra scelta per la [#TurchiaInMoto](/categoria/viaggi/turchia). Ne abbiamo scritto una [recensione completa](/2019/07/recensione-casco-modulare-caberg-levo).
+- [Caberg Horus](https://amzn.to/3bC5Fbf): casco modulare in policarbonato, più pesante del Levo con cui condivide la visiera ultrapanoramica, 100% Made in Italy. Ne abbiamo scritto una [recensione](/2020/08/recensione-casco-modulare-caberg-horus).
 - [Caberg Duke II](https://amzn.to/3ejpvH5): casco modulare entry level in policarbonato: leggero, comodo, 100% Made in Italy. Lo abbiamo utilizzato per anni anche nella versione [Tourmax](https://amzn.to/36unEN7) dotata di visiera parasole.
 
 ### Interfoni
 
 Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usiamo la linea **Midland BT Next Pro** che abbiamo [recensito qui](/2019/09/recensione-interfoni-midland-serie-bt-pro). Comprandoli a coppie si risparmia parecchio.
 
-- Interfono [Midland BTX2 Pro S](http://ebay.us/45kQpp) bluetooth dual chip per l'utilizzo con device multipli e moto dotate di TFT, portata max 1200m, conferenza fino a 8 persone. Rapporto prezzo/prestazioni altissimo, a nostro giudizio **la versione da comprare**.
-- Interfono [Midland BTX1 Pro S](http://ebay.us/WUQaO2) entry level ma completissimo, portata max 800m, conferenza fino a 3 persone. Ideale per l'uso in coppia o come interfono passeggero associato ad un prodotto di grado superiore.
-- Interfono [Midland BT Next Pro](https://amzn.to/3bAeEJl) il top di gamma con portata massima 1600m e *BTT Button* incluso nella confezione. Per chi cerca il top.
+- Interfono [Midland BTX2 Pro S](https://ebay.us/W0ToAb) bluetooth dual chip per l'utilizzo con device multipli e moto dotate di TFT, portata max 1200m, conferenza fino a 8 persone. Rapporto prezzo/prestazioni altissimo, a nostro giudizio **la versione da comprare**.
+- Interfono [Midland BTX1 Pro S](https://ebay.us/GXRFvA) entry level ma completissimo, portata max 800m, conferenza fino a 3 persone. Ideale per l'uso in coppia o come interfono passeggero associato ad un prodotto di grado superiore.
+- Interfono [Midland BTX2 Pro S LR](https://ebay.us/tR1WFZ) versione *long range* con portata massima 1600m.
 
 ### Foto & Video
 
@@ -95,6 +96,8 @@ Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usi
 - [Sacche stagne Decathlon Itwit](https://www.decathlon.it/C-1129407-sacche-bidoni-contenitori-stagni): i passanti permettono di legarle saldamente alle valigie laterali, disponibili anche in versione zaino.
 - [Cubi organizzatori](https://amzn.to/3bk18JF): invece di utilizzare un unico grande borsone dentro le valigie, è molto comodo suddividere il carico in varie borsette dal contenuto omegeneo, in modo da avere a portata di mano tutto quel che si cerca. Li vende anche [Decathlon](https://www.decathlon.it/kit-3-sacche-di-stoccaggio-id_8512006.html).
 - [Trousse appendibile](https://amzn.to/2USKLeI): spesso nei bagni non si sa dove appoggiare la roba, un beauty appendibile risolve il problema. Non male quello di [Decathlon](https://www.decathlon.it/trousse-da-toilette-nera-id_8514768.html).
+- [Set attrezzi Wera Zyklop](https://amzn.to/2QzJ73E): qualità altissima, assortimento attrezzi di tutto rispetto e borsa molto robusta inclusa.
+- [Pinza multiuso Leatherman Rebar](https://amzn.to/3hxfwmu): un classico intramontabile.
 - [Borsa rotolo porta attrezzi](https://amzn.to/341WFHt): da lasciare sempre in moto con tutto il necessario per non farsi fermare dalla piccola magagna al tagliando on-the-road.
 
 ## Officina
