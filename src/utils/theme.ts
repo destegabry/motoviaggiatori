@@ -7,7 +7,7 @@ import '@fontsource/palanquin/400.css';
 import '@fontsource/palanquin/500.css';
 import '@fontsource/palanquin/700.css';
 import { breakpoints } from './breakpoints';
-import { accent, black, error, primary, secondary, success, warning, white } from './colors';
+import { accent, black, error, info, primary, secondary, success, warning, white } from './colors';
 import { components } from './components';
 import { typography } from './typography';
 
@@ -26,6 +26,7 @@ export const theme = {
     primary,
     secondary,
     accent,
+    info,
     error,
     warning,
     success,

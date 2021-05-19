@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import { icon } from '@fortawesome/fontawesome-svg-core';
 import { faHandPointUp, faChevronLeft, faChevronRight } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import color from 'color';
 import { format } from 'date-fns';
 import locale from 'date-fns/locale/it';
 import { graphql, Link, PageProps } from 'gatsby';
@@ -126,7 +127,58 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
             </tbody>
           </table>
         )}
-        {post.html && <section dangerouslySetInnerHTML={{ __html: post.html }} itemProp="articleBody" />}
+        {post.html && (
+          <section
+            dangerouslySetInnerHTML={{ __html: post.html }}
+            itemProp="articleBody"
+            css={(theme) => ({
+              '.message': {
+                background: color(theme.palette.info.light).fade(0.9).toString(),
+                border: `1px solid ${theme.palette.info.main}`,
+                borderRadius: theme.spacing(1),
+                marginBlockStart: theme.typography.body.marginBlockStart,
+                marginBlockEnd: theme.typography.body.marginBlockEnd,
+                paddingTop: theme.spacing(1),
+                paddingBottom: theme.spacing(1),
+                paddingLeft: theme.spacing(2),
+                paddingRight: theme.spacing(2),
+
+                '&.pro-tip': {
+                  position: 'relative',
+                  paddingTop: theme.spacing(6),
+
+                  '&:after': {
+                    ...theme.typography.caption,
+                    borderTopLeftRadius: theme.spacing(1),
+                    borderBottomRightRadius: theme.spacing(1),
+                    background: theme.palette.info.main,
+                    color: theme.palette.info.contrastText,
+                    content: '"PRO TIP"',
+                    padding: theme.spacing(1),
+                    position: 'absolute',
+                    top: 0,
+                    left: 0,
+                  },
+                },
+
+                '&.success': {
+                  background: color(theme.palette.success.light).fade(0.9).toString(),
+                  borderColor: theme.palette.success.main,
+                },
+
+                '&.warning': {
+                  background: color(theme.palette.warning.light).fade(0.9).toString(),
+                  borderColor: theme.palette.warning.main,
+                },
+
+                '&.error': {
+                  background: color(theme.palette.error.light).fade(0.9).toString(),
+                  borderColor: theme.palette.error.main,
+                },
+              },
+            })}
+          />
+        )}
         {disclaimers && (
           <section css={(theme) => ({ p: { fontSize: theme.typography.caption.fontSize } })}>
             {disclaimers.map((disclaimer, index) => (

@@ -74,7 +74,7 @@ Sveglia presto (con grande fatica), rapida rimozione della rugiada dalle moto e 
 
 Siamo in autostrada, segnalato l’ultimo benzinaio sloveno in cui è possibile compare la vignetta, provo a contattare Gabriele con l’interfono, ma è occupato perché sta parlando al telefono. Provo a suonare il clacson, niente. I momenti passano e superiamo il benzinaio. Poco dopo riesco a contattare Gabriele che realizza la cosa e decidiamo di provare ad andare avanti. Superiamo il confine e lì ad attenderci le telecamere ungheresi che controllano le vignette… Prendiamo la prima uscita, torniamo in slovenia al benzinaio superato a piè pari e acquistiamo la vignetta. Passiamo nuovamente di fronte alle stesse telecamere e incrociamo le dita sperando abbiano capito la svista e non ci multino!
 
-<div class="message pro-tip">Comprate la vignetta prima di entrare in Ungheria, ma soprattutto verificate la correttezza della targa riportata sullo scontrino!</div>
+<p class="message pro-tip">Comprate la vignetta prima di entrare in Ungheria, ma soprattutto verificate la correttezza della targa riportata sullo scontrino!</p>
 
 ### Budapest
 
@@ -116,7 +116,7 @@ Ci togliamo i vestiti da moto e prendiamo un po’ d’aria fresca. Scopriamo su
 
 Pranziamo al ristorante Konak e siamo pronti a ripartire, giusto il tempo di rimettersi i pantaloni da moto. Infilo la gamba sinistra e sento una puntura alla caviglia sinistra. Sembra una scheggia di legno, la rimuovo, ma il dolore aumenta, scuoto il pantalone e mi si presenta una sorpresa: non era una scheggia di legno, ma una vespa!
 
-<div class="message pro-tip">Scuotere sempre i pantaloni dopo averli abbandonati per ore all’aperto su una panchina d’estate</div>
+<p class="message pro-tip">Scuotere sempre i pantaloni dopo averli abbandonati per ore all’aperto su una panchina d’estate</p>
 
 Con la caviglia gonfia, ci rimettiamo in marcia verso il primo castello rumeno: il Corvinilor!
 

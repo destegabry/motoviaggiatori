@@ -36,7 +36,7 @@ Fortunatamente i nostri abiti si sono asciugati durante la notte e i temporali d
 
 Raggiungiamo **Beni Mellal** evitando la superstrada N8 e fortunatamente entriamo in città anziché aggirarla con la circonvallazione, ritrovandoci nel bel mezzo di una grande festa; proviamo a parcheggiare le moto nei paraggi, ma alcuni poliziotti ci avvicinano per farci spostare le moto direttamente all’interno dell’area recintata in modo che stiano più al sicuro. La disponibilità dei marocchini nei confronti dei turisti non ha eguali.
 
-<div class="message pro-tip">Anche se le moto sono sorvegliate da uomini in uniforme, dimenticare le chiavi appese al quadro non è una grande idea</div>
+<p class="message pro-tip">Anche se le moto sono sorvegliate da uomini in uniforme, dimenticare le chiavi appese al quadro non è una grande idea</p>
 
 Siamo circondati da persone in festa, cavalli e cavalieri agghindati e armati di moschetto: è la *Tbourida* (chiamata anche *Fantasia*), una **parata equestre** che affonda le radici nel quindicesimo secolo e rappresenta un assalto militare di guerrieri arabi e berberi.
 

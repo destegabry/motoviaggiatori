@@ -1,7 +1,7 @@
 ---
 path: /prodotti-consigliati
 title: Prodotti consigliati
-date: 2020-04-06T00:00:00.000Z
+date: 2021-05-19T09:00:00.000Z
 excerpt: "I consigli per gli acquisti di MotoViaggiatori.it: solo prodotti testati in viaggio e di cui siamo sicuri al 100%!"
 ---
 

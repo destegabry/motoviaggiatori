@@ -22,6 +22,13 @@ const accent = {
   contrastText: black,
 };
 
+const info = {
+  light: '#64b5f6',
+  main: '#2196f3',
+  dark: '#1976d2',
+  contrastText: white,
+};
+
 const error = {
   light: '#e57373',
   main: '#f44336',
@@ -49,6 +56,7 @@ module.exports = {
   primary,
   secondary,
   accent,
+  info,
   error,
   warning,
   success,

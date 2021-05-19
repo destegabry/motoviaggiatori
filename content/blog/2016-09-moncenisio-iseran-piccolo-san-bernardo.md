@@ -60,9 +60,9 @@ A Susa è quasi obbligatorio fermarsi al Panificio Favro (dentro il minimarket C
 
 ## Susa - Lago e Colle del Moncenisio
 
-<div class="message warning">
+<p class="message warning">
   <strong>ATTENZIONE</strong>: da Susa a Val d'Isère (85 km) non ci sono benzinai, il posto giusto per fare il pieno è questo!
-</div>
+</p>
 
 La SS25 che da Susa porta al Lago del Moncenisio è molto larga, asfaltata da poco (luglio 2016), con curve per tutti i gusti: **dai tornanti stretti ai curvoni veloci**, è facile farsi prendere la mano e lasciare urlare il motore... nei weekend **la strada è molto frequentata** da motociclisti, camper e auto.
 

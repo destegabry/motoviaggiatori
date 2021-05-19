@@ -59,7 +59,7 @@ Santo Stefano di Sessanio è un piccolo paese, il primo borgo caratteristico del
 
 Rimettetevi in moto, ma non troppo comodi, fra poco dovrete parcheggiarla nuovamente! Da Santo Stefano dovrete percorrere ancora pochissimi km sulla SP7 per raggiungere Calascio; una volta giunti in paese, nei pressi di un tornante, vi imbatterete in una fila interminabile di auto parcheggiate ed un svincolo chiuso al traffico: si tratta della strada che conduce a **Rocca Calascio, borgo medievale che dovete assolutamente andare a visitare!**
 
-<div class="message pro-tip">L’ho già detto che dovete assolutamente visitare Rocca Calascio?</div>
+<p class="message pro-tip">L’ho già detto che dovete assolutamente visitare Rocca Calascio?</p>
 
 Il borgo è raggiungibile esclusivamente a piedi o utilizzando il servizio di navetta a pagamento. Noi siamo saliti a piedi, si tratta di venti minuti circa di camminata su un sentiero che attraversa il pendio sulla cui cima si erge il paese.
 

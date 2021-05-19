@@ -64,7 +64,7 @@ Proseguendo verso Amatrice ed Accumoli iniziano i “problemi”. Mi perdo sulle
 
 Superata la zona terremotata, continuo a rimanere immerso nel verde, e incontro asfalto perfetto, mi inizio a muovere in posti meravigliosi, quali il **Parco della Gola Rossa** in cui ci sono le famosissime Grotte di Frasassi.
 
-<div class="message pro-tip">Se non avete mai visitato le grotte di Frasassi, beh, fatelo! Sono meravigliose, ma molto fredde quindi copritevi bene e soprattutto andateci a stomaco pieno! Gli speleologi che le hanno scoperte sono stati lì dentro per giorni senza cibo, per questo tutte le stalattiti e stalagmiti hanno nomi di pietanze come ciambelle e spaghetti!</div>
+<p class="message pro-tip">Se non avete mai visitato le grotte di Frasassi, beh, fatelo! Sono meravigliose, ma molto fredde quindi copritevi bene e soprattutto andateci a stomaco pieno! Gli speleologi che le hanno scoperte sono stati lì dentro per giorni senza cibo, per questo tutte le stalattiti e stalagmiti hanno nomi di pietanze come ciambelle e spaghetti!</p>
 
 Continuo a percorrere asfalto tra gole, salite e discese, inizia a fare sempre più caldo e quasi quasi inizia a mancarmi il freddo iniziale della mattina! Mi dirigo verso il **passo del Muraglione** su cui mi arrampico passando per una strada che attraversa il bosco sotto la fresca ombra degli alberi che mi abbracciano. Una volta giunto al passo e dopo essermi reso conto di aver macinato un bel po’ di km, decido di prendere una scorciatoia prendendo l’autostrada da Bologna a Parma per arrivare a destinazione in tempi umani.
 
@@ -78,7 +78,7 @@ I miei piani vengono subito rovinati dal meteo: prevista pioggia su tutto il per
 
 Prendo una simpaticissima pompa verde scolorito e faccio il pieno. Pago e mi dirigo in direzione centro. Dopo 500 metri la moto inizia a strappare e un dubbio atroce fa capolino nella mia testa: avrò messo diesel?
 
-<div class="message pro-tip">Anche se la pompa è verde, guarda in alto, se non c’è scritto nulla, B7 vuol dire Diesel…</div>
+<p class="message pro-tip">Anche se la pompa è verde, guarda in alto, se non c’è scritto nulla, B7 vuol dire Diesel…</p>
 
 Panico: spengo la moto e la spingo fino al benzinaio per chiedere aiuto. Faccio notare che la pompa è verde e mi viene simpaticamente risposto: non ti possiamo aiutare, chiama il carro attrezzi e comunque se credi che quello sia verde, dobbiamo chiamare un dottore perché sei daltonico.
 

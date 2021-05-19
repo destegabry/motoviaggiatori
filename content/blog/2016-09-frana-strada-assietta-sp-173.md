@@ -23,9 +23,9 @@ tags:
 - val-di-susa
 ---
 
-<div class="message warning">
+<p class="message warning">
   <strong>Aggiornamento</strong>: nel 2017 la frana è stata rimossa e la strada è nuovamente percorribile da tutti i mezzi.
-</div>
+</p>
 
 Sulla SP 173 Strada dell’Assietta tra il Colle delle Finestre ed il Colle dell’Assietta c’è stata una frana, il Comune di Pragelato ha provveduto ha chiuderla in data 16 settembre 2016 a data da destinarsi. **In moto si riesce a passare a proprio rischio e pericolo**.
 

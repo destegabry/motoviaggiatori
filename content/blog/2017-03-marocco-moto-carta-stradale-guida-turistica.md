@@ -60,7 +60,7 @@ La mia scelta è ricaduta sulla guida del [Marocco Dorling Kindersley tradotta e
 Le informazioni sono accompagnate da numerose foto a colori, cartine turistiche, curiosità e approfondimenti, tutto stampato su carta lucida.
 La guida sembra ben rilegata, ma solo al ritorno saprò se tutte le pagine sopravviveranno allo stress del viaggio.
 
-<div class="message warning"><strong>Aggiornamento</strong>: la guida è bella robusta ed è tornata indenne dal viaggio!</div>
+<p class="message warning"><strong>Aggiornamento</strong>: la guida è bella robusta ed è tornata indenne dal viaggio!</p>
 
 ![Guida Marocco Mondadori aperta](/assets/uploads/2017/03/marocco-moto-carta-stradale-guida-turistica/galleries/1/0.jpg "Guida Marocco Mondadori aperta")
 ![Guida Marocco Mondadori copertina](/assets/uploads/2017/03/marocco-moto-carta-stradale-guida-turistica/galleries/1/1.jpg "Guida Marocco Mondadori copertina")

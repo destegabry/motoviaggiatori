@@ -19,9 +19,9 @@ tags:
 ---
 Vuoi viaggiare per il Marocco in sella alla tua moto? La prima cosa da fare è verificare che la Carta Verde (ufficialmente *Carta Internazionale di Assicurazione Veicoli a Motore*) della tua assicurazione abbia la sigla *MA* nella tabella dei Paesi di validità… ma purtroppo è molto raro che le compagnie italiane coprano la responsabilità civile nel Paese nordafricano.
 
-<div class="message pro-tip">
+<p class="message pro-tip">
 Da quando la Carta Verde non è più necessaria per viaggiare nei Paesi UE, le assicurazioni tendono a rilasciarla solo su richiesta: se prevedi di viaggiare molto all’estero <strong>chiedi il rilascio gratuito della Carta Verde ad ogni rinnovo</strong> per evitare di scoprire sul più bello di non poter entrare in qualche nazione extra-UE.
-</div>
+</p>
 
 ![Carta Verde Marocco](/assets/uploads/2017/06/assicurazione-moto-marocco/galleries/0/0.jpg "Le assicurazioni italiane raramente rilasciano una Carta Verde valida per il Marocco")
 

@@ -48,9 +48,9 @@ L’unica tappa prestabilita è il Passo del Bracco, indicato tra i più bei val
 
 Mi fermo ad apprezzare il panorama, consumo il mio fugace pranzo con focaccia di Recco comprata con sosta tattica in provincia di Genova, e prenoto l’hotel per passare la notte a Volterra. Imposto il navigatore e mi incammino. Inizio a macinare chilometri e dopo un po’ qualcosa inizia a turbarmi: le montagne alla mia sinistra sono sempre più lontane, mentre il mare alla mia destra sempre più vicino… Mi fermo a ricontrollare il navigatore, mi pare tutto giusto. Continuo macinare chilometri e la situazione peggiora. In men che non si dica mi ritrovo a Forte dei Marmi imbottigliato tra la gente che vuole andare al mare e inizio a patire il caldo. Le Alpi Apuane mi sbeffeggiano guardandomi dall’alto delle loro cime fresche. Ricontrollo il navigatore e ovviamente ho selezionato il percorso sbagliato…
 
-<div class="message pro-tip">
+<p class="message pro-tip">
 Per favore Google, se disegni un percorso puoi usare due colori diversi per evidenziare la strada che stai percorrendo e quella che dovresti seguire? Le tonalità di blu col sole battente non sono colori diversi!
-</div>
+</p>
 
 Riesco a districarmi nel mare di gente e mi ridirigo verso le montagne speranzoso, in direzione Volterra passando per Lucca. Il panorama delle colline toscane è mozzafiato. **Girasoli, boschi e uliveti di stagliano in tutte le direzioni**, l’asfalto continua ad essere perfetto.
 

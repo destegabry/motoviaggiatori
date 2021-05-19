@@ -68,7 +68,7 @@ Per la cena andate a colpo sicuro e prenotate un tavolo con vista panoramica nel
 
 Il giorno successivo potrete svegliarvi con calma, rimontare in sella e lasciarvi trascinare dalla forza di gravità fino alla Strada Statale 1, la romana Aurelia. Tenete il mare a sinistra, guidate in direzione Ovest fino a Ceriale e fermatevi al Raviolificio San Giorgio: qui troverete meravigliosi **ravioli di carne e buraxe** (borragine), trofie fresche, pesto a volontà.
 
-<div class="message pro-tip">Meglio tenere pronta una borsa frigo nelle <a href="/2018/04/borse-alluminio-heavy-duties-bmw-r1200gs/">valigie laterali</a>!</div>
+<p class="message pro-tip">Meglio tenere pronta una borsa frigo nelle <a href="/2018/04/borse-alluminio-heavy-duties-bmw-r1200gs/">valigie laterali</a>!</p>
 
 Superate Albenga e godetevi qualche spettacolare curva a ridosso del mare: in men che non si dica arriverete ad **Alassio**, dove potrete darvi allo shopping, prendere un po’ di sole o tentare il primo tuffo della stagione!
 

@@ -34,7 +34,7 @@ Per attraversare il Mar di Marmara evitiamo di asfissiare nell'Eurasia Tunnel e 
 
 L'attraversamento del Bosforo dura poco, ma quando finalmente raggiungiamo la sponda asiatica c'è poco da festeggiare: il traffico non diminuisce e questo mostro di città non accenna a terminare. Quartieri poco affascinanti costeggiano il percorso dell'autostrada E80. Dopo un'altra ora di viaggio il traffico comincia a diminuire, l'agglomerato urbano a diradare.
 
-<div class="message pro-tip">Istanbul non finisce mai, in moto va affrontata con pace interiore e rassegnazione</div>
+<p class="message pro-tip">Istanbul non finisce mai, in moto va affrontata con pace interiore e rassegnazione</p>
 
 All'uscita di Akyazı il portale del casello ci ricorda che non abbiamo ancora comprato il [tagliando HGS](/2019/05/turchia-in-moto-informazioni-pratiche/#strade-e-rifornimento), fortunatamente abbiamo 15 giorni per regolarizzare il pagamento. Ci muoviamo sulla D140 verso Sud, in cerca di un bar dove fare una pausa e reidratarci dopo la sudata nel traffico. Ne troviamo uno a Opet, dove scopriamo che è dura trovare un turco che parli l'inglese, ma tè nero e *simit* non mancano mai.
 
@@ -61,7 +61,7 @@ Dopo pochi chilometri iniziano le colline e finiscono gli infiniti rettilinei ch
   <p>Telefono a Gabriele: «Ho un problema serio…»</p>
 </div>
 
-<div class="message pro-tip">Lasciate perdere pianificazione, cautela, amuleti e scongiuri! Il miglior modo per viaggiare tranquilli è portarsi appresso Arturo: agendo da calamita per la sfiga, tutti gli inconvenienti si abbatteranno su di lui e voi potrete viaggiare in tutto relax.</div>
+<p class="message pro-tip">Lasciate perdere pianificazione, cautela, amuleti e scongiuri! Il miglior modo per viaggiare tranquilli è portarsi appresso Arturo: agendo da calamita per la sfiga, tutti gli inconvenienti si abbatteranno su di lui e voi potrete viaggiare in tutto relax.</p>
 
 Rifocillati e rassegnati a viaggiare con un pratico sacco di plastica legato con le cinghie, proseguiamo il nostro viaggio in direzione Ankara. Percorsi pochi chilometri, i colori del paesaggio cambiano radicalmente: il verde della vegetazione si dirada e le colline spoglie mostrano stratificazioni rosse, grigie, bianche e azzurre. Di fronte a questo inatteso cambio di scenario non possiamo che deviare sulle strade bianche della zona e goderci questo posto idilliaco.
 

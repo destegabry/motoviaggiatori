@@ -40,9 +40,9 @@ Ho ricevuto le valigie in un'unica scatola, contenente sia le valigie che il tel
 
 Per montare il telaio ci si affida alle illustrazioni chiare e facilmente leggibili, le operazioni sono semplici e spiegate passo passo.
 
-<div class="message pro-tip">
+<p class="message pro-tip">
   Durante il serraggio delle viti, viste vibrazioni della moto, consiglio di fare un segno con un <a href="https://amzn.to/3gXE4kY" target="_blank">pennarello indelebile</a> sulla vite della moto per avere subito il colpo d’occhio nel caso si allenti qualcosa.
-</div>
+</p>
 
 Le valigie si montano sul telaio GiVi Monokey, nel caso ne siate già in possesso potete acquistarle senza aver bisogno di prendere anche il telaio.
 

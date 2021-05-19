@@ -131,7 +131,7 @@ I pavoni del campeggio decidono di svegliarci all’alba urlando come ossessi, s
 
 Poco dopo Ouarzazzate la N10 corre dritta lungo le sponde di un grande bacino artificiale creato sbarrando il fiume Dadés, dove sono nati resort e golf club. Ci fermiamo a fare qualche foto e proseguiamo verso il **palmeto di Skoura**, un’enorme oasi creata nel XII secolo irrigando la zona con un sistema di chiuse chiamato *khettara*. Vogliamo visitare la **kasbah Amridil**, ma sbagliamo strada e alla fine ci ritroviamo a fare mente locale gonfiando il pallone da calcio di un gruppetto di bambini trovato nel palmeto.
 
-<div class="message pro-tip">Portare un compressore può tornare utile, non solo in caso di foratura!</div>
+<p class="message pro-tip">Portare un compressore può tornare utile, non solo in caso di foratura!</p>
 
 Ritrovata la strada giusta, passiamo la mattinata ad esplorare la kasbah, girovagare nel palmeto, osservare i contadini lavorare con metodi antichi e aspettare la cottura di un’enorme tajine di verdure ricoperte da uno spesso strato d’uovo; una birra ci starebbe proprio bene, ma da queste parti si beve acqua, té verde o spremuta d’arancia.
 
@@ -189,7 +189,7 @@ Ripartiamo tra gli occhi increduli degli abitanti del piccolo villaggio in direz
 
 Arrivati ad El Ksiba salutiamo definitivamente le montagne e cavalchiamo la pianura verso Ovest, in direzione di minacciosi nuvoloni neri che non promettono nulla di buono. Non arriviamo nemmeno a metà della strada che ci sepra da Beni Mellal che le prime gocce di pioggia ci fanno fare inversione, decisi a fermarci a dormire nel primo posto possibile. Peccato che tutti i villaggi della zona non sembrano offrire alcun tipo di sistemazione e ci tocca tornare fino ad El Ksiba per trovare qualcuno che indica una possibile soluzione ritornando verso le montagne. Quando finalmente raggiungiamo un [ostello](https://goo.gl/maps/w8wNNo7JmTR2) nascosto tra le colline siamo zuppi e infreddoliti; l’assenza di acqua calda, riscaldamento, lenzuola e asciugamani non basta a demoralizzarci: oggi abbiamo guidato su strade fantastiche, attraversato zone stupende al di fuori di ogni circuito turistico, visto da vicino il Marocco più autentico abitato dai berberi… non basta un acquazzone a rovinare il ricordo di una giornata così!
 
-<div class="message pro-tip">La tuta antipioggia ha la sua utilità anche in Africa</div>
+<p class="message pro-tip">La tuta antipioggia ha la sua utilità anche in Africa</p>
 
 ![Bucato post acquazzone](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/11/IMG_3300.jpg "Triste epilogo di una giornata fantastica: il bucato post-acquazzone")
 

@@ -148,7 +148,7 @@ Il Marocco è un Paese a maggioranza musulmana, per cui gli **alcolici sono poco
 
 L’**acqua in bottiglia ha un prezzo calmierato**, in mezzo al deserto come in alta montagna non dovresti mai pagare l’acqua più di 1€ al litro.
 
-<div class="message pro-tip">Nel Sahara le temperature sono alte ed il clima molto secco, non sottovalutare il rischio da disidratazione e bevi moltissimo!</div>
+<p class="message pro-tip">Nel Sahara le temperature sono alte ed il clima molto secco, non sottovalutare il rischio da disidratazione e bevi moltissimo!</p>
 
 Gli **alberghi sono molto economici**, ma bisogna aspettarsi standard di qualità e pulizia inferiore a quelli europei.
 
