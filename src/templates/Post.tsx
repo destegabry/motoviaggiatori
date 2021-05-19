@@ -298,7 +298,6 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
         <section
           css={(theme) => ({
             display: 'flex',
-            justifyContent: 'space-between',
 
             '.next, .prev': {
               [theme.breakpoints.down('sm')]: {
@@ -335,6 +334,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
               </Link>
             </div>
           )}
+          <span css={{ flexGrow: 1 }}></span>
           {next && (
             <div className="next" css={{ textAlign: 'right' }}>
               <Link to={next.frontmatter.path}>

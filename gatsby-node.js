@@ -71,8 +71,9 @@ async function createBlogPages(graphql, createPage) {
       component: template,
       context: {
         id: node.childMarkdownRemark.id,
-        previousPostId: previous?.childMarkdownRemark.id,
-        nextPostId: next?.childMarkdownRemark.id,
+        // previous & next are inverted because the post are reverse ordered
+        previousPostId: next?.childMarkdownRemark.id,
+        nextPostId: previous?.childMarkdownRemark.id,
       },
     });
   });
