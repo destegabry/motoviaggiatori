@@ -1,17 +1,5 @@
 import React from 'react';
-import { Global, keyframes } from '@emotion/react';
-
-const swipeLeft = keyframes`
-	0% {
-		transform: translatex(0);
-	}
-	25% {
-		transform: translatex(-10vw);
-	}
-	100% {
-		transform: translatex(0);
-	}
-`;
+import { Global } from '@emotion/react';
 
 export default function GlobalStyles(): JSX.Element {
   return (
@@ -166,46 +154,9 @@ export default function GlobalStyles(): JSX.Element {
           width: '100vw',
           marginLeft: '-50vw',
           marginTop: '3em',
-          overflow: 'auto hidden',
 
-          '.swipe-wrapper': {
-            position: 'absolute',
-            bottom: '5em',
-            right: '1em',
-            color: theme.palette.accent.light,
-            animation: `${swipeLeft} 1.5s ease infinite`,
-            opacity: 0.95,
-            transition: `opacity 1s`,
-
-            svg: {
-              height: '2.5rem',
-              width: '2.5rem',
-            },
-          },
-
-          '.md-gallery-scroller': {
-            display: 'flex',
-            justifyContent: 'center',
-            position: 'absolute',
-            top: 0,
-            height: '100%',
-            minWidth: '100vw',
-            padding: `0 ${theme.spacing(1 / 2)}px`,
-          },
-
-          figure: {
-            position: 'relative',
-            margin: `0 ${theme.spacing(1 / 2)}px`,
+          '.swiper-slide': {
             width: 'auto',
-            height: '100%',
-          },
-
-          figcaption: {
-            ...theme.typography.caption,
-            padding: '.5em',
-            position: 'absolute',
-            left: 0,
-            width: '100%',
           },
 
           [theme.breakpoints.down('sm')]: {

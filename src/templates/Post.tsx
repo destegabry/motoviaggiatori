@@ -1,18 +1,24 @@
 import React, { useEffect } from 'react';
-import { icon } from '@fortawesome/fontawesome-svg-core';
-import { faHandPointUp, faChevronLeft, faChevronRight } from '@fortawesome/free-solid-svg-icons';
+import ReactDOM from 'react-dom';
+import { faChevronLeft, faChevronRight } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import color from 'color';
 import { format } from 'date-fns';
 import locale from 'date-fns/locale/it';
 import { graphql, Link, PageProps } from 'gatsby';
+import SwiperCore, { Navigation, Pagination } from 'swiper/core';
+import { Swiper, SwiperSlide } from 'swiper/react';
 import { Layout } from '../components/Layout';
 import { Picture } from '../components/Picture';
 import { PostMeta, Vote } from '../components/Post';
 import FeaturedMedia from '../components/Post/FeaturedMedia';
 import { Post } from '../entities';
 
-const SwipeIcon = icon(faHandPointUp);
+import 'swiper/swiper.min.css';
+import 'swiper/components/navigation/navigation.min.css';
+import 'swiper/components/pagination/pagination.min.css';
+
+SwiperCore.use([Navigation, Pagination]);
 
 type PostPageProps = PageProps & {
   data: {
@@ -30,14 +36,6 @@ const authorPictureSize = {
   height: 240,
 };
 
-function onGalleryScroll(this: HTMLDivElement): void {
-  this.removeEventListener('scroll', onGalleryScroll);
-  this.classList.add('swiped');
-  const swipe = this.querySelector('.swipe-wrapper') as HTMLDivElement;
-  swipe.style.opacity = '0';
-  swipe.style.animation = 'none';
-}
-
 export default function PostPage({ data }: PostPageProps): JSX.Element {
   const { next, previous } = data;
   const post = data.markdownRemark;
@@ -54,38 +52,27 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
   }
 
   useEffect(() => {
-    const options = {
-      root: null,
-      rootMargin: '0px',
-      threshold: 1,
-    };
-
-    const observer = new IntersectionObserver(
-      (changes) =>
-        changes
-          .filter(
-            ({ isIntersecting, target }) =>
-              isIntersecting && !target.classList.contains('swiped') && !target.querySelector('.swipe-wrapper')
-          )
-          .forEach(({ target }) => {
-            const scroller = target.querySelector('.md-gallery-scroller');
-            if ((scroller?.scrollWidth || 0) > window.outerWidth) {
-              const swipeWrapper = document.createElement('div');
-              swipeWrapper.className = 'swipe-wrapper';
-              swipeWrapper.appendChild(SwipeIcon.node[0]);
-              target.append(swipeWrapper);
-              target.addEventListener('scroll', onGalleryScroll);
-            }
-          }),
-      options
-    );
-    const galleries = document.querySelectorAll('.md-gallery');
-    galleries.forEach((gallery) => observer.observe(gallery));
-
-    return () => {
-      galleries.forEach((gallery) => gallery.removeEventListener('scroll', onGalleryScroll));
-      observer.disconnect();
-    };
+    const galleryElements = document.querySelectorAll('.md-gallery');
+    galleryElements.forEach((galleryElement) => {
+      ReactDOM.render(
+        <Swiper
+          slidesPerView={'auto'}
+          centeredSlides={true}
+          spaceBetween={8}
+          pagination={{ clickable: true }}
+          keyboard={{ enabled: true, onlyInViewport: true }}
+          dir="rtl"
+        >
+          {Array.from(galleryElement.querySelectorAll('img')).map((img, index) => (
+            <SwiperSlide key={index}>
+              {/* TODO: use <picture> */}
+              <img src={img.src} alt={img.alt} title={img.title} />
+            </SwiperSlide>
+          ))}
+        </Swiper>,
+        galleryElement
+      );
+    });
   }, []);
 
   return (

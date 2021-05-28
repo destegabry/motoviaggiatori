@@ -1,9 +1,6 @@
 const visit = require(`unist-util-visit`);
 
-module.exports = async (
-  { markdownAST },
-  { wrapperClassName = 'md-gallery', scrollerClassName = 'md-gallery-scroller', responsive = [] }
-) => {
+module.exports = async ({ markdownAST }, { wrapperClassName = 'md-gallery' }) => {
   visit(markdownAST, 'paragraph', (paragraph) => {
     if (paragraph.children.length > 0) {
       let allChildrenAreImages = true;
@@ -15,33 +12,10 @@ module.exports = async (
         paragraph.type = 'html';
         paragraph.value = `
           <div class="${wrapperClassName}">
-            <div class="${scrollerClassName}">
-              ${paragraph.children
-                .filter(({ type }) => type === 'image')
-                .map(
-                  ({ url, title, alt }) => `
-                    <figure>
-                      <picture>
-                        ${responsive
-                          .map(
-                            ({ mediaQuery, height }) =>
-                              `<source
-                                  media="${mediaQuery}"
-                                  srcset="
-                                    ${url}?nf_resize=fit&h=${height} 1x,
-                                    ${url}?nf_resize=fit&h=${height * 2} 2x
-                                  "
-                                />`
-                          )
-                          .join('')}
-                        <img src="${url}" alt="${alt}" loading="lazy" />
-                      </picture>
-                      ${title ? `<figcaption>${title}</figcaption>` : ``}
-                    </figure>
-                  `
-                )
-                .join('')}
-            </div>
+            ${paragraph.children
+              .filter(({ type }) => type === 'image')
+              .map(({ url, title, alt }) => `<img src="${url}" alt="${alt}" title="${title}" />`)
+              .join('')}
           </div>
         `;
         delete paragraph.children;
