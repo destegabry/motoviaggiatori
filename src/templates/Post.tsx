@@ -7,11 +7,11 @@ import { format } from 'date-fns';
 import locale from 'date-fns/locale/it';
 import { graphql, Link, PageProps } from 'gatsby';
 import SwiperCore, { Navigation, Pagination } from 'swiper/core';
-import { Swiper, SwiperSlide } from 'swiper/react';
 import { Layout } from '../components/Layout';
 import { Picture } from '../components/Picture';
 import { PostMeta, Vote } from '../components/Post';
 import FeaturedMedia from '../components/Post/FeaturedMedia';
+import Gallery from '../components/Post/Gallery';
 import { Post } from '../entities';
 
 import 'swiper/swiper.min.css';
@@ -54,24 +54,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
   useEffect(() => {
     const galleryElements = document.querySelectorAll('.md-gallery');
     galleryElements.forEach((galleryElement) => {
-      ReactDOM.render(
-        <Swiper
-          slidesPerView={'auto'}
-          centeredSlides={true}
-          spaceBetween={8}
-          pagination={{ clickable: true }}
-          keyboard={{ enabled: true, onlyInViewport: true }}
-          dir="rtl"
-        >
-          {Array.from(galleryElement.querySelectorAll('img')).map((img, index) => (
-            <SwiperSlide key={index}>
-              {/* TODO: use <picture> */}
-              <img src={img.src} alt={img.alt} title={img.title} />
-            </SwiperSlide>
-          ))}
-        </Swiper>,
-        galleryElement
-      );
+      ReactDOM.render(<Gallery images={Array.from(galleryElement.querySelectorAll('img'))} />, galleryElement);
     });
   }, []);
 
@@ -83,7 +66,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
         itemType="https://schema.org/BlogPosting"
         css={(theme) => ({ section: { marginBottom: theme.spacing(8), marginTop: theme.spacing(8) } })}
       >
-        <section>
+        <section css={{ marginTop: 0 }}>
           <h1 itemProp="name headline">{postMeta.title}</h1>
           <PostMeta post={data.markdownRemark} />
         </section>

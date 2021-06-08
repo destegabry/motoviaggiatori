@@ -10,6 +10,7 @@ export type Size = {
 export type PictureProps = Size & {
   alt: string;
   src: string;
+  caption?: string;
   className?: string;
   responsive?: Array<Size & { key: Breakpoint }>;
   resolutions?: Array<number>;
@@ -53,7 +54,7 @@ const PictureWrapper = styled.picture({
 });
 
 export default function Picture(props: PictureProps): JSX.Element {
-  const { src, alt, className, height, width, responsive, resolutions, fit } = props;
+  const { src, alt, caption, className, height, width, responsive, resolutions, fit } = props;
 
   return (
     <PictureWrapper
@@ -81,6 +82,7 @@ export default function Picture(props: PictureProps): JSX.Element {
       ))}
       <source srcSet={createSrcSet(src, width, height)} />
       <img src={src} alt={alt} loading="lazy" />
+      {caption && <figcaption>{caption}</figcaption>}
     </PictureWrapper>
   );
 }

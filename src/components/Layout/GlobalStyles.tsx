@@ -1,10 +1,13 @@
 import React from 'react';
 import { Global } from '@emotion/react';
+import emotionReset from 'emotion-reset';
 
 export default function GlobalStyles(): JSX.Element {
   return (
     <Global
       styles={(theme) => ({
+        emotionReset,
+
         '*, *::after, *::before': {
           boxSizing: 'border-box',
           MozOsxFontSmoothing: 'grayscale',
@@ -136,49 +139,11 @@ export default function GlobalStyles(): JSX.Element {
             borderBottom: `1px solid ${theme.palette.text.disabled}`,
             textAlign: 'left',
             padding: theme.spacing(1),
-            // paddingBottom: theme.spacing(1),
-            // paddingTop: theme.spacing(1),
-            // paddingBottom: theme.spacing(1),
           },
 
           tbody: {
             'th, td': {
               verticalAlign: 'top',
-            },
-          },
-        },
-
-        '.md-gallery': {
-          position: 'relative',
-          left: '50%',
-          width: '100vw',
-          marginLeft: '-50vw',
-          marginTop: '3em',
-
-          '.swiper-slide': {
-            width: 'auto',
-          },
-
-          [theme.breakpoints.down('sm')]: {
-            height: `calc(${theme.components.gallery.smHeight}px + 4em)`,
-
-            img: {
-              height: theme.components.gallery.smHeight,
-            },
-
-            figcaption: {
-              top: theme.components.gallery.smHeight,
-            },
-          },
-          [theme.breakpoints.up('sm')]: {
-            height: `calc(${theme.components.gallery.height}px + 4em)`,
-
-            img: {
-              height: theme.components.gallery.height,
-            },
-
-            figcaption: {
-              top: theme.components.gallery.height,
             },
           },
         },
