@@ -2,6 +2,10 @@ import React from 'react';
 import { Global } from '@emotion/react';
 import emotionReset from 'emotion-reset';
 
+import 'swiper/swiper.min.css';
+import 'swiper/components/navigation/navigation.min.css';
+import 'swiper/components/pagination/pagination.min.css';
+
 export default function GlobalStyles(): JSX.Element {
   return (
     <Global
@@ -144,6 +148,52 @@ export default function GlobalStyles(): JSX.Element {
           tbody: {
             'th, td': {
               verticalAlign: 'top',
+            },
+          },
+        },
+
+        '.swiper-container': {
+          marginTop: '3em',
+          left: 'calc(-50vw + 50%)',
+          width: '100vw',
+
+          '.swiper-slide': {
+            width: 'auto',
+          },
+
+          picture: {
+            position: 'relative',
+            display: 'block',
+          },
+
+          figcaption: {
+            ...theme.typography.caption,
+            position: 'absolute',
+            padding: theme.spacing(1),
+            left: 0,
+            right: 0,
+          },
+
+          [theme.breakpoints.down('sm')]: {
+            height: `calc(${theme.components.gallery.smHeight}px + 4em)`,
+
+            img: {
+              maxHeight: theme.components.gallery.smHeight,
+            },
+
+            figcaption: {
+              top: theme.components.gallery.smHeight,
+            },
+          },
+          [theme.breakpoints.up('sm')]: {
+            height: `calc(${theme.components.gallery.height}px + 4em)`,
+
+            img: {
+              maxHeight: theme.components.gallery.height,
+            },
+
+            figcaption: {
+              top: theme.components.gallery.height,
             },
           },
         },

@@ -1,5 +1,4 @@
-import React, { useEffect } from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react';
 import { faChevronLeft, faChevronRight } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import color from 'color';
@@ -11,12 +10,7 @@ import { Layout } from '../components/Layout';
 import { Picture } from '../components/Picture';
 import { PostMeta, Vote } from '../components/Post';
 import FeaturedMedia from '../components/Post/FeaturedMedia';
-import Gallery from '../components/Post/Gallery';
 import { Post } from '../entities';
-
-import 'swiper/swiper.min.css';
-import 'swiper/components/navigation/navigation.min.css';
-import 'swiper/components/pagination/pagination.min.css';
 
 SwiperCore.use([Navigation, Pagination]);
 
@@ -50,13 +44,6 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
   if (post.fields?.disclaimer_html) {
     disclaimers.unshift(post.fields.disclaimer_html);
   }
-
-  useEffect(() => {
-    const galleryElements = document.querySelectorAll('.md-gallery');
-    galleryElements.forEach((galleryElement) => {
-      ReactDOM.render(<Gallery images={Array.from(galleryElement.querySelectorAll('img'))} />, galleryElement);
-    });
-  }, []);
 
   return (
     <Layout title={postMeta.title} description={postMeta.excerpt} image={postMeta.featured_image}>

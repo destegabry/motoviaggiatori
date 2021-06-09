@@ -1,6 +1,6 @@
 const visit = require(`unist-util-visit`);
 
-module.exports = async ({ markdownAST }, { wrapperClassName = 'md-gallery' }) => {
+module.exports = async ({ markdownAST }, { wrapperClassName = 'swiper-container' }) => {
   visit(markdownAST, 'paragraph', (paragraph) => {
     if (paragraph.children.length > 0) {
       let allChildrenAreImages = true;
@@ -12,10 +12,24 @@ module.exports = async ({ markdownAST }, { wrapperClassName = 'md-gallery' }) =>
         paragraph.type = 'html';
         paragraph.value = `
           <div class="${wrapperClassName}">
-            ${paragraph.children
-              .filter(({ type }) => type === 'image')
-              .map(({ url, title, alt }) => `<img src="${url}" alt="${alt}" title="${title}" />`)
-              .join('')}
+            <div class="swiper-wrapper">
+              ${paragraph.children
+                .filter(({ type }) => type === 'image')
+                .map(
+                  ({ url, title, alt }) => `
+                  <div class="swiper-slide">
+                    <picture>
+                      <img src="${url}" alt="${alt}" title="${title}" />
+                      <figcaption>${title}</figcaption>
+                    </picture>
+                  </div>
+                `
+                )
+                .join('')}
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
           </div>
         `;
         delete paragraph.children;
