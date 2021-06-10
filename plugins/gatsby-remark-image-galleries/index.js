@@ -21,8 +21,8 @@ module.exports = async (
                 .map(
                   ({ url, title, alt }) => `
                   <picture>
-                    <source media="(max-width: 599.95px)" srcset="${url}?nf_resize=fit&h=500 1x, ${url}?nf_resize=fit&h=1000 2x">
-                    <source media="(min-width: 600px)" srcset="${url}?nf_resize=fit&h=250 1x, ${url}?nf_resize=fit&h=500 2x">
+                    <source media="(max-width: 599.95px)" srcset="${url}?nf_resize=fit&h=250 1x, ${url}?nf_resize=fit&h=500 2x">
+                    <source media="(min-width: 600px)" srcset="${url}?nf_resize=fit&h=500 1x, ${url}?nf_resize=fit&h=1000 2x">
                     <img src="${url}" alt="${alt || ''}" title="${title || ''}" />
                     <figcaption>${title || ''}</figcaption>
                   </picture>
