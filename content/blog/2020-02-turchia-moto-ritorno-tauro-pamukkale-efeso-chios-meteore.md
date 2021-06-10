@@ -120,7 +120,7 @@ Ci svegliamo all'alba, ci fermiamo nel primo bar all'uscita dal porto del Pireo 
 
 Arriviamo a Kalambaka più o meno per l'ora di pranzo e ci lanciamo subito a scorrazzare tra le curiose formazioni rocciose e i monasteri che vi sorgono sopra. Purtroppo i monasteri al pomeriggio sono tutti chiusi e ci limitiamo ad ammirarli dall'esterno, godendoci la guida su strade tortuose e asfaltate alla perfezione.
 
-![Arturo Simone Meteore (Grecia)](/assets/uploads/2020/02/turchia-moto-ritorno-tauro-pamukkale-efeso-chios-meteore/galleries/08/DSC02351.jpeg "Raggiungiamo Kalabaka, dove un nastro di asfalto perfetto scorre sinuoso tra picchi di roccia")
+![Arturo Simone Meteore (Grecia)](/assets/uploads/2020/02/turchia-moto-ritorno-tauro-pamukkale-efeso-chios-meteore/galleries/08/DSC02351.jpeg "Raggiungiamo Kalambaka, dove un nastro di asfalto perfetto scorre sinuoso tra picchi di roccia")
 ![Monastero Gran Meteora (Grecia)](/assets/uploads/2020/02/turchia-moto-ritorno-tauro-pamukkale-efeso-chios-meteore/galleries/08/DSC02364.jpeg "Il monastero di Gran Meteora è il più maestoso della zona, ma attenzione: è visitabile solo al mattino")
 ![Asfalto e curve Meteore (Grecia)](/assets/uploads/2020/02/turchia-moto-ritorno-tauro-pamukkale-efeso-chios-meteore/galleries/08/DSC02378.jpeg "Il nastro d'asfalto perfetto corre sinuoso tra i monasteri delle meteore, Kalambaka (Grecia)")
 ![MotoViaggiatori Gran Meteora (Grecia)](/assets/uploads/2020/02/turchia-moto-ritorno-tauro-pamukkale-efeso-chios-meteore/galleries/08/DSC02384.jpeg "Purtroppo siamo arrivati tardi e non abbiamo potuto visitare il monastero di Gran Meteora")

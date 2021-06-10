@@ -1,5 +1,4 @@
-import React, { useEffect } from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react';
 import { faChevronLeft, faChevronRight } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import color from 'color';
@@ -7,16 +6,11 @@ import { format } from 'date-fns';
 import locale from 'date-fns/locale/it';
 import { graphql, Link, PageProps } from 'gatsby';
 import SwiperCore, { Navigation, Pagination } from 'swiper/core';
-import { Swiper, SwiperSlide } from 'swiper/react';
 import { Layout } from '../components/Layout';
 import { Picture } from '../components/Picture';
 import { PostMeta, Vote } from '../components/Post';
 import FeaturedMedia from '../components/Post/FeaturedMedia';
 import { Post } from '../entities';
-
-import 'swiper/swiper.min.css';
-import 'swiper/components/navigation/navigation.min.css';
-import 'swiper/components/pagination/pagination.min.css';
 
 SwiperCore.use([Navigation, Pagination]);
 
@@ -51,30 +45,6 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
     disclaimers.unshift(post.fields.disclaimer_html);
   }
 
-  useEffect(() => {
-    const galleryElements = document.querySelectorAll('.md-gallery');
-    galleryElements.forEach((galleryElement) => {
-      ReactDOM.render(
-        <Swiper
-          slidesPerView={'auto'}
-          centeredSlides={true}
-          spaceBetween={8}
-          pagination={{ clickable: true }}
-          keyboard={{ enabled: true, onlyInViewport: true }}
-          dir="rtl"
-        >
-          {Array.from(galleryElement.querySelectorAll('img')).map((img, index) => (
-            <SwiperSlide key={index}>
-              {/* TODO: use <picture> */}
-              <img src={img.src} alt={img.alt} title={img.title} />
-            </SwiperSlide>
-          ))}
-        </Swiper>,
-        galleryElement
-      );
-    });
-  }, []);
-
   return (
     <Layout title={postMeta.title} description={postMeta.excerpt} image={postMeta.featured_image}>
       <div
@@ -83,7 +53,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
         itemType="https://schema.org/BlogPosting"
         css={(theme) => ({ section: { marginBottom: theme.spacing(8), marginTop: theme.spacing(8) } })}
       >
-        <section>
+        <section css={{ marginTop: 0 }}>
           <h1 itemProp="name headline">{postMeta.title}</h1>
           <PostMeta post={data.markdownRemark} />
         </section>

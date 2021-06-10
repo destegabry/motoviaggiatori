@@ -60,7 +60,7 @@ export default function Header(): JSX.Element {
               height: `calc(100vh - ${theme.components.header.height}px)`,
               width: '100vw',
               flexDirection: 'column',
-              transition: 'right .3s',
+              transition: `right ${theme.transitions.duration.standard}ms`,
 
               '&.open': {
                 right: 0,
