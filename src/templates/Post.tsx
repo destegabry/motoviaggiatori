@@ -53,7 +53,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
         itemType="https://schema.org/BlogPosting"
         css={(theme) => ({ section: { marginBottom: theme.spacing(8), marginTop: theme.spacing(8) } })}
       >
-        <section css={{ marginTop: 0 }}>
+        <section css={{ marginTop: '0!important' }}>
           <h1 itemProp="name headline">{postMeta.title}</h1>
           <PostMeta post={data.markdownRemark} />
         </section>

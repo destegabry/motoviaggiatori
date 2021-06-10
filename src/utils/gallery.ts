@@ -43,7 +43,7 @@ export async function Gallery(element: Element): Promise<void> {
 
     if (slide) {
       translateX = (window.innerWidth - slide.clientWidth) / 2 - slide.offsetLeft;
-      slider.style.transform = `translateX(${translateX}px)`;
+      slider.style.transform = `translate3d(${translateX}px, 0, 0)`;
       currentSlideIndex = index;
     }
 
@@ -75,7 +75,7 @@ export async function Gallery(element: Element): Promise<void> {
     const handleSwipeMove = (event: TouchEvent) => {
       event.preventDefault();
       swipeWidth = swipeOrigin - event.targetTouches[0].clientX;
-      slider.style.transform = `translateX(${translateX - swipeWidth}px)`;
+      slider.style.transform = `translate3d(${translateX - swipeWidth}px, 0, 0)`;
     };
 
     const handleSwipeEnd = (event: TouchEvent) => {
