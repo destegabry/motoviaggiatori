@@ -9,6 +9,7 @@ import '@fontsource/palanquin/700.css';
 import { breakpoints } from './breakpoints';
 import { accent, black, error, info, primary, secondary, success, warning, white } from './colors';
 import { components } from './components';
+import { transitions } from './transitions';
 import { typography } from './typography';
 
 const spacingBase = 8;
@@ -35,6 +36,7 @@ export const theme = {
   spacing: (space: number): number => spacingBase * space,
   components,
   breakpoints,
+  transitions,
 };
 
 export type TheTheme = typeof theme;

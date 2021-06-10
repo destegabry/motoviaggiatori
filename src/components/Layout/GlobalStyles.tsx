@@ -56,7 +56,7 @@ export default function GlobalStyles(): JSX.Element {
             color: 'rgba(255, 255, 255, 0.7)',
             fontWeight: theme.typography.fontWeight.medium,
             display: 'inline-block',
-            transition: 'color .3s',
+            transition: `color ${theme.transitions.duration.standard}ms`,
             textDecoration: 'none',
 
             '&:hover, &[aria-current]': {
@@ -152,30 +152,78 @@ export default function GlobalStyles(): JSX.Element {
           },
         },
 
-        '.swiper-container': {
+        '.md-gallery': {
+          display: 'flex',
           marginTop: '3em',
+          position: 'relative',
           left: 'calc(-50vw + 50%)',
           width: '100vw',
+          overflow: 'hidden',
 
-          '.swiper-slide': {
-            width: 'auto',
+          '.md-gallery__loader': {
+            position: 'absolute',
+            left: '50%',
+            top: '50%',
+            fontSize: '2em',
+            margin: '-1em 0 0 -1em',
+            color: theme.palette.secondary.light,
+
+            '> svg': {
+              animation: `${theme.transitions.keyframes.spin} ${theme.transitions.duration.spin}ms linear infinite`,
+            },
+          },
+
+          '.md-gallery__slider': {
+            display: 'flex',
+            alignItems: 'center',
+            visibility: 'hidden',
+            transition: `transform ${theme.transitions.duration.standard}ms`,
+          },
+
+          '.md-gallery__nav': {
+            position: 'absolute',
+            top: '50%',
+            fontSize: '2em',
+            marginTop: '-1em',
+            color: theme.palette.primary.light,
+            userSelect: 'none',
+            cursor: 'pointer',
+            transition: `opacity ${theme.transitions.duration.standard}ms`,
+          },
+
+          '.md-gallery__nav_disabled': {
+            opacity: 0.3,
+            cursor: 'default',
+          },
+
+          '.md-gallery__nav_prev': {
+            left: theme.spacing(2),
+          },
+
+          '.md-gallery__nav_next': {
+            right: theme.spacing(2),
           },
 
           picture: {
             position: 'relative',
             display: 'block',
+
+            img: {
+              maxWidth: '100vw',
+            },
+
+            '& + picture': {
+              marginLeft: theme.spacing(1),
+            },
           },
 
           figcaption: {
             ...theme.typography.caption,
-            position: 'absolute',
             padding: theme.spacing(1),
-            left: 0,
-            right: 0,
           },
 
           [theme.breakpoints.down('sm')]: {
-            height: `calc(${theme.components.gallery.smHeight}px + 4em)`,
+            height: `calc(${theme.components.gallery.smHeight}px + 6em)`,
 
             img: {
               maxHeight: theme.components.gallery.smHeight,
