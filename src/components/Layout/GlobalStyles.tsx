@@ -180,6 +180,10 @@ export default function GlobalStyles(): JSX.Element {
             transition: `transform ${theme.transitions.duration.standard}ms`,
           },
 
+          '.md-gallery__slider_swiping': {
+            transition: 'none',
+          },
+
           '.md-gallery__nav': {
             position: 'absolute',
             top: '50%',
@@ -219,7 +223,10 @@ export default function GlobalStyles(): JSX.Element {
 
           figcaption: {
             ...theme.typography.caption,
+            position: 'absolute',
             padding: theme.spacing(1),
+            left: 0,
+            right: 0,
           },
 
           [theme.breakpoints.down('sm')]: {
@@ -228,20 +235,12 @@ export default function GlobalStyles(): JSX.Element {
             img: {
               maxHeight: theme.components.gallery.smHeight,
             },
-
-            figcaption: {
-              top: theme.components.gallery.smHeight,
-            },
           },
           [theme.breakpoints.up('sm')]: {
             height: `calc(${theme.components.gallery.height}px + 4em)`,
 
             img: {
               maxHeight: theme.components.gallery.height,
-            },
-
-            figcaption: {
-              top: theme.components.gallery.height,
             },
           },
         },

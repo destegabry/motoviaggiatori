@@ -1,6 +1,8 @@
 import { icon } from '@fortawesome/fontawesome-svg-core';
 import { faChevronLeft, faChevronRight, faCircleNotch } from '@fortawesome/free-solid-svg-icons';
 
+const sliderClassName = 'md-gallery__slider';
+const sliderSwipingClassName = 'md-gallery__slider_swiping';
 const loaderClassName = 'md-gallery__loader';
 const navClassName = 'md-gallery__nav';
 const navPrevClassName = 'md-gallery__nav_prev';
@@ -14,7 +16,7 @@ const imageOnLoad = (image: HTMLImageElement): Promise<HTMLImageElement> =>
   });
 
 export async function Gallery(element: Element): Promise<void> {
-  const slider = element.querySelector('.md-gallery__slider') as HTMLElement;
+  const slider = element.querySelector(`.${sliderClassName}`) as HTMLElement;
   const slidesCount = element.querySelectorAll('picture').length;
   let currentSlideIndex = 0;
   let translateX = 0;
@@ -78,7 +80,8 @@ export async function Gallery(element: Element): Promise<void> {
 
     const handleSwipeEnd = (event: TouchEvent) => {
       event.preventDefault();
-      if (Math.abs(swipeWidth) > window.innerWidth / 3) {
+      slider.classList.remove(sliderSwipingClassName);
+      if (Math.abs(swipeWidth) > window.innerWidth / 6) {
         slideTo(Math.max(0, Math.min(slidesCount - 1, currentSlideIndex + Math.sign(swipeWidth))));
       } else {
         slideTo(currentSlideIndex);
@@ -92,6 +95,7 @@ export async function Gallery(element: Element): Promise<void> {
 
     const handleSwipeStart = (event: TouchEvent) => {
       event.preventDefault();
+      slider.classList.add(sliderSwipingClassName);
       swipeOrigin = event.targetTouches[0].clientX;
       slider.addEventListener('touchmove', handleSwipeMove);
       slider.addEventListener('touchend', handleSwipeEnd);
