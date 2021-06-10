@@ -154,7 +154,7 @@ export default function GlobalStyles(): JSX.Element {
 
         '.md-gallery': {
           display: 'flex',
-          marginTop: '3em',
+          marginTop: '2em',
           position: 'relative',
           left: 'calc(-50vw + 50%)',
           width: '100vw',
@@ -175,7 +175,7 @@ export default function GlobalStyles(): JSX.Element {
 
           '.md-gallery__slider': {
             display: 'flex',
-            alignItems: 'center',
+            alignItems: 'flex-start',
             visibility: 'hidden',
             transition: `transform ${theme.transitions.duration.standard}ms`,
           },
@@ -230,7 +230,7 @@ export default function GlobalStyles(): JSX.Element {
           },
 
           [theme.breakpoints.down('sm')]: {
-            height: `calc(${theme.components.gallery.smHeight}px + 6em)`,
+            height: `calc(${theme.components.gallery.smHeight}px + 5em)`,
 
             img: {
               maxHeight: theme.components.gallery.smHeight,
