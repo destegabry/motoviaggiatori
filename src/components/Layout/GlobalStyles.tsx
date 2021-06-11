@@ -177,11 +177,10 @@ export default function GlobalStyles(): JSX.Element {
             display: 'flex',
             alignItems: 'flex-start',
             visibility: 'hidden',
-            transition: `transform ${theme.transitions.duration.standard}ms`,
           },
 
-          '.md-gallery__slider_swiping': {
-            transition: 'none',
+          '.md-gallery__slider_animated': {
+            transition: `transform ${theme.transitions.duration.standard}ms`,
           },
 
           '.md-gallery__nav': {

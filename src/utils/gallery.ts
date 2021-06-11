@@ -2,7 +2,7 @@ import { icon } from '@fortawesome/fontawesome-svg-core';
 import { faChevronLeft, faChevronRight, faCircleNotch } from '@fortawesome/free-solid-svg-icons';
 
 const sliderClassName = 'md-gallery__slider';
-const sliderSwipingClassName = 'md-gallery__slider_swiping';
+const sliderAnimatedClassName = 'md-gallery__slider_animated';
 const loaderClassName = 'md-gallery__loader';
 const navClassName = 'md-gallery__nav';
 const navPrevClassName = 'md-gallery__nav_prev';
@@ -15,20 +15,36 @@ const imageOnLoad = (image: HTMLImageElement): Promise<HTMLImageElement> =>
     image.onerror = reject;
   });
 
-export async function Gallery(element: Element): Promise<void> {
+const getTouchFromEvent = (event: TouchEvent | MouseEvent): null | { x: number; y: number } => {
+  if ('touches' in event && event.touches.length === 1) {
+    return {
+      x: event.touches[0].pageX,
+      y: event.touches[1].pageY,
+    };
+  }
+  if ('pageX' in event && 'pageY' in event) {
+    return {
+      x: event.pageX,
+      y: event.pageY,
+    };
+  }
+  return null;
+};
+
+export function Gallery(element: Element): { destroy: () => void } {
   const slider = element.querySelector(`.${sliderClassName}`) as HTMLElement;
   const slidesCount = element.querySelectorAll('picture').length;
   let currentSlideIndex = 0;
   let translateX = 0;
+  let swipeOrigin = { x: 0, y: 0 };
+  let deltaX = 0;
+  let deltaY = 0;
+  let scrolling = false;
 
   const loader = document.createElement('div');
   loader.className = loaderClassName;
   loader.innerHTML = icon(faCircleNotch).html[0];
   element.append(loader);
-
-  await Promise.all(Array.from(slider.querySelectorAll('img')).map(imageOnLoad));
-
-  loader.remove();
 
   const prevButton = document.createElement('div');
   prevButton.className = `${navClassName} ${navPrevClassName}`;
@@ -38,13 +54,25 @@ export async function Gallery(element: Element): Promise<void> {
   nextButton.className = `${navClassName} ${navNextClassName}`;
   nextButton.innerHTML = icon(faChevronRight).html[0];
 
-  const slideTo = (index: number) => {
-    const slide = slider.querySelector<HTMLElement>(`picture:nth-child(${index + 1})`);
+  const translate = () => {
+    slider.style.transform = `translate3d(${translateX}px, 0, 0)`;
+  };
 
-    if (slide) {
-      translateX = (window.innerWidth - slide.clientWidth) / 2 - slide.offsetLeft;
-      slider.style.transform = `translate3d(${translateX}px, 0, 0)`;
-      currentSlideIndex = index;
+  const slide = () => {
+    if (slider.clientWidth < window.innerWidth) {
+      prevButton.style.visibility = 'hidden';
+      nextButton.style.visibility = 'hidden';
+      translateX = (window.innerWidth - slider.clientWidth) / 2;
+      translate();
+    } else {
+      prevButton.style.visibility = 'visible';
+      nextButton.style.visibility = 'visible';
+
+      const slide = slider.querySelector<HTMLElement>(`picture:nth-child(${currentSlideIndex + 1})`);
+      if (slide) {
+        translateX = -Math.min(slide.offsetLeft, slider.clientWidth - window.innerWidth);
+        translate();
+      }
     }
 
     if (currentSlideIndex === 0) {
@@ -60,55 +88,90 @@ export async function Gallery(element: Element): Promise<void> {
     }
   };
 
-  window.addEventListener('resize', () => slideTo(currentSlideIndex));
+  const handleSwipeMove = (event: TouchEvent | MouseEvent) => {
+    const touch = getTouchFromEvent(event);
+    if (touch) {
+      deltaX = swipeOrigin.x - touch.x;
+      deltaY = swipeOrigin.y - touch.y;
+      scrolling = Math.abs(deltaY) > Math.abs(deltaX);
+
+      if (!scrolling && event.cancelable) {
+        event.preventDefault();
+        // Swipe only if there's something to show
+        if ((deltaX > 0 && currentSlideIndex < slidesCount - 1) || (deltaX < 0 && currentSlideIndex > 0)) {
+          slider.style.transform = `translate3d(${translateX - deltaX}px, 0, 0)`;
+        }
+      }
+    }
+  };
+
+  const handleSwipeEnd = () => {
+    slider.classList.add(sliderAnimatedClassName);
+    if (!scrolling) {
+      if (Math.abs(deltaX) > 50) {
+        currentSlideIndex = Math.max(0, Math.min(slidesCount - 1, currentSlideIndex + Math.sign(deltaX)));
+      }
+      slide();
+    }
+    swipeOrigin = { x: 0, y: 0 };
+    deltaX = 0;
+    scrolling = false;
+    slider.removeEventListener('touchmove', handleSwipeMove);
+    slider.removeEventListener('mousemove', handleSwipeMove);
+    slider.removeEventListener('touchend', handleSwipeEnd);
+    slider.removeEventListener('mouseup', handleSwipeEnd);
+    slider.removeEventListener('touchcancel', handleSwipeEnd);
+    slider.removeEventListener('mouseleave', handleSwipeEnd);
+  };
+
+  const handleSwipeStart = (event: TouchEvent | MouseEvent) => {
+    const touch = getTouchFromEvent(event);
+    if (touch) {
+      swipeOrigin.x = touch.x;
+      swipeOrigin.y = touch.y;
+      slider.classList.remove(sliderAnimatedClassName);
+      slider.addEventListener('touchmove', handleSwipeMove);
+      slider.addEventListener('mousemove', handleSwipeMove);
+      slider.addEventListener('touchend', handleSwipeEnd);
+      slider.addEventListener('mouseup', handleSwipeEnd);
+      slider.addEventListener('touchcancel', handleSwipeEnd);
+      slider.addEventListener('mouseleave', handleSwipeEnd);
+    }
+  };
 
   if (slidesCount > 1) {
-    prevButton.onclick = () => slideTo(currentSlideIndex - 1);
+    prevButton.onclick = () => {
+      currentSlideIndex = Math.max(0, currentSlideIndex - 1);
+      slide();
+    };
     element.append(prevButton);
 
-    nextButton.onclick = () => slideTo(currentSlideIndex + 1);
+    nextButton.onclick = () => {
+      currentSlideIndex = Math.min(slidesCount - 1, currentSlideIndex + 1);
+      slide();
+    };
     element.append(nextButton);
 
-    let swipeOrigin = 0;
-    let swipeWidth = 0;
-
-    const handleSwipeMove = (event: TouchEvent) => {
-      event.preventDefault();
-      swipeWidth = swipeOrigin - event.targetTouches[0].clientX;
-      // Swipe only if there's something to show
-      if ((swipeWidth > 0 && currentSlideIndex < slidesCount - 1) || (swipeWidth < 0 && currentSlideIndex > 0)) {
-        slider.style.transform = `translate3d(${translateX - swipeWidth}px, 0, 0)`;
-      }
-    };
-
-    const handleSwipeEnd = (event: TouchEvent) => {
-      event.preventDefault();
-      slider.classList.remove(sliderSwipingClassName);
-      if (Math.abs(swipeWidth) > window.innerWidth / 6) {
-        const targetSlide = Math.max(0, Math.min(slidesCount - 1, currentSlideIndex + Math.sign(swipeWidth)));
-        slideTo(targetSlide);
-      } else {
-        slideTo(currentSlideIndex);
-      }
-      swipeOrigin = 0;
-      swipeWidth = 0;
-      slider.removeEventListener('touchmove', handleSwipeMove);
-      slider.removeEventListener('touchend', handleSwipeEnd);
-      slider.removeEventListener('touchcancel', handleSwipeEnd);
-    };
-
-    const handleSwipeStart = (event: TouchEvent) => {
-      event.preventDefault();
-      slider.classList.add(sliderSwipingClassName);
-      swipeOrigin = event.targetTouches[0].clientX;
-      slider.addEventListener('touchmove', handleSwipeMove);
-      slider.addEventListener('touchend', handleSwipeEnd);
-      slider.addEventListener('touchcancel', handleSwipeEnd);
-    };
-
     slider.addEventListener('touchstart', handleSwipeStart);
+    slider.addEventListener('mousedown', handleSwipeStart);
   }
 
-  slider.style.visibility = 'visible';
-  slideTo(currentSlideIndex);
+  window.addEventListener('resize', slide);
+
+  Promise.all(Array.from(slider.querySelectorAll('img')).map(imageOnLoad)).then(() => {
+    slide();
+    requestAnimationFrame(() => {
+      loader.remove();
+      slider.style.visibility = 'visible';
+      slider.classList.add(sliderAnimatedClassName);
+    });
+  });
+
+  return {
+    destroy: () => {
+      slider.removeEventListener('touchstart', handleSwipeStart);
+      slider.removeEventListener('mousedown', handleSwipeStart);
+      window.removeEventListener('resize', slide);
+    },
+  };
 }
