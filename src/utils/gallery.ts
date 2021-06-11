@@ -39,7 +39,7 @@ export async function Gallery(element: Element): Promise<void> {
   nextButton.innerHTML = icon(faChevronRight).html[0];
 
   const slideTo = (index: number) => {
-    const slide = slider?.querySelector<HTMLElement>(`picture:nth-child(${index + 1})`);
+    const slide = slider.querySelector<HTMLElement>(`picture:nth-child(${index + 1})`);
 
     if (slide) {
       translateX = (window.innerWidth - slide.clientWidth) / 2 - slide.offsetLeft;
@@ -75,14 +75,18 @@ export async function Gallery(element: Element): Promise<void> {
     const handleSwipeMove = (event: TouchEvent) => {
       event.preventDefault();
       swipeWidth = swipeOrigin - event.targetTouches[0].clientX;
-      slider.style.transform = `translate3d(${translateX - swipeWidth}px, 0, 0)`;
+      // Swipe only if there's something to show
+      if ((swipeWidth > 0 && currentSlideIndex < slidesCount - 1) || (swipeWidth < 0 && currentSlideIndex > 0)) {
+        slider.style.transform = `translate3d(${translateX - swipeWidth}px, 0, 0)`;
+      }
     };
 
     const handleSwipeEnd = (event: TouchEvent) => {
       event.preventDefault();
       slider.classList.remove(sliderSwipingClassName);
       if (Math.abs(swipeWidth) > window.innerWidth / 6) {
-        slideTo(Math.max(0, Math.min(slidesCount - 1, currentSlideIndex + Math.sign(swipeWidth))));
+        const targetSlide = Math.max(0, Math.min(slidesCount - 1, currentSlideIndex + Math.sign(swipeWidth)));
+        slideTo(targetSlide);
       } else {
         slideTo(currentSlideIndex);
       }
