@@ -1,5 +1,6 @@
 import { icon } from '@fortawesome/fontawesome-svg-core';
 import { faChevronLeft, faChevronRight, faCircleNotch } from '@fortawesome/free-solid-svg-icons';
+import debounce from 'lodash.debounce';
 
 const sliderClassName = 'md-gallery__slider';
 const sliderAnimatedClassName = 'md-gallery__slider_animated';
@@ -34,6 +35,7 @@ const getTouchFromEvent = (event: TouchEvent | MouseEvent): null | { x: number; 
 export function Gallery(element: Element): { destroy: () => void } {
   const slider = element.querySelector(`.${sliderClassName}`) as HTMLElement;
   const slidesCount = element.querySelectorAll('picture').length;
+  let maxTranslate = slider.clientWidth - window.innerWidth;
   let currentSlideIndex = 0;
   let translateX = 0;
   let swipeOrigin = { x: 0, y: 0 };
@@ -69,24 +71,43 @@ export function Gallery(element: Element): { destroy: () => void } {
       nextButton.style.visibility = 'visible';
 
       const slide = slider.querySelector<HTMLElement>(`picture:nth-child(${currentSlideIndex + 1})`);
+      maxTranslate = slider.clientWidth - window.innerWidth;
       if (slide) {
-        translateX = -Math.min(slide.offsetLeft, slider.clientWidth - window.innerWidth);
+        translateX = -Math.min(slide.offsetLeft, maxTranslate);
         translate();
       }
-    }
-
-    if (currentSlideIndex === 0) {
-      prevButton.classList.add(navDisabledClassName);
-    } else {
-      prevButton.classList.remove(navDisabledClassName);
-    }
-
-    if (currentSlideIndex === slidesCount - 1) {
-      nextButton.classList.add(navDisabledClassName);
-    } else {
-      nextButton.classList.remove(navDisabledClassName);
+      if (currentSlideIndex === 0) {
+        prevButton.classList.add(navDisabledClassName);
+      } else {
+        prevButton.classList.remove(navDisabledClassName);
+      }
+      if (currentSlideIndex === slidesCount - 1 || translateX === -maxTranslate) {
+        nextButton.classList.add(navDisabledClassName);
+      } else {
+        nextButton.classList.remove(navDisabledClassName);
+      }
     }
   };
+
+  const prev = debounce(
+    () => {
+      currentSlideIndex = Math.max(0, currentSlideIndex - 1);
+      slide();
+    },
+    100,
+    { leading: true }
+  );
+
+  const next = debounce(
+    () => {
+      if (maxTranslate > translateX) {
+        currentSlideIndex = Math.min(slidesCount - 1, currentSlideIndex + 1);
+        slide();
+      }
+    },
+    100,
+    { leading: true }
+  );
 
   const handleSwipeMove = (event: TouchEvent | MouseEvent) => {
     const touch = getTouchFromEvent(event);
@@ -97,9 +118,12 @@ export function Gallery(element: Element): { destroy: () => void } {
 
       if (!scrolling && event.cancelable) {
         event.preventDefault();
-        // Swipe only if there's something to show
-        if ((deltaX > 0 && currentSlideIndex < slidesCount - 1) || (deltaX < 0 && currentSlideIndex > 0)) {
-          slider.style.transform = `translate3d(${translateX - deltaX}px, 0, 0)`;
+        if (
+          // Swipe only if there's something to show
+          (deltaX > 0 && currentSlideIndex < slidesCount - 1) ||
+          (deltaX < 0 && currentSlideIndex > 0)
+        ) {
+          slider.style.transform = `translate3d(${-Math.min(Math.max(0, deltaX - translateX), maxTranslate)}px, 0, 0)`;
         }
       }
     }
@@ -109,7 +133,11 @@ export function Gallery(element: Element): { destroy: () => void } {
     slider.classList.add(sliderAnimatedClassName);
     if (!scrolling) {
       if (Math.abs(deltaX) > 50) {
-        currentSlideIndex = Math.max(0, Math.min(slidesCount - 1, currentSlideIndex + Math.sign(deltaX)));
+        if (deltaX < 0) {
+          prev();
+        } else {
+          next();
+        }
       }
       slide();
     }
@@ -126,7 +154,7 @@ export function Gallery(element: Element): { destroy: () => void } {
 
   const handleSwipeStart = (event: TouchEvent | MouseEvent) => {
     const touch = getTouchFromEvent(event);
-    if (touch) {
+    if (touch && slider.clientWidth > window.innerWidth) {
       swipeOrigin.x = touch.x;
       swipeOrigin.y = touch.y;
       slider.classList.remove(sliderAnimatedClassName);
@@ -140,23 +168,18 @@ export function Gallery(element: Element): { destroy: () => void } {
   };
 
   if (slidesCount > 1) {
-    prevButton.onclick = () => {
-      currentSlideIndex = Math.max(0, currentSlideIndex - 1);
-      slide();
-    };
+    prevButton.addEventListener('click', prev);
     element.append(prevButton);
 
-    nextButton.onclick = () => {
-      currentSlideIndex = Math.min(slidesCount - 1, currentSlideIndex + 1);
-      slide();
-    };
+    nextButton.addEventListener('click', next);
     element.append(nextButton);
 
     slider.addEventListener('touchstart', handleSwipeStart);
     slider.addEventListener('mousedown', handleSwipeStart);
   }
 
-  window.addEventListener('resize', slide);
+  const debouncedSlide = debounce(slide, 300);
+  window.addEventListener('resize', debouncedSlide);
 
   Promise.all(Array.from(slider.querySelectorAll('img')).map(imageOnLoad)).then(() => {
     slide();
@@ -169,9 +192,7 @@ export function Gallery(element: Element): { destroy: () => void } {
 
   return {
     destroy: () => {
-      slider.removeEventListener('touchstart', handleSwipeStart);
-      slider.removeEventListener('mousedown', handleSwipeStart);
-      window.removeEventListener('resize', slide);
+      window.removeEventListener('resize', debouncedSlide);
     },
   };
 }
