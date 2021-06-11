@@ -109,7 +109,7 @@ Se come me possedete una coppia di valigie BMW Vario potrete venderle sul mercat
 
 ### Migliorabile
 
-- serrature che agiscono da cerniera quando sono chiuse (come le [Givi Trekker Outback](https://www.ebay.it/sch/i.html?_nkw=givi+trekker+outback+bmw))
+- serrature che agiscono da cerniera quando sono chiuse (come le [Givi Trekker Outback](https://ebay.us/BuCy0A))
 - possibilità di sostituire i pomelli interni con viti a testa piatta per guadagnare spazio interno (al costo di usare una chiave per smontare le valigie)
 
 ### Cosa manca

@@ -67,7 +67,7 @@ Dopo pranzo gli altoparlanti ci invitano a recarci al ponte superiore per ottene
 
 Dopo aver attraversato tutto il Golfo del Leone arriviamo a Barcellona, ma purtroppo siamo confinati a bordo e possiamo soltanto ammirare il distante skyline notturno.
 
-Con l’arrivo della sera i ponti esterni si ricoprono di una scivolosa brina che provoca una brutta scivolata da una ripida scaletta: fortunatamente le protezioni della [giacca REV’IT Sand](https://www.ebay.it/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.Xgiacca+revit+sand.TRS0&_nkw=giacca+revit+sand&_sacat=0) di Paolo assorbono bene la botta.
+Con l’arrivo della sera i ponti esterni si ricoprono di una scivolosa brina che provoca una brutta scivolata da una ripida scaletta: fortunatamente le protezioni della [giacca REV’IT Sand](https://ebay.us/XUwWad) di Paolo assorbono bene la botta.
 
 ![Marocco pianificazione percorso](/assets/uploads/2018/03/marocco-moto-torino-marrakech/galleries/2/0.jpg "Impieghiamo il nostro tempo rileggendo le guide e cambiando il percorso del viaggio")
 ![Arredi Cruise Smeralda 1](/assets/uploads/2018/03/marocco-moto-torino-marrakech/galleries/2/1.jpg "Arredi Cruise Smeralda - parte 1")

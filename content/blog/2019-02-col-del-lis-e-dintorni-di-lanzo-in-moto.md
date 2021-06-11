@@ -60,7 +60,7 @@ Proseguiamo verso Viù, la SP97 scende attraversando boschi di faggi imponenti, 
 ![Tornanti SP97](/assets/uploads/2019/02/col-del-lis-e-dintorni-di-lanzo-in-moto/galleries/DSC5997_.jpg "Curve e tornanti non mancano!")
 ![Neve versante Nord Col del Lis](/assets/uploads/2019/02/col-del-lis-e-dintorni-di-lanzo-in-moto/galleries/DSC00513.jpg "Le zone in ombra del versante Nord sono ancora innevate")
 
-Ho finalmente l’occasione di testare a dovere gli pneumatici [Anlas Capra RD](https://www.ebay.it/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=anlas+capra+rd&_sacat=0) che ho montato da poco. Il feeling è ottimo, la tenuta di strada è stata perfetta in tutte le condizioni che abbiamo attraversato: curve strette su brecciolino e asfalto poco curato, curvoni veloci su asfalto ben asciutto, temperature anche piuttosto basse (3°C nei boschi esposti a Nord).
+Ho finalmente l’occasione di testare a dovere gli pneumatici [Anlas Capra RD](https://ebay.us/RSGtuD) che ho montato da poco. Il feeling è ottimo, la tenuta di strada è stata perfetta in tutte le condizioni che abbiamo attraversato: curve strette su brecciolino e asfalto poco curato, curvoni veloci su asfalto ben asciutto, temperature anche piuttosto basse (3°C nei boschi esposti a Nord).
 
 Dopo qualche sosta foto e un imprecisato numero di curve intercettiamo la SP32: il sole illumina il fondo valle, la carreggiata si allarga e l’andatura può alzarsi un po’. Arriviamo in fretta al ponte sul fiume Stura e decidiamo di dare fondo alle nostre scorte di cibo per il pranzo. Ci fermiamo in quella che sembra un’area picnic poco attrezzata per scoprire che in realtà non è che il parcheggio del cimitero di Germagnano. Poco male!
 
