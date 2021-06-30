@@ -3,8 +3,11 @@ import { faArrowLeft } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { graphql, Link, PageProps } from 'gatsby';
 import { Layout } from '../components/Layout';
+import Search from '../components/Layout/Search/Search';
 import PostList from '../components/Post/PostList';
 import { Post } from '../entities';
+
+const searchIndices = [{ name: `MotoViaggiatori`, title: `MotoViaggiatori` }];
 
 type HomePageProps = PageProps<{
   allFile: {
@@ -19,6 +22,7 @@ type HomePageProps = PageProps<{
 export default function HomePage({ data }: HomePageProps): JSX.Element {
   return (
     <Layout>
+      <Search indices={searchIndices} />
       <Link
         to="/prodotti-consigliati"
         css={(theme) => ({
