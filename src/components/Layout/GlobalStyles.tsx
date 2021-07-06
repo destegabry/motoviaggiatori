@@ -69,6 +69,10 @@ export default function GlobalStyles(): JSX.Element {
           paddingTop: theme.spacing(2) + theme.components.header.height,
           paddingBottom: theme.spacing(2),
 
+          a: {
+            fontWeight: 500,
+          },
+
           ol: {
             ...theme.typography.body,
           },
@@ -112,20 +116,20 @@ export default function GlobalStyles(): JSX.Element {
 
         a: {
           color: 'currentcolor',
-          textDecorationColor: theme.palette.primary.light,
-          textDecorationLine: 'underline',
-
-          '&:visited': {
-            textDecorationColor: theme.palette.primary.main,
-          },
+          textDecoration: 'underline',
 
           '&:hover': {
-            color: theme.palette.primary.dark,
+            background: theme.palette.primary.light,
+            textDecoration: 'none',
+          },
+
+          '&:visited': {
+            textDecorationColor: theme.palette.primary.dark,
           },
 
           '&:active': {
-            color: theme.palette.accent.dark,
-            textDecorationColor: theme.palette.accent.main,
+            background: theme.palette.accent.main,
+            textDecoration: 'none',
           },
         },
 

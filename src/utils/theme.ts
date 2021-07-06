@@ -1,6 +1,7 @@
 import '@emotion/react';
 import '@fontsource/eb-garamond/400-italic.css';
 import '@fontsource/eb-garamond/400.css';
+import '@fontsource/eb-garamond/500.css';
 import '@fontsource/eb-garamond/700.css';
 import '@fontsource/palanquin/300.css';
 import '@fontsource/palanquin/400.css';
