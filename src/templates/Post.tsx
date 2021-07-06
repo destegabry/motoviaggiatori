@@ -5,14 +5,11 @@ import color from 'color';
 import { format } from 'date-fns';
 import locale from 'date-fns/locale/it';
 import { graphql, Link, PageProps } from 'gatsby';
-import SwiperCore, { Navigation, Pagination } from 'swiper/core';
 import { Layout } from '../components/Layout';
 import { Picture } from '../components/Picture';
 import { PostMeta, Vote } from '../components/Post';
 import FeaturedMedia from '../components/Post/FeaturedMedia';
 import { Post } from '../entities';
-
-SwiperCore.use([Navigation, Pagination]);
 
 type PostPageProps = PageProps & {
   data: {

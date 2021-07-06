@@ -2,10 +2,6 @@ import React from 'react';
 import { Global } from '@emotion/react';
 import emotionReset from 'emotion-reset';
 
-import 'swiper/swiper.min.css';
-import 'swiper/components/navigation/navigation.min.css';
-import 'swiper/components/pagination/pagination.min.css';
-
 export default function GlobalStyles(): JSX.Element {
   return (
     <Global
