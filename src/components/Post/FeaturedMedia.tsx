@@ -8,7 +8,7 @@ import YouTubeVideo from './YouTubeVideo';
 type FeaturedMediaProps = {
   post: Post;
   size?: Size;
-  responsive?: Array<Size & { key: Breakpoint }>;
+  responsive?: Array<Size & { min?: Breakpoint; max?: Breakpoint }>;
   className?: string;
 };
 
@@ -28,13 +28,13 @@ export default function FeaturedMedia(props: FeaturedMediaProps): JSX.Element {
         src={post.frontmatter.featured_image}
         alt=""
         width={size?.width || width}
-        height={size?.height || (width / 16) * 9}
+        height={size?.height || Math.round((width / 16) * 9)}
         responsive={
           responsive || [
             {
-              key: 'sm',
+              max: 'sm',
               width: smWidth,
-              height: (smWidth / 16) * 9,
+              height: Math.round((smWidth / 16) * 9),
             },
           ]
         }

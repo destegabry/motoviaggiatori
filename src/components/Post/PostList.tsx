@@ -9,8 +9,8 @@ type PostListProps = {
   posts: Array<Post>;
 };
 
-const pictureSize = { width: 360, height: (360 / 16) * 9 };
-const pictureSizeMd = { width: 240, height: (240 / 16) * 9 };
+const pictureSize = { width: 360, height: Math.round((360 / 16) * 9) };
+const pictureSizeMd = { width: 240, height: Math.round((240 / 4) * 3) };
 
 export default function PostList({ posts }: PostListProps): JSX.Element {
   const theme = useTheme();
@@ -63,12 +63,13 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
                 size={pictureSize}
                 responsive={[
                   {
-                    key: 'sm',
+                    max: 'sm',
                     width: theme.breakpoints.values.sm - theme.spacing(2),
                     height: (theme.breakpoints.values.sm - theme.spacing(2)) / 2,
                   },
                   {
-                    key: 'md',
+                    min: 'sm',
+                    max: 'md',
                     ...pictureSizeMd,
                   },
                 ]}

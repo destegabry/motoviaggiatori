@@ -12,7 +12,7 @@ export type PictureProps = Size & {
   src: string;
   caption?: string;
   className?: string;
-  responsive?: Array<Size & { key: Breakpoint }>;
+  responsive?: Array<Size & { min?: Breakpoint; max?: Breakpoint }>;
   resolutions?: Array<number>;
   fit?: boolean;
 };
@@ -64,22 +64,38 @@ export default function Picture(props: PictureProps): JSX.Element {
       className={className}
       css={{
         paddingTop: `${(height / width) * 100}%`,
-        ...responsive?.reduce(
-          (style, { key, width, height }) => ({
+        ...responsive?.reduce((style, { min, max, width, height }) => {
+          let query = '';
+          if (min && max) {
+            query = breakpoints.between(min, max);
+          } else if (min) {
+            breakpoints.up(min);
+          } else if (max) {
+            breakpoints.down(max);
+          }
+          return {
             ...style,
-            [breakpoints.down(key)]: { paddingTop: `${(height / width) * 100}%` },
-          }),
-          {}
-        ),
+            [query]: { paddingTop: `${(height / width) * 100}%` },
+          };
+        }, {}),
       }}
     >
-      {responsive?.map(({ key, width, height }) => (
-        <source
-          key={key}
-          media={breakpoints.maxWidthConstraint(breakpoints.values[key])}
-          srcSet={createSrcSet(src, width, height, resolutions, fit)}
-        />
-      ))}
+      {responsive?.map(({ min, max, width, height }, index) => {
+        const constraints: string[] = [];
+        if (min) {
+          constraints.push(breakpoints.minWidthConstraint(breakpoints.values[min]));
+        }
+        if (max) {
+          constraints.push(breakpoints.maxWidthConstraint(breakpoints.values[max]));
+        }
+        return (
+          <source
+            key={index}
+            media={constraints.join(' and ')}
+            srcSet={createSrcSet(src, width, height, resolutions, fit)}
+          />
+        );
+      })}
       <source srcSet={createSrcSet(src, width, height)} />
       <img src={src} alt={alt} loading="lazy" />
       {caption && <figcaption>{caption}</figcaption>}
