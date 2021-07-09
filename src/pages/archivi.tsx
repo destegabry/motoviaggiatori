@@ -30,33 +30,53 @@ export default function ArchivesPage({ data }: ArchivesPageProps): JSX.Element {
     <Layout title={title}>
       <div
         css={(theme) => ({
-          '.label': {
-            [theme.breakpoints.up('sm')]: {
-              display: 'inline-block',
-              textAlign: 'right',
-              minWidth: 120,
-            },
-          },
+          position: 'relative',
+
           article: {
             marginBottom: theme.spacing(2),
-
-            [theme.breakpoints.up('sm')]: {
-              display: 'flex',
-              alignItems: 'baseline',
-            },
           },
           time: {
             ...theme.typography.caption,
             marginRight: theme.spacing(4),
           },
-          h1: {
-            margin: 0,
-          },
-          h2: {
-            marginBottom: theme.spacing(1),
-          },
+
           h3: {
             margin: 0,
+            lineHeight: 1.6,
+          },
+
+          [theme.breakpoints.down('sm')]: {
+            h2: {
+              display: 'none',
+            },
+          },
+
+          [theme.breakpoints.up('sm')]: {
+            '.year': {
+              display: 'none',
+            },
+            '.label': {
+              display: 'inline-block',
+              textAlign: 'right',
+              minWidth: 120,
+            },
+            section: {
+              marginTop: theme.spacing(4),
+              display: 'flex',
+              alignItems: 'baseline',
+            },
+            article: {
+              display: 'flex',
+              alignItems: 'baseline',
+            },
+            h1: {
+              margin: 0,
+            },
+            h2: {
+              margin: 0,
+              position: 'sticky',
+              top: theme.components.header.height,
+            },
           },
         })}
       >
@@ -66,16 +86,21 @@ export default function ArchivesPage({ data }: ArchivesPageProps): JSX.Element {
           .map((year) => (
             <section key={year}>
               <h2 className="label">{year}</h2>
-              {postsByYear[year].map((post) => (
-                <article key={post.frontmatter.path}>
-                  <time dateTime={post.frontmatter.date} itemProp="datePublished" className="label">
-                    {post.frontmatter.date && format(new Date(post.frontmatter.date), 'dd MMMM', { locale })}
-                  </time>
-                  <h3>
-                    <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
-                  </h3>
-                </article>
-              ))}
+              <div>
+                {postsByYear[year].map((post) => (
+                  <article key={post.frontmatter.path}>
+                    <time dateTime={post.frontmatter.date} itemProp="datePublished" className="label">
+                      {post.frontmatter.date && format(new Date(post.frontmatter.date), 'dd MMMM', { locale })}
+                      <span className="year">
+                        {post.frontmatter.date && format(new Date(post.frontmatter.date), ' yyyy', { locale })}
+                      </span>
+                    </time>
+                    <h3>
+                      <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
+                    </h3>
+                  </article>
+                ))}
+              </div>
             </section>
           ))}
       </div>

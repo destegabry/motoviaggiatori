@@ -28,6 +28,11 @@ type AuthorPageProps = PageProps<{
 }>;
 
 const pictureSize = {
+  width: 360,
+  height: 360,
+};
+
+const pictureSizeMd = {
   width: 240,
   height: 240,
 };
@@ -65,9 +70,27 @@ export default function AuthorPage({ data }: AuthorPageProps): JSX.Element {
             [theme.breakpoints.down('sm')]: {
               margin: `0 auto ${theme.spacing(2)}px`,
             },
+            [theme.breakpoints.between('sm', 'md')]: {
+              flexBasis: pictureSizeMd.width,
+              height: pictureSizeMd.height,
+            },
           })}
         >
-          <Picture src={author.avatar} alt={`Avatar ${author.title}`} {...pictureSize} />
+          <Picture
+            src={author.avatar}
+            alt={`Avatar ${author.title}`}
+            {...pictureSize}
+            responsive={[
+              {
+                key: 'sm',
+                ...pictureSize,
+              },
+              {
+                key: 'md',
+                ...pictureSizeMd,
+              },
+            ]}
+          />
         </div>
         <div>
           <h1 itemProp="name" css={{ marginTop: 0 }}>

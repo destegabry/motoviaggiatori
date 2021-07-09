@@ -266,9 +266,17 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
             },
 
             a: {
+              display: 'block',
               textDecorationLine: 'none',
+
+              '&:hover, &:active': {
+                background: 'none',
+                color: theme.palette.primary.main,
+              },
             },
+
             label: {
+              cursor: 'pointer',
               display: 'flex',
               alignItems: 'center',
               textDecorationColor: theme.palette.primary.light,

@@ -19,6 +19,9 @@ type HomePageProps = PageProps<{
 export default function HomePage({ data }: HomePageProps): JSX.Element {
   return (
     <Layout>
+      <Link to="/prodotti-consigliati" css={(theme) => ({ ...theme.typography.h3 })}>
+        Prodotti consigliati
+      </Link>
       <PostList posts={data.allFile.edges.map(({ node: { childMarkdownRemark } }) => childMarkdownRemark)} />
       <Link to="/archivi" css={(theme) => ({ display: 'inline-block', marginTop: theme.spacing(4) })}>
         <FontAwesomeIcon icon={faArrowLeft} css={(theme) => ({ marginRight: theme.spacing(1) })} />

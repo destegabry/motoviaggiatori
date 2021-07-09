@@ -9,7 +9,8 @@ type PostListProps = {
   posts: Array<Post>;
 };
 
-const pictureSize = { width: 240, height: (240 / 16) * 9 };
+const pictureSize = { width: 360, height: (360 / 16) * 9 };
+const pictureSizeMd = { width: 240, height: (240 / 16) * 9 };
 
 export default function PostList({ posts }: PostListProps): JSX.Element {
   const theme = useTheme();
@@ -22,7 +23,6 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
           marginTop: theme.spacing(2),
           marginBottom: theme.spacing(2),
           fontSize: '.8em',
-
           [theme.breakpoints.down('sm')]: {
             flexDirection: 'column',
             marginBottom: theme.spacing(4),
@@ -31,7 +31,7 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
         h3: {
           marginTop: 0,
           marginBottom: theme.spacing(1),
-
+          lineHeight: 1.6,
           a: {
             textDecoration: 'none',
           },
@@ -48,6 +48,9 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
             marginTop: theme.spacing(1),
             marginRight: theme.spacing(2),
           },
+          [theme.breakpoints.between('sm', 'md')]: {
+            flexBasis: pictureSizeMd.width,
+          },
         },
       })}
     >
@@ -63,6 +66,10 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
                     key: 'sm',
                     width: theme.breakpoints.values.sm - theme.spacing(2),
                     height: (theme.breakpoints.values.sm - theme.spacing(2)) / 2,
+                  },
+                  {
+                    key: 'md',
+                    ...pictureSizeMd,
                   },
                 ]}
               />
