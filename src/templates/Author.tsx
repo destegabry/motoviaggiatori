@@ -82,11 +82,12 @@ export default function AuthorPage({ data }: AuthorPageProps): JSX.Element {
             {...pictureSize}
             responsive={[
               {
-                key: 'sm',
+                max: 'sm',
                 ...pictureSize,
               },
               {
-                key: 'md',
+                min: 'sm',
+                max: 'md',
                 ...pictureSizeMd,
               },
             ]}

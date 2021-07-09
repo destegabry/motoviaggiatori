@@ -68,7 +68,7 @@ export default function AuthorsPage({ data }: AuthorsPageProps): JSX.Element {
               src={childMarkdownRemark.frontmatter.avatar}
               alt={`Avatar ${childMarkdownRemark.frontmatter.title}`}
               {...pictureSize}
-              responsive={[{ key: 'md', ...xsPictureSize }]}
+              responsive={[{ max: 'md', ...xsPictureSize }]}
             />
             <h3>{childMarkdownRemark.frontmatter.title}</h3>
           </Link>

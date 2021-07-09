@@ -22,10 +22,12 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
           display: 'flex',
           marginTop: theme.spacing(2),
           marginBottom: theme.spacing(2),
-          fontSize: '.8em',
           [theme.breakpoints.down('sm')]: {
             flexDirection: 'column',
             marginBottom: theme.spacing(4),
+          },
+          [theme.breakpoints.up('sm')]: {
+            fontSize: '.8em',
           },
         },
         h3: {
@@ -34,6 +36,9 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
           lineHeight: 1.6,
           a: {
             textDecoration: 'none',
+          },
+          [theme.breakpoints.up('sm')]: {
+            fontSize: '1.1rem',
           },
         },
         '.post-meta': {
@@ -45,7 +50,6 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
           },
           [theme.breakpoints.up('sm')]: {
             flex: `0 0 ${pictureSize.width}px`,
-            marginTop: theme.spacing(1),
             marginRight: theme.spacing(2),
           },
           [theme.breakpoints.between('sm', 'md')]: {

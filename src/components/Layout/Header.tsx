@@ -31,7 +31,7 @@ export default function Header(): JSX.Element {
           },
         })}
       >
-        <Link to="/">
+        <Link to="/" title="Homepage">
           <LandscapeLogo
             css={(theme) => ({
               height: theme.components.header.height - theme.spacing(2),

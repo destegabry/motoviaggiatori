@@ -10,15 +10,19 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 export default function SocialIcons(): JSX.Element {
   return (
     <div
-      css={(theme) => ({
+      css={{
         display: 'flex',
         justifyContent: 'center',
         a: {
           display: 'inline-block',
-          paddingLeft: theme.spacing(1),
-          paddingRight: theme.spacing(1),
+          lineHeight: 1,
+          padding: 8,
         },
-      })}
+        svg: {
+          minHeight: 32,
+          minWidth: 32,
+        },
+      }}
     >
       <a href="mailto:info@motoviaggiatori.it" title="Email">
         <FontAwesomeIcon icon={EmailIcon} />
