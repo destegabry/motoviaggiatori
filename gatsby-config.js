@@ -149,7 +149,7 @@ module.exports = {
                   guid: `${siteUrl}${frontmatter.path}`,
                   custom_elements: [],
                   enclosure: {
-                    url: `${siteUrl}${frontmatter.featured_image}?nf_resize=smartcrop&w=960&h=480`,
+                    url: `${siteUrl}${frontmatter.featured_image}?nf_resize=fit&h=480`,
                     type: `image/jpg`,
                   },
                 })
