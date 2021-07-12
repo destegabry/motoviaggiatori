@@ -20,7 +20,7 @@ const getTouchFromEvent = (event: TouchEvent | MouseEvent): null | { x: number; 
   if ('touches' in event && event.touches.length === 1) {
     return {
       x: event.touches[0].pageX,
-      y: event.touches[1].pageY,
+      y: event.touches[0].pageY,
     };
   }
   if ('pageX' in event && 'pageY' in event) {
