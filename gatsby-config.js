@@ -104,10 +104,17 @@ module.exports = {
         name: name,
         short_name: name,
         start_url: `/`,
-        background_color: colors.primary.main,
-        theme_color: colors.primary.main,
+        background_color: colors.secondary.main,
+        theme_color: colors.secondary.main,
         display: `minimal-ui`,
-        icon: `static/icons/motoviaggiatori_helmet.png`, // This path is relative to the root of the site.
+        icon: `static/icons/motoviaggiatori_icon.png`,
+        icons: [
+          {
+            src: `static/icons/motoviaggiatori_apple_512.png`,
+            sizes: `512x512`,
+            type: `image/png`,
+          },
+        ],
       },
     },
     {
