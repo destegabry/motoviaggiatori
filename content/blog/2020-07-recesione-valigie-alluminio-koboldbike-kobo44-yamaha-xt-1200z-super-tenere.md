@@ -10,6 +10,7 @@ categories:
 - recensioni/valigie-e-borse-moto
 tags:
 - accessori
+- yamaha
 - yamaha-xt-1200z-super-tenere
 - borse-alluminio
 - borse-laterali
