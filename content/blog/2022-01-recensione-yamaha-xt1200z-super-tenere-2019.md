@@ -1,9 +1,9 @@
 ---
-title: Recensione Yamaha XT1200ZE Super Ténéré versione 2019
-path: /2022/01/recensione-yamaha-xt1200ze-super-tenere-2019
+title: Recensione Yamaha XT1200Z Super Ténéré versione 2019
+path: /2022/01/recensione-yamaha-xt1200z-super-tenere-2019
 author: giovanni
-featured_image: /assets/uploads/2022/01/recensione-yamaha-xt1200ze-super-tenere-2019/featured.jpg
-excerpt: "bla bla bla"
+featured_image: /assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/featured.jpg
+excerpt: Pedigree dakariano per una moto da viaggio comoda e versatile
 date: 2022-06-01T09:00:00.000Z
 categories:
 - recensioni
@@ -49,9 +49,9 @@ Nel 2014 arriva il primo restyling importante dove viene migliorata l’erogazio
 Gli aggiornamenti più marcati sono sul fronte meccanico, la cavalleria e la coppia passano da 110 cv e 114 Nm a 112 cv e 117 Nm, aumentandone il peso di 5 kg. Nel 2017 Yamaha si adegua alla normativa E4.
 
 ![Yamaha XT1200Z Super Ténéré Worldcrosser 2014](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200z-worldcrosser-2014.jpg "Yamaha XT1200Z Super Ténéré allestimento Worldcrosser del 2014")
-![Yamaha XT1200ZE 2017](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200ze-2017.jpg "Yamaha XT1200ZE Super Ténéré del 2017")
+![Yamaha XT1200Z 2017](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200z-2017.jpg "Yamaha XT1200Z Super Ténéré del 2017")
 
-## Perché comprare una XT1200ZE Super Ténéré del 2019
+## Perché comprare una XT1200Z Super Ténéré del 2019
 
 Scegliere una moto di questo tipo, oggi che il panorama delle Maxi-enduro offre prodotti altamente tecnologici, diventa quasi una scelta di principio.
 
@@ -67,8 +67,8 @@ La trasmissione cardanica invece tende al bloccaggio della ruota posteriore quan
 
 Un altro aspetto, ovviamente opinabile e strettamente personale, è l’estetica. Spesso e volentieri quando si parcheggia o si è fermi al semaforo, non è inusuale sentire rivolgerle complimenti ed apprezzamenti oltretutto è una di quelle poche moto che anche impolverata fa la sua sporca figura.
 
-![Yamaha XTZ 1200 ZE Super Ténéré 2019](/assets/uploads/2022/01/recensione-yamaha-xt1200ze-super-tenere-2019/yamaha-xt1200ze-2019-01.jpg "La mia Yamaha XTZ 1200 ZE Super Ténéré del 2019")
-![Yamaha XTZ 1200 ZE Super Ténéré 2019 infangata](/assets/uploads/2022/01/recensione-yamaha-xt1200ze-super-tenere-2019/yamaha-xt1200ze-2019-02.jpg "Anche infagata fa la sua sporca figura!")
+![Yamaha XTZ 1200 ZE Super Ténéré 2019](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200z-2019-01.jpg "La mia Yamaha XTZ 1200 ZE Super Ténéré del 2019")
+![Yamaha XTZ 1200 ZE Super Ténéré 2019 infangata](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200z-2019-02.jpg "Anche infagata fa la sua sporca figura!")
 
 ## Come va la Super Ténéré del 2019
 
@@ -80,8 +80,8 @@ L’angolo di sterzo è molto ampio, il manubrio largo dà un buon feeling di co
 
 Le sospensioni sono a steli rovesciati da 43mm, regolabili in estensione e compressione, il forcellone posteriore è oscillante con un mono-ammortizzatore regolabile nel precarico. Coprono bene le asperità del terreno e se regolate bene, permettono di ridurre i fastidiosi trasferimenti di carico quando si agisce sul freno o sull’acceleratore.
 
-![Yamaha XTZ 1200 ZE Super Ténéré telaio](/assets/uploads/2022/01/recensione-yamaha-xt1200ze-super-tenere-2019/yamaha-xt1200ze-2019-04.jpg "Il telaio “backbone” è realizzato in acciaio")
-![Yamaha XTZ 1200 ZE Super Ténéré 2019 forcella](/assets/uploads/2022/01/recensione-yamaha-xt1200ze-super-tenere-2019/yamaha-xt1200ze-2019-03.jpg "La forcella anteriore è a steli rovesciati da 43mm")
+![Yamaha XTZ 1200 ZE Super Ténéré telaio](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200z-2019-04.jpg "Il telaio “backbone” è realizzato in acciaio")
+![Yamaha XTZ 1200 ZE Super Ténéré 2019 forcella](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200z-2019-03.jpg "La forcella anteriore è a steli rovesciati da 43mm")
 
 La frenata è modulabile e potente, grazie ad un comparto frenante che conta su doppi dischi a margherita da 310mm all’anteriore, morsi da pinze a 4 pistoncini, e un disco singolo al posteriore da 282, sempre a margherita con pinza ad un pistoncino. L’ABS è di serie ed ha la ripartizione della frenata anche sulla ruota posteriore (UBS) usando solo la leva del freno anteriore.
 
@@ -91,8 +91,8 @@ Il cuore pulsante di questa Maxi-Enduro è una vigorosa unità di 1199 cc a due 
 
 La trasmissione cardanica non da nessuno strappo né sensazioni di rigidità, anzi sembra di avere una trasmissione a catena. È davvero un balsamo per chi macina molta strada, visto che la manutenzione consiste solo in un cambio olio ogni 20.000 Km.
 
-![Yamaha XTZ 1200 ZE Super Ténéré cardano](/assets/uploads/2022/01/recensione-yamaha-xt1200ze-super-tenere-2019/yamaha-xt1200ze-2019-05.jpg "La trasmissione posteriore a giunto cardanico")
-![Yamaha XTZ 1200 ZE Super Ténéré cambio](/assets/uploads/2022/01/recensione-yamaha-xt1200ze-super-tenere-2019/yamaha-xt1200ze-2019-06.jpg "Il cambio a 6 rapporti è preciso ma un po' rumoroso")
+![Yamaha XTZ 1200 ZE Super Ténéré cardano](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200z-2019-05.jpg "La trasmissione posteriore a giunto cardanico")
+![Yamaha XTZ 1200 ZE Super Ténéré cambio](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200z-2019-06.jpg "Il cambio a 6 rapporti è preciso ma un po' rumoroso")
 
 I consumi rimangono abbastanza contenuti, a patto di mantenere andature turistiche, e ci si attesta [intorno ai 20 km/l](https://www.spritmonitor.de/en/detail/1169947.html). Il serbatoio da 23lt permette delle percorrenze di circa 400Km. Se invece decidiamo di affrontare il passo di montagna con il coltello in mezzo ai denti, diventa decisamente assetata e le percorrenze si abbassano sensibilmente.
 
@@ -113,9 +113,9 @@ La ventola di raffreddamento è posta sul fianchetto sinistro, in estate si sent
 
 Paragonabile ad un mulo infaticabile, è in grado macinare molti chilometri caricata all’estremo, senza risentire di alcun problema. Raccoglie a piene mani il retaggio lasciatole della sua antenata, ed è una ottima moto da turismo a medio e lungo raggio.
 
-![Yamaha XTZ 1200 ZE Super Ténéré Toscana](/assets/uploads/2022/01/recensione-yamaha-xt1200ze-super-tenere-2019/yamaha-xt1200ze-2019-07.jpeg "Yamaha XTZ 1200 ZE Super Ténéré a spasso per la Toscana")
-![Yamaha XTZ 1200 ZE Super Ténéré Toscana](/assets/uploads/2022/01/recensione-yamaha-xt1200ze-super-tenere-2019/yamaha-xt1200ze-2019-08.jpeg "Yamaha XTZ 1200 ZE Super Ténéré a spasso per la Toscana")
-![Yamaha XTZ 1200 ZE Super Ténéré Toscana](/assets/uploads/2022/01/recensione-yamaha-xt1200ze-super-tenere-2019/yamaha-xt1200ze-2019-09.jpeg "Yamaha XTZ 1200 ZE Super Ténéré a spasso per la Toscana")
+![Yamaha XTZ 1200 ZE Super Ténéré Toscana](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200z-2019-07.jpeg "Yamaha XTZ 1200 ZE Super Ténéré a spasso per la Toscana")
+![Yamaha XTZ 1200 ZE Super Ténéré Toscana](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200z-2019-08.jpeg "Yamaha XTZ 1200 ZE Super Ténéré a spasso per la Toscana")
+![Yamaha XTZ 1200 ZE Super Ténéré Toscana](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200z-2019-09.jpeg "Yamaha XTZ 1200 ZE Super Ténéré a spasso per la Toscana")
 
 ## Accessori consigliati
 
@@ -144,8 +144,8 @@ Le valigie laterali sono un must per questa moto, che risulta essere anche più 
 
 Uso una borsa da serbatoio una BeFast con aggancio magnetico, ma [sul mercato troverete veramente la qualunque](https://amzn.to/3qKiwPi). Questa costa relativamente poco, è resistente all’acqua e non ha bisogno di montare supporti o sostegni, si aggancia solo con i magneti (occhio solo a non graffiare il serbatoio quando la rimuovete).
 
-![Yamaha XTZ 1200 ZE Super Ténéré borsa serbatoio](/assets/uploads/2022/01/recensione-yamaha-xt1200ze-super-tenere-2019/yamaha-xt1200ze-2019-10.jpg "Borsa da serbatoio magnetica BeFast")
-![Yamaha XTZ 1200 ZE Super Ténéré valigie Koboldbike](/assets/uploads/2022/01/recensione-yamaha-xt1200ze-super-tenere-2019/yamaha-xt1200ze-2019-11.jpeg "Valigie laterali in alluminio Koboldbike")
+![Yamaha XTZ 1200 ZE Super Ténéré borsa serbatoio](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200z-2019-10.jpg "Borsa da serbatoio magnetica BeFast")
+![Yamaha XTZ 1200 ZE Super Ténéré valigie Koboldbike](/assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/yamaha-xt1200z-2019-11.jpeg "Valigie laterali in alluminio Koboldbike")
 
 ### Scarico
 
