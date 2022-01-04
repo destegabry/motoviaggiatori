@@ -196,11 +196,3 @@ Ci sono le [Givi Trekker Lights](https://amzn.to/3wPTUqR) oppure gli [Interphone
 Le lampadine LED hanno i dissipatori che allungano la forma della lampada e non permettono il montaggio dei tappi di tenuta del faro, bisogna quindi comprare dei [tappi maggiorati](https://www.motocustom.it/?T=Tappo-maggiorato-faro-Yamaha-XT1200&H=1955) o scegliere delle lampadine più corte.
 
 Se si ha in programma di fare un viaggio lungo, magari in posti con venti molto forti, un cupolino maggiorato accompagnato da [deflettori laterali](https://s.click.aliexpress.com/e/_AOnlvA) per togliere aria dalle spalle, aumenterà il comfort sui trasferimenti autostradali.  Io uso un [cupolino maggiorato](https://amzn.to/349GAU2) (Kappa o Givi, sono identici) che fa egregiamente il suo lavoro, i deflettori invece sono prodotti artigianalmente in vetroresina.
-
-## Nota
-
-Ci sono diversi forum su cui si possono trovare topic e discussioni riguardo la XT1200Z, una nutrita community di entusiasti possessori di Super Ténéré in Italia è quella dei “I Kazzari”: è un gruppo molto attivo su Facebook e ci sono persone che sono dei veri e propri guru del modello.
-
-Alcuni di loro offrono anche servizi artigianali di rifacimento sella, o prodotti di varia natura in vetroresina (protezioni, cupolini racing ecc), adesivi per abbellimenti estetici, modifiche all’airbox e molto altro.
-
-Se si acquista una Super Ténéré 1200, è quasi scontato entrare a far parte anche di questa community.
