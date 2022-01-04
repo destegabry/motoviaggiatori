@@ -1,0 +1,4 @@
+---
+path: yamaha
+title: Yamaha
+---

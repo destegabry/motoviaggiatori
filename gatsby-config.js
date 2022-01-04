@@ -25,7 +25,7 @@ module.exports = {
     `gatsby-plugin-remove-fingerprints`, // Fingerprints are not needed on Netlify
     `gatsby-plugin-emotion`,
     `gatsby-plugin-fontawesome-css`,
-    `gatsby-plugin-react-helmet-async`,
+    `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-react-svg`,
     {

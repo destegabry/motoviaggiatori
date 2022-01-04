@@ -54,7 +54,7 @@ Attraversiamo di nuovo la stupenda foresta di cedri per poi proseguire sulla N13
 
 ## Giorno 11: le dune di sabbia dell'Erg Chebbi
 
-Ci svegliamo di buon'ora e dopo la colazione troviamo il foro nello pneumatico posteriore. Anche questa volta il [kit ripara tubeless](https://amzn.to/2U1EYB6) fa la sua bella figura, lo stesso non si può dire del mini compressore 12V da 10€ che arranca e si surriscalda… fortunatamente allo Ksar Timnay sono ben organizzati e risolvono la situazione prestandoci un compressore degno di questo nome. Per evitare problemi simili mi sono poi dotato di [pompa a pedale](https://amzn.to/2I8Tiq8): compatta, leggera e sempre funzionante!
+Ci svegliamo di buon'ora e dopo la colazione troviamo il foro nello pneumatico posteriore. Anche questa volta il [kit ripara tubeless](https://amzn.to/2U1EYB6) fa la sua bella figura, lo stesso non si può dire del mini compressore 12V da 10€ che arranca e si surriscalda… fortunatamente allo Ksar Timnay sono ben organizzati e risolvono la situazione prestandoci un compressore degno di questo nome. Per evitare problemi simili mi sono poi dotato di [pompa a pedale](https://amzn.to/3nhlr1l): compatta, leggera e sempre funzionante!
 
 ![Foratura](/assets/uploads/2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen/galleries/foratura/3476.jpg "Troviamo il foro proprio nel mezzo del copertone")
 ![Riparazione pneumatico](/assets/uploads/2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen/galleries/foratura/3477.jpg "Il kit per la riparazione tubless colpisce ancora!")

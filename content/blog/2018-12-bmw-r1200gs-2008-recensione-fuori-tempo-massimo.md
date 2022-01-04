@@ -148,13 +148,13 @@ Il terminale di scarico originale è davvero pesante, sostituendolo con un after
 BMW fornisce uno striminzito kit attrezzi da riporre nel sottosella, in viaggio preferisco essere pronto ad ogni evenienza e porto sempre con me:
 
 - [kit riparazione tubeless](https://amzn.to/2R9RXDu)
-- [pompa a pedale](https://amzn.to/2PTDpmN) (efficace e molto più leggera di un compressore 12v)
-- un [buon set di inserti torx](https://amzn.to/2T8Daq6) con [chiave a cricchetto](https://amzn.to/2T8wbx1) e [adattatore 1/2-1/4](https://amzn.to/2QJPY9o)
+- [pompa a pedale](https://amzn.to/3nhlr1l) (efficace e molto più leggera di un compressore 12v)
+- un [ottimo cricchetto con inserti da 3/8](https://amzn.to/3cdHhMT)
 - [chiave universale per ruota anteriore](https://amzn.to/2Rgntj9)
 - [estrattore bobine](https://amzn.to/2RcVRLJ)
 - [kit pronto soccorso](https://amzn.to/2Cw4XLG) (obbligatorio in alcuni Paesi)
 - [bretelle catarifrangenti](https://amzn.to/2QL59iT) (obbligatorie in alcuni Paesi)
-- [stucco ipossidico](https://amzn.to/2GzGqcj) (per riparare carter crepati e non solo)
+- [stucco epossidico](https://amzn.to/2GzGqcj) (per riparare carter crepati e non solo)
 - [borsa attrezzi a rullo](https://amzn.to/2AcFg15)
 
 ### Varie

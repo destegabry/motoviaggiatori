@@ -78,7 +78,7 @@ Per comunicare in viaggio, sia tra pilota e passeggero che tra moto diverse, usi
 
 - [Kit pronto soccorso omologato](https://amzn.to/2xWemfi): andrebbe sempre portato con sè, in alcuni Paesi è obbligatorio.
 - [Kit per la riparazione pneumatici tubeless](https://amzn.to/2U1EYB6), se avete la camera d'aria meglio avere con sè le [leve smontagomme](https://amzn.to/2IaTGEf).
-- [Mini pompa a pedale](https://amzn.to/37upvmK): più affidabile delle bombole di CO2 usa e getta, più compatta e leggera di un compressore 12V, la vende anche [Decathlon](https://www.decathlon.it/pompa-a-colonna-520-id_8303660.html).
+- [Mini pompa a pedale](https://amzn.to/3nhlr1l): più affidabile delle bombole di CO2 usa e getta, più compatta e leggera di un compressore 12V, la vende anche [Decathlon](https://www.decathlon.it/pompa-a-colonna-520-id_8303660.html).
 - [Cavi avviamento moto](https://amzn.to/2VukbYA).
 - [Tanica di emergenza](https://amzn.to/3bW5e9r) e un piccolo [imbuto pieghevole in silicone](https://amzn.to/2P324X5).
 - [Stucco epossidico bicomponente](https://amzn.to/2JJuYtu): Permette di riparare un carter forato.
