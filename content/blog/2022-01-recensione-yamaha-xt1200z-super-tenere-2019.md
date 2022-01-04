@@ -4,7 +4,7 @@ path: /2022/01/recensione-yamaha-xt1200z-super-tenere-2019
 author: giovanni
 featured_image: /assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2019/featured.jpg
 excerpt: Pedigree dakariano per una moto da viaggio comoda e versatile
-date: 2022-06-01T09:00:00.000Z
+date: 2022-01-04T14:00:00.000Z
 categories:
 - recensioni
 - recensioni/moto
