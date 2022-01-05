@@ -63,3 +63,16 @@ The auth callback will redirect to the production website, copy the url and repl
 Open a merge request to trigger Netlify preview deploy.
 
 Merging on `master` branch will trigger a production deploy.
+
+## Batch resize images with Imagemagick
+
+**Be careful**, the following command will reduce pixel size and apply lossy compression.
+Be sure to keep a backup of the orginal files and double check what you're about to do!
+
+**Warning: whis could increase file size on already optimized images!**
+Don't run it recursevly on the whole asset folder, but just on the files you're about to add.
+
+```bash
+cd path/to/folder
+find . -name "*.jp*g" -type f -exec mogrify -quality 80%  -resize 1920x1920\> {} \;
+```
