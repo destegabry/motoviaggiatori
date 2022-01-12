@@ -1,6 +1,7 @@
 # Redirects from what the browser requests to what we serve
 /author                      /autori
 /authors                     /autori
+/autore                      /autori
 /author/*                    /autore/:splat
 /authors/*                   /autore/:splat
 /autori/*                    /autore/:splat
