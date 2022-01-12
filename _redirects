@@ -5,3 +5,7 @@
 /author/*                    /autore/:splat
 /authors/*                   /autore/:splat
 /autori/*                    /autore/:splat
+/category/*                  /categoria/:splat
+/categories/*                /categoria/:splat
+/categorie/*                 /categoria/:splat
+/tags/*                      /tag/:splat
