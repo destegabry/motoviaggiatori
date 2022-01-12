@@ -77,7 +77,7 @@ export default function Header(): JSX.Element {
           <Link to="/categoria/itinerari">Itinerari</Link>
           <Link to="/categoria/viaggi">Viaggi</Link>
           <Link to="/categoria/recensioni">Recensioni</Link>
-          <a href={process.env.GATSBY_INSTAGRAM_PROFILE_URL} target="_blank" rel="noopener noreferrer">
+          <a href="/foto" target="_blank" rel="noopener noreferrer">
             Foto
           </a>
           <Link to="/categoria/video">Video</Link>

@@ -31,7 +31,7 @@ to = "/categoria/:splat"
 
 [[redirects]]
 from = "/categories/*"
-to = /categoria/:splat"
+to = "/categoria/:splat""
 
 [[redirects]]
 from = "/categorie/*"
@@ -40,3 +40,7 @@ to = "/categoria/:splat"
 [[redirects]]
 from = "/tags/*"
 to = "/tag/:splat"
+
+[[redirects]]
+from = "/foto"
+to = "https://www.instagram.com/motoviaggiatori/"
