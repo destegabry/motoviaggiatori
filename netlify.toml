@@ -1,2 +1,42 @@
 [[plugins]]
 package = "@netlify/plugin-gatsby"
+
+[[redirects]]
+from = "/author"
+to = "/autori"
+
+[[redirects]]
+from = "/authors"
+to = "/autori"
+
+[[redirects]]
+from = "/autore"
+to = "/autori"
+
+[[redirects]]
+from = "/author/*"
+to = "/autore/:splat"
+
+[[redirects]]
+from = "/authors/*"
+to = "/autore/:splat"
+
+[[redirects]]
+from = "/autori/*"
+to = "/autore/:splat"
+
+[[redirects]]
+from = "/category/*"
+to = "/categoria/:splat"
+
+[[redirects]]
+from = "/categories/*"
+to = /categoria/:splat"
+
+[[redirects]]
+from = "/categorie/*"
+to = "/categoria/:splat"
+
+[[redirects]]
+from = "/tags/*"
+to = "/tag/:splat"
