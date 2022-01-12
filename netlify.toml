@@ -1,2 +1,7 @@
 [[plugins]]
 package = "@netlify/plugin-gatsby"
+
+[[redirects]]
+  from = "/foto"
+  to = "GATSBY_INSTAGRAM_PROFILE_URL"
+  status = 301

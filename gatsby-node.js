@@ -116,10 +116,7 @@ async function createInstancePages(graphql, createPage, instanceName, pathPrefix
 }
 
 exports.createPages = async ({ graphql, actions }) => {
-  const { createPage, createRedirect } = actions;
-  // Redirect authors
-  createRedirect({ fromPath: '/author', toPath: '/autori', isPermanent: true });
-  createRedirect({ fromPath: '/authors', toPath: '/autori', isPermanent: true });
+  const { createPage } = actions;
   const authorsResult = await graphql(`
     {
       allFile(filter: { sourceInstanceName: { eq: "authors" } }) {
@@ -139,14 +136,6 @@ exports.createPages = async ({ graphql, actions }) => {
     console.error(authorsResult.errors);
     throw authorsResult.errors;
   }
-  authorsResult.data.allFile.edges.forEach(({ node }) => {
-    const path = node.childMarkdownRemark.frontmatter.path;
-    createRedirect({ fromPath: `/author/${path}`, toPath: `/autore/${path}`, isPermanent: true });
-    createRedirect({ fromPath: `/authors/${path}`, toPath: `/autore/${path}`, isPermanent: true });
-    createRedirect({ fromPath: `/autori/${path}`, toPath: `/autore/${path}`, isPermanent: true });
-  });
-  // Redirect to Instagram
-  createRedirect({ fromPath: '/foto', toPath: process.env.GATSBY_INSTAGRAM_PROFILE_URL, isPermanent: true });
   // Create pages
   await Promise.all([
     createBlogPages(graphql, createPage),
