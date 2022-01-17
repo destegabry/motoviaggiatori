@@ -19,11 +19,19 @@ type HomePageProps = PageProps<{
 export default function HomePage({ data }: HomePageProps): JSX.Element {
   return (
     <Layout>
-      <p>
-        <Link to="/prodotti-consigliati">
-          Devi fare acquisti? Scopri i prodotti testati e approvati per la moto e il MotoViaggiatore!
-        </Link>
-      </p>
+      <Link
+        to="/prodotti-consigliati"
+        css={(theme) => ({
+          fontFamily: theme.typography.fontFamily,
+          fontWeight: theme.typography.fontWeight.regular,
+          display: 'block',
+          textAlign: 'center',
+          marginTop: theme.spacing(1),
+          marginBottom: theme.spacing(3),
+        })}
+      >
+        Devi fare acquisti? Scopri i prodotti testati e approvati per la moto e il MotoViaggiatore!
+      </Link>
       <PostList posts={data.allFile.edges.map(({ node: { childMarkdownRemark } }) => childMarkdownRemark)} />
       <Link to="/archivi" css={(theme) => ({ display: 'inline-block', marginTop: theme.spacing(4) })}>
         <FontAwesomeIcon icon={faArrowLeft} css={(theme) => ({ marginRight: theme.spacing(1) })} />

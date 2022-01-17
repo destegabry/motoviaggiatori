@@ -1,5 +1,5 @@
-const fontFamilySerif = ['EB Garamond', 'serif'].join(', ');
-const fontFamilySansSerif = ['Palanquin', 'sans-serif'].join(', ');
+const fontFamilySerif = ['Crimson Pro', 'serif'].join(', ');
+const fontFamilySansSerif = ['Commissioner', 'sans-serif'].join(', ');
 
 const fontWeight = {
   light: 300,

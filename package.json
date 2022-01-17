@@ -21,8 +21,8 @@
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
-    "@fontsource/eb-garamond": "^4.5.1",
-    "@fontsource/palanquin": "^4.5.1",
+    "@fontsource/commissioner": "^4.5.0",
+    "@fontsource/crimson-pro": "^4.5.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/free-regular-svg-icons": "^5.15.4",

@@ -56,6 +56,9 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
             flexBasis: pictureSizeMd.width,
           },
         },
+        '.excerpt': {
+          fontFamily: theme.typography.body.fontFamily,
+        },
       })}
     >
       {posts.map((post) => (
@@ -88,7 +91,11 @@ export default function PostList({ posts }: PostListProps): JSX.Element {
             </h3>
             <PostMeta post={post} />
             {post.frontmatter.excerpt && (
-              <section dangerouslySetInnerHTML={{ __html: post.frontmatter.excerpt }} itemProp="description" />
+              <section
+                dangerouslySetInnerHTML={{ __html: post.frontmatter.excerpt }}
+                itemProp="description"
+                className="excerpt"
+              />
             )}
           </div>
         </article>
