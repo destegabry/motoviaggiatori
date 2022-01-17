@@ -13,7 +13,6 @@ categories:
 - video
 tags:
 - action-camera
-- bmw-r1200gs
 - gopro
 - video
 - xiaomi-yi
