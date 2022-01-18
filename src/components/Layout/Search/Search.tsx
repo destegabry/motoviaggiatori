@@ -1,8 +1,9 @@
-import React, { useState } from 'react';
+import React, { useCallback, useState } from 'react';
 import { InstantSearch } from 'react-instantsearch-dom';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import algoliasearch from 'algoliasearch/lite';
+import { useLockPageScroll } from '../../../hooks/useLockPageScroll';
 import { SearchBox } from './SearchBox';
 import { SearchResults } from './SearchResults';
 
@@ -13,10 +14,21 @@ const searchClient = algoliasearch(
 
 export function Search(): JSX.Element {
   const [searchOpen, setSearchOpen] = useState(false);
+  const { lockPageScroll, unlockPageScroll } = useLockPageScroll();
+
+  const open = useCallback(() => {
+    lockPageScroll();
+    setSearchOpen(true);
+  }, [lockPageScroll]);
+
+  const close = useCallback(() => {
+    unlockPageScroll();
+    setSearchOpen(false);
+  }, [unlockPageScroll]);
 
   return (
     <>
-      <button onClick={() => setSearchOpen(true)} title="Cerca" className="icon-button">
+      <button onClick={open} title="Cerca" className="icon-button">
         <FontAwesomeIcon icon={faSearch} />
       </button>
       {searchOpen && (
@@ -52,10 +64,10 @@ export function Search(): JSX.Element {
             },
           })}
         >
-          <div className="backdrop" onClick={() => setSearchOpen(false)}></div>
+          <div className="backdrop" onClick={close}></div>
           <div className="search-wrapper">
             <InstantSearch searchClient={searchClient} indexName={process.env.GATSBY_ALGOLIA_SEARCH_INDEX || ''}>
-              <SearchBox onCloseClick={() => setSearchOpen(false)} />
+              <SearchBox onCloseClick={close} />
               <SearchResults />
             </InstantSearch>
           </div>

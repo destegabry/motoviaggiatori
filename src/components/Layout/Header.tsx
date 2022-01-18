@@ -1,7 +1,8 @@
-import React, { useState } from 'react';
+import React, { useCallback, useState } from 'react';
 import { faBars, faTimes } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Link } from 'gatsby';
+import { useLockPageScroll } from '../../hooks/useLockPageScroll';
 import { LandscapeLogo } from '../Logo';
 import Container from './Container';
 import { Search } from './Search/Search';
@@ -9,6 +10,17 @@ import Spacer from './Spacer';
 
 export default function Header(): JSX.Element {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const { lockPageScroll, unlockPageScroll } = useLockPageScroll();
+
+  const openMobileMenu = useCallback(() => {
+    lockPageScroll();
+    setMobileMenuOpen(true);
+  }, [lockPageScroll]);
+
+  const closeMobileMenu = useCallback(() => {
+    unlockPageScroll();
+    setMobileMenuOpen(false);
+  }, [unlockPageScroll]);
 
   return (
     <header
@@ -44,6 +56,11 @@ export default function Header(): JSX.Element {
 
             '&:hover, &[aria-current]': {
               color: 'rgba(255, 255, 255, 1)',
+            },
+          },
+          '.mobile-menu-button': {
+            [theme.breakpoints.up('md')]: {
+              display: 'none!important',
             },
           },
         })}
@@ -101,18 +118,15 @@ export default function Header(): JSX.Element {
           <Link to="/autori">Autori</Link>
         </nav>
         <Search />
-        <button
-          onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-          title="Apri menù"
-          className="icon-button"
-          css={(theme) => ({
-            [theme.breakpoints.up('md')]: {
-              display: 'none!important',
-            },
-          })}
-        >
-          <FontAwesomeIcon icon={mobileMenuOpen ? faTimes : faBars} />
-        </button>
+        {mobileMenuOpen ? (
+          <button onClick={closeMobileMenu} title="Chiudi menù" className="icon-button mobile-menu-button">
+            <FontAwesomeIcon icon={faTimes} />
+          </button>
+        ) : (
+          <button onClick={openMobileMenu} title="Apri menù" className="icon-button mobile-menu-button">
+            <FontAwesomeIcon icon={faBars} />
+          </button>
+        )}
       </Container>
     </header>
   );
