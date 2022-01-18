@@ -1,9 +1,10 @@
 const escapeStringRegexp = require('escape-string-regexp');
 const pagePath = `content`;
-const indexName = `MotoViaggiatori`;
+const indexName = process.env.GATSBY_ALGOLIA_SEARCH_INDEX;
 const pageQuery = `{
   pages: allMarkdownRemark(
     filter: {
+      filter: { sourceInstanceName: { eq: "blog" } }
       fileAbsolutePath: { regex: "/${escapeStringRegexp(pagePath)}/" },
     }
   ) {
@@ -14,6 +15,7 @@ const pageQuery = `{
             path
             title
             excerpt
+            created
             modified
             tags {
                 frontmatter {
@@ -31,7 +33,6 @@ const pageQuery = `{
                 }
               }
         }
-        excerpt(pruneLength: 5000)
       }
     }
   }

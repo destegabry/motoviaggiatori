@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
-import { faBars as MenuIcon, faTimes as CloseIcon } from '@fortawesome/free-solid-svg-icons';
+import { faBars, faTimes } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Link } from 'gatsby';
 import { LandscapeLogo } from '../Logo';
 import Container from './Container';
+import { Search } from './Search/Search';
 import Spacer from './Spacer';
 
 export default function Header(): JSX.Element {
@@ -28,6 +29,22 @@ export default function Header(): JSX.Element {
 
           a: {
             fontSize: theme.typography.caption.fontSize,
+          },
+          '.icon-button': {
+            color: 'rgba(255, 255, 255, 0.7)',
+            cursor: 'pointer',
+            background: 'none',
+            border: 0,
+            fontSize: 'inherit',
+            display: 'flex',
+            alignItems: 'center',
+            paddingLeft: theme.spacing(2),
+            paddingRight: theme.spacing(2),
+            marginRight: theme.spacing(-1),
+
+            '&:hover, &[aria-current]': {
+              color: 'rgba(255, 255, 255, 1)',
+            },
           },
         })}
       >
@@ -83,23 +100,19 @@ export default function Header(): JSX.Element {
           <Link to="/categoria/video">Video</Link>
           <Link to="/autori">Autori</Link>
         </nav>
-        <div
+        <Search />
+        <button
           onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+          title="Apri menù"
+          className="icon-button"
           css={(theme) => ({
-            cursor: 'pointer',
-            display: 'flex',
-            alignItems: 'center',
-            paddingLeft: theme.spacing(2),
-            paddingRight: theme.spacing(2),
-            marginRight: theme.spacing(-1),
-
             [theme.breakpoints.up('md')]: {
-              display: 'none',
+              display: 'none!important',
             },
           })}
         >
-          <FontAwesomeIcon icon={mobileMenuOpen ? CloseIcon : MenuIcon} />
-        </div>
+          <FontAwesomeIcon icon={mobileMenuOpen ? faTimes : faBars} />
+        </button>
       </Container>
     </header>
   );
