@@ -2,7 +2,7 @@
   "name": "motoviaggiatori",
   "private": true,
   "description": "Gatsby + Netlify CMS powered blog MotoViaggiatori.it",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "author": "Gabriele Destefanis <g.destefanis@topsolution.it>",
   "license": "MIT",
   "repository": {
