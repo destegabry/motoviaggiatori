@@ -36,13 +36,16 @@ netlify lm:info
 
 ## 🚀 Quick start
 
-Clone this repository, then:
+Clone this repository, then run:
 
 ```shell
 cd motoviaggiatori/
+cp .env.example .env
 npm install
 gatsby develop
 ```
+
+Adjust `.env` with the correct values.
 
 ## 🛠️ Development
 

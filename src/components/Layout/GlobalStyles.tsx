@@ -34,6 +34,10 @@ export default function GlobalStyles(): JSX.Element {
           color: theme.palette.common.black,
           margin: 0,
           padding: 0,
+
+          '&.locked': {
+            overflow: 'hidden',
+          },
         },
 
         h1: theme.typography.h1,
