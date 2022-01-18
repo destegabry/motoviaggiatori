@@ -7,7 +7,7 @@ type UseLockPageScroll = {
 };
 
 export function useLockPageScroll(): UseLockPageScroll {
-  const bodyElement = useRef(document?.querySelector('body'));
+  const bodyElement = useRef(typeof document !== 'undefined' ? document.querySelector('body') : null);
 
   const isPageScrollLocked = useCallback(() => bodyElement.current?.classList.contains('locked') || false, []);
 
