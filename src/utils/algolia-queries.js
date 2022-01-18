@@ -1,43 +1,46 @@
-const escapeStringRegexp = require('escape-string-regexp');
-const pagePath = `content`;
 const indexName = process.env.GATSBY_ALGOLIA_SEARCH_INDEX;
 const pageQuery = `{
-  pages: allMarkdownRemark(
+  pages: allFile(
     filter: {
-      filter: { sourceInstanceName: { eq: "blog" } }
-      fileAbsolutePath: { regex: "/${escapeStringRegexp(pagePath)}/" },
+      sourceInstanceName: { eq: "blog" }
     }
   ) {
     edges {
       node {
-        id
-        frontmatter {
+        childMarkdownRemark {
+          id
+          frontmatter {
             path
             title
             excerpt
-            created
+            date
             modified
             tags {
-                frontmatter {
-                  title
-                }
+              frontmatter {
+                title
               }
+            }
             author {
-                frontmatter {
-                  title
-                }
+              frontmatter {
+                title
               }
+            }
             categories {
-                frontmatter {
-                  title
-                }
+              frontmatter {
+                title
               }
+            }
+          }
         }
       }
     }
   }
 }`;
-function pageToAlgoliaRecord({ node: { id, frontmatter, fields, ...rest } }) {
+function pageToAlgoliaRecord({
+  node: {
+    childMarkdownRemark: { id, frontmatter, fields, ...rest },
+  },
+}) {
   return {
     objectID: id,
     ...frontmatter,
