@@ -5,7 +5,7 @@ author: michele-palmisano
 featured_image: /assets/uploads/2022/01/viaggio-improvvisato-albania/featured.jpeg
 excerpt: 5 giorni in sella tra Tirana, Valona, parco di Llogara, Dhermi, e Saranda
 opening: "L’idea di un viaggio in moto, d’estate, mi frullava in testa già da un po’. Quale modo migliore di sfruttare i pochi giorni di ferie a disposizione per un lavoratore dipendente che ha l’ossessione della moto e del viaggio? La risposta è ovvia: prendere il mezzo e partire. Così decido di sentire il mio amico Redi, albanese che vive a Milano da 20 anni. Gli mando un messaggio vocale Whatsapp: «Comunque stasera mi è venuta in mente una idea folle, andiamo insieme in Albania, in moto!». Il resto è accaduto velocemente."
-date: 2022-01-26T11:00:00.000Z
+date: 2022-01-27T11:00:00.000Z
 categories:
 - itinerari
 - itinerari/albania
@@ -117,7 +117,6 @@ L’ultimo giorno, non fa eccezione per quanto riguarda il caldo afoso. A metà 
 Parcheggiamo le moto sul ciglio della strada e proseguiamo a piedi, per raggiungere questa caletta, facendoci largo fra i cespugli di macchia mediterranea. Ne è valsa la pena, una sosta improvvisata come quasi tutto il reto di questa vacanza, ha saputo regalarci un mare che difficilmente dimenticherò. La trasparenza dell’acqua è sorprendente, non voglio uscire da quel mare, non voglio abbandonare questa terra e voglio che la mia estate non finisca mai… ma dobbiamo andare a prendere il traghetto di ritorno!
 
 Si sa, gli addii sono sempre difficili e l’Albania è una terra che ti conquista, a volte inaspettatamente, in quanto alcuni la considerano ancora una meta di ripiego. Ma quando la visiti ti fa innamorare per la sua semplicità, per il suo essere rimasta incontaminata dal turismo di massa e per l’accoglienza della sua gente. Magari non sarà ancora così conosciuta, ma forse è proprio per questo, per il fatto che non ci si aspetta tutta questa bellezza, che quando la visiti ti stupisce ancora di più e ti rimane dentro.
-
 
 ![Ruota panoramica di Saranda, Albania](/assets/uploads/2022/01/viaggio-improvvisato-albania/10.jpg "La ruota panoramica di Saranda")
 ![Baia di Saranda, Albania](/assets/uploads/2022/01/viaggio-improvvisato-albania/11.jpg "Ultima sera a Saranda, città dominata dalla sua ampia baia sulla quale si concentrano locali e ristoranti")
