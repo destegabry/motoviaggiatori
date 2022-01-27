@@ -7,4 +7,6 @@ exports.onRouteUpdate = () => {
     galleries.forEach(({ destroy }) => destroy());
   }
   galleries = Array.from(document.querySelectorAll('.md-gallery')).map((element) => new Gallery(element));
+
+  document.querySelector('body').classList.remove('locked');
 };
