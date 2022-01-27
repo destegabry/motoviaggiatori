@@ -1,7 +1,7 @@
 ---
 title: Viaggio improvvisato in Albania
 path: /2022/01/viaggio-improvvisato-albania
-author: michele-palmisano
+author: michele
 featured_image: /assets/uploads/2022/01/viaggio-improvvisato-albania/featured.jpeg
 excerpt: 5 giorni in sella tra Tirana, Valona, parco di Llogara, Dhermi, e Saranda
 opening: "L’idea di un viaggio in moto, d’estate, mi frullava in testa già da un po’. Quale modo migliore di sfruttare i pochi giorni di ferie a disposizione per un lavoratore dipendente che ha l’ossessione della moto e del viaggio? La risposta è ovvia: prendere il mezzo e partire. Così decido di sentire il mio amico Redi, albanese che vive a Milano da 20 anni. Gli mando un messaggio vocale Whatsapp: «Comunque stasera mi è venuta in mente una idea folle, andiamo insieme in Albania, in moto!». Il resto è accaduto velocemente."

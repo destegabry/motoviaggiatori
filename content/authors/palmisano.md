@@ -1,7 +1,7 @@
 ---
-path: michele-palmisano
-title: Michele Palmisano
-avatar: /assets/authors/michele-palmisano.jpg
+path: michele
+title: Michele
+avatar: /assets/authors/michele.jpg
 links:
   - title: Instagram
     url: https://www.instagram.com/mic.palmisano/
