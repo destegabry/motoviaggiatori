@@ -48,7 +48,7 @@ export default function PostPage({ data }: PostPageProps): JSX.Element {
         itemProp="blogPost"
         itemScope
         itemType="https://schema.org/BlogPosting"
-        css={(theme) => ({ section: { marginBottom: theme.spacing(8), marginTop: theme.spacing(8) } })}
+        css={(theme) => ({ section: { marginBottom: theme.spacing(4), marginTop: theme.spacing(4) } })}
       >
         <section css={{ marginTop: '0!important' }}>
           <h1 itemProp="name headline">{postMeta.title}</h1>
