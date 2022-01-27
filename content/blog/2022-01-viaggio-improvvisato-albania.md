@@ -32,6 +32,10 @@ Una volta superati questi momenti tragicomici riusciamo finalmente a salpare. Il
 
 Intorno alle 7 di mattina mi alzo dalla poltrona per andare ad ammirare l’alba dal ponte. Per me è un rito quando viaggio in traghetto: adoro guardare all’orizzonte la costa che diventa sempre più vicina, con il sottofondo dei rumori della nave e del mare. Quindi tornato all’interno, sveglio Redi che dorme come un ghiro e andiamo a fare colazione al bar poco prima dello sbarco.
 
+![Imbarco Albania](/assets/uploads/2022/01/viaggio-improvvisato-albania/01.jpg "L’imbarco per Durazzo al porto di Bari: pronti a salpare!")
+![Arrivo traghetto Albania](/assets/uploads/2022/01/viaggio-improvvisato-albania/02.jpg "Quasi arrivati in Albania")
+![Sbarco traghetto Albania](/assets/uploads/2022/01/viaggio-improvvisato-albania/03.jpg "La luce alla fine del tunnel! Sbarcati a Durazzo!")
+
 ## Prima tappa: Tirana
 
 Ci siamo! Finalmente riaccendiamo le moto e mettiamo le nostre ruote sul suolo albanese! Subito andiamo ad acquistare per pochi euro l’assicurazione stradale obbligatoria in Albania presso un chioschetto nell’area portuale e ci dirigiamo alla volta di Tirana, nostra prima tappa.
@@ -66,6 +70,10 @@ Impossibile riuscire a tornare a Valona in tempi utili per la cena; così ricari
 
 A questo punto torniamo alla base a Valona. Una doccia veloce, usciamo per una passeggiata sulla via marina. Conosciamo due ragazze e tre ragazzi, anche loro in vacanza in Albania. Una delle due ragazze lavora a Modena e parla molto bene dell’Italia. È incredibile notare quante gente dai 25 ai 40 anni parli così bene l’Italiano! L’amica di Redi conosciuta all’agriturismo a Tirana mi aveva spiegato il perché: fino alla fine della dittattura comunista di Hoxa, le televisioni trasmettevano solo i canali di propaganda del regime. Ma presto si scoprì che girando l’antenna della TV, soprattutto vicino alla costa, era possibile sintonizzarsi con i canali Rai e Mediaset. È così che i ragazzi della mia generazione sono cresciuti con i cartoni animati giapponesi, *Non è la Rai* e i quiz di Mike Bongiorno… ed è così che hanno imparato l’Italiano!
 
+![Carne agnello Albania](/assets/uploads/2022/01/viaggio-improvvisato-albania/04.jpg "La tradizionale carne di agnello")
+![Piazza Scanderberg a Tirana](/assets/uploads/2022/01/viaggio-improvvisato-albania/05.jpg "La grande piazza Scanderberg a Tirana")
+![Kalaja e Tiranës a Tirana](/assets/uploads/2022/01/viaggio-improvvisato-albania/06.jpg "L’ingresso dell’area “Kalaja e Tiranës”: al suo interno ristoranti e negozi di souvenir")
+
 ## Verso Sud: parco di Llogara e Dhermi
 
 Il mattino successivo ci rimettiamo subito in cammino, una veloce colazione, moto caricate e siamo già in viaggio, ancora in direzione Sud verso Himare. Ormai siamo entrambi diventati abbastanza esperti nel caricare i bagagli sulle moto razionalizzando gli spazi, lo potremmo fare a occhi chiusi!
@@ -88,6 +96,10 @@ Portiamo moto e bagagli in questo campeggio, pulito, illuminato e con tende molt
 
 Usciti dal ristorante passeggiata sul lungomare e ci fermiamo a bere qualcosa al Bamboo beach club che è anche quello apparentemente più frequentato. Ammiro il mare, la grande luna piena e penso di non essere poi così lontano dall’Italia e dalla città di Bari da cui sono partito. Eppure mi sento così lontano, in questo posto riparato dalle alture del parco di Llogara… Mi perdo in questi pensieri e penso «lasciatemi in questo paradiso», ma anche questa volta arriva l’ora di tornare: dobbiamo recuperare un po' di energie per il giorno dopo.
 
+![Coco Bongo Beach Club, Valona](/assets/uploads/2022/01/viaggio-improvvisato-albania/07.jpg "Puro relax al Coco Bongo Beach Club a Sud di Valona")
+![Lidi Dhermi, Albania](/assets/uploads/2022/01/viaggio-improvvisato-albania/08.jpg "La minuscola Dhermi è una perla che ti rimane impressa, con i suoi bellissimi lidi e la vivace vita serale")
+![Cena Dhermi, Albania](/assets/uploads/2022/01/viaggio-improvvisato-albania/09.jpg "Cena a Dhermi in un suggestivo ristorante con tavoli a bordo piscina")
+
 ## Meta finale: Saranda
 
 Il mattino successivo colazione a base di uova e salsiccia, un po' all’inglese, compresa nel prezzo del campeggio (10 euro senza prenotazione, compreso di tenda, servizi e colazione!) e ripartiamo. Con molto calma, ci dirigiamo verso Himare. Ci fermiamo solo per l’ora di pranzo in un ristorante di mare che ci era stato suggerito da una passante e decidiamo di rinunciare a visitare la città per proseguire verso Saranda, nostra meta finale (qualche rinuncia se si vuole viaggiare improvvisando “on the road” bisogna pur farla!).
@@ -105,3 +117,8 @@ L’ultimo giorno, non fa eccezione per quanto riguarda il caldo afoso. A metà 
 Parcheggiamo le moto sul ciglio della strada e proseguiamo a piedi, per raggiungere questa caletta, facendoci largo fra i cespugli di macchia mediterranea. Ne è valsa la pena, una sosta improvvisata come quasi tutto il reto di questa vacanza, ha saputo regalarci un mare che difficilmente dimenticherò. La trasparenza dell’acqua è sorprendente, non voglio uscire da quel mare, non voglio abbandonare questa terra e voglio che la mia estate non finisca mai… ma dobbiamo andare a prendere il traghetto di ritorno!
 
 Si sa, gli addii sono sempre difficili e l’Albania è una terra che ti conquista, a volte inaspettatamente, in quanto alcuni la considerano ancora una meta di ripiego. Ma quando la visiti ti fa innamorare per la sua semplicità, per il suo essere rimasta incontaminata dal turismo di massa e per l’accoglienza della sua gente. Magari non sarà ancora così conosciuta, ma forse è proprio per questo, per il fatto che non ci si aspetta tutta questa bellezza, che quando la visiti ti stupisce ancora di più e ti rimane dentro.
+
+
+![Ruota panoramica di Saranda, Albania](/assets/uploads/2022/01/viaggio-improvvisato-albania/10.jpg "La ruota panoramica di Saranda")
+![Baia di Saranda, Albania](/assets/uploads/2022/01/viaggio-improvvisato-albania/11.jpg "Ultima sera a Saranda, città dominata dalla sua ampia baia sulla quale si concentrano locali e ristoranti")
+![Acqua trasparente lungo la SH8, Albania](/assets/uploads/2022/01/viaggio-improvvisato-albania/12.jpg "Una sosta “obbligata” lungo la SH8 fra Himare e Dhermi: la trasparenza dell’acqua è impressionante")
