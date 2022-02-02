@@ -24,15 +24,13 @@ export default function Footer(): JSX.Element {
       >
         <div>
           <Link to="/" title="Homepage">
-            <SquareLogo
-              css={(theme) => ({ height: 180, fill: theme.palette.primary.light })}
-              alt="MotoViaggiatori.it"
-            />
+            <SquareLogo css={(theme) => ({ height: 180, fill: theme.palette.primary.light })} />
           </Link>
           <SocialIcons />
         </div>
         <Spacer />
         <nav
+          aria-label="Menù footer"
           css={(theme) => ({
             display: 'flex',
             alignItems: 'center',

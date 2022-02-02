@@ -212,6 +212,7 @@ export default function GlobalStyles(): JSX.Element {
           },
 
           picture: {
+            paddingRight: theme.spacing(1),
             position: 'relative',
             display: 'block',
 
@@ -219,17 +220,15 @@ export default function GlobalStyles(): JSX.Element {
               maxWidth: '100vw',
             },
 
-            '& + picture': {
-              marginLeft: theme.spacing(1),
+            '&:first-of-type': {
+              paddingLeft: theme.spacing(1),
             },
           },
 
           figcaption: {
             ...theme.typography.caption,
-            position: 'absolute',
+            fontSize: '.7em',
             padding: theme.spacing(1),
-            left: 0,
-            right: 0,
           },
 
           [theme.breakpoints.down('sm')]: {

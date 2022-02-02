@@ -71,11 +71,11 @@ export default function Header(): JSX.Element {
               height: theme.components.header.height - theme.spacing(2),
               fill: theme.palette.primary.light,
             })}
-            alt="MotoViaggiatori.it"
           />
         </Link>
         <Spacer />
         <nav
+          aria-label="Menù principale"
           className={mobileMenuOpen ? 'open' : undefined}
           css={(theme) => ({
             display: 'flex',
@@ -108,8 +108,8 @@ export default function Header(): JSX.Element {
             },
           })}
         >
-          <Link to="/categoria/itinerari">Itinerari</Link>
           <Link to="/categoria/viaggi">Viaggi</Link>
+          <Link to="/categoria/itinerari">Itinerari</Link>
           <Link to="/categoria/recensioni">Recensioni</Link>
           <a href="/foto" target="_blank" rel="noopener noreferrer">
             Foto
