@@ -71,7 +71,7 @@ export default function Header(): JSX.Element {
               height: theme.components.header.height - theme.spacing(2),
               fill: theme.palette.primary.light,
             })}
-            alt="MotoViaggiatori.it"
+            aria-label="MotoViaggiatori.it"
           />
         </Link>
         <Spacer />

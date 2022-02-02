@@ -26,7 +26,7 @@ export default function Footer(): JSX.Element {
           <Link to="/" title="Homepage">
             <SquareLogo
               css={(theme) => ({ height: 180, fill: theme.palette.primary.light })}
-              alt="MotoViaggiatori.it"
+              aria-label="MotoViaggiatori.it"
             />
           </Link>
           <SocialIcons />
