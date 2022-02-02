@@ -33,6 +33,7 @@ export default function Footer(): JSX.Element {
         </div>
         <Spacer />
         <nav
+          aria-label="Menù footer"
           css={(theme) => ({
             display: 'flex',
             alignItems: 'center',
