@@ -77,7 +77,7 @@ Ora sono qui in ostello e domani vado a Le Mans, dove pranzerò a pane e acqua e
 ![Una leggerezza francese: Andouillette, salsiccione di maiale da accompagnare con patate e birra…!](/assets/uploads/2022/03/roma-irlanda-in-moto/foto_3.3.jpg  "Una leggerezza francese: Andouillette, salsiccione di maiale da accompagnare con patate e birra…!")
 ![Cattedrale di Bourges alla luce del tramonto](/assets/uploads/2022/03/roma-irlanda-in-moto/foto_3.4.jpg  "Cattedrale di Bourges alla luce del tramonto")
 
-Se c'é qualcosa che la vita mi ha insegnato, è avere sempre con se i tappi per le orecchie quando si dorme fuori casa. Non è una questione di non sapere con chi dormi, anche tuo fratello può essere rumoroso come una sala macchine di un vaporetto. È per questo che non ho ucciso il tipo che avevo in camera in ostello, con i tappi sembrava di avere un treno in corridoio invece che in camera… Lasciato l'*ospizio* (ahò, il prevista giovane là dentro ero io!) parto da Bourges e parto verso Le Mans.
+Se c'é qualcosa che la vita mi ha insegnato, è avere sempre con se i tappi per le orecchie quando si dorme fuori casa. Non è una questione di non sapere con chi dormi, anche tuo fratello può essere rumoroso come una sala macchine di un vaporetto. È per questo che non ho ucciso il tipo che avevo in camera in ostello, con i tappi sembrava di avere un treno in corridoio invece che in camera… Lasciato l'*ospizio* (ahò, il più giovane là dentro ero io!) parto da Bourges e parto verso Le Mans.
 
 La Francia la domenica muore: non si può dire che si riposa, muore proprio! In 100 e passa km non trovo un distributore aperto! Arrivo a un automatico, finalmente, mi avvicino e leggo sul monitor: "prego inserire la vostra carta…" Niente banconote, solo carte! Tanto, che ve pare che nel 2012 ce sta ancora gente che non c'ha la carta?
 
@@ -103,7 +103,7 @@ Visto che ho tutta la giornata vado al mare! Seguo per il primo villaggio sulla 
 
 Altra isteria per fare il pieno, chiedo come ieri aiuto a un vecchietto che si impanica e mi dice di andare al negozio… In effetti, il negozio del distributore è attrezzato e non fa una piega, bastava solo saperlo!
 
-Vedo le indicazioni del memoriale dello sbarco in Normandia, decido di passarci davanti giusto per dare un'occhiata… e finisce che ci passo due ore! Camminare per **Omaha Beach**, sapendo quello che è successo, immginandosi come è successo, vedendo i soldati arrivare con i mezzi anfibi e i tedeschi difendersi… fa il suo effetto. Nel parcheggio vedo una paneuropa targata Portogallo: hanno vinto loro.
+Vedo le indicazioni del memoriale dello sbarco in Normandia, decido di passarci davanti giusto per dare un'occhiata… e finisce che ci passo due ore! Camminare per **Omaha Beach**, sapendo quello che è successo, immaginandosi come è successo, vedendo i soldati arrivare con i mezzi anfibi e i tedeschi difendersi… fa il suo effetto. Nel parcheggio vedo una paneuropa targata Portogallo: hanno vinto loro.
 
 Continuo sulla costa, tra acquazzoni e sole, prendo la superstrada direzione Cherbourg ma decido di uscire prima per andare a Barfleur a vedere il faro. Sbaglio strada e mi ritrovo sulla supertrada. Riesco. Risbaglio e mi ritrovo sulla supertrada di nuovo. Fanculo, vado a Cherbourg, il faro lo vedo al ritorno. Arrivo all'imbarco con 4 ore di anticipo e incontro due italiani *mukkadotati* che hanno fatto più o meno la stessa strada che ho fatto io e vanno più o meno dove vado io, ma loro hanno le mogli che li aspettano già lì.
 
@@ -163,7 +163,7 @@ Torniamo a casa, stiamo ancora un po’ a cazzeggiare poi tutti a nanna, io pers
 
 ## Nebbia e panorami
 
-Parto di buon'ora, la moto è ancora là, oggi ci sarà da fare parecchia strada quindi ho una certa fretta. infatti sbaglio strada 8000 volte con il navigatore che mi stava per dire «ma se non me dai retta che m'hai comprato a fa?», e in effetti seguendo i suoi saggi consigli imbocco la strada giusta.
+Parto di buon'ora, la moto è ancora là, oggi ci sarà da fare parecchia strada quindi ho una certa fretta. Infatti sbaglio strada 8000 volte con il navigatore che mi stava per dire «ma se non me dai retta che m'hai comprato a fa?», e in effetti seguendo i suoi saggi consigli imbocco la strada giusta.
 
 Percorro tutta la strada costiera fino a Baltimore, senza avere particolari brividi lungo la schiena. Mi avevano detto che la strada lungo la costa era la più bella… boh, che ve devo dì, magari dopo migliora…
 
@@ -240,7 +240,7 @@ PS: chiaramente le mutande non si sono asciugate. Le ho messe bagnate nella bust
 ![Basta una spiaggia e fa subito estate… o no?](/assets/uploads/2022/03/roma-irlanda-in-moto/foto_10.1.jpg  "Basta una spiaggia e fa subito estate… o no?")
 ![I paesaggi che volevo!](/assets/uploads/2022/03/roma-irlanda-in-moto/foto_10.2.jpg  "I paesaggi che volevo!")
 ![Piccoli villaggi di pescatori](/assets/uploads/2022/03/roma-irlanda-in-moto/foto_10.3.jpg  "Piccoli villaggi di pescatori")
-![A Malin Head si può osservare la scritta EIRE scritta con le pietre](/assets/uploads/2022/03/roma-irlanda-in-moto/foto_10.4.jpg  "A Malin Head si può osservare la scritta EIRE scritta con le pietre")
+![A Malin Head si può osservare "EIRE" scritto con le pietre](/assets/uploads/2022/03/roma-irlanda-in-moto/foto_10.4.jpg  "A Malin Head si può osservare “EIRE” scritto con le pietre")
 ![Cittadina dove passerò la notte… di cui ho dimenticato il nome](/assets/uploads/2022/03/roma-irlanda-in-moto/foto_10.5.jpg  "Cittadina dove passerò la notte… di cui ho dimenticato il nome")
 ![Resti di una costruzione risalente a migliaia di anni fa](/assets/uploads/2022/03/roma-irlanda-in-moto/foto_10.6.jpg  "Resti di una costruzione risalente a migliaia di anni fa")
 
@@ -296,11 +296,11 @@ Il centro di **Dublino** è movimentatissimo la sera, un casino di gente a bere 
 ![Dubbia rappresentazione artistica](/assets/uploads/2022/03/roma-irlanda-in-moto/foto_12.3.jpg  "Dubbia rappresentazione artistica")
 ![IL pub di Dublino: The Auld Dubliner](/assets/uploads/2022/03/roma-irlanda-in-moto/foto_12.4.jpg  "IL pub di Dublino: The Auld Dubliner")
 
-Giorno senza moto, visita di Dublino. Doccia fredda, non c'è l'acqua calda, scendo e lo dico al tipo. Fortunatamente scopro che è possibile far lavare i panni, quandi lascio il bustone della roba infetta che mi porto dietro da giorni… stasera indosserò vestiti piliti! Vado subito a visitare la **biblioteca del Trinity College**, davvero spettacolare e costosa. Ma tanto qui tutto costa caro, quindi…
+Giorno senza moto, visita di Dublino. Doccia fredda, non c'è l'acqua calda, scendo e lo dico al tipo. Fortunatamente scopro che è possibile far lavare i panni, quandi lascio il bustone della roba infetta che mi porto dietro da giorni… stasera indosserò vestiti puliti! Vado subito a visitare la **biblioteca del Trinity College**, davvero spettacolare e costosa. Ma tanto qui tutto costa caro, quindi…
 
 Dalla City Hall parte un *free tour* e per le seguenti tre ore mi seguo un ottimo giro con tanto di guida simpaticissima e molto preparata che ci spiega un po’ la storia della città. Finito con il tour, visito la **Storehouse Guinness**. L'ingresso costa ben 16 euro ma va fatta, se come me adorate la Guinness è come andare alla mecca! Magicamente sopravvivo allo store, compro solo una maglietta, un paio di calzettoni, il pallone da rugby, gli asciugamani per la cucina… e basta, solo perché sto in moto!
 
-Incontro un'amica di una mia amica che vive qui e prevista prendiamo da bere in un bar con tavoli fuori, mi dice che oggi è il **nono giorno di sole dall'inizio dell'anno**! Ma come fanno a vivere in un posto del genere? Poi lei ritorna a lavoro e io continuo il giro della città.
+Incontro un'amica di una mia amica che vive qui e ci prendiamo da bere in un bar con tavoli fuori, mi dice che oggi è il **nono giorno di sole dall'inizio dell'anno**! Ma come fanno a vivere in un posto del genere? Poi lei ritorna a lavoro e io continuo il giro della città.
 
 Mi fermo a mangiare in un ristorante e faccio conoscenza con un gruppo di signori australiani, in giro per Irlanda e UK. Buon cibo e ottima compagnia, ci salutiamo alla fine della cena e vado a farmi un *irish coffee*, mai provato, lo devo prendere. Non mi fa impazzire, torno in ostello, sistemo la roba pulita in borsa, vado a letto. Ormai sono pronto per il rientro.
 
