@@ -1,4 +1,4 @@
 ---
-path: cile
+slug: cile
 title: Cile
 ---

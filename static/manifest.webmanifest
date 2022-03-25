@@ -1,0 +1,15 @@
+{
+  "name": "MotoViaggiatori",
+  "short_name": "MotoViaggiatori",
+  "start_url": "/",
+  "background_color": "#45526c",
+  "theme_color": "#45526c",
+  "display": "minimal-ui",
+  "icons": [
+    {
+      "src": "/icons/motoviaggiatori_apple_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

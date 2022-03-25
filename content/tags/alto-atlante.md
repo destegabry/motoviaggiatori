@@ -1,4 +1,4 @@
 ---
-path: alto-atlante
+slug: alto-atlante
 title: Alto Atlante
 ---

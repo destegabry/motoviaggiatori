@@ -1,4 +1,4 @@
 ---
-path: lazio
+slug: lazio
 title: Lazio
 ---

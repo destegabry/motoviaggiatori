@@ -1,5 +1,6 @@
 ---
 title: Francia
-path: itinerari/francia
+slug: itinerari/francia
 ---
+
 Itinerari percorsi in prima persona in Francia

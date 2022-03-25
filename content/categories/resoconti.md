@@ -1,4 +1,4 @@
 ---
 title: Resoconti
-path: resoconti
+slug: resoconti
 ---

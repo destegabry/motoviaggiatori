@@ -1,0 +1,153 @@
+---
+import { Icon } from "astro-icon";
+---
+
+<header>
+  <div class="wrapper">
+    <a class="logo" href="/" title="Home Page">
+      <Icon name="logo-landscape" />
+    </a>
+    <div class="spacer"></div>
+    <nav aria-label="Menù principale">
+      <ul>
+        <li>
+          <a href="/categoria/viaggi"> Viaggi </a>
+        </li>
+        <li>
+          <a href="/categoria/itinerari"> Itinerari </a>
+        </li>
+        <li>
+          <a href="/categoria/recensioni"> Recensioni </a>
+        </li>
+        <li>
+          <a href="/foto" target="_blank" rel="noopener noreferrer"> Foto </a>
+        </li>
+        <li>
+          <a href="/categoria/video"> Video </a>
+        </li>
+        <li>
+          <a href="/autori"> Autori </a>
+        </li>
+      </ul>
+    </nav>
+    <button class="search-open" aria-label="Apri ricerca">
+      <Icon name="ic:round-search" />
+    </button>
+    <button class="toggle-menu toggle-menu--open" aria-label="Apri menù">
+      <Icon name="ic:outline-menu" />
+    </button>
+    <button class="toggle-menu toggle-menu--close" aria-label="Chiudi menù">
+      <Icon name="ic:outline-close" />
+    </button>
+  </div>
+</header>
+<script hoist type="module">
+  function openSearch() {
+    document.getElementById("search-wrapper").classList.add("open");
+    document.querySelector("body").classList.add("locked");
+    document.querySelector("#search-box input").focus();
+  }
+
+  function openMenu() {
+    document.querySelector("body > header").classList.add("nav-open");
+    document.querySelector("body").classList.add("locked");
+    setTimeout(function () {
+      document.addEventListener("click", closeMenu, { once: true });
+    });
+  }
+
+  function closeMenu() {
+    document.querySelector("body > header").classList.remove("nav-open");
+    document.querySelector("body").classList.remove("locked");
+  }
+
+  document.querySelector(".search-open").addEventListener("click", openSearch);
+  document
+    .querySelector(".toggle-menu--open")
+    .addEventListener("click", openMenu);
+  document
+    .querySelector(".toggle-menu--close")
+    .addEventListener("click", closeMenu);
+</script>
+
+<style>
+  header {
+    position: fixed;
+    inset-block-start: 0;
+    width: 100vw;
+    z-index: var(--component-header-zIndex);
+  }
+
+  .wrapper {
+    height: var(--component-header-height);
+    display: flex;
+    align-items: stretch;
+  }
+
+  .logo {
+    padding: 0.5rem 0;
+    color: var(--color-primary-light);
+  }
+
+  ul {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+  }
+
+  li {
+    padding-inline: var(--space-xs);
+  }
+
+  .toggle-menu {
+    display: none;
+  }
+
+  @media screen and (max-width: 900px) {
+    nav {
+      background: var(--color-secondary-main);
+      position: fixed;
+      inset-block-start: var(--component-header-height);
+      inset-inline-end: -100vw;
+      height: 100%;
+      min-width: 40%;
+      z-index: var(--component-header-zIndex);
+      transition: right var(--transition-duration-main);
+    }
+
+    ul {
+      flex-direction: column;
+      align-items: stretch;
+    }
+
+    li {
+      border-block-start: 1px solid var(--color-secondary-light);
+    }
+
+    a {
+      display: block;
+      padding: var(--space-s) var(--space-m);
+    }
+
+    .toggle-menu--open {
+      display: block;
+    }
+
+    .toggle-menu--close {
+      display: none;
+    }
+
+    .nav-open nav {
+      inset-inline-end: 0;
+    }
+
+    .nav-open .toggle-menu--open {
+      display: none;
+    }
+
+    .nav-open .toggle-menu--close {
+      display: block;
+    }
+  }
+</style>

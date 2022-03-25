@@ -1,0 +1,153 @@
+---
+import { Icon } from "astro-icon";
+import { version, repository } from "../../package.json";
+---
+
+<footer>
+  <div class="wrapper data">
+    <div class="logo-wrapper">
+      <a class="logo" href="/" title="Home Page">
+        <Icon name="logo-square" class="logo" />
+      </a>
+      <nav aria-label="Menù social" class="social-wrapper">
+        <ul>
+          <li>
+            <a href="mailto:info@motoviaggiatori.it" title="Email">
+              <Icon name="ic:baseline-alternate-email" />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://facebook.com/motoviaggiatori"
+              title="Facebook"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Icon name="fa-brands:facebook-square" />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://instagram.com/motoviaggiatori"
+              title="Instagram"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Icon name="fa-brands:instagram-square" />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.youtube.com/channel/UCTa8R7tJ7GDWTVKh0CF9w2w"
+              title="YouTube"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Icon name="fa-brands:youtube-square" />
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div class="spacer"></div>
+    <nav aria-label="Menù footer" id="footer-menu">
+      <ul>
+        <li>
+          <a href="/categoria/viaggi"> Viaggi </a>
+        </li>
+        <li>
+          <a href="/categoria/itinerari"> Itinerari </a>
+        </li>
+        <li>
+          <a href="/categoria/recensioni"> Recensioni </a>
+        </li>
+        <li>
+          <a href="/categoria/video"> Video </a>
+        </li>
+        <li>
+          <a href="/archivi"> Archivi </a>
+        </li>
+        <li>
+          <a href="/autori"> Autori </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+  <div class="wrapper credits">
+    <span>
+      ©{new Date().getFullYear()}
+      <span item-prop="name">MotoViaggiatori.it</span>
+    </span>
+    <span>
+      <a href={repository.url} target="_blank" rel="noopener noreferrer">
+        v{version}
+      </a>
+    </span>
+    <span>
+      Powered by
+      <a
+        href="https://www.topsolution.it"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Top Solution
+      </a>
+    </span>
+    <span>
+      <a href="/privacy-policy"> Privacy Policy </a>
+    </span>
+  </div>
+</footer>
+
+<style>
+  .wrapper {
+    padding-block: var(--space-s);
+  }
+
+  .data {
+    display: flex;
+    align-items: center;
+  }
+
+  @media screen and (max-width: 960px) {
+    .data {
+      flex-direction: column;
+    }
+  }
+
+  .logo-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .logo {
+    height: 180px;
+    fill: var(--color-primary-light);
+    margin-bottom: var(--space-s);
+  }
+
+  ul {
+    display: flex;
+    flex-flow: row wrap;
+    text-transform: uppercase;
+    justify-content: center;
+  }
+
+  li {
+    padding: var(--space-xs) var(--space-s);
+  }
+
+  .social-wrapper svg {
+    height: var(--space-l);
+  }
+
+  .credits {
+    font-size: var(--font-size--1);
+    text-align: center;
+  }
+
+  .credits > span + span::before {
+    content: " / ";
+  }
+</style>

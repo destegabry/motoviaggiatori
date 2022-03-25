@@ -1,4 +1,4 @@
 ---
-path: carpazi
+slug: carpazi
 title: Carpazi
 ---

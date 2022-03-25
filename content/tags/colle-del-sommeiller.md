@@ -1,4 +1,4 @@
 ---
-path: colle-del-sommeiller
+slug: colle-del-sommeiller
 title: Colle del Sommeiller
 ---

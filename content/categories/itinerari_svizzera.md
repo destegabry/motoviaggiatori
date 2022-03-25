@@ -1,5 +1,6 @@
 ---
 title: Svizzera
-path: itinerari/svizzera
+slug: itinerari/svizzera
 ---
+
 Itinerari percorsi in prima persona in Svizzera

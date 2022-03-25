@@ -1,5 +1,6 @@
 ---
 title: Turchia
-path: viaggi/turchia
+slug: viaggi/turchia
 ---
+
 Articoli e racconti sul nostro viaggio in Turchia

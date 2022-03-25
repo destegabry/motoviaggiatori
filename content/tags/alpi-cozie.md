@@ -1,4 +1,4 @@
 ---
-path: alpi-cozie
+slug: alpi-cozie
 title: Alpi Cozie
 ---

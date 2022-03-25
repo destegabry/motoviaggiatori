@@ -1,0 +1,30 @@
+---
+import PageMeta from "../components/PageMeta.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import Search from "../components/Search.astro";
+
+interface BaseLayoutProps {
+  title?: string;
+  description?: string;
+  language?: string;
+  previewImage?: string;
+}
+
+const { SITE_LANGUAGE } = import.meta.env;
+const { title, description, language, previewImage, ...mainProps } = Astro.props as BaseLayoutProps;
+---
+
+<html lang={language ?? SITE_LANGUAGE}>
+  <head>
+    <PageMeta title={title} description={description} previewImage={previewImage} />
+  </head>
+  <body item-scope item-type="https://schema.org/Blog">
+    <Header />
+    <main class="wrapper" {...mainProps}>
+      <slot />
+    </main>
+    <Footer />
+    <Search />
+  </body>
+</html>

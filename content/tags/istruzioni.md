@@ -1,4 +1,4 @@
 ---
-path: istruzioni
+slug: istruzioni
 title: Istruzioni
 ---

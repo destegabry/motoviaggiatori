@@ -1,4 +1,4 @@
 ---
-path: dune
+slug: dune
 title: Dune
 ---

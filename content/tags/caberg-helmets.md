@@ -1,4 +1,4 @@
 ---
-path: caberg-helmets
+slug: caberg-helmets
 title: Caberg Helmets
 ---

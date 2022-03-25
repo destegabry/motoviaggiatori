@@ -1,4 +1,4 @@
 ---
-path: montenegro
+slug: montenegro
 title: Montenegro
 ---

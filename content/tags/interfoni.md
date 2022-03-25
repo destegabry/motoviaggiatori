@@ -1,4 +1,4 @@
 ---
-path: interfoni
+slug: interfoni
 title: Interfoni
 ---

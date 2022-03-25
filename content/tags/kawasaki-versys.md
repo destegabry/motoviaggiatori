@@ -1,4 +1,4 @@
 ---
-path: kawasaki-versys
+slug: kawasaki-versys
 title: Kawasaki Versys
 ---

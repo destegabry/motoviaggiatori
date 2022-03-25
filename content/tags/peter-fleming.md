@@ -1,4 +1,4 @@
 ---
-path: peter-fleming
+slug: peter-fleming
 title: Peter Fleming
 ---

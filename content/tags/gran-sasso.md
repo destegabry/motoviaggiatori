@@ -1,4 +1,4 @@
 ---
-path: gran-sasso
+slug: gran-sasso
 title: Gran Sasso
 ---

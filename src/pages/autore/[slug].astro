@@ -1,0 +1,41 @@
+---
+import { Markdown } from "astro/components";
+import { Author } from "../../entities/Author";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PostList from "../../components/PostList.astro";
+
+export async function getStaticPaths() {
+  const allAuthors = await Astro.fetchContent<Author>(
+    "../../../content/authors/*.md"
+  );
+
+  const paths = [];
+  allAuthors.forEach((author) => {
+    paths.push({
+      params: { slug: author.slug },
+      props: author,
+    });
+  });
+  return paths;
+}
+
+const { title, slug, content, avatar, links} = Astro.props as Author;
+---
+<BaseLayout title={title} previewImage={avatar} item-scope item-type="http://schema.org/Person">
+  <h1 item-prop="name">{title}</h1>
+  { links && (
+    <ul>
+      { links.map(({ url, title }) => (
+        <li>
+          <a href={url} item-prop="sameAs" target="_blank" rel="noopener noreferrer">
+            {title ?? url}
+          </a>
+        </li>
+      ))}
+    </ul>
+  )}
+  <div item-prop="description">
+    <Markdown content={content.source} />
+  </div>
+  <PostList filter={{ author: slug }} />
+</BaseLayout>

@@ -1,4 +1,4 @@
 ---
-path: caberg-levo
+slug: caberg-levo
 title: Caberg Levo
 ---

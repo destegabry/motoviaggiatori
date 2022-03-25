@@ -1,4 +1,4 @@
 ---
-path: made-in-italy
+slug: made-in-italy
 title: Made in Italy
 ---

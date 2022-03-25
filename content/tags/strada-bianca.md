@@ -1,4 +1,4 @@
 ---
-path: strada-bianca
+slug: strada-bianca
 title: Strada Bianca
 ---

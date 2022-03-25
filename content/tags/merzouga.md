@@ -1,4 +1,4 @@
 ---
-path: merzouga
+slug: merzouga
 title: Merzouga
 ---

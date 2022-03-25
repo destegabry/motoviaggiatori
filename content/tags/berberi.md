@@ -1,4 +1,4 @@
 ---
-path: berberi
+slug: berberi
 title: Berberi
 ---

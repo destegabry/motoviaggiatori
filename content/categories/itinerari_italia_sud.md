@@ -1,5 +1,6 @@
 ---
 title: Sud
-path: itinerari/italia/sud
+slug: itinerari/italia/sud
 ---
+
 Itinerari percorsi nel Mezzogiorno d'Italia

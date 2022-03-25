@@ -1,4 +1,4 @@
 ---
 title: Protezione moto
-path: recensioni/protezione-moto
+slug: recensioni/protezione-moto
 ---

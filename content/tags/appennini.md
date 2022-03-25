@@ -1,4 +1,4 @@
 ---
-path: appennini
+slug: appennini
 title: Appennini
 ---

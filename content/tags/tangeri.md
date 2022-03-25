@@ -1,4 +1,4 @@
 ---
-path: tangeri
+slug: tangeri
 title: Tangeri
 ---

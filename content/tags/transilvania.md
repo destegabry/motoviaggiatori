@@ -1,4 +1,4 @@
 ---
-path: transilvania
+slug: transilvania
 title: Transilvania
 ---

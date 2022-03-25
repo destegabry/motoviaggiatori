@@ -1,4 +1,4 @@
 ---
-path: l-aquila
+slug: l-aquila
 title: L'Aquila
 ---

@@ -1,4 +1,4 @@
 ---
-path: turismo
+slug: turismo
 title: Tursimo
 ---

@@ -1,4 +1,4 @@
 ---
-path: heavy-duties
+slug: heavy-duties
 title: Heavy Duties
 ---

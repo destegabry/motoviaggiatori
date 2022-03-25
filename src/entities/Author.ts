@@ -1,12 +1,12 @@
-import { CmsFrontmatterData } from './CmsFrontmatterData';
+import { MarkdownData } from "./Markdown";
 
-export type Author = {
-  html?: string;
-  frontmatter: CmsFrontmatterData & {
-    avatar?: string;
-    links?: Array<{
-      title?: string;
-      url: string;
-    }>;
-  };
-};
+interface AuthorLink {
+  url: string;
+  title?: string;
+}
+
+export interface Author extends MarkdownData {
+  slug: string;
+  avatar: string;
+  links?: AuthorLink[];
+}

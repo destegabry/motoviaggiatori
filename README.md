@@ -1,81 +1,54 @@
-# MotoViaggiatori.it
+# Astro Starter Kit: Blog
 
-Gastby + Netlify CMS powered blog.
-
-## 🧰 Requirements
-
-- [Node.js](https://nodejs.org/en/)
-- [Git](https://git-scm.com)
-- [Git LFS](https://git-lfs.github.com)
-- [Gatsby CLI](https://www.gatsbyjs.com/docs/reference/gatsby-cli/)
-- [Netlify CLI](https://docs.netlify.com/cli/get-started/)
-
-On MacOS with Homebrew:
-
-```shell
-brew install node git git-lfs
-npm install -g gatsby-cli
-npm install -g netlify-cli
+```
+npm init astro -- --template blog
 ```
 
-You may need to update global and system git config:
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
 
-```shell
-git lfs install
-git lfs install --system
+> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+
+Features:
+
+- ✅ SEO-friendly setup with canonical URLs and OpenGraph data
+- ✅ Full Markdown support
+- ✅ RSS 2.0 generation
+- ✅ Sitemap.xml generation
+
+## 🚀 Project Structure
+
+Inside of your Astro project, you'll see the following folders and files:
+
+```
+/
+├── public/
+│   ├── robots.txt
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   └── Tour.astro
+│   └── pages/
+│       └── index.astro
+└── package.json
 ```
 
-Configure Netlify Large Media & Credentials Helper:
+Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
-```shell
-brew tap netlify/git-credential-netlify
-brew install git-credential-netlify
-netlify login
-netlify lm:info
-```
+There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
-## 🚀 Quick start
+Any static assets, like images, can be placed in the `public/` directory.
 
-Clone this repository, then run:
+## 🧞 Commands
 
-```shell
-cd motoviaggiatori/
-cp .env.example .env
-npm install
-gatsby develop
-```
+All commands are run from the root of the project, from a terminal:
 
-Adjust `.env` with the correct values.
+| Command           | Action                                       |
+| :---------------- | :------------------------------------------- |
+| `npm install`     | Installs dependencies                        |
+| `npm run dev`     | Starts local dev server at `localhost:3000`  |
+| `npm run build`   | Build your production site to `./dist/`      |
+| `npm run preview` | Preview your build locally, before deploying |
 
-## 🛠️ Development
+## 👀 Want to learn more?
 
-Open [http://localhost:8000/](http://localhost:8000/) in your favorite browser to see a live reloading preview of the website.
-
-Head to [http://localhost:8000/___graphql](http://localhost:8000/___graphql) to open the GraphiQL data explorer.
-
-## ⌨️ Edit content
-
-Edit website content in the Netlify CMS UI on [http://localhost:8000/admin/](http://localhost:8000/admin/).
-
-On first login you will have to provide the site's URL: `https://motoviaggiatori.it`.
-
-The auth callback will redirect to the production website, copy the url and replace the production url with `http://localhost:8000/admin/` leaving everything after the `#` untouched.`
-
-## 💫 Deploy
-
-Open a merge request to trigger Netlify preview deploy.
-
-Merging on `master` branch will trigger a production deploy.
-
-## Batch resize images with Imagemagick
-
-**Be careful**, the following command will reduce pixel size and apply lossy compression.
-Be sure to keep a backup of the orginal files and double check what you're about to do!
-
-**Warning: whis could increase file size on already optimized images!**
-Don't run it recursevly on the whole asset folder, but just on the files you're about to add.
-
-```bash
-cd path/to/folder
-find . -name "*.jp*g" -type f -exec mogrify -quality 80%  -resize 1920x1920\> {} \;
-```
+Feel free to check [our documentation](https://github.com/withastro/astro) or jump into our [Discord server](https://astro.build/chat).

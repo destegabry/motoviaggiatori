@@ -1,4 +1,4 @@
 ---
-path: quadlock
+slug: quadlock
 title: QuadLock
 ---

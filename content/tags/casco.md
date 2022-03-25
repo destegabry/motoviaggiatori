@@ -1,4 +1,4 @@
 ---
-path: casco
+slug: casco
 title: Casco
 ---

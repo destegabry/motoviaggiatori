@@ -1,4 +1,4 @@
 ---
-path: strada-del-sommeiller
+slug: strada-del-sommeiller
 title: Strada del Sommeiller
 ---

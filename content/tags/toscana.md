@@ -1,4 +1,4 @@
 ---
-path: toscana
+slug: toscana
 title: Toscana
 ---

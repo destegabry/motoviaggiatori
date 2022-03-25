@@ -1,4 +1,4 @@
 ---
-path: borse-laterali
+slug: borse-laterali
 title: Borse laterali
 ---

@@ -1,4 +1,4 @@
 ---
-path: campania
+slug: campania
 title: Campania
 ---

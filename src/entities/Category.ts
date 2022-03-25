@@ -1,9 +1,5 @@
-import { CmsFrontmatterData } from './CmsFrontmatterData';
+import { MarkdownData } from "./Markdown";
 
-export type Category = {
-  html?: string;
-  frontmatter: CmsFrontmatterData;
-  fields?: {
-    disclaimer_html?: string;
-  };
-};
+export interface Category extends MarkdownData {
+  slug: string;
+}

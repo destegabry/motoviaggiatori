@@ -1,4 +1,4 @@
 ---
-path: molise
+slug: molise
 title: Molise
 ---

@@ -1,0 +1,96 @@
+---
+import { Markdown } from "astro/components";
+import { Post, MarkdownPost } from "../../../entities/Post";
+import { Author } from "../../../entities/Author";
+import { Category } from "../../../entities/Category";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import PostMeta from "../../../components/PostMeta.astro";
+
+export async function getStaticPaths({ rss }) {
+  const allPosts = await Astro.fetchContent<MarkdownPost>(
+    "../../../../content/posts/*.md"
+  );
+  const allAuthors = await Astro.fetchContent<Author>(
+    "../../../../content/authors/*.md"
+  );
+  const allCategories = await Astro.fetchContent<Category>(
+    "../../../../content/categories/*.md"
+  );
+
+  const postRegExp = new RegExp("/([0-9]{4})/([0-9]{2})/(.+)");
+
+  const authorsBySlug = allAuthors.reduce(
+    (authorsBySlug, author) => authorsBySlug.set(author.slug, author),
+    new Map<string, Author>()
+  );
+
+  const categoriesBySlug = allCategories.reduce(
+    (categoriesBySlug, category) =>
+      categoriesBySlug.set(category.slug, category),
+    new Map<string, Category>()
+  );
+
+  rss({
+    title: import.meta.env.SITE_NAME,
+    description: import.meta.env.SITE_DESCRIPTION,
+    customData: `
+      <language>${import.meta.env.SITE_LANGUAGE}</language>
+      <image>
+        <url>${Astro.site}/favicon-32x32.png</url>
+        <title>${import.meta.env.SITE_NAME}</title>
+        <link>${Astro.site}</link>
+        <width>32</width>
+        <height>32</height>
+      </image>
+    `,
+    items: allPosts
+      .sort((a, b) => Date.parse(b.date) - Date.parse(a.date))
+      .map((post) => ({
+        title: post.title,
+        description: post.excerpt,
+        link: `${Astro.site}${post.permalink}`,
+        pubDate: post.date,
+        customData: [
+          `<dc:creator>${authorsBySlug.get(post.author).title}</dc:creator>`,
+          ...post.categories.map((category) =>`<category>${categoriesBySlug.get(category).title}</category>`)
+        ].join('')
+      })),
+  });
+
+  const paths = [];
+  allPosts.forEach((post) => {
+    const match = postRegExp.exec(post.permalink);
+    if (match) {
+      const [_, year, month, slug] = match;
+      paths.push({
+        params: { year, month, slug },
+        props: {
+          ...post,
+          author: authorsBySlug.get(post.author),
+          categories: post.categories.map((category) =>
+            categoriesBySlug.get(category)
+          ),
+        },
+      });
+    }
+  });
+  return paths;
+}
+
+const {
+  title,
+  language,
+  featured_image,
+  excerpt,
+  date,
+  author,
+  categories,
+  content
+} = Astro.props as Post;
+---
+
+<BaseLayout title={title} description={excerpt} language{language} previewImage={featured_image}>
+  <h1>{title}</h1>
+  <PostMeta author={author} date={date} categories={categories} />
+  <Markdown content={content.source} />
+</BaseLayout>

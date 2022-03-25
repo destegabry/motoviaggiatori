@@ -1,4 +1,4 @@
 ---
-path: erg-chebbi
+slug: erg-chebbi
 title: Erg Chebbi
 ---

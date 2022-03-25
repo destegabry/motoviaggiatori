@@ -1,4 +1,4 @@
 ---
 title: Video
-path: video
+slug: video
 ---

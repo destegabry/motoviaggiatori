@@ -1,5 +1,6 @@
 ---
 title: Romania
-path: viaggi/romania
+slug: viaggi/romania
 ---
+
 Articoli e racconti sul nostro viaggio in Romania

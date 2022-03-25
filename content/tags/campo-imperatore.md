@@ -1,4 +1,4 @@
 ---
-path: campo-imperatore
+slug: campo-imperatore
 title: Campo Imperatore
 ---

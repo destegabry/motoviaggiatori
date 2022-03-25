@@ -1,4 +1,4 @@
 ---
-path: protezione
+slug: protezione
 title: Protezione
 ---

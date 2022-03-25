@@ -1,4 +1,4 @@
 ---
-path: abruzzo
+slug: abruzzo
 title: Abruzzo
 ---

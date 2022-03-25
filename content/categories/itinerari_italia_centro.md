@@ -1,5 +1,6 @@
 ---
 title: Centro
-path: itinerari/italia/centro
+slug: itinerari/italia/centro
 ---
+
 Itinerari percorsi nel Centro Italia

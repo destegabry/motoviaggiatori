@@ -1,4 +1,4 @@
 ---
-path: appenninata
+slug: appenninata
 title: Appenninata
 ---

@@ -1,4 +1,4 @@
 ---
-path: sud-america
+slug: sud-america
 title: Sud America
 ---

@@ -1,4 +1,4 @@
 ---
-path: montagna
+slug: montagna
 title: Montagna
 ---

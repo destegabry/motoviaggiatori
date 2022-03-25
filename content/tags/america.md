@@ -1,4 +1,4 @@
 ---
-path: america
+slug: america
 title: America
 ---

@@ -1,4 +1,4 @@
 ---
 title: Gadget
-path: recensioni/gadget
+slug: recensioni/gadget
 ---

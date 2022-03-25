@@ -1,4 +1,4 @@
 ---
-path: sabbia
+slug: sabbia
 title: Sabbia
 ---

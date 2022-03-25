@@ -1,5 +1,6 @@
 ---
 title: Italia
-path: itinerari/italia
+slug: itinerari/italia
 ---
+
 Itinerari percorsi in prima persona in Italia

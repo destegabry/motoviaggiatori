@@ -1,4 +1,4 @@
 ---
-path: colle-delle-finestre
+slug: colle-delle-finestre
 title: Colle delle Finestre
 ---

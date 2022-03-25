@@ -1,4 +1,4 @@
 ---
-path: borse-moto
+slug: borse-moto
 title: Borse moto
 ---

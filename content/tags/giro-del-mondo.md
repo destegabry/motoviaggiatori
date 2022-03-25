@@ -1,4 +1,4 @@
 ---
-path: giro-del-mondo
+slug: giro-del-mondo
 title: Giro del mondo
 ---

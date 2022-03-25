@@ -1,4 +1,4 @@
 ---
-path: ifrane
+slug: ifrane
 title: Ifrane
 ---

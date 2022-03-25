@@ -1,4 +1,4 @@
 ---
-path: sony-rx100
+slug: sony-rx100
 title: Sony RX100
 ---

@@ -1,4 +1,4 @@
 ---
-path: paraguay
+slug: paraguay
 title: Paraguay
 ---

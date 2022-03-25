@@ -1,4 +1,4 @@
 ---
-path: alta-langa
+slug: alta-langa
 title: Alta Langa
 ---

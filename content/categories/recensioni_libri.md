@@ -1,4 +1,4 @@
 ---
 title: Libri
-path: recensioni/libri
+slug: recensioni/libri
 ---

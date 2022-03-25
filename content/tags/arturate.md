@@ -1,4 +1,4 @@
 ---
-path: arturate
+slug: arturate
 title: Arturate
 ---

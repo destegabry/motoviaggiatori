@@ -1,4 +1,4 @@
 ---
-path: beneficienza
+slug: beneficienza
 title: Beneficienza
 ---

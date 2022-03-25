@@ -1,4 +1,4 @@
 ---
-path: dakar
+slug: dakar
 title: Dakar
 ---

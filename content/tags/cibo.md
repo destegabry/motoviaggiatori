@@ -1,4 +1,4 @@
 ---
-path: cibo
+slug: cibo
 title: Cibo
 ---

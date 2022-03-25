@@ -1,4 +1,4 @@
 ---
-path: moto-taccuino
+slug: moto-taccuino
 title: Moto Taccuino
 ---

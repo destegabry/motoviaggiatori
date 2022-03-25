@@ -1,4 +1,4 @@
 ---
-path: burocrazia
+slug: burocrazia
 title: Burocrazia
 ---

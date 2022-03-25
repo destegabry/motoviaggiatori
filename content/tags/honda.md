@@ -1,4 +1,4 @@
 ---
-path: honda
+slug: honda
 title: Honda
 ---

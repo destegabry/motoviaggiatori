@@ -1,4 +1,4 @@
 ---
-path: transalp
+slug: transalp
 title: Transalp
 ---

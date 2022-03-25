@@ -1,4 +1,4 @@
 ---
-path: uruguay
+slug: uruguay
 title: Uruguay
 ---

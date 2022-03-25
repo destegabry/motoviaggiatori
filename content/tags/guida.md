@@ -1,4 +1,4 @@
 ---
-path: guida
+slug: guida
 title: Guida
 ---

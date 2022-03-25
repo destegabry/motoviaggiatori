@@ -1,5 +1,5 @@
 ---
-path: andrea
+slug: andrea
 title: Andrea
 avatar: /assets/authors/andrea.jpg
 links:

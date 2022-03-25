@@ -1,4 +1,4 @@
 ---
-path: xiaomi-yi
+slug: xiaomi-yi
 title: Xiaomi Yi
 ---

@@ -1,0 +1,44 @@
+---
+import { Post, MarkdownPost } from "../entities/Post";
+import { Author } from "../entities/Author";
+import { Category } from "../entities/Category";
+
+interface PostListProps {
+  filter: {
+    author?: string;
+    category?: string;
+    tag?: string;
+  },
+  offset?: number;
+  limit?: number;
+}
+
+const { filter, limit } = Astro.props as PostListProps;
+const offset = Astro.props.offset ?? 0;
+
+const allPosts = await Astro.fetchContent<MarkdownPost>(
+  "../../content/posts/*.md"
+);
+const allAuthors = await Astro.fetchContent<Author>(
+  "../../content/authors/*.md"
+);
+const allCategories = await Astro.fetchContent<Category>(
+  "../../content/categories/*.md"
+);
+
+const filteredPosts = filter ? allPosts.filter((post) => {
+  return (
+    (!filter.author || post.author === filter.author) &&
+    (!filter.category || post.categories.indexOf(filter.category) > -1) &&
+    (!filter.tag || post.tags.indexOf(filter.tag) > -1)
+  );
+}) : allPosts;
+
+filteredPosts.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
+
+const postList = limit ? filteredPosts.slice(offset, offset + limit) : filteredPosts;
+---
+
+<ul>
+  {postList.map(({title, permalink}) => <li><a href={permalink}>{title}</a></li>)}
+</ul>

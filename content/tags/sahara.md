@@ -1,4 +1,4 @@
 ---
-path: sahara
+slug: sahara
 title: Sahara
 ---

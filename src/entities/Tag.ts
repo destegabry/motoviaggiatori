@@ -1,6 +1,5 @@
-import { CmsFrontmatterData } from './CmsFrontmatterData';
+import { MarkdownData } from "./Markdown";
 
-export type Tag = {
-  html?: string;
-  frontmatter: CmsFrontmatterData;
-};
+export interface Tag extends MarkdownData {
+  slug: string;
+}

@@ -1,4 +1,4 @@
 ---
-path: borse-alluminio
+slug: borse-alluminio
 title: Borse alluminio
 ---

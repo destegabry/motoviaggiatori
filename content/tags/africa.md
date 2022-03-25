@@ -1,4 +1,4 @@
 ---
-path: africa
+slug: africa
 title: Africa
 ---

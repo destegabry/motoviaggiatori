@@ -1,4 +1,4 @@
 ---
-path: sud
+slug: sud
 title: Sud
 ---

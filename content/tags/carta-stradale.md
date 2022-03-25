@@ -1,4 +1,4 @@
 ---
-path: carta-stradale
+slug: carta-stradale
 title: Carta stradale
 ---

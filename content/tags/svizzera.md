@@ -1,4 +1,4 @@
 ---
-path: svizzera
+slug: svizzera
 title: Svizzera
 ---

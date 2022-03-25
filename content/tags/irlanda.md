@@ -1,4 +1,4 @@
 ---
-path: irlanda
+slug: irlanda
 title: Irlanda
 ---

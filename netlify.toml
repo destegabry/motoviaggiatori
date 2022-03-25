@@ -1,5 +1,4 @@
 [[plugins]]
-package = "@netlify/plugin-gatsby"
 
 [[redirects]]
 from = "/author"

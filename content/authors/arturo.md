@@ -1,5 +1,5 @@
 ---
-path: arturo
+slug: arturo
 title: Arturo
 avatar: /assets/authors/arturo.jpg
 links:
@@ -9,4 +9,5 @@ links:
   - title: Instagram
     url: https://www.instagram.com/xanderelectronics/
 ---
+
 Appassionato di elettronica, musica (non elettronica) e viaggi in moto!

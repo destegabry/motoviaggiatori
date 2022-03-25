@@ -1,4 +1,4 @@
 ---
-path: albania
+slug: albania
 title: Albania
 ---

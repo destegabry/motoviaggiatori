@@ -1,0 +1,31 @@
+---
+import { Markdown } from "astro/components";
+import { Tag } from "../../entities/Tag";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PostList from "../../components/PostList.astro";
+
+export async function getStaticPaths() {
+  const allCategories = await Astro.fetchContent<Tag>(
+    "../../../content/tags/*.md"
+  );
+
+  const paths = [];
+  allCategories.forEach((tag) => {
+    paths.push({
+      params: { slug: tag.slug },
+      props: {
+        tag,
+      },
+    });
+  });
+  return paths;
+}
+
+const { title, slug, content } = Astro.props.tag as Tag;
+---
+
+<BaseLayout title={title}>
+  <h1>{title}</h1>
+  <Markdown content={content.source} />
+  <PostList filter={{ tag: slug }} />
+</BaseLayout>

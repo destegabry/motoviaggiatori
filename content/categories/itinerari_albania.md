@@ -1,5 +1,6 @@
 ---
 title: Albania
-path: itinerari/albania
+slug: itinerari/albania
 ---
+
 Itinerari percorsi in prima persona in Albania

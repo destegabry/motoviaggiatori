@@ -1,4 +1,4 @@
 ---
-path: francia
+slug: francia
 title: Francia
 ---

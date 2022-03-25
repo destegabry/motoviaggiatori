@@ -1,4 +1,4 @@
 ---
-path: argentina
+slug: argentina
 title: Argentina
 ---

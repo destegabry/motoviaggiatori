@@ -1,4 +1,4 @@
 ---
-path: tizi-ntichka
+slug: tizi-ntichka
 title: Tizi n'Tichka
 ---

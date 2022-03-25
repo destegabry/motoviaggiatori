@@ -1,4 +1,4 @@
 ---
-path: letture
+slug: letture
 title: Letture
 ---

@@ -1,4 +1,4 @@
 ---
-path: basilicata
+slug: basilicata
 title: Basilicata
 ---

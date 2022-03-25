@@ -1,4 +1,4 @@
 ---
 title: Caschi
-path: recensioni/caschi
+slug: recensioni/caschi
 ---

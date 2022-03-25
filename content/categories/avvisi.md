@@ -1,4 +1,4 @@
 ---
 title: Avvisi
-path: avvisi
+slug: avvisi
 ---

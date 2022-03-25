@@ -1,4 +1,4 @@
 ---
-path: gpx
+slug: gpx
 title: GPX
 ---

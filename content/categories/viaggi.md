@@ -1,5 +1,6 @@
 ---
 title: Viaggi
-path: viaggi
+slug: viaggi
 ---
+
 Articoli e racconti sui nostri viaggi in moto

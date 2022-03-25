@@ -1,4 +1,4 @@
 ---
 title: Moto
-path: recensioni/moto
+slug: recensioni/moto
 ---

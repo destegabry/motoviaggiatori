@@ -1,4 +1,4 @@
 ---
-path: valle-daosta
+slug: valle-daosta
 title: Valle d'Aosta
 ---

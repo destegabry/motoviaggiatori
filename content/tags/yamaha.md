@@ -1,4 +1,4 @@
 ---
-path: yamaha
+slug: yamaha
 title: Yamaha
 ---

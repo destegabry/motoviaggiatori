@@ -1,4 +1,4 @@
 ---
-path: senegal
+slug: senegal
 title: Senegal
 ---

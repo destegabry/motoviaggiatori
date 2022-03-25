@@ -1,4 +1,4 @@
 ---
-path: off-road
+slug: off-road
 title: Off-road
 ---

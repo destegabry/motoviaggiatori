@@ -1,4 +1,4 @@
 ---
-path: giro-italia
+slug: giro-italia
 title: Giro d'Italia
 ---

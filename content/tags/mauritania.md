@@ -1,4 +1,4 @@
 ---
-path: mauritania
+slug: mauritania
 title: Mauritania
 ---

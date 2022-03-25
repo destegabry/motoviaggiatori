@@ -1,4 +1,4 @@
 ---
-path: midland
+slug: midland
 title: Midland
 ---

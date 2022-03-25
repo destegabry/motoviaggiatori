@@ -1,4 +1,4 @@
 ---
-path: ktm-250-exc-f
+slug: ktm-250-exc-f
 title: KTM 250 EXC-F
 ---

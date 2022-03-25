@@ -1,0 +1,29 @@
+---
+import Icon from "astro-icon";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PostList from "../components/PostList.astro";
+---
+
+<BaseLayout>
+  <p class="cta">
+    <a href="/prodotti-consigliati" title="Prodotti consigliati">
+      Devi fare acquisti? Scopri i prodotti testati e approvati per la moto e il
+      MotoViaggiatore!
+    </a>
+</p>
+  <PostList limit={10} />
+  <p class="cta">
+    <a href="/archivi">
+      <Icon name="ic:round-arrow-back" />
+      Post precedenti
+    </a>
+  </p>
+</BaseLayout>
+
+<style class="cta">
+  .cta {
+    font-weight: var(--font-weight-regular);
+    font-size: var(--font-size-1);
+    text-align: center;
+  }
+</style>

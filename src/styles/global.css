@@ -1,0 +1,273 @@
+:root {
+  --font-family-body: "Crimson Pro", serif;
+  --font-family-heading: "Commissioner", sans-serif;
+
+  /* @link https://utopia.fyi/space/calculator?c=320,16,1.2,960,21,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
+  --space-xs: clamp(0.25rem, calc(0.22rem + 0.16vw), 0.31rem);
+  --space-s: clamp(0.5rem, calc(0.41rem + 0.47vw), 0.69rem);
+  --space-m: clamp(1rem, calc(0.84rem + 0.78vw), 1.31rem);
+  --space-l: clamp(1.5rem, calc(1.25rem + 1.25vw), 2rem);
+  --space-xl: clamp(2rem, calc(1.69rem + 1.56vw), 2.63rem);
+  --space-2xl: clamp(3rem, calc(2.53rem + 2.34vw), 3.94rem);
+  --space-3xl: clamp(4rem, calc(3.38rem + 3.13vw), 5.25rem);
+  --space-4xl: clamp(6rem, calc(5.06rem + 4.69vw), 7.88rem);
+
+  /* @link https://utopia.fyi/type/calculator?c=320,16,1.2,960,21,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
+  --font-size--2: clamp(0.69rem, calc(0.62rem + 0.36vw), 0.84rem);
+  --font-size--1: clamp(0.83rem, calc(0.72rem + 0.54vw), 1.05rem);
+  --font-size-0: clamp(1rem, calc(0.84rem + 0.78vw), 1.31rem);
+  --font-size-1: clamp(1.2rem, calc(0.98rem + 1.1vw), 1.64rem);
+  --font-size-2: clamp(1.44rem, calc(1.13rem + 1.53vw), 2.05rem);
+  --font-size-3: clamp(1.73rem, calc(1.31rem + 2.09vw), 2.56rem);
+  --font-size-4: clamp(2.07rem, calc(1.51rem + 2.83vw), 3.2rem);
+  --font-size-5: clamp(2.49rem, calc(1.73rem + 3.79vw), 4.01rem);
+
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+
+  --color-white: #f8f5f1;
+  --color-black: rgba(0, 0, 0, 0.85);
+  --color-disabled: rgba(0, 0, 0, 0.37);
+
+  --color-primary-light: #8bdac8;
+  --color-primary-main: #5aa897;
+  --color-primary-dark: #277969;
+  --color-primary-contrastText: var(--color-white);
+
+  --color-secondary-light: #717e9a;
+  --color-secondary-main: #45526c;
+  --color-secondary-dark: #1b2a41;
+  --color-secondary-contrastText: var(--color-white);
+
+  --color-accent-light: #ffd6b8;
+  --color-accent-main: #f8a488;
+  --color-accent-dark: #c3755b;
+  --color-accent-contrastText: var(--color-white);
+
+  --color-info-light: #64b5f6;
+  --color-info-main: #2196f3;
+  --color-info-dark: #1976d2;
+  --color-info-contrastText: var(--color-white);
+
+  --color-error-light: #e57373;
+  --color-error-main: #f44336;
+  --color-error-dark: #d32f2f;
+  --color-error-contrastText: var(--color-white);
+
+  --color-warning-light: #ffb74d;
+  --color-warning-main: #ff9800;
+  --color-warning-dark: #f57c00;
+  --color-warning-contrastText: var(--color-black);
+
+  --color-success-light: #81c784;
+  --color-success-main: #4caf50;
+  --color-success-dark: #388e3c;
+  --color-success-contrastText: var(--color-black);
+
+  --color-gray-50: #f9fafb;
+  --color-gray-100: #f3f4f6;
+  --color-gray-200: #e5e7eb;
+  --color-gray-300: #d1d5db;
+  --color-gray-400: #9ca3af;
+  --color-gray-500: #6b7280;
+  --color-gray-600: #4b5563;
+  --color-gray-700: #374151;
+  --color-gray-800: #1f2937;
+  --color-gray-900: #111827;
+
+  --transition-duration-main: 300ms;
+  --transition-duration-spin: 1200ms;
+
+  --component-header-height: 60px;
+  --component-header-zIndex: 1000;
+}
+
+:root {
+  color-scheme: light;
+  --theme-text: var(--color-black);
+  --theme-bg: var(--color-white);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --theme-text: var(--color-secondary-contrastText);
+    --theme-bg: var(--color-secondary-dark);
+  }
+}
+
+body {
+  background: var(--theme-bg);
+  color: var(--theme-text);
+  font-family: var(--font-family-body);
+  font-size: 1rem;
+  font-size: var(--font-size-0);
+  font-weight: var(--font-weight-regular);
+  line-height: 1.625;
+}
+
+body.locked {
+  overflow: hidden;
+}
+
+::selection {
+  color: var(--color-accent-contrastText);
+  background-color: var(--color-accent-dark);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.wrapper {
+  margin-inline: auto;
+  max-width: 50em;
+  padding-inline: var(--space-xl);
+  width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  .wrapper {
+    padding-inline: var(--space-m);
+  }
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* Typography */
+:is(h1, h2, h3, h4, h5, h6) {
+  font-family: var(--font-family-heading);
+  margin-block-end: var(--space-xl);
+  line-height: 1.3;
+}
+
+:is(h1, h2) {
+  max-width: 40ch;
+  font-weight: var(--font-weight-regular);
+}
+
+:is(h3, h4) {
+  font-weight: var(--font-weight-medium);
+}
+
+:is(h2, h3):not(:first-child) {
+  margin-block-start: var(--space-l);
+}
+
+h1 {
+  font-size: var(--font-size-3);
+}
+
+h2 {
+  font-size: var(--font-size-2);
+}
+
+h3 {
+  font-size: var(--font-size-1);
+}
+
+h4 {
+  font-size: var(--font-size-0);
+}
+
+h5 {
+  font-size: var(--font-size-0);
+  font-weight: var(--font-weight-medium);
+}
+
+small,
+.text_small {
+  font-size: var(--font-size--1);
+}
+
+a {
+  color: var(--theme-text);
+  font-weight: var(--font-weight-medium);
+  text-underline-offset: 0.02em;
+  text-decoration: underline;
+}
+
+a:hover,
+a:focus {
+  background: var(--color-primary-light);
+  /* text-decoration: none; */
+}
+
+a:focus {
+  outline: 2px solid var(--color-primary-light);
+}
+
+/* a:visited {
+	color: var(--color-primary-dark);
+} */
+
+strong {
+  font-weight: 600;
+  color: inherit;
+}
+
+:is(body > header, body > footer) {
+  background: var(--color-secondary-main);
+  color: var(--color-secondary-contrastText);
+  font-family: var(--font-family-heading);
+}
+
+:is(body > header, body > footer) a {
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: var(--font-weight-normal);
+  display: inline-block;
+  text-decoration: none;
+  transition: color var(--transition-duration-main);
+}
+
+:is(body > header, body > footer) a:hover,
+:is(body > header, body > footer) a:focus {
+  background: none;
+  color: rgba(255, 255, 255, 1);
+}
+
+body > header button {
+  background: transparent;
+  border: 0;
+  color: inherit;
+  margin-inline-start: var(--space-s);
+  margin-block: var(--space-s);
+  padding: 0;
+}
+
+body > main {
+  margin-block-start: calc(var(--space-xl) + var(--component-header-height));
+  margin-block-end: var(--space-xl);
+}
+
+body > main :is(p, li) {
+  margin-block: var(--space-m);
+}
+
+.spacer {
+  flex: 1 0 0%;
+}
+
+button:not(:disabled) {
+  cursor: pointer;
+}
+
+svg {
+  height: 1em;
+  fill: currentColor;
+  vertical-align: text-bottom;
+}
+
+body > header svg {
+  height: 100%;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+  display: none;
+}

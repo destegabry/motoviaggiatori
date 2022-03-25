@@ -1,0 +1,106 @@
+---
+import { Icon } from "astro-icon";
+---
+
+<div id="search-wrapper">
+  <div id="search-overlay"></div>
+  <div id="search-box">
+    <button id="search-close" title="Chiudi ricerca">
+      <Icon name="ic:outline-close" />
+    </button>
+  </div>
+  <div id="results-wrapper"></div>
+</div>
+
+<script hoist type="module">
+  import algoliasearch from "algoliasearch/lite";
+  import instantsearch from "instantsearch.js";
+  import { searchBox, hits } from "instantsearch.js/es/widgets";
+
+  const searchClient = algoliasearch(
+    import.meta.env.PUBLIC_ALGOLIA_APP_ID,
+    import.meta.env.PUBLIC_ALGOLIA_SEARCH_KEY
+  );
+  const search = instantsearch({
+    indexName: import.meta.env.PUBLIC_ALGOLIA_SEARCH_INDEX,
+    searchClient,
+  });
+
+  search.addWidgets([
+    searchBox({
+      container: "#search-box",
+      placeholder: "Cerca",
+      autofocus: true,
+      showReset: false,
+      showSubmit: false,
+    }),
+    hits({
+      container: "#results-wrapper",
+      templates: {
+        item: `
+          <a href={{ path }}>
+            <h4>{{#helpers.highlight}}{ "attribute": "title" }{{/helpers.highlight}}</h4>
+            <p>{{#helpers.highlight}}{ "attribute": "excerpt" }{{/helpers.highlight}}</p>
+          </a>
+        `,
+        empty: "Nessun risultato 😢",
+      },
+    }),
+  ]);
+  search.start();
+
+  function closeSearch() {
+    document.getElementById("search-wrapper").classList.remove("open");
+    document.querySelector("body").classList.remove("locked");
+  }
+
+  document
+    .getElementById("search-close")
+    .addEventListener("click", closeSearch);
+  document
+    .getElementById("search-overlay")
+    .addEventListener("click", closeSearch);
+  // document.querySelector('.search-box input').addEventListener('keyup', refine);
+</script>
+
+<style>
+  :is(#search-wrapper, #search-overlay) {
+    position: fixed;
+    inset: 0;
+    z-index: var(--component-header-zIndex);
+  }
+
+  #search-overlay {
+    background: var(--color-disabled);
+    z-index: -1;
+  }
+
+  #search-wrapper {
+    display: none;
+  }
+
+  #search-wrapper.open {
+    flex-direction: column;
+    align-items: center;
+    padding-block: var(--space-l);
+    display: flex;
+  }
+
+  #search-box,
+  #results-wrapper {
+    padding-inline: var(--space-l);
+    position: relative;
+    width: 100%;
+    max-width: 70ch;
+  }
+
+  #search-close {
+    background: transparent;
+    border: 0;
+    color: var(--theme-text);
+    position: absolute;
+    inset-block: 0;
+    inset-inline-end: calc(var(--space-l) + var(--space-s));
+    padding: var(--space-xs);
+  }
+</style>

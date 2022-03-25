@@ -1,5 +1,5 @@
 ---
-path: simone
+slug: simone
 title: Simone
 avatar: /assets/authors/simone.jpg
 links:
@@ -9,4 +9,5 @@ links:
   - url: https://instagram.com/avventuredietrocasa/
     name: Instagram
 ---
+
 Educatore professionale, appassionato di montagna, natura e viaggi in sella. Felice possessore di una [BMW F 800 GS](/tag/bmw-f800gs/), scorrazzo dove capita in cerca di libertà. Fotografo paesaggista e naturalista, se oltre alle moto nutrite interesse per la natura fate un salto [sul mio sito](https://simonemiottophotography.wordpress.com).

@@ -1,5 +1,4 @@
 ---
-path: uk
+slug: uk
 title: Regno Unito
 ---
-

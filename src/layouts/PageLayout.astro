@@ -1,0 +1,40 @@
+---
+import { parse, formatFullDate } from '../utils/date';
+import BaseLayout from './BaseLayout.astro';
+
+interface MarkdownFrontmatter {
+	title?: string;
+	excerpt?: string;
+	language?: string;
+  date?: string;
+}
+
+const { content } = Astro.props;
+const { title, excerpt, language } = content as MarkdownFrontmatter;
+const date = parse(content.date);
+---
+<BaseLayout {title} {language} description={excerpt}>
+  <article item-prop="article" item-scope item-type="https://schema.org/Article">
+    <h1 item-prop="name headline">{title}</h1>
+    <section item-prop="articleBody">
+      <slot />
+    </section>
+    {date && (
+      <div class="last-update">
+        Ultimo aggiornamento:
+        <time datetime={date.toISOString()} item-prop="datePublished">
+          {formatFullDate(date)}
+        </time>
+      </div>
+    )}
+  </article>
+</BaseLayout>
+
+<style>
+  .last-update {
+    margin-block-start: var(--space-xl);
+    font-size: var(--font-size--1);
+    font-style: italic;
+    text-align: center;
+  }
+</style>

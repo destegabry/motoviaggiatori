@@ -1,4 +1,4 @@
 ---
-path: valigie
+slug: valigie
 title: Valigie
 ---

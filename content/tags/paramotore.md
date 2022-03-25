@@ -1,4 +1,4 @@
 ---
-path: paramotore
+slug: paramotore
 title: Paramotore
 ---

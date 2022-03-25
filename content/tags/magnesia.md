@@ -1,4 +1,4 @@
 ---
-path: magnesia
+slug: magnesia
 title: Magnesia
 ---

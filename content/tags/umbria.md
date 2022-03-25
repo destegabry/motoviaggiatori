@@ -1,4 +1,4 @@
 ---
-path: umbria
+slug: umbria
 title: Umbria
 ---

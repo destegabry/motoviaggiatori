@@ -1,4 +1,4 @@
 ---
-path: ouzoud
+slug: ouzoud
 title: Ouzoud
 ---

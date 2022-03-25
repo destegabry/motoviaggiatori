@@ -1,4 +1,4 @@
 ---
-path: lambretta
+slug: lambretta
 title: Lambretta
 ---

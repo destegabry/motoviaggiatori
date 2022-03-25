@@ -1,4 +1,4 @@
 ---
-path: colle-del-moncenisio
+slug: colle-del-moncenisio
 title: Colle del Moncenisio
 ---
