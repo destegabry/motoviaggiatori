@@ -17,12 +17,12 @@
   },
   "dependencies": {
     "algoliasearch": "^4.13.0",
-    "instantsearch.js": "^4.40.1"
+    "instantsearch.js": "^4.40.2"
   },
   "devDependencies": {
-    "@fontsource/commissioner": "^4.5.5",
-    "@fontsource/crimson-pro": "^4.5.6",
-    "astro": "^0.25.0-next.3",
+    "@fontsource/commissioner": "^4.5.6",
+    "@fontsource/crimson-pro": "^4.5.7",
+    "astro": "^0.25.4",
     "astro-icon": "^0.6.1",
     "prettier": "^2.6.1",
     "prettier-plugin-astro": "^0.0.12",
