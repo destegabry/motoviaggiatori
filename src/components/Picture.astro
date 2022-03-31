@@ -1,0 +1,37 @@
+---
+import { Post } from '../entities/Post';
+
+export interface PictureProps {
+  src: string;
+  alt: string;
+  imgSrcSets?: {
+    query: string,
+    width: number,
+    height: number
+  }[]
+};
+
+const { src, alt, imgSrcSets } = Astro.props as PictureProps;
+---
+<picture itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+  {
+    imgSrcSets?.map(({ query, width, height }) => (
+      <source
+        media={query}
+        srcset={`
+          ${src}?nf_resize=smartcrop&amp;w=${width}&amp;h=${height} 1x,
+          ${src}?nf_resize=smartcrop&amp;w=${width * 2}&amp;h=${height * 2} 2x
+        `}
+      />
+    ))
+  }
+  <img src={src} alt={alt || ""} loading="lazy">
+</picture>
+<style>
+  img {
+    display: block;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+  }
+</style>

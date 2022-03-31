@@ -1,39 +1,31 @@
 ---
-import { Debug } from 'astro/components';
 import { parse, formatFullDate } from '../utils/date';
 import { Post } from '../entities/Post';
-import { Author } from '../entities/Author';
 
-const { author, categories } = Astro.props as { author: Author, categories: Post['categories'] };
-const date = parse(Astro.props.date);
+const { post } = Astro.props as { post: Post };
+const date = parse(post.date);
+const { author, categories } = post;
 ---
 <div class="post-meta">
-  { date && (
-    <time datetime={date.toISOString()} item-prop="datePublished" >
-      {formatFullDate(date)}
-    </time>
-  )}
-  <span item-prop="author" item-scope item-type="https://schema.org/Person">
-    <a
-      href={`/autore/${author.slug}`}
-      title={`Guarda tutti i post di ${author.title}`}
-      item-prop="url"
-      rel="author"
-    >
-      <span item-prop="name">{author.title}</span>
-    </a>
-  </span>
-  <span item-prop="keywords">
+  { date && (<time datetime={date.toISOString()} itemprop="datePublished" >{formatFullDate(date)}</time>)}
+  /
+  <span
+    itemprop="author"
+    itemscope
+    itemtype="https://schema.org/Person"
+  ><a
+    href={`/autore/${author.slug}`}
+    title={`Guarda tutti i post di ${author.title}`}
+    itemprop="url"
+    rel="author"><span itemprop="name">{author.title}</span></a></span>
+  /
+  <span itemprop="keywords">
     {categories.map((category) => (
-      <span>
-        <a
-          href={`/categoria/${category.slug}`}
-          title={`Guarda i post nella categoria ${category.title}`}
-          rel="category"
-        >
-          {category.title}
-        </a>
-      </span>
+      <span><a
+        href={`/categoria/${category.slug}`}
+        title={`Guarda i post nella categoria ${category.title}`}
+        rel="category"
+      >{category.title}</a>&comma; </span>
     ))}
   </span>
 </div>

@@ -2,6 +2,7 @@
 import { Post, MarkdownPost } from "../entities/Post";
 import { Author } from "../entities/Author";
 import { Category } from "../entities/Category";
+import PostPreview from "./PostPreview.astro";
 
 interface PostListProps {
   filter: {
@@ -26,6 +27,17 @@ const allCategories = await Astro.fetchContent<Category>(
   "../../content/categories/*.md"
 );
 
+const authorsBySlug = allAuthors.reduce(
+  (authorsBySlug, author) => authorsBySlug.set(author.slug, author),
+  new Map<string, Author>()
+);
+
+const categoriesBySlug = allCategories.reduce(
+  (categoriesBySlug, category) =>
+    categoriesBySlug.set(category.slug, category),
+  new Map<string, Category>()
+);
+
 const filteredPosts = filter ? allPosts.filter((post) => {
   return (
     (!filter.author || post.author === filter.author) &&
@@ -36,9 +48,14 @@ const filteredPosts = filter ? allPosts.filter((post) => {
 
 filteredPosts.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
 
-const postList = limit ? filteredPosts.slice(offset, offset + limit) : filteredPosts;
+const postList: Post[] = (limit ? filteredPosts.slice(offset, offset + limit) : filteredPosts).map((post) => ({
+  ...post,
+  author: authorsBySlug.get(post.author),
+  categories: post.categories.map((category) =>
+    categoriesBySlug.get(category)
+  ),
+}));
 ---
-
-<ul>
-  {postList.map(({title, permalink}) => <li><a href={permalink}>{title}</a></li>)}
-</ul>
+<>
+  {postList.map((post) => <PostPreview post={post} />)}
+</>

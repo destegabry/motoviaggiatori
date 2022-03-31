@@ -20,9 +20,6 @@ import { Icon } from "astro-icon";
           <a href="/categoria/recensioni"> Recensioni </a>
         </li>
         <li>
-          <a href="/foto" target="_blank" rel="noopener noreferrer"> Foto </a>
-        </li>
-        <li>
           <a href="/categoria/video"> Video </a>
         </li>
         <li>
@@ -97,7 +94,7 @@ import { Icon } from "astro-icon";
   }
 
   li {
-    padding-inline: var(--space-xs);
+    padding-inline: var(--space-s);
   }
 
   .toggle-menu {
@@ -113,7 +110,7 @@ import { Icon } from "astro-icon";
       height: 100%;
       min-width: 40%;
       z-index: var(--component-header-zIndex);
-      transition: right var(--transition-duration-main);
+      transition: inset var(--transition-duration-main);
     }
 
     ul {

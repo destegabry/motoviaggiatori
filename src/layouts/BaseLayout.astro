@@ -19,7 +19,7 @@ const { title, description, language, previewImage, ...mainProps } = Astro.props
   <head>
     <PageMeta title={title} description={description} previewImage={previewImage} />
   </head>
-  <body item-scope item-type="https://schema.org/Blog">
+  <body itemscope itemtype="https://schema.org/Blog">
     <Header />
     <main class="wrapper" {...mainProps}>
       <slot />

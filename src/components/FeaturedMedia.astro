@@ -1,0 +1,26 @@
+---
+import { Post } from '../entities/Post';
+import Picture, { PictureProps } from './Picture.astro';
+
+interface FeaturedMediaProps {
+  post: Post;
+  imgSrcSets?: PictureProps['imgSrcSets'];
+};
+
+const { post, imgSrcSets } = Astro.props as FeaturedMediaProps;
+---
+<>
+  {
+    post.featured_youtube ? (
+      <iframe
+        src={`//www.youtube.com/embed/${post.featured_youtube}`}
+        allowfullscreen
+        frameborder="0"
+        height="100%"
+        width="100%"
+      />
+    ) : (
+      <Picture src={post.featured_image} alt="" imgSrcSets={imgSrcSets} />
+    )
+  }
+</>

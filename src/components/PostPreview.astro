@@ -1,0 +1,93 @@
+---
+import { Markdown } from 'astro/components';
+import { Post } from '../entities/Post';
+import Picture from './Picture.astro';
+import YouTube from './YouTube.astro';
+import PostMeta from './PostMeta.astro';
+
+const { post } = Astro.props as { post: Post };
+---
+<article itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="featured-media-wrapper">
+    {
+      post.featured_youtube ? (
+        <YouTube id={post.featured_youtube} title={`Video ${post.title}`} />
+      ) : (
+        <a href={post.permalink}>
+          <Picture
+            src={post.featured_image}
+            alt=""
+            imgSrcSets={[{
+              query: '(max-width: 600px)',
+              width: 600,
+              height: 600 / 16 * 9,
+            }, {
+              query: '(min-width: 600.05px) and (max-width: 900px)',
+              width: 360,
+              height: 360 / 16 * 9,
+            }, {
+              query: '(min-width: 900.05px)',
+              width: 240,
+              height: 240 / 3 * 2,
+            }]}
+          />
+        </a>
+      )
+    }
+  </div>
+  <div class="post-data">
+    <h3 itemprop="name headline">
+      <a href={post.permalink} itemprop="mainEntityOfPage url">
+        {post.title}
+      </a>
+    </h3>
+    <PostMeta post={post} />
+    <div itemprop="description">
+      <Markdown content={post.excerpt} />
+    </div>
+  </div>
+</article>
+<style>
+  article {
+    display: flex;
+    align-items: flex-start;
+    margin: var(--space-xl) 0;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  h3 {
+    margin-bottom: var(--space-xs);
+  }
+
+  p {
+    margin-block: var(--space-xs);
+  }
+
+  .featured-media-wrapper {
+    flex: 0 0 360px;
+    aspect-ratio: 16 / 9;
+    display: block;
+    overflow: hidden;
+    margin-inline-end: var(--space-m);
+  }
+
+  @media screen and (min-width: 600.05px) and (max-width: 900px) {
+    .featured-media-wrapper {
+      flex-basis: 240px;
+      aspect-ratio: 4 / 3;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    article {
+      display: block;
+    }
+
+    .featured-media-wrapper {
+      margin: var(--space-s) 0;
+    }
+  }
+</style>

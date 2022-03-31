@@ -12,6 +12,7 @@ export interface MarkdownPost extends MarkdownData {
   categories: string[];
   tags: string[];
   language?: string;
+  featured_youtube?: string;
 }
 
 export interface Post extends Omit<MarkdownPost, "author" | "categories"> {

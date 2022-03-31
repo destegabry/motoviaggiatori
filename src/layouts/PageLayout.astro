@@ -14,15 +14,15 @@ const { title, excerpt, language } = content as MarkdownFrontmatter;
 const date = parse(content.date);
 ---
 <BaseLayout {title} {language} description={excerpt}>
-  <article item-prop="article" item-scope item-type="https://schema.org/Article">
-    <h1 item-prop="name headline">{title}</h1>
-    <section item-prop="articleBody">
+  <article itemprop="article" itemscope itemtype="https://schema.org/Article">
+    <h1 itemprop="name headline">{title}</h1>
+    <section itemprop="articleBody">
       <slot />
     </section>
     {date && (
       <div class="last-update">
         Ultimo aggiornamento:
-        <time datetime={date.toISOString()} item-prop="datePublished">
+        <time datetime={date.toISOString()} itemprop="datePublished">
           {formatFullDate(date)}
         </time>
       </div>

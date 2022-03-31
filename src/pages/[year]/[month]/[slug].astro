@@ -65,11 +65,13 @@ export async function getStaticPaths({ rss }) {
       paths.push({
         params: { year, month, slug },
         props: {
-          ...post,
-          author: authorsBySlug.get(post.author),
-          categories: post.categories.map((category) =>
-            categoriesBySlug.get(category)
-          ),
+          post: {
+            ...post,
+            author: authorsBySlug.get(post.author),
+            categories: post.categories.map((category) =>
+              categoriesBySlug.get(category)
+            ),
+          }
         },
       });
     }
@@ -77,20 +79,18 @@ export async function getStaticPaths({ rss }) {
   return paths;
 }
 
+const { post } = Astro.props as { post: Post };
 const {
   title,
   language,
   featured_image,
   excerpt,
-  date,
-  author,
-  categories,
   content
-} = Astro.props as Post;
+} = post;
 ---
 
 <BaseLayout title={title} description={excerpt} language{language} previewImage={featured_image}>
   <h1>{title}</h1>
-  <PostMeta author={author} date={date} categories={categories} />
+  <PostMeta post={post} />
   <Markdown content={content.source} />
 </BaseLayout>

@@ -2,6 +2,7 @@
 import { Markdown } from "astro/components";
 import { Author } from "../../entities/Author";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import Picture from "../../components/Picture.astro";
 import PostList from "../../components/PostList.astro";
 
 export async function getStaticPaths() {
@@ -19,23 +20,91 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { title, slug, content, avatar, links} = Astro.props as Author;
+const { title, slug, content, avatar, links } = Astro.props as Author;
 ---
-<BaseLayout title={title} previewImage={avatar} item-scope item-type="http://schema.org/Person">
-  <h1 item-prop="name">{title}</h1>
-  { links && (
-    <ul>
-      { links.map(({ url, title }) => (
-        <li>
-          <a href={url} item-prop="sameAs" target="_blank" rel="noopener noreferrer">
-            {title ?? url}
-          </a>
-        </li>
-      ))}
-    </ul>
-  )}
-  <div item-prop="description">
-    <Markdown content={content.source} />
+<BaseLayout title={title} previewImage={avatar} itemscope itemtype="http://schema.org/Person">
+  <div class="data-wrapper">
+    <div class="avatar-wrapper">
+      <Picture
+        src={avatar}
+        alt=""
+        imgSrcSets={[{
+          query: '(max-width: 600px)',
+          width: 360,
+          height: 360,
+        }, {
+          query: '(min-width: 600.05px) and (max-width: 900px)',
+          width: 240,
+          height: 240,
+        }, {
+          query: '(min-width: 900.05px)',
+          width: 360,
+          height: 360,
+        }]}
+      />
+    </div>
+    <div class="info-wrapper">
+      <h1 itemprop="name">{title}</h1>
+      { links && (
+        <ul>
+          { links.map(({ url, title }) => (
+            <li>
+              <a href={url} itemprop="sameAs" target="_blank" rel="noopener noreferrer">
+                {title ?? url}
+              </a>
+            </li>
+          ))}
+        </ul>
+      )}
+      <div itemprop="description">
+        <Markdown content={content.source} />
+      </div>
+    </div>
   </div>
   <PostList filter={{ author: slug }} />
 </BaseLayout>
+<style>
+  .data-wrapper {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .avatar-wrapper {
+    aspect-ratio: 1 / 1;
+    flex: 0 0 360px;
+    overflow: hidden;
+    margin-inline-end: var(--space-m);
+  }
+
+  ul {
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+    margin: 0;
+  }
+
+
+  @media screen and (min-width: 600.05px) and (max-width: 900px) {
+    .avatar-wrapper {
+      flex-basis: 240px;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .data-wrapper {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    .avatar-wrapper {
+      margin: var(--space-s) 0;
+    }
+
+    p {
+      text-align: start;
+    }
+  }
+</style>

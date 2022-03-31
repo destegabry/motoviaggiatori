@@ -1,0 +1,16 @@
+---
+export interface YouTubeProps {
+  id: string;
+  title?: string;
+};
+
+const { id, title } = Astro.props as YouTubeProps;
+---
+<iframe
+  src={`//www.youtube.com/embed/${id}`}
+  allowfullscreen
+  frameborder="0"
+  height="100%"
+  width="100%"
+  title={title ?? ""}
+/>
