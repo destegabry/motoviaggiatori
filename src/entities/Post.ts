@@ -1,6 +1,7 @@
 import { MarkdownData } from "./Markdown";
 import { Author } from "./Author";
 import { Category } from "./Category";
+import { Tag } from "./Tag";
 
 export interface MarkdownPost extends MarkdownData {
   date: string;
@@ -15,7 +16,8 @@ export interface MarkdownPost extends MarkdownData {
   featured_youtube?: string;
 }
 
-export interface Post extends Omit<MarkdownPost, "author" | "categories"> {
+export interface Post extends Omit<MarkdownPost, "author" | "categories" | "tags"> {
   author: Author;
   categories: Category[];
+  tags: Tag[];
 }

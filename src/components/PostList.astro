@@ -1,8 +1,10 @@
 ---
-import { Post, MarkdownPost } from "../entities/Post";
+import { MarkdownPost } from "../entities/Post";
 import { Author } from "../entities/Author";
 import { Category } from "../entities/Category";
+import { Tag } from "../entities/Tag";
 import PostPreview from "./PostPreview.astro";
+import { enhancePosts } from "../utils/content";
 
 interface PostListProps {
   filter: {
@@ -26,16 +28,8 @@ const allAuthors = await Astro.fetchContent<Author>(
 const allCategories = await Astro.fetchContent<Category>(
   "../../content/categories/*.md"
 );
-
-const authorsBySlug = allAuthors.reduce(
-  (authorsBySlug, author) => authorsBySlug.set(author.slug, author),
-  new Map<string, Author>()
-);
-
-const categoriesBySlug = allCategories.reduce(
-  (categoriesBySlug, category) =>
-    categoriesBySlug.set(category.slug, category),
-  new Map<string, Category>()
+const allTags = await Astro.fetchContent<Tag>(
+  "../../content/categories/*.md"
 );
 
 const filteredPosts = filter ? allPosts.filter((post) => {
@@ -48,13 +42,12 @@ const filteredPosts = filter ? allPosts.filter((post) => {
 
 filteredPosts.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
 
-const postList: Post[] = (limit ? filteredPosts.slice(offset, offset + limit) : filteredPosts).map((post) => ({
-  ...post,
-  author: authorsBySlug.get(post.author),
-  categories: post.categories.map((category) =>
-    categoriesBySlug.get(category)
-  ),
-}));
+const postList = enhancePosts(
+  limit ? filteredPosts.slice(offset, offset + limit) : filteredPosts,
+  allAuthors,
+  allCategories,
+  allTags
+);
 ---
 <>
   {postList.map((post) => <PostPreview post={post} />)}

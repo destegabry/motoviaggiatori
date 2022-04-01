@@ -1,9 +1,14 @@
-
-- postcss: logical properties, aspect-ratio
+- postcss: aspect-ratio
 - check microdata
 - check RSS
 - check manifest
-- check video youtube videos
+- check youtube videos
 - check iframe
 - check downloads (gpx, pdf…)
 - pagina 404
+- next/prev post
+- post featured media
+- post author box
+- gallery
+- add google analytics
+- track JS clicks

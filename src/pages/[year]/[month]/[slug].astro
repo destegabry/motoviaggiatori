@@ -1,10 +1,13 @@
 ---
 import { Markdown } from "astro/components";
+import Icon from "astro-icon";
 import { Post, MarkdownPost } from "../../../entities/Post";
 import { Author } from "../../../entities/Author";
 import { Category } from "../../../entities/Category";
+import { Tag } from "../../../entities/Tag";
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import PostMeta from "../../../components/PostMeta.astro";
+import { enhancePosts } from "../../../utils/content";
 
 export async function getStaticPaths({ rss }) {
   const allPosts = await Astro.fetchContent<MarkdownPost>(
@@ -17,18 +20,14 @@ export async function getStaticPaths({ rss }) {
     "../../../../content/categories/*.md"
   );
 
+  const allTags = await Astro.fetchContent<Tag>(
+    "../../../../content/tags/*.md"
+  );
+
+  const posts = enhancePosts(allPosts, allAuthors, allCategories, allTags);
+  posts.sort((a, b) => Date.parse(b.date) - Date.parse(a.date))
+
   const postRegExp = new RegExp("/([0-9]{4})/([0-9]{2})/(.+)");
-
-  const authorsBySlug = allAuthors.reduce(
-    (authorsBySlug, author) => authorsBySlug.set(author.slug, author),
-    new Map<string, Author>()
-  );
-
-  const categoriesBySlug = allCategories.reduce(
-    (categoriesBySlug, category) =>
-      categoriesBySlug.set(category.slug, category),
-    new Map<string, Category>()
-  );
 
   rss({
     title: import.meta.env.SITE_NAME,
@@ -43,43 +42,34 @@ export async function getStaticPaths({ rss }) {
         <height>32</height>
       </image>
     `,
-    items: allPosts
-      .sort((a, b) => Date.parse(b.date) - Date.parse(a.date))
+    items: posts
       .map((post) => ({
         title: post.title,
         description: post.excerpt,
         link: `${Astro.site}${post.permalink}`,
         pubDate: post.date,
         customData: [
-          `<dc:creator>${authorsBySlug.get(post.author).title}</dc:creator>`,
-          ...post.categories.map((category) =>`<category>${categoriesBySlug.get(category).title}</category>`)
+          `<dc:creator>${post.author.title}</dc:creator>`,
+          ...post.categories.map((category) =>`<category>${category.title}</category>`)
         ].join('')
       })),
   });
 
-  const paths = [];
-  allPosts.forEach((post) => {
-    const match = postRegExp.exec(post.permalink);
-    if (match) {
-      const [_, year, month, slug] = match;
-      paths.push({
-        params: { year, month, slug },
-        props: {
-          post: {
-            ...post,
-            author: authorsBySlug.get(post.author),
-            categories: post.categories.map((category) =>
-              categoriesBySlug.get(category)
-            ),
-          }
-        },
-      });
-    }
+  return posts.map((post, index, list) => {
+    const [_, year, month, slug] = postRegExp.exec(post.permalink);
+    return ({
+      params: { year, month, slug },
+      props: {
+        post,
+        prev: list[index + 1],
+        next: list[index - 1],
+
+      },
+    })
   });
-  return paths;
 }
 
-const { post } = Astro.props as { post: Post };
+const { post, next, prev } = Astro.props as { post: Post, next?: Post, prev?: Post };
 const {
   title,
   language,
@@ -88,9 +78,122 @@ const {
   content
 } = post;
 ---
-
 <BaseLayout title={title} description={excerpt} language{language} previewImage={featured_image}>
   <h1>{title}</h1>
   <PostMeta post={post} />
   <Markdown content={content.source} />
+  {post.tags?.length > 0 && (
+    <section class="tags">
+      <h2>Tags</h2>
+      <ul>
+        { post.tags.map(({ slug, title }) => (
+          <li>
+            <a href={`/tag/${slug}`}>{title}</a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+  <section class="next-prev-wrapper">
+    { prev && (
+      <a class="prev" href={prev.permalink}>
+        <Icon name="ic:chevron-left" />
+        <article>
+          <div class="description">
+            Articolo precedente
+          </div>
+          <div class="title">{prev.title}</div>
+        </article>
+      </a>
+    )}
+    <span class="spacer"></span>
+    { next && (
+      <a class="next" href={next.permalink}>
+        <Icon name="ic:chevron-right" />
+        <article>
+          <div class="description">
+            Articolo successivo
+          </div>
+          <div class="title">{next.title}</div>
+        </article>
+      </a>
+    )}
+  </section>
 </BaseLayout>
+
+<style>
+  section {
+    margin: var(--space-xl) 0;
+  }
+
+  .tags ul {
+    display: flex;
+    padding: 0;
+    margin: 0 -var(--space-xs);
+  }
+
+  .tags li {
+    list-style: none;
+    margin: 0 var(--space-xs);
+  }
+
+  .tags a {
+    background: var(--color-secondary-main);
+    color: var(--color-secondary-contrastText);
+    font-family: var(--font-family-heading);
+    display: block;
+    border-radius: var(--space-m);
+    padding: 0 var(--space-m);
+    text-decoration: none;
+  }
+
+  .tags a:hover {
+    background: var(--color-primary-light);
+    color: var(--color-black);
+  }
+
+  .next-prev-wrapper {
+    display: flex;
+  }
+
+  .next-prev-wrapper svg {
+    flex-shrink: 0;
+    font-size: var(--font-size-4);
+  }
+
+  .next-prev-wrapper a {
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+  }
+
+  .next-prev-wrapper .next {
+    flex-direction: row-reverse;
+  }
+
+  .next-prev-wrapper article {
+    font-size: var(--font-size-1);
+    margin: 0 var(--space-s);
+    height: 100%;
+  }
+
+  .next-prev-wrapper .description {
+    text-decoration: underline;
+  }
+
+  .next-prev-wrapper .title {
+    font-size: var(--font-size--1);
+  }
+
+  @media screen and (max-width: 900px) {
+    .next-prev-wrapper a {
+      flex: 0 0 50%;
+    }
+  }
+
+  @media screen and (min-width: 900.05px) {
+    .next-prev-wrapper a {
+      flex: 0 0 34%;
+    }
+  }
+</style>
