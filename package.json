@@ -17,18 +17,19 @@
   },
   "dependencies": {
     "algoliasearch": "^4.13.0",
-    "instantsearch.js": "^4.40.2"
+    "instantsearch.js": "^4.40.4"
   },
   "devDependencies": {
+    "@astrojs/sitemap": "^0.1.0",
     "@fontsource/commissioner": "^4.5.6",
     "@fontsource/crimson-pro": "^4.5.7",
-    "astro": "^0.25.4",
-    "astro-icon": "^0.6.1",
+    "astro": "^1.0.0-beta.17",
+    "astro-icon": "^0.7.1",
     "autoprefixer": "^10.4.4",
     "postcss": "^8.4.12",
     "postcss-load-config": "^3.1.4",
     "postcss-logical": "^5.0.4",
-    "prettier": "^2.6.1",
+    "prettier": "^2.6.2",
     "prettier-plugin-astro": "^0.0.12",
     "reading-time": "^1.5.0"
   }

@@ -1,9 +1,10 @@
-import { MarkdownData } from "./Markdown";
+import { MarkdownInstance } from "astro";
 import { Author } from "./Author";
 import { Category } from "./Category";
 import { Tag } from "./Tag";
 
-export interface MarkdownPost extends MarkdownData {
+export interface RawPost {
+  title: string;
   date: string;
   permalink: string;
   author: string;
@@ -16,8 +17,8 @@ export interface MarkdownPost extends MarkdownData {
   featured_youtube?: string;
 }
 
-export interface Post extends Omit<MarkdownPost, "author" | "categories" | "tags"> {
-  author: Author;
-  categories: Category[];
-  tags: Tag[];
+export interface Post extends Omit<RawPost, "author" | "categories" | "tags"> {
+  author: MarkdownInstance<Author>;
+  categories: MarkdownInstance<Category>[];
+  tags: MarkdownInstance<Tag>[];
 }

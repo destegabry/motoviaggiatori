@@ -1,7 +1,6 @@
 ---
-import { Markdown } from "astro/components";
 import Icon from "astro-icon";
-import { Post, MarkdownPost } from "../../../entities/Post";
+import { Post, RawPost } from "../../../entities/Post";
 import { Author } from "../../../entities/Author";
 import { Category } from "../../../entities/Category";
 import { Tag } from "../../../entities/Tag";
@@ -10,22 +9,22 @@ import PostMeta from "../../../components/PostMeta.astro";
 import { enhancePosts } from "../../../utils/content";
 
 export async function getStaticPaths({ rss }) {
-  const allPosts = await Astro.fetchContent<MarkdownPost>(
+  const allPosts = await Astro.glob<RawPost>(
     "../../../../content/posts/*.md"
   );
-  const allAuthors = await Astro.fetchContent<Author>(
+  const allAuthors = await Astro.glob<Author>(
     "../../../../content/authors/*.md"
   );
-  const allCategories = await Astro.fetchContent<Category>(
+  const allCategories = await Astro.glob<Category>(
     "../../../../content/categories/*.md"
   );
 
-  const allTags = await Astro.fetchContent<Tag>(
+  const allTags = await Astro.glob<Tag>(
     "../../../../content/tags/*.md"
   );
 
   const posts = enhancePosts(allPosts, allAuthors, allCategories, allTags);
-  posts.sort((a, b) => Date.parse(b.date) - Date.parse(a.date))
+  posts.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.date))
 
   const postRegExp = new RegExp("/([0-9]{4})/([0-9]{2})/(.+)");
 
@@ -44,51 +43,53 @@ export async function getStaticPaths({ rss }) {
     `,
     items: posts
       .map((post) => ({
-        title: post.title,
-        description: post.excerpt,
-        link: `${Astro.site}${post.permalink}`,
-        pubDate: post.date,
+        title: post.frontmatter.title,
+        description: post.frontmatter.excerpt,
+        link: `${Astro.site}${post.frontmatter.permalink}`,
+        pubDate: post.frontmatter.date,
         customData: [
-          `<dc:creator>${post.author.title}</dc:creator>`,
-          ...post.categories.map((category) =>`<category>${category.title}</category>`)
+          `<dc:creator>${post.frontmatter.author.frontmatter.title}</dc:creator>`,
+          ...post.frontmatter.categories.map((category) =>`<category>${category.frontmatter.title}</category>`)
         ].join('')
       })),
   });
 
   return posts.map((post, index, list) => {
-    const [_, year, month, slug] = postRegExp.exec(post.permalink);
+    const [_, year, month, slug] = postRegExp.exec(post.frontmatter.permalink);
     return ({
       params: { year, month, slug },
       props: {
         post,
         prev: list[index + 1],
         next: list[index - 1],
-
       },
     })
   });
 }
 
-const { post, next, prev } = Astro.props as { post: Post, next?: Post, prev?: Post };
+const { post } = Astro.props;
+
 const {
   title,
   language,
   featured_image,
   excerpt,
-  content
-} = post;
+} = post.frontmatter as Post;
+
+const next = Astro.props.next?.frontmatter as Post;
+const prev = Astro.props.prev?.frontmatter as Post;
 ---
 <BaseLayout title={title} description={excerpt} language{language} previewImage={featured_image}>
   <h1>{title}</h1>
   <PostMeta post={post} />
-  <Markdown content={content.source} />
-  {post.tags?.length > 0 && (
+  <post.Content />
+  {post.frontmatter.tags?.length > 0 && (
     <section class="tags">
       <h2>Tags</h2>
       <ul>
-        { post.tags.map(({ slug, title }) => (
+        { post.frontmatter.tags.map((tag) => (
           <li>
-            <a href={`/tag/${slug}`}>{title}</a>
+            <a href={`/tag/${tag.frontmatter.slug}`}>{tag.frontmatter.title}</a>
           </li>
         ))}
       </ul>

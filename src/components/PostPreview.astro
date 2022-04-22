@@ -1,21 +1,21 @@
 ---
-import { Markdown } from 'astro/components';
-import { Post } from '../entities/Post';
+import { Debug } from "astro/components";
+import { Markdown } from "astro/components";
 import Picture from './Picture.astro';
 import YouTube from './YouTube.astro';
 import PostMeta from './PostMeta.astro';
 
-const { post } = Astro.props as { post: Post };
+const { post } = Astro.props;
 ---
 <article itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="featured-media-wrapper">
     {
-      post.featured_youtube ? (
-        <YouTube id={post.featured_youtube} title={`Video ${post.title}`} />
+      post.frontmatter.featured_youtube ? (
+        <YouTube id={post.frontmatter.featured_youtube} title={`Video ${post.frontmatter.title}`} />
       ) : (
-        <a href={post.permalink}>
+        <a href={post.frontmatter.permalink}>
           <Picture
-            src={post.featured_image}
+            src={post.frontmatter.featured_image}
             alt=""
             imgSrcSets={[{
               query: '(max-width: 600px)',
@@ -37,13 +37,13 @@ const { post } = Astro.props as { post: Post };
   </div>
   <div class="post-data">
     <h3 itemprop="name headline">
-      <a href={post.permalink} itemprop="mainEntityOfPage url">
-        {post.title}
+      <a href={post.frontmatter.permalink} itemprop="mainEntityOfPage url">
+        {post.frontmatter.title}
       </a>
     </h3>
     <PostMeta post={post} />
     <div itemprop="description">
-      <Markdown content={post.excerpt} />
+      <Markdown content={post.frontmatter.excerpt} />
     </div>
   </div>
 </article>

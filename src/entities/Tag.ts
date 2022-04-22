@@ -1,5 +1,4 @@
-import { MarkdownData } from "./Markdown";
-
-export interface Tag extends MarkdownData {
+export interface Tag {
   slug: string;
+  title: string;
 }

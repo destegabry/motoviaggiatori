@@ -1,26 +1,26 @@
 ---
-import { Markdown } from "astro/components";
 import { Author } from "../../entities/Author";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Picture from "../../components/Picture.astro";
 import PostList from "../../components/PostList.astro";
 
 export async function getStaticPaths() {
-  const allAuthors = await Astro.fetchContent<Author>(
+  const allAuthors = await Astro.glob<Author>(
     "../../../content/authors/*.md"
   );
 
   const paths = [];
   allAuthors.forEach((author) => {
     paths.push({
-      params: { slug: author.slug },
-      props: author,
+      params: { slug: author.frontmatter.slug },
+      props: { author },
     });
   });
   return paths;
 }
 
-const { title, slug, content, avatar, links } = Astro.props as Author;
+const { Content } = Astro.props.author;
+const { title, slug, avatar, links } = Astro.props.author.frontmatter as Author;
 ---
 <BaseLayout title={title} previewImage={avatar} itemscope itemtype="http://schema.org/Person">
   <div class="data-wrapper">
@@ -57,7 +57,7 @@ const { title, slug, content, avatar, links } = Astro.props as Author;
         </ul>
       )}
       <div itemprop="description">
-        <Markdown content={content.source} />
+        <Content />
       </div>
     </div>
   </div>

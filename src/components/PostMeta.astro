@@ -1,31 +1,44 @@
 ---
 import { parse, formatFullDate } from '../utils/date';
-import { Post } from '../entities/Post';
+const { post } = Astro.props;
+const date = parse(post.frontmatter.date);
 
-const { post } = Astro.props as { post: Post };
-const date = parse(post.date);
-const { author, categories } = post;
+const { author, categories } = post.frontmatter;
 ---
 <div class="post-meta">
   { date && (<time datetime={date.toISOString()} itemprop="datePublished" >{formatFullDate(date)}</time>)}
-  /
   <span
     itemprop="author"
     itemscope
     itemtype="https://schema.org/Person"
-  ><a
-    href={`/autore/${author.slug}`}
-    title={`Guarda tutti i post di ${author.title}`}
-    itemprop="url"
-    rel="author"><span itemprop="name">{author.title}</span></a></span>
-  /
+  >
+    <a
+      href={`/autore/${author.frontmatter.slug}`}
+      title={`Guarda tutti i post di ${author.frontmatter.title}`}
+      itemprop="url"
+      rel="author"
+    ><span itemprop="name">{author.frontmatter.title}</span></a>
+  </span>
   <span itemprop="keywords">
     {categories.map((category) => (
-      <span><a
-        href={`/categoria/${category.slug}`}
-        title={`Guarda i post nella categoria ${category.title}`}
-        rel="category"
-      >{category.title}</a>&comma; </span>
+      <span>
+        <a
+          href={`/categoria/${category.frontmatter.slug}`}
+          title={`Guarda i post nella categoria ${category.frontmatter.title}`}
+          rel="category"
+        >{category.frontmatter.title}</a>
+      </span>
     ))}
   </span>
 </div>
+<style>
+.post-meta > *:not(:first-child)::before {
+  content: "/";
+}
+[itemprop="keywords"] > * {
+  display: inline-block;
+}
+[itemprop="keywords"] > *:not(:last-child)::after {
+  content: ", ";
+}
+</style>

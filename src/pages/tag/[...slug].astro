@@ -1,18 +1,17 @@
 ---
-import { Markdown } from "astro/components";
 import { Tag } from "../../entities/Tag";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import PostList from "../../components/PostList.astro";
 
 export async function getStaticPaths() {
-  const allCategories = await Astro.fetchContent<Tag>(
+  const allTags = await Astro.glob<Tag>(
     "../../../content/tags/*.md"
   );
 
   const paths = [];
-  allCategories.forEach((tag) => {
+  allTags.forEach((tag) => {
     paths.push({
-      params: { slug: tag.slug },
+      params: { slug: tag.frontmatter.slug },
       props: {
         tag,
       },
@@ -21,11 +20,12 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { title, slug, content } = Astro.props.tag as Tag;
+const { Content } = Astro.props.tag;
+const { title, slug } = Astro.props.tag.frontmatter as Tag;
 ---
 
 <BaseLayout title={title}>
   <h1>{title}</h1>
-  <Markdown content={content.source} />
+  <Content />
   <PostList filter={{ tag: slug }} />
 </BaseLayout>

@@ -1,5 +1,5 @@
 ---
-import { MarkdownPost } from "../entities/Post";
+import { RawPost } from "../entities/Post";
 import { Author } from "../entities/Author";
 import { Category } from "../entities/Category";
 import { Tag } from "../entities/Tag";
@@ -19,28 +19,27 @@ interface PostListProps {
 const { filter, limit } = Astro.props as PostListProps;
 const offset = Astro.props.offset ?? 0;
 
-const allPosts = await Astro.fetchContent<MarkdownPost>(
+const allPosts = await Astro.glob<RawPost>(
   "../../content/posts/*.md"
 );
-const allAuthors = await Astro.fetchContent<Author>(
+const allAuthors = await Astro.glob<Author>(
   "../../content/authors/*.md"
 );
-const allCategories = await Astro.fetchContent<Category>(
+const allCategories = await Astro.glob<Category>(
   "../../content/categories/*.md"
 );
-const allTags = await Astro.fetchContent<Tag>(
+const allTags = await Astro.glob<Tag>(
   "../../content/categories/*.md"
 );
 
 const filteredPosts = filter ? allPosts.filter((post) => {
   return (
-    (!filter.author || post.author === filter.author) &&
-    (!filter.category || post.categories.indexOf(filter.category) > -1) &&
-    (!filter.tag || post.tags.indexOf(filter.tag) > -1)
+    (!filter.author || post.frontmatter.author === filter.author) &&
+    (!filter.category || post.frontmatter.categories.indexOf(filter.category) > -1) &&
+    (!filter.tag || post.frontmatter.tags.indexOf(filter.tag) > -1)
   );
 }) : allPosts;
-
-filteredPosts.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
+filteredPosts.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.date));
 
 const postList = enhancePosts(
   limit ? filteredPosts.slice(offset, offset + limit) : filteredPosts,
@@ -49,6 +48,16 @@ const postList = enhancePosts(
   allTags
 );
 ---
-<>
-  {postList.map((post) => <PostPreview post={post} />)}
-</>
+<ul>
+  {postList.map((post) => <li><PostPreview post={post} /></li>)}
+</ul>
+<style>
+  ul {
+    padding: 0;
+  }
+
+  li {
+    margin: 0;
+    list-style: none;
+  }
+</style>
