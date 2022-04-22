@@ -1,6 +1,6 @@
 module.exports = {
   plugins: {
-    "postcss-logical": { dir: 'ltr' },
-    "autoprefixer": {},
+    "postcss-logical": { dir: "ltr" },
+    autoprefixer: {},
   },
 };

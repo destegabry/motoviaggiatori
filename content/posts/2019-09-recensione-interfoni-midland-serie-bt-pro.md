@@ -8,12 +8,12 @@ disclaimer: >-
   **Nota**: i dispositivi recensiti sono stati messi a disposizione da CTE International gratuitamente
 date: 2019-09-04T21:00:00.000Z
 categories:
-- recensioni
-- recensioni/gadget
+  - recensioni
+  - recensioni/gadget
 tags:
-- midland
-- interfoni
-- casco
+  - midland
+  - interfoni
+  - casco
 ---
 
 ## La gamma Midland
@@ -26,34 +26,34 @@ Oggi gli interfoni moto Midland nascono in Italia, più precisamente nel quartie
 ![Interfono Midland BTX2 PRO S](/assets/uploads/2019/09/recensione-interfoni-midland-serie-bt-pro/galleries/hardware/midland_btx2_pro_s_side.jpg)
 ![Interfono Midland BT NEXT PRO](/assets/uploads/2019/09/recensione-interfoni-midland-serie-bt-pro/galleries/hardware/midland_bt_next_pro_side.jpg)
 
-Il **BT NEXT PRO** è l'attuale top di gamma, mentre **BTX1 PRO S** e **BTX2 PRO S** sono un sostanzioso aggiornamento rispetto ai *vecchi* BTX1 PRO e BTX2 PRO: sono migliorate di molto ergonomia, portata e funzionalità Bluetooth.
+Il **BT NEXT PRO** è l'attuale top di gamma, mentre **BTX1 PRO S** e **BTX2 PRO S** sono un sostanzioso aggiornamento rispetto ai _vecchi_ BTX1 PRO e BTX2 PRO: sono migliorate di molto ergonomia, portata e funzionalità Bluetooth.
 
 Tutti gli interfoni della linea PRO condividono lo stesso kit audio da inserire nel casco e la slitta di connessione, rendendoli perfettamente intercambiabili tra loro; le caratteristiche sono molte e il sistema più pratico per mostrarvele tutte è una buona, vecchia tabella corredata da spiegazione delle varie voci:
 
-|                           |    BTX1 PRO S    |    BTX2 PRO S    |   BT  NEXT PRO   |
-|---------------------------|------------------|------------------|------------------|
-|    **Portata massima**    |       800m       |       1200m      |       1600m      |
-| **Intercom punto-punto**  |     3 persone    |    6 persone     |    6 persone     |
-|  **Intercom conferenza**  |     3 persone    |    8 persone     |    8 persone     |
-|     **Talk to all**       |        ✓         |        ✓         |        ✓         |
-|         **DNK**           |        ✓         |        ✓         |        ✓         |
-|         **AGC**           |        ✓         |        ✓         |        ✓         |
-|         **VOX**           |        ✓         |        ✓         |        ✓         |
-|    **Chip Bluetooth**     | v4.2 single chip |  v4.2 dual chip  |  v4.2 dual chip  |
-| **Dispositivi Bluetooth** |        2         |        2         |        2         |
-|    **Audio Background**   |       mono       |       AD2P       |       AD2P       |
-|       **Radio FM**        |        ✓         |        ✓         |        ✓         |
-|      **Waterproof**       |       IPX6       |       IPX6       |       IPX6       |
-|      **Stop Light**       |        ✗         |        ✗         |        ✓         |
-|      **BTT button**       |        ✗         |        ✗         |        ✓         |
-|      **Autonomia**        |       23 ore     |      23 ore      |       20 ore     |
-|    **FW Aggiornabile**    |        ✓         |        ✓         |        ✓         |
-|    **Prezzo singolo**     |      €168,99     |     €228,99      |      €279,00     |
-|     **Prezzo TWIN**       |      €288,99     |     €419,00      |      €459,00     |
+|                           | BTX1 PRO S       | BTX2 PRO S     | BT NEXT PRO    |
+| ------------------------- | ---------------- | -------------- | -------------- |
+| **Portata massima**       | 800m             | 1200m          | 1600m          |
+| **Intercom punto-punto**  | 3 persone        | 6 persone      | 6 persone      |
+| **Intercom conferenza**   | 3 persone        | 8 persone      | 8 persone      |
+| **Talk to all**           | ✓                | ✓              | ✓              |
+| **DNK**                   | ✓                | ✓              | ✓              |
+| **AGC**                   | ✓                | ✓              | ✓              |
+| **VOX**                   | ✓                | ✓              | ✓              |
+| **Chip Bluetooth**        | v4.2 single chip | v4.2 dual chip | v4.2 dual chip |
+| **Dispositivi Bluetooth** | 2                | 2              | 2              |
+| **Audio Background**      | mono             | AD2P           | AD2P           |
+| **Radio FM**              | ✓                | ✓              | ✓              |
+| **Waterproof**            | IPX6             | IPX6           | IPX6           |
+| **Stop Light**            | ✗                | ✗              | ✓              |
+| **BTT button**            | ✗                | ✗              | ✓              |
+| **Autonomia**             | 23 ore           | 23 ore         | 20 ore         |
+| **FW Aggiornabile**       | ✓                | ✓              | ✓              |
+| **Prezzo singolo**        | €168,99          | €228,99        | €279,00        |
+| **Prezzo TWIN**           | €288,99          | €419,00        | €459,00        |
 
 - **Portata massima**: è la massima distanza a cui è possibile comunicare in uno spazio aperto senza ostacoli per una comunicazione precedentemente stabilita, nel mondo reale questo valore è ridotto dai disturbi che inevitabilmente incotrerete sulla strada; la distanza massima a cui si può stabilire una nuova comunicazione è circa 400 m.
-- **Intercom punto-punto**: è il numero massimo di interfoni abbinabili al proprio, permettendo una comunicazione *privata* con ciascuno di questi.
-- **Intercom conferenza**: è il numero massimo di interfoni che è possibile concatenare per avviare una comunicazione *pubblica* in conferenza.
+- **Intercom punto-punto**: è il numero massimo di interfoni abbinabili al proprio, permettendo una comunicazione _privata_ con ciascuno di questi.
+- **Intercom conferenza**: è il numero massimo di interfoni che è possibile concatenare per avviare una comunicazione _pubblica_ in conferenza.
 - **Talk to all**: permette di abbinare e comunicare con interfoni di altre marche.
 - **DNK**: Digital Noise Killer, un algoritmo di riduzione del rumore che elimina fino all'80% del fruscio di sottofondo; nella pratica si traduce in comunicazioni chiare e buon ascolto della musica anche a velocità autostradali.
 - **AGC**: Automatic Gain Control, regola automaticamente il volume a seconda dell'intensità del rumore di fondo, liberando il motociclista dal doverlo fare manualmente all'aumentare della velocità.
@@ -82,24 +82,24 @@ Il kit audio Midland è il medesimo per tutta la linea BT PRO, è composto da un
 
 Sulla calotta del casco va incollata una slitta adesiva con i contatti per la centralina che è il cuore vero e proprio del sistema. Rispetto alla serie precendete di interfoni Midland, questa slitta rende molto agevole rimuovere l'interfono dal casco per evitare di lasciarlo in bella vista mentre il casco "riposa" legato alla moto.
 
-I 3 modelli provati condividono le principali funzionalità: interfono, telefono, radio FM e come visto differiscono per qualche caratteristica più o meno importante; il passaggio tra una modalità e l'altra si effettua tenendo premuto il tasto *centrale* per 5 secondi.
+I 3 modelli provati condividono le principali funzionalità: interfono, telefono, radio FM e come visto differiscono per qualche caratteristica più o meno importante; il passaggio tra una modalità e l'altra si effettua tenendo premuto il tasto _centrale_ per 5 secondi.
 
-Tenendo premuto il tasto *centrale* per almeno 10 secondi si entra in modalità setup, con cui è possibile associare i vari dispositivi (altri interfoni, cellulari o GPS tramite il Bluetooth). Nelle confenzioni *TWIN* i due interfoni sono già associati sul tasto centrale. La conferenza tra più di 2 dispositivi è possibile "concatenando" i dispositivi come negli esempi:
+Tenendo premuto il tasto _centrale_ per almeno 10 secondi si entra in modalità setup, con cui è possibile associare i vari dispositivi (altri interfoni, cellulari o GPS tramite il Bluetooth). Nelle confenzioni _TWIN_ i due interfoni sono già associati sul tasto centrale. La conferenza tra più di 2 dispositivi è possibile "concatenando" i dispositivi come negli esempi:
 
 ![Midland BT PRO Conference esempio 1](/assets/uploads/2019/09/recensione-interfoni-midland-serie-bt-pro/galleries/software/midland_conference_chain_1.png "Associazione per conferenza tra 4 moto")
 ![Midland BT PRO Conference esempio 2](/assets/uploads/2019/09/recensione-interfoni-midland-serie-bt-pro/galleries/software/midland_conference_chain_2.png "Associazione per conferenza tra 3 moto ed 1 passeggero")
 
 Le opzioni di configurazione sono molte e vi rimandiamo ai [tutorial](https://www.youtube.com/playlist?list=PLfMdKqfglKNvoMev8H928BnfoZtSLWwy6) e manuali ufficiali per scoprire tutte le possibilità a seconda del modello: [BTX1 PRO S](https://www.midlandeurope.com/pub/media/Lyb/Assets/ManualiProdotti/BT/BTX1_PRO_S//MANUAL_BTX1%20PRO%20S.pdf), [BTX2 PRO S](https://www.midlandeurope.com/pub/media/Lyb/Assets/ManualiProdotti/BT/BTX2_PRO_S//MANUAL_BTX2%20PRO%20S.pdf), [BT NEXT PRO](https://www.midlandeurope.com/pub/media/Lyb/Assets/ManualiProdotti/BT/BT_NEXT_PRO//Manual_BT%20NEXT%20PRO.pdf).
 
-Nella modalità **interfono** è sufficiente parlare a voce alta per attivare la comunicazione con l'interfono associato sul tasto centrale (l'attivazione non è istantanea, richiede circa 1 secondo e viene emesso un bip di conferma), oppure premere uno dei 3 tasti principali per aprire la conversazione con l'interfono corrispondente… sempre che *all'atro capo della connessione radio* il destinataio non stia già parlando con qualcuno: in tal caso si riceve un tono di *occupato*, mentre il destinatario verrà avvisato del tentativo di chiamata.
+Nella modalità **interfono** è sufficiente parlare a voce alta per attivare la comunicazione con l'interfono associato sul tasto centrale (l'attivazione non è istantanea, richiede circa 1 secondo e viene emesso un bip di conferma), oppure premere uno dei 3 tasti principali per aprire la conversazione con l'interfono corrispondente… sempre che _all'atro capo della connessione radio_ il destinataio non stia già parlando con qualcuno: in tal caso si riceve un tono di _occupato_, mentre il destinatario verrà avvisato del tentativo di chiamata.
 
-Dalla modalità interfono è possibile attivare la modalità **conference** tenendo premuto il tasto *avanti* per 7 secondi, a quel punto basterà premere indifferentemente il tasto *avanti* o *indietro* per attivare la comunicazione tra tutti i dispositivi agganciati alla "catena".
+Dalla modalità interfono è possibile attivare la modalità **conference** tenendo premuto il tasto _avanti_ per 7 secondi, a quel punto basterà premere indifferentemente il tasto _avanti_ o _indietro_ per attivare la comunicazione tra tutti i dispositivi agganciati alla "catena".
 
-In modalità **telefono** il tasto *avanti* attiva l'assistente vocale del proprio dispositivo (ad esempio Siri o Google Assistant) ed effettuare molte operazione utilizzando semplicemente la propria voce. Utilizzando il tasto *centrale* è possibile riprodurre la musica salvata sul proprio dispotivo (e utilizzare i tasti *avanti* e *indietro*) per controllarne la riproduzione.
+In modalità **telefono** il tasto _avanti_ attiva l'assistente vocale del proprio dispositivo (ad esempio Siri o Google Assistant) ed effettuare molte operazione utilizzando semplicemente la propria voce. Utilizzando il tasto _centrale_ è possibile riprodurre la musica salvata sul proprio dispotivo (e utilizzare i tasti _avanti_ e _indietro_) per controllarne la riproduzione.
 
-Per rispondere ad una telefonata in ingresso è sufficiente pronunciare una parola a voce alta (se la funzione VOX è attiva) o premere indifferentemente il tasto *avanti* o *indietro*; per rifiutarla bisogna tenerli premuti per 3 secondi. Associando un telefono sul tasto *vol +* le telefonate in arrivo avranno la priorità assoluta su tutte le comunicazioni in corso.
+Per rispondere ad una telefonata in ingresso è sufficiente pronunciare una parola a voce alta (se la funzione VOX è attiva) o premere indifferentemente il tasto _avanti_ o _indietro_; per rifiutarla bisogna tenerli premuti per 3 secondi. Associando un telefono sul tasto _vol +_ le telefonate in arrivo avranno la priorità assoluta su tutte le comunicazioni in corso.
 
-In modalità **radio FM** il tasto *centrale* accende/spegne la ricezione, i pulsanti  *avanti* e *indietro* permettono di ricercare nuove stazioni (pressione breve) o passare ad un'altra stazione memorizzata (pressione lunga).
+In modalità **radio FM** il tasto _centrale_ accende/spegne la ricezione, i pulsanti _avanti_ e _indietro_ permettono di ricercare nuove stazioni (pressione breve) o passare ad un'altra stazione memorizzata (pressione lunga).
 
 ## Il nostro test
 
@@ -112,11 +112,11 @@ Fissiamo le centraline con le slitte adesive in dotazione, si sposano bene con l
 
 Gli interfoni mostrano subito le loro qualità nel lungo viaggio in autostrada fino ad Ancona. La qualità dell'audio è migliorata tantissimo rispetto alla vecchia generazione di interfoni Midland, si riesce a comunicare con naturalezza anche ai 130km/h: merito dei rinnovati speaker di maggiore potenza (a scapito di un po' di rumore elettrostatico che si può percepire a moto spenta e volume al massimo), ma soprattutto dell'algoritmo di sopressione del rumore del vento! Si può testarlo chiudendo e riaprendo la comunicazione con il passeggero mentre si viaggia a velocità sostenute: per i primi secondi si sentirà un marcato fruscio provenire dalle cuffie, che però svanisce quasi magicamente in qualche istante.
 
-La conferenza è un po' macchinosa da attivare dato che bisogna interrompere la comunicazione corrente, attivare la modalità *conference* premendo il tasto *avanti* per 7 secondi e poi attivarla premento il tasto *avanti* o *indietro*… abbiamo spesso trovato più pratico parlare direttamente con un pilota e chiedere di fare il *passaparola* con l'altro. Probabilmente per gruppi di viaggiatori senza passeggero potrebbe essere sensato rimanere in modalità *conferenza* tutto il tempo e aprire sempre la comunicazione con tutti.
+La conferenza è un po' macchinosa da attivare dato che bisogna interrompere la comunicazione corrente, attivare la modalità _conference_ premendo il tasto _avanti_ per 7 secondi e poi attivarla premento il tasto _avanti_ o _indietro_… abbiamo spesso trovato più pratico parlare direttamente con un pilota e chiedere di fare il _passaparola_ con l'altro. Probabilmente per gruppi di viaggiatori senza passeggero potrebbe essere sensato rimanere in modalità _conferenza_ tutto il tempo e aprire sempre la comunicazione con tutti.
 
 In viaggio l'interfono serve a parlare comandamente con i propri compagni d'avventura, segnalare pericoli o imprevisti, rendere meno noiosi i trasferimenti autostradali, ricevere indicazioni dal navigatore senza staccare gli occhi dalla strada… ma diventa un accessorio molto valido nell'utilizzo quotidiano della moto: non solo ricevere telefonate alla guida, ma anche inviare messaggi o richiedere informazioni attraverso Siri o Google Assistant.
 
-L'autonomia dei dispositivi è alta, permette sempre di arrivare a fine giornata anche se lo si utilizza molto. Nella pratica si traduce in 3-4 giorni di utilizzo reale in viaggio. Il livello stato batteria viene *annunciato* dagli altoparlanti delle cuffie ad ogni accensione. La ricarica basata su comuni cavi Micro USB ha il vantaggio di essere praticamente universale e permette di caricare l'interfono anche con con la presa 12V della moto o un powerbank.
+L'autonomia dei dispositivi è alta, permette sempre di arrivare a fine giornata anche se lo si utilizza molto. Nella pratica si traduce in 3-4 giorni di utilizzo reale in viaggio. Il livello stato batteria viene _annunciato_ dagli altoparlanti delle cuffie ad ogni accensione. La ricarica basata su comuni cavi Micro USB ha il vantaggio di essere praticamente universale e permette di caricare l'interfono anche con con la presa 12V della moto o un powerbank.
 
 Abbiamo fatto qualche test della luce di stop di emergenza effettuando inchiodate in situazioni controllate, purtroppo l'accensione automatica ci è sembrata poco affidabile. Potrebbe essere più utile una modalità "lampeggiante" da attivare manualmente per essere più visibili di notte.
 
@@ -144,6 +144,6 @@ Contro:
 
 Ci piacerebbe:
 
-- selettore modalità basato su cursore o *rotellona*
+- selettore modalità basato su cursore o _rotellona_
 - ricarica wireless o connettore USB-C
 - radio digitale Dab+

@@ -6,11 +6,11 @@ featured_image: /assets/uploads/2022/01/recensione-yamaha-xt1200z-super-tenere-2
 excerpt: Pedigree dakariano per una moto da viaggio comoda e versatile
 date: 2022-01-04T14:00:00.000Z
 categories:
-- recensioni
-- recensioni/moto
+  - recensioni
+  - recensioni/moto
 tags:
-- yamaha
-- yamaha-xt-1200z-super-tenere
+  - yamaha
+  - yamaha-xt-1200z-super-tenere
 ---
 
 ## Un po’ di storia
@@ -128,7 +128,7 @@ Le barre laterali migliori per questa moto sono, in ordine di efficacia:
 - [Givi](https://amzn.to/3ERWsqY)
 - [Touratech](https://shop.touratech.it/barra-paracilindro-e-paramotore-in-acciaio-inox-per-yamaha-xt1200z-super-tenere/)
 
-Se piace affrontare qualche sterrato, uno *skid plate* per proteggere la parte inferiore del motore è anche qui caldamente suggerito. I tre più usati sono:
+Se piace affrontare qualche sterrato, uno _skid plate_ per proteggere la parte inferiore del motore è anche qui caldamente suggerito. I tre più usati sono:
 
 - L’originale Yamaha, a cui si possono applicare delle estensioni
 - Il [Givi](https://amzn.to/3HDcJC5), simile all’originale, su alcuni foum si leggono lamentele sullo spazio tra lamiera e filtro olio: è troppo esiguo, con una botta si rischia di danneggiare il filtro
@@ -184,7 +184,7 @@ Da portare sempre con sè:
 
 ### Varie
 
-Se vogliamo dare alla nostra *Tenerona* (nomignolo affibbiatole dai possessori italiani) un aspetto più adventure, consiglio due accessori:
+Se vogliamo dare alla nostra _Tenerona_ (nomignolo affibbiatole dai possessori italiani) un aspetto più adventure, consiglio due accessori:
 
 - la [protezione faro a griglia](https://amzn.to/3DhYIIg): evita che le pietre lo rovinino, l’unico inconveniente è che su strada non è omologato, ma in off-road si può usare senza problemi
 - Le [clip para collettori](https://amzn.to/3qBlxTG)
@@ -195,4 +195,4 @@ Ci sono le [Givi Trekker Lights](https://amzn.to/3wPTUqR) oppure gli [Interphone
 
 Le lampadine LED hanno i dissipatori che allungano la forma della lampada e non permettono il montaggio dei tappi di tenuta del faro, bisogna quindi comprare dei [tappi maggiorati](https://www.motocustom.it/?T=Tappo-maggiorato-faro-Yamaha-XT1200&H=1955) o scegliere delle lampadine più corte.
 
-Se si ha in programma di fare un viaggio lungo, magari in posti con venti molto forti, un cupolino maggiorato accompagnato da [deflettori laterali](https://s.click.aliexpress.com/e/_AOnlvA) per togliere aria dalle spalle, aumenterà il comfort sui trasferimenti autostradali.  Io uso un [cupolino maggiorato](https://amzn.to/349GAU2) (Kappa o Givi, sono identici) che fa egregiamente il suo lavoro, i deflettori invece sono prodotti artigianalmente in vetroresina.
+Se si ha in programma di fare un viaggio lungo, magari in posti con venti molto forti, un cupolino maggiorato accompagnato da [deflettori laterali](https://s.click.aliexpress.com/e/_AOnlvA) per togliere aria dalle spalle, aumenterà il comfort sui trasferimenti autostradali. Io uso un [cupolino maggiorato](https://amzn.to/349GAU2) (Kappa o Givi, sono identici) che fa egregiamente il suo lavoro, i deflettori invece sono prodotti artigianalmente in vetroresina.

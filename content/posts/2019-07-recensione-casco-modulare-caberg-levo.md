@@ -8,14 +8,14 @@ opening: >-
   Sono passati più di 6 mesi dal [primo contatto](/2018/12/esclusivo-primo-contatto-con-il-casco-caberg-levo) con il casco Caberg LEVO, lo abbiamo messo alla prova durante un [viaggio in Turchia](/categoria/viaggi/turchia) da 5500km in 18 giorni e durante tutte le uscite del 2019: finalmente siamo pronti a raccontarvi come va!
 date: 2019-07-11T08:00:00.000Z
 categories:
-- recensioni
-- recensioni/caschi
+  - recensioni
+  - recensioni/caschi
 tags:
-- caberg-helmets
-- caberg-levo
-- casco
-- made-in-italy
-- sicurezza
+  - caberg-helmets
+  - caberg-levo
+  - casco
+  - made-in-italy
+  - sicurezza
 disclaimer: >-
   **Nota**: i caschi recensiti sono stati messi a disposizione da Caberg Helmets gratuitamente.
 ---
@@ -35,9 +35,9 @@ Partiamo dalla caratteristica principale, la **grande visiera panoramica**: il C
 ![Caberg LEVO Carbon - vista laterale](/assets/uploads/2019/07/recensione-casco-modulare-caberg-levo/galleries/carbon/Levo-Carbon-profile.jpg)
 ![Caberg LEVO Carbon - vista posteriore](/assets/uploads/2019/07/recensione-casco-modulare-caberg-levo/galleries/carbon/Levo-Carbon-rear.jpg)
 
-L'inverno piemontese non è il massimo per viaggiare in moto, ma le basse temperature ed il clima poco clemente ci permettono di testare subito le caratteristiche di ventilazione e resistenza alla pioggia. Aprendo le prese d'aria frontali e posteriori si percepisce un **buon flusso d'aria** che attraversa la calotta del casco; lasciando la visiera appoggiata sul *dentino* di chiusura si crea una microventilazione sul viso del pilota.
+L'inverno piemontese non è il massimo per viaggiare in moto, ma le basse temperature ed il clima poco clemente ci permettono di testare subito le caratteristiche di ventilazione e resistenza alla pioggia. Aprendo le prese d'aria frontali e posteriori si percepisce un **buon flusso d'aria** che attraversa la calotta del casco; lasciando la visiera appoggiata sul _dentino_ di chiusura si crea una microventilazione sul viso del pilota.
 
-**Ottima la resistenza all'acqua**, ma bisogna ricordarsi di chiudere per bene l'ampia visiera facendo scattare il suddetto *dentino*. Diverse ore di pioggia battente in autostrada non hanno messo in difficoltà il LEVO.
+**Ottima la resistenza all'acqua**, ma bisogna ricordarsi di chiudere per bene l'ampia visiera facendo scattare il suddetto _dentino_. Diverse ore di pioggia battente in autostrada non hanno messo in difficoltà il LEVO.
 
 Gli interni sono di alta qualità, completamente ipoallergenici, removibli e lavabili. Igiene e pulizia del casco sono molto semplici dato che visiera e imbottiture si smontano facilmente. In viaggio abbiamo usato il [kit di pulizia Muc-Off](https://amzn.to/2G25C8Q) per le visiere e lo [spray Motul M2](https://amzn.to/2YH7Ph7) per igienizzare gli interni.
 
@@ -48,7 +48,7 @@ I guanciali sono foderati in Coolmax®, un tessuto molto traspirante che **sping
 ![Estrattori aria Caberg LEVO](/assets/uploads/2019/07/recensione-casco-modulare-caberg-levo/galleries/aerazione/IMG_3892.jpg "Due estrattori posteriori lasciano fuoriuscire l'aria calda dal Caberg LEVO")
 ![Interno calotta Caberg LEVO](/assets/uploads/2019/07/recensione-casco-modulare-caberg-levo/galleries/aerazione/IMG_3882.jpg "Smontando gli interni si possono vedere i canali per la circolazione dell'aria e la predisposizione per l'interfono")
 
-I caschi modulari non brillano per leggerezza e silenziosità, tuttavia il Caberg LEVO non sfigura affatto con i suoi **1450 gr di peso** (nella versione CARBON) ed una ridotta rumorosità; l'aerodinamica del casco è ben studiata e l'imbottitura *taglia* le alte frequenze smorzando molto il fischio del vento. Le nostre maxi enduro sono dotate di alti cupolini che creano rumorose turbolenze e non sono il massimo per apprezzare la silenziosità di questo casco, ma basta alzarsi sulle pedane per rendersi conto di quanto filtri bene il rumore.
+I caschi modulari non brillano per leggerezza e silenziosità, tuttavia il Caberg LEVO non sfigura affatto con i suoi **1450 gr di peso** (nella versione CARBON) ed una ridotta rumorosità; l'aerodinamica del casco è ben studiata e l'imbottitura _taglia_ le alte frequenze smorzando molto il fischio del vento. Le nostre maxi enduro sono dotate di alti cupolini che creano rumorose turbolenze e non sono il massimo per apprezzare la silenziosità di questo casco, ma basta alzarsi sulle pedane per rendersi conto di quanto filtri bene il rumore.
 
 Il casco è **predisposto per l'utilizzo di interfoni** con centraline esterne, rimuovendo la fodera interna si trovano i passanti per i cavi e gli alloggiamenti per cuffie e microfono. Durante i test abbiamo utilizzato interfoni [Midland BT Next Pro](https://amzn.to/2YLHfDG): l'alta qualità degli speaker e la silenziosità del Caberg LEVO permettono di comunicare perfettamente tra piloti di moto diverse anche a velocità autostradali.
 
@@ -70,7 +70,7 @@ Non abbiamo avuto la possibilità di testare la versione CARBON, ma il LEVO in f
 
 La calzata del casco è molto precisa, consigliamo di provarlo in negozio dato che gli interni non tendono a cedere molto.
 
-Il rapporto qualità/prezzo è ottimo, la lente antiappannamento Pinlock® in formato *extralarge* è di serie.
+Il rapporto qualità/prezzo è ottimo, la lente antiappannamento Pinlock® in formato _extralarge_ è di serie.
 
 Se stai cercando un casco modulare di alta gamma per viaggiare, vallo a toccare con mano!
 
@@ -97,18 +97,18 @@ Se stai cercando un casco modulare di alta gamma per viaggiare, vallo a toccare 
 
 ### Taglie disponibili
 
-| Calotta piccola | |  Calotta grande  | |
-|--------|---------|---------|---------|
-| **XS** | 53/54cm | **L**   | 59/60cm |
-| **S**  | 55/56cm | **XL**  | 61/62cm |
-| **M**  | 57/58cm | **XXL** | 63/64cm |
+| Calotta piccola |         | Calotta grande |         |
+| --------------- | ------- | -------------- | ------- |
+| **XS**          | 53/54cm | **L**          | 59/60cm |
+| **S**           | 55/56cm | **XL**         | 61/62cm |
+| **M**           | 57/58cm | **XXL**        | 63/64cm |
 
 ### Peso dichiarato
 
-|                 | LEVO composite fibre |   LEVO CARBON   |
-|-----------------|----------------------|-----------------|
-| calotta piccola |    **1550±50gr**     |  **1450±50gr**  |
-| calotta grande  |    **1650±50gr**     |  **1550±50gr**  |
+|                 | LEVO composite fibre | LEVO CARBON   |
+| --------------- | -------------------- | ------------- |
+| calotta piccola | **1550±50gr**        | **1450±50gr** |
+| calotta grande  | **1650±50gr**        | **1550±50gr** |
 
 ### Colori
 

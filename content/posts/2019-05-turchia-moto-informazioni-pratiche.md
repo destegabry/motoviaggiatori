@@ -11,17 +11,17 @@ opening: >-
 
   In questo articolo non ci dilungheremo sulle meraviglie dell'Asia Minore per concentrarci sulle informazioni necessarie ad organizzare il tuo viaggio in Turchia.
 categories:
-- viaggi
-- viaggi/turchia
+  - viaggi
+  - viaggi/turchia
 tags:
-- asia
-- cappadocia
-- europa-orientale
-- istanbul
-- pamukkale
-- turchia
-- informazioni-pratiche
-- turchia-in-moto
+  - asia
+  - cappadocia
+  - europa-orientale
+  - istanbul
+  - pamukkale
+  - turchia
+  - informazioni-pratiche
+  - turchia-in-moto
 ---
 
 ## Documenti necessari
@@ -30,13 +30,13 @@ Per entrare in Turchia da Grecia e Bulgaria è sufficiente la **carta d'identit�
 
 L'importazione temporanea di un veicolo privato è concessa senza alcuna documentazione doganale per un periodo massimo di 3 mesi, tuttavia il numero di targa viene annotato sul passaporto oppure su un foglietto che deve essere presentato al momento dell'uscita dal Paese. Il veicolo deve essere tassativamente esportato dalla persona che ne ha effettuato l'importazione, per cui è meglio stipulare un'assicurazione aggiuntiva che copra un eventuale rimpatrio della moto.
 
-Tutte le assicurazioni italiane dovrebbero offrire copertura per la Turchia per cui non dovrebbe essere necessario stipulare una RC moto aggiuntiva all'entrata del Paese, ma è meglio verificare che la sigla "TR" non sia barrata sulla propria *carta verde*.
+Tutte le assicurazioni italiane dovrebbero offrire copertura per la Turchia per cui non dovrebbe essere necessario stipulare una RC moto aggiuntiva all'entrata del Paese, ma è meglio verificare che la sigla "TR" non sia barrata sulla propria _carta verde_.
 
 Prima di partire è sempre meglio controllare la valitità di queste informazioni sul sito della Farnesina [Viaggiare Sicuri](http://www.viaggiaresicuri.it/paesi/dettaglio/turchia.html).
 
 ## Traghetti
 
-Viaggiare in traghetto permette di risparmiare parecchie centinaia di chilometri di guida, ma soprattutto viaggiare di notte dormendo *comodamente*.
+Viaggiare in traghetto permette di risparmiare parecchie centinaia di chilometri di guida, ma soprattutto viaggiare di notte dormendo _comodamente_.
 
 Dall'Italia non esistono traghetti che portano direttamente in Turchia, ma è possibile accorciare un po' il percorso con le rotte che dal porto di Ancona, Bari e Brindisi portano in Croazia, Montenegro, Albania e Grecia. Nel nostro viaggio abbiamo navigato sulle tratte Ancona-Spalato ([SNAV](https://www.snav.it)) e Igoumenitsa-Ancona ([Grimaldi Lines](https://www.grimaldi-lines.com/it) o [ANEK](https://anekitalia.com)).
 
@@ -52,7 +52,7 @@ La nave Chios-Atene parte la sera ed il viaggio dura tutta la notte; la tratta �
 
 ## Storia, cultura ed economia
 
-La penisola anatolica fu parte della *Mezzaluna Fertile*, culla di molte civiltà già in epoca preistorica. Il sito archeologico di Çatalhöyük fu la sede di una delle prime città della Storia, abitata da almeno diecimila persone nel 7000 AC. Nell'odierna Turchia si svilupparono Ittiti, Frigi, Traci, Lidi, Armeni ed Elleni (Greci). Incorporata negli Imperi persiano, macedone, romano e bizantino, l'Asia Minore rimase sotto l'egemonia ottomana dal XIV al XX secolo.
+La penisola anatolica fu parte della _Mezzaluna Fertile_, culla di molte civiltà già in epoca preistorica. Il sito archeologico di Çatalhöyük fu la sede di una delle prime città della Storia, abitata da almeno diecimila persone nel 7000 AC. Nell'odierna Turchia si svilupparono Ittiti, Frigi, Traci, Lidi, Armeni ed Elleni (Greci). Incorporata negli Imperi persiano, macedone, romano e bizantino, l'Asia Minore rimase sotto l'egemonia ottomana dal XIV al XX secolo.
 
 La Prima Guerra Mondiale lasciò l'Impero devastato e in poco tempo venne smembrato dalle potenze vincitrici. Mustafa Kemal Atatürk organizzò un esercito nazionalista e nel 1922 depose il sultano e isituì la Repubblica di Turchia, trasfomando il Paese in una nazione laica e moderna (al costo della totale repressione delle opposizioni e pesanti violenze contro le minoranze).
 
@@ -69,7 +69,7 @@ Le moschee sono visitabili dai turisti (non durante l'orario di preghiera), a pa
 
 ## Lingua
 
-La lingua ufficiale è il Turco, idioma piuttosto incomprensibile per mancanza di affinità con le lingue europee. L'alfabeto è un'estensione di quello latino, per cui i nomi di città e piatti risultano *quasi* leggibili.
+La lingua ufficiale è il Turco, idioma piuttosto incomprensibile per mancanza di affinità con le lingue europee. L'alfabeto è un'estensione di quello latino, per cui i nomi di città e piatti risultano _quasi_ leggibili.
 
 Nei centri turistici si parlano un po' tutte le lingue e **con l'inglese ci si riesce a capire senza problemi**; alcuni turchi masticano un po' di Italiano e Spagnolo. La maggior parte dei ristoranti espone foto dei piatti per semplificare la vita agli avventori stranieri.
 
@@ -117,13 +117,13 @@ Non mancano formaggi e prodotti da forno, su tutti vale la pena citare il simit 
 
 La Turchia è un Paese a maggioranza musulmana, per cui può capitare di non trovare alcolici in alcuni locali. Vengono prodotti ottimi vini e birre, ma troverete soprattutto çay (tè nero prodotto sulla costa orientale del Mar Nero), ayran (bevanda a base di yogurt, acqua e sale), spremute d’arancia e melograno fresche, bibite in bottiglia.
 
-Il caffè turco si prepara facendo bollire l'acqua e versandoci direttamente il caffè macinato finemente: si serve in tazza e si attende che il *fondo* si depositi, per poi sorbirlo lentamente. Non ha niente a che vedere con il l'espresso a cui siamo abituati in Italia.
+Il caffè turco si prepara facendo bollire l'acqua e versandoci direttamente il caffè macinato finemente: si serve in tazza e si attende che il _fondo_ si depositi, per poi sorbirlo lentamente. Non ha niente a che vedere con il l'espresso a cui siamo abituati in Italia.
 
 Gli alberghi sono molto economici, le categorie corrispondono abbastanza a quelle europee. È possibile prenotare con Booking.com dall'estero ma non dalla Turchia per ragioni fiscali (limite aggirabile con una VPN come [F-Secure Freedome](https://www.f-secure.com/en/home/products/freedome)), non dovrebbero esserci problemi con Airbnb.
 
 ## Cappadocia in Mongolfiera
 
-Volare in mongolfiera tra i *camini delle fate* del Göreme Milli Parkı è un sogno condiviso da molti, purtroppo non è così semplice da realizzare: **i posti sono limitati** e i voli vengono annullati in caso di condizioni meteorologiche incerte.
+Volare in mongolfiera tra i _camini delle fate_ del Göreme Milli Parkı è un sogno condiviso da molti, purtroppo non è così semplice da realizzare: **i posti sono limitati** e i voli vengono annullati in caso di condizioni meteorologiche incerte.
 
 Si vola al mattino presto per godere della vista mozzafiato delle falesie illuminate dalle prime luci dell’alba, per cui tutti i tour prevedono pick-up in hotel verso le 4 del mattino e colazione vicino al punto di decollo.
 
@@ -137,13 +137,13 @@ Nel caso non si riuscisse ad ottenere un posto, è possibile ammirare le mongolf
 
 Un altro classico turco è la cerimonia del Samāʿ, rito effettuato dai monaci sufisti che cercano di raggiungere uno stato di estasi mistica danzando vorticosamente su se stessi.
 
-Per assistere ad un’autentico rito bisogna recarsi a Konya il sabato sera o durante il festival che si tiene a dicembre. Nei luoghi turistici è possibile vedere la danza dei Dervisci praticamente tutti i giorni; in Cappadocia li trovate al *Saruhan Kervansaray* di Avanos.
+Per assistere ad un’autentico rito bisogna recarsi a Konya il sabato sera o durante il festival che si tiene a dicembre. Nei luoghi turistici è possibile vedere la danza dei Dervisci praticamente tutti i giorni; in Cappadocia li trovate al _Saruhan Kervansaray_ di Avanos.
 
 ## Pamukkale
 
 Famosissima per le vasche naturali di acqua termale, a Pamukkale si trovano anche le rovine dell'antica Hierapolis, importante città ellenistica e poi Romana.
 
-Sulla sommità del *castello di cotone* si possono ammirare un teatro romano, le rovine del *martyrion* dell'apostolo Filippo, una vasta necropoli e le sorgenti di acqua calda che sgorgano dal terreno e danno vita alle curiose formazioni di calcare e travertino.
+Sulla sommità del _castello di cotone_ si possono ammirare un teatro romano, le rovine del _martyrion_ dell'apostolo Filippo, una vasta necropoli e le sorgenti di acqua calda che sgorgano dal terreno e danno vita alle curiose formazioni di calcare e travertino.
 
 Dall'abitato di Pamukkale è possibile raggiungere le vasche pagando un biglietto e **camminando a piedi nudi** sulla roccia bianca. Nelle vasche è possible fare il bagno, l'acqua più calda si trova in quelle situate vicino alla sorgente (ovvero quelle più in alto). Se avete intenzione di visitare le rovine ricordatevi di portare un paio di scarpe con voi.
 

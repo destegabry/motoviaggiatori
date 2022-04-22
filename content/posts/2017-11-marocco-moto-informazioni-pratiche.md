@@ -18,13 +18,13 @@ opening: >-
 
   In questo articolo non ci dilungheremo sulle meraviglie conosciute durante il nostro [#MaroccoInMoto](/tag/marocco-in-moto), ma elencheremo un po’ di informazioni pratiche per facilitare l’organizzazione del tuo viaggio… o per convincerti a partire!
 categories:
-- viaggi
-- viaggi/marocco
+  - viaggi
+  - viaggi/marocco
 tags:
-- africa
-- marocco
-- informazioni-pratiche
-- marocco-in-moto
+  - africa
+  - marocco
+  - informazioni-pratiche
+  - marocco-in-moto
 ---
 
 ## Documenti necessari
@@ -73,7 +73,7 @@ Anche nelle zone più remote siamo sempre riusciti a farci capire con un po di i
 
 ## Valuta
 
-La valuta del Marocco è il Dirham: *1€ vale circa 11dh*, per cui dividendo i prezzi marocchini per 10 otterrai un valore in euro leggermente superiore a quello che effettivamente pagherai. Facile no?
+La valuta del Marocco è il Dirham: _1€ vale circa 11dh_, per cui dividendo i prezzi marocchini per 10 otterrai un valore in euro leggermente superiore a quello che effettivamente pagherai. Facile no?
 
 È possibile cambiare Euro in Dirham in tutte le banche e gli sportelli dei cambia valute a tassi molto convenienti. Il bancomat e le carte di credito sono accettate in pochissimi negozi per cui bisogna fare affidamento solo sul contante.
 
@@ -134,7 +134,7 @@ Considerata l’estrema gentilezza e ospitalità dei marocchini suppongo che rim
 
 ## Mangiare, bere e dormire
 
-Il cibo marocchino è molto speziato e stracotto. I sapori inzialmente ti sembreranno nuovi e affascinanti, ma dopo qualche giorno di *cous cous*, *tajine*, tè alla menta, datteri e stucchevoli dolci al miele scoprirai che **la cucina marocchina è piuttosto monotona** ed i sapori si assomigliano molto.
+Il cibo marocchino è molto speziato e stracotto. I sapori inzialmente ti sembreranno nuovi e affascinanti, ma dopo qualche giorno di _cous cous_, _tajine_, tè alla menta, datteri e stucchevoli dolci al miele scoprirai che **la cucina marocchina è piuttosto monotona** ed i sapori si assomigliano molto.
 
 Si trova cibo ovunque, a tutte le ore, spendendo davvero poco. Nelle grandi città si possono trovare ristoranti moderni e cucine alternative a quella marocchina.
 
@@ -152,7 +152,7 @@ L’**acqua in bottiglia ha un prezzo calmierato**, in mezzo al deserto come in 
 
 Gli **alberghi sono molto economici**, ma bisogna aspettarsi standard di qualità e pulizia inferiore a quelli europei.
 
-Nelle medine è possibile dormire all’interno dei *rihad, antiche abitazioni con cortile interno, che solitamente offrono la colazione e la possibilità di cenare.*
+Nelle medine è possibile dormire all’interno dei _rihad, antiche abitazioni con cortile interno, che solitamente offrono la colazione e la possibilità di cenare._
 
 Fuori città si può alloggiare in alcune kasbah convertite ad albergo, oppure in campeggi attrezzati con camere da letto. Il prezzo di una piazzola grande per 2 moto, 2 tende e colazione è lo stesso di una camera doppia.
 

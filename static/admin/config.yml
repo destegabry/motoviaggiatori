@@ -42,11 +42,7 @@ collections:
         display_fields: [title]
         multiple: true
       - { name: featured_image, label: Featured image, widget: image }
-      - {
-          name: featured_youtube,
-          label: Featured YouTube video,
-          required: false,
-        }
+      - { name: featured_youtube, label: Featured YouTube video, required: false }
       - { name: excerpt, label: Excerpt }
       - name: opening
         label: Opening

@@ -9,19 +9,19 @@ opening: >-
   [Lasciata alle spalle la fiabesca Cappadocia](/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara), rientriamo in Italia passando per i monti del Tauro, Pamukkale, Efeso, Chios e le Meteore.
 author: stefania
 categories:
-- viaggi
-- viaggi/turchia
-- video
+  - viaggi
+  - viaggi/turchia
+  - video
 tags:
-- turchia-in-moto
-- bmw-r1200gs
-- bmw-f800gs
-- honda-xl-700-transalp
-- turchia
-- europa-orientale
-- grecia
-- pamukkale
-- efeso
+  - turchia-in-moto
+  - bmw-r1200gs
+  - bmw-f800gs
+  - honda-xl-700-transalp
+  - turchia
+  - europa-orientale
+  - grecia
+  - pamukkale
+  - efeso
 ---
 
 ![Percorso Turchia ritorno](/assets/uploads/2020/02/turchia-moto-ritorno-tauro-pamukkale-efeso-chios-meteore/percorso.png "Dal lago di Beyşehir a Torino passando per i monti del Tauro, Pamukkale, Efeso, Chios e le Meteore")
@@ -49,7 +49,7 @@ Lasciamo questo luogo bucolico e, dopo aver costeggiato un tratto del lago Eğir
 
 Il luogo appare decisamente turistico, sembra che tutte le strutture del borgo siano B&B, alberghi e/o ristoranti. Il nostro B&B è abbastanza accogliente, è a conduzione familiare, alle camere si accede da dei terrazzi che affacciano sul cortile interno con piscina. La piscina non viene pulita da un po' quindi non è utilizzabile ma, poco male, il nostro obiettivo è metterci a bagno nelle vasche naturali poco distanti. Decidiamo di riposare un pochino e di rimandare la visita del sito per godere dei colori del tramonto.
 
-All'ingresso bisogna togliere le scarpe e proseguire scalzi per non sporcare le candide formazioni rocciose. L'acqua nelle vasche è a diverse temperature e l'aria esterna non è caldissima, per cui alla fine metteremo solo i piedi a bagno. Il luogo è davvero suggestivo, anche se  è abbastanza affollato e molte delle pozze di travertino sono vuote. Proseguendo verso la cima della collina si arriva al sito archeologico dell'antica città di Hierapolis. La città è dominata da un magnifico teatro romano e si possono notare ovunque i canali che portavano l'acqua termale in città. I colori del fieno e dei papaveri al tramonto rendono la vista incantevole. Torniamo indietro e continuiamo a passeggiare tra le vasche azzurre finché possiamo, così quando arriviamo all'ingresso è ormai buio. All'ingresso incontriamo un altro motoviaggiatore italiano, Roberto. Avevamo notato la sua Ténéré parcheggiata in un campeggio. Lo invitiamo a cenare con noi al nostro B&B e così passiamo la serata a scambiarci i racconti dei rispettivi viaggi.
+All'ingresso bisogna togliere le scarpe e proseguire scalzi per non sporcare le candide formazioni rocciose. L'acqua nelle vasche è a diverse temperature e l'aria esterna non è caldissima, per cui alla fine metteremo solo i piedi a bagno. Il luogo è davvero suggestivo, anche se è abbastanza affollato e molte delle pozze di travertino sono vuote. Proseguendo verso la cima della collina si arriva al sito archeologico dell'antica città di Hierapolis. La città è dominata da un magnifico teatro romano e si possono notare ovunque i canali che portavano l'acqua termale in città. I colori del fieno e dei papaveri al tramonto rendono la vista incantevole. Torniamo indietro e continuiamo a passeggiare tra le vasche azzurre finché possiamo, così quando arriviamo all'ingresso è ormai buio. All'ingresso incontriamo un altro motoviaggiatore italiano, Roberto. Avevamo notato la sua Ténéré parcheggiata in un campeggio. Lo invitiamo a cenare con noi al nostro B&B e così passiamo la serata a scambiarci i racconti dei rispettivi viaggi.
 
 Presso il B&B è parcheggiata la moto di un altro italiano, membro del motoclub ["Gatti Neri"](http://www.gattineri.net/), che purtroppo ha avuto un brutto incidente poco distante da qui ed è stato portato in Italia per essere curato. Gabriele riesce a contattarlo e fa da tramite con il proprietario del B&B per definire i dettagli dell'organizzazione del rientro del mezzo in Italia.
 
@@ -171,7 +171,7 @@ In questo viaggio abbiamo messo alla prova alcuni prodotti dei nostri partner te
 - interfoni [Midland](https://www.midlandeurope.com/it) BT Next Pro, BTX1 Pro S e BTX2 Pro S: audio chiarissimo a tutte le andature con la possibilità di parlare in conferenza tra i piloti delle moto, davvero ottimi e consigliati
 - molle progressive [Hyperpro](https://hyperpro.com): un upgrade enorme rispetto alle molle originali della BMW R1200GS, migliorano moltissimo il comportamento della moto in curva senza ridurre il comfort di marcia grazie al coefficiente elastico che cambia a seconda della forza esercitata sulla molla, costano poco ma rendono molto (distribuite da [Rinolfi](https://www.rinolfi.it))
 - pastiglie freno [Brembo](http://brembo.com/it) in mescola LA: sinterizzate e specifiche per i freni anteriori delle moto da turismo, frenano forte dopo pochi km di rodaggio e promettono durata superiore (distribuite da [Motorquality](http://www.motorquality.it))
-- cupolino maggiorato Adventure [WRS](https://wrs.it) per  BMW R1200GS: permette di rilassarsi parecchio quando si viaggia a velocità sostenute, alleggerendo il carico sulla muscolatura cervicale e riducendo il rumore causato dalla turbolenza, l'archetto di sostegno permette di montare navigatori&co senza ostruire la strumentazione della moto
-- olio motore [Putoline](https://www.putoline.com/) SPORT 4 15W-50: semi-sintetico (API SL, JASO MA2), la BMW R1200GS non ne ha *mangiato* una goccia nei 7000km percorsi dal tagliando (distribuito da [Rinolfi](https://www.rinolfi.it))
+- cupolino maggiorato Adventure [WRS](https://wrs.it) per BMW R1200GS: permette di rilassarsi parecchio quando si viaggia a velocità sostenute, alleggerendo il carico sulla muscolatura cervicale e riducendo il rumore causato dalla turbolenza, l'archetto di sostegno permette di montare navigatori&co senza ostruire la strumentazione della moto
+- olio motore [Putoline](https://www.putoline.com/) SPORT 4 15W-50: semi-sintetico (API SL, JASO MA2), la BMW R1200GS non ne ha _mangiato_ una goccia nei 7000km percorsi dal tagliando (distribuito da [Rinolfi](https://www.rinolfi.it))
 - S.M.A.R.T. IAT di [Belinassu](http://www.belinassu.it): una sonda plug&play che migliora il tiro del motore ai bassi e medi regimi ingrassando la miscela, semplice da installare e completamente reversibile
 - pneumatici [Anlas](http://anlas.com/it/) Capra RD e Capra R: gomme stradali che non disdegnano off-road leggero, ottimo feeling anche su bagnato, il consumo nei 5500km del viaggio è stato regolare

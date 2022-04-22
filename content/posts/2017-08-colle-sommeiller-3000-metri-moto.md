@@ -9,45 +9,46 @@ featured_youtube: XSlkYcXqHe8
 excerpt: "Itinerario off-road in alta montagna, si raggiunge la quota di 3000 m tra sterrati, guadi e single track."
 opening: Itinerario off-road in alta montagna, si raggiunge la quota di 3000 m tra sterrati, guadi e single track.
 categories:
-- itinerari
-- itinerari/italia
-- itinerari/italia/nord-ovest
-- video
+  - itinerari
+  - itinerari/italia
+  - itinerari/italia/nord-ovest
+  - video
 tags:
-- 250-km
-- 1-giorno
-- alpi-cozie
-- bmw-r1200gs
-- colle-del-sommeiller
-- strada-del-sommeiller
-- italia
-- montagna
-- off-road
-- piemonte
-- strada-bianca
-- torino
-- val-di-susa
-- video
-- xiaomi-yi
+  - 250-km
+  - 1-giorno
+  - alpi-cozie
+  - bmw-r1200gs
+  - colle-del-sommeiller
+  - strada-del-sommeiller
+  - italia
+  - montagna
+  - off-road
+  - piemonte
+  - strada-bianca
+  - torino
+  - val-di-susa
+  - video
+  - xiaomi-yi
 attributes:
-- key: Percorrenza
-  value: A/R 240 km (di cui circa 40 km su strade bianche)
-- key: Tempo
-  value: 6 ore
-- key: Periodo
-  value: "1 maggio – 30 novembre (salvo neve)<br>Nel periodo 15 luglio – 30 agosto: orario 9 – 17 e <strong>chiusura al traffico tutti i giovedì</strong>"
-- key: Abbigliamento
-  value: Consigliato abbigliamento multistrato
-- key: Rifornimenti
-  value: Benzinai presenti fino a Bardonecchia
+  - key: Percorrenza
+    value: A/R 240 km (di cui circa 40 km su strade bianche)
+  - key: Tempo
+    value: 6 ore
+  - key: Periodo
+    value: "1 maggio – 30 novembre (salvo neve)<br>Nel periodo 15 luglio – 30 agosto: orario 9 – 17 e <strong>chiusura al traffico tutti i giovedì</strong>"
+  - key: Abbigliamento
+    value: Consigliato abbigliamento multistrato
+  - key: Rifornimenti
+    value: Benzinai presenti fino a Bardonecchia
 ---
+
 <iframe style="border: none; overflow-y: hidden; background-color: white; min-width: 320px; max-width: 800px; width: 100%; height: 420px;" src="https://www.gaiagps.com/datasummary/track/83fcdfc5254f8920d6dff475e0f54372/?embed=True" width="300" height="150" scrolling="no" seamless="seamless"></iframe>
 
-Dopo [Strada dell’Assietta](/2016/09/strada-assietta-off-road-alta-quota/) e [Col de l’Iseran](/2016/09/moncenisio-iseran-piccolo-san-bernardo/) siamo andati a provare l’*ennesima* strada più alta d’Europa… In effetti questa strada bianca a pagamento permette di portare *quasi* qualunque mezzo alla quota di 3000 metri sul mare.
+Dopo [Strada dell’Assietta](/2016/09/strada-assietta-off-road-alta-quota/) e [Col de l’Iseran](/2016/09/moncenisio-iseran-piccolo-san-bernardo/) siamo andati a provare l’_ennesima_ strada più alta d’Europa… In effetti questa strada bianca a pagamento permette di portare _quasi_ qualunque mezzo alla quota di 3000 metri sul mare.
 
 <p class="message info"><strong>Nota:</strong> il Colle del Sommeiller si trova alla quota di 2993 o 3009 metri a seconda dell’interpretazione… noi non faremo i pignoli e scriveremo 3000 m. Lasciamo al lettore il compito di tornare sul posto per misurare esattamente la quota.</p>
 
-Per *“quasi qualunque mezzo”* si intendono moto e auto non particolarmente basse, ma senza essere mezzi dedicati all’off-road: in punta alla strada c’era addirittura una Vespa targata Lussemburgo.
+Per _“quasi qualunque mezzo”_ si intendono moto e auto non particolarmente basse, ma senza essere mezzi dedicati all’off-road: in punta alla strada c’era addirittura una Vespa targata Lussemburgo.
 
 ![In Vespa al Sommeiller](/assets/uploads/2017/08/colle-sommeiller-3000-metri-moto/galleries/0/0.jpg "In Vespa a 3000 metri: eroe vero")
 
@@ -75,11 +76,11 @@ In alternativa è possibile percorrere tutta l’autostrada A32 Torino-Bardonecc
 
 Arrivati a Bardonecchia **sgonfiamo gli pneumatici per avere più grip** sul fondo sterrato. Seguendo le indicazioni per Rochemolles la statale si stringe, fino a diventare un piccolo nastro di asfalto nel bosco.
 
-Poco dopo la piccola frazione di Rochemolles inizia lo sterrato: il fondo è di terra compatta, coperto da un po’ di pietrisco. Ogni tanto la strada è attraversata da canali per lo scolo dell’acqua piuttosto accentuati, se presi *allegramente* fanno saltare la moto: scopro che la R1200GS non è particolarmente adatta a volare, il baricentro è molto spostato sull’anteriore.
+Poco dopo la piccola frazione di Rochemolles inizia lo sterrato: il fondo è di terra compatta, coperto da un po’ di pietrisco. Ogni tanto la strada è attraversata da canali per lo scolo dell’acqua piuttosto accentuati, se presi _allegramente_ fanno saltare la moto: scopro che la R1200GS non è particolarmente adatta a volare, il baricentro è molto spostato sull’anteriore.
 
 Superati i primi tornanti immersi nel bosco si arriva alla diga e lago di Rochemolles (quota 1974 m). Il livello dell’acqua è piuttosto basso, l’estate dev’essere stata molto secca anche da queste parti. Senza la protezione degli alberi la strada viene arsa dal sole, **le moto alzano polveroni** che ci costringono a rallentare parecchio per non riempire di terra i numerosi escursionisti che incrociamo.
 
-Proseguiamo fino al bivio per il Rifugio Scarfiotti: qui è posta una casetta dove pagare il *pedaggio* per proseguire sulla Strada del Sommeiller. Optiamo per rimandare il pagamento prendendo la strada a sinistra, dopo una discesa leggera attraversiamo un piccolo guado sul Torrente di Rochemolles ed eccoci al rifugio per una meritata pausa caffè.
+Proseguiamo fino al bivio per il Rifugio Scarfiotti: qui è posta una casetta dove pagare il _pedaggio_ per proseguire sulla Strada del Sommeiller. Optiamo per rimandare il pagamento prendendo la strada a sinistra, dopo una discesa leggera attraversiamo un piccolo guado sul Torrente di Rochemolles ed eccoci al rifugio per una meritata pausa caffè.
 
 Il Rifugio Scarfiotti (quota 2165 m) è situato al fondo del Pian du Fond, incastonato in un anfiteatro di montagne a picco. Dal bastione di roccia dietro il rifugio scende un’imponente cascata che si forma dall’unione del Rio della Balma ed il Rio di Fond. È un luogo ideale per passare qualche ora a rilassarsi e prendere il sole. Infatti troviamo molti ciclisti a riposarsi e fare scorta d’acqua alla fontana.
 
@@ -87,7 +88,7 @@ Da qui parte un itinerario geologico ad anello che permette di scoprire le parti
 
 ## Rifugio Scarfiotti – Colle dell’Assietta
 
-Attraversiamo nuovamente il guado e ci fermiamo al *casello* per versare l’obolo di €5 al Comune di Bardonecchia. Iniziamo la scalata con stretti tornanti circondati da cespugli di rododendri ed un panorama mozzafiato, fermandoci molte volte per fotografare la cascata ed il vallone del rifugio Scarfiotti.
+Attraversiamo nuovamente il guado e ci fermiamo al _casello_ per versare l’obolo di €5 al Comune di Bardonecchia. Iniziamo la scalata con stretti tornanti circondati da cespugli di rododendri ed un panorama mozzafiato, fermandoci molte volte per fotografare la cascata ed il vallone del rifugio Scarfiotti.
 
 ![Cascata rifugio Scarfiotti](/assets/uploads/2017/08/colle-sommeiller-3000-metri-moto/galleries/2/0.jpg "La cascata al fondo del Pian du Fond")
 ![Tornanti rifugio Scarfiotti](/assets/uploads/2017/08/colle-sommeiller-3000-metri-moto/galleries/2/1.jpg "Stretti tornanti portano dal rifugio Scarfiotti al Pian dei Morti")
@@ -129,7 +130,7 @@ Portatevi la crema solare!
 
 Il ritorno si fa per forza sulla stessa strada dell’andata: il Colle del Sommeiller è raggiungibile soltanto dal versante italiano e non c’è modo di proseguire in Francia.
 
-Scendendo *taglio* un paio di tornanti sui sentieri single track che abbondando prima del Pian dei Frati e scopro che i canali di scolo si prestano meglio ai salti rispetto alla salita.
+Scendendo _taglio_ un paio di tornanti sui sentieri single track che abbondando prima del Pian dei Frati e scopro che i canali di scolo si prestano meglio ai salti rispetto alla salita.
 
 ![Single track Sommeiller](/assets/uploads/2017/08/colle-sommeiller-3000-metri-moto/galleries/7/0.jpg "Single track Sommeiller")
 ![Rododendri Scarfiotti](/assets/uploads/2017/08/colle-sommeiller-3000-metri-moto/galleries/7/1.jpg "I rododendri che colorano i tornanti “la rousse” tra il Pian dei Morti ed il rifugio Scarfiotti")

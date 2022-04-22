@@ -8,33 +8,34 @@ featured_image: /assets/uploads/2019/02/col-del-lis-e-dintorni-di-lanzo-in-moto/
 excerpt: "120 km ed un’infinità di curve: un bel giro in moto a due passi da Torino!"
 opening: "Approfittando delle temperature invernali anomale e con la scusa di testare l’equipaggiamento delle moto per il prossimo viaggio, abbiamo percorso un breve ma scenografico itinerario a due passi dal capoluogo piemontese."
 categories:
-- itinerari
-- itinerari/italia
-- itinerari/italia/nord-ovest
+  - itinerari
+  - itinerari/italia
+  - itinerari/italia/nord-ovest
 tags:
-- 150-km
-- alpi
-- alpi-cozie
-- bmw-f800gs
-- bmw-r1200gs
-- italia
-- mezza-giornata
-- piemonte
-- torino
-- val-di-susa
-- valli-di-lanzo
+  - 150-km
+  - alpi
+  - alpi-cozie
+  - bmw-f800gs
+  - bmw-r1200gs
+  - italia
+  - mezza-giornata
+  - piemonte
+  - torino
+  - val-di-susa
+  - valli-di-lanzo
 attributes:
-- key: Percorrenza
-  value: 120 km
-- key: Tempo
-  value: 3-4 ore
-- key: Periodo
-  value: Tutto l’anno
-- key: Abbigliamento
-  value: Multistrato (si superano i 1300 metri di quota)
-- key: Rifornimenti
-  value: Benzinai su tutto il percorso
+  - key: Percorrenza
+    value: 120 km
+  - key: Tempo
+    value: 3-4 ore
+  - key: Periodo
+    value: Tutto l’anno
+  - key: Abbigliamento
+    value: Multistrato (si superano i 1300 metri di quota)
+  - key: Rifornimenti
+    value: Benzinai su tutto il percorso
 ---
+
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1sCzlXPdP1Gm3EB4pa7Gz49aJ5wxgxNuw" width="100%" height="480"></iframe>
 
 Siamo a fine febbraio e le temperature non lo dimostrano affatto: dopo una settimana chiuso in ufficio a rimpiangere il bel sole e le temperature miti del mondo esterno, chiamo Simone e gli impongo un giretto in moto nel weekend.
@@ -79,7 +80,7 @@ Sugli stretti tornanti della SP30 apprezziamo i benefici della IAT modificata, m
 
 Vorremmo raggiungere il Lago dell’Amiantifera di Balangero, bacino artificiale creato nella voragine di quella che fu la più grande cava di amianto d’Europa. Fortunatamente l’amministrazione pubblica ha provveduto a sbarrare tutta la zona per evitare a due incoscienti motociclisti di respirare a pieni polmoni in una zona ricca di polveri di asbesto.
 
-> *«C’era amianto dappertutto, come una neve cinerina: se si lasciava per qualche ora un libro su di un tavolo, e poi lo si toglieva, se ne trovava il profilo in negativo; i tetti erano coperti da uno spesso strato di polverino, che nei giorni di pioggia si imbeveva come una spugna, ed un tratto franava violentemente a terra».*
+> _«C’era amianto dappertutto, come una neve cinerina: se si lasciava per qualche ora un libro su di un tavolo, e poi lo si toglieva, se ne trovava il profilo in negativo; i tetti erano coperti da uno spesso strato di polverino, che nei giorni di pioggia si imbeveva come una spugna, ed un tratto franava violentemente a terra»._
 >
 > Primo Levi
 

@@ -7,29 +7,30 @@ author: miral
 featured_image: /assets/uploads/2019/01/natale-in-turchia/galleries/IMG_9323.jpeg
 excerpt: In Turchia su asfalto e sterrato, visitando Istanbul, Cappadocia e siti archeologici niente male!
 categories:
-- viaggi
-- viaggi/turchia
+  - viaggi
+  - viaggi/turchia
 tags:
-- 1-settimana
-- bmw-r1200gs
-- cappadocia
-- efeso
-- eubea
-- europa-orientale
-- grecia
-- istanbul
-- magnesia
-- pamukkale
-- troia
-- turchia
+  - 1-settimana
+  - bmw-r1200gs
+  - cappadocia
+  - efeso
+  - eubea
+  - europa-orientale
+  - grecia
+  - istanbul
+  - magnesia
+  - pamukkale
+  - troia
+  - turchia
 ---
+
 Poco prima di Natale ceniamo con alcuni amici motociclisti e ognuno racconta cosa ha deciso di fare per le festività natalizie. C’è chi le trascorrerà a casa, chi si dedicherà a sistemare casa visto il recente trasloco, chi ha prenotato la settimana bianca, e poi c’è chi è ancora indeciso e sta consultando varie proposte turistiche per magari cogliere l’occasione di rilassarsi in una SPA.
 
 Quando poi, fatto il giro della tavolata, tocca a noi esporre cosa faremo a Natale, abbiamo quasi timore a dirlo perché sappiamo come andrà a finire e quindi con voce fine, quasi bisbigliandolo diciamo: “andremo in moto in Turchia”… e qui si scatenano le mille domande tra le risate e la baldoria tipiche di una serata tra amici i quali ci chiedono: ma non sarà freddo? Ma è un paese sicuro? E se nevica?
 
 Non abbiamo risposte a tutto, ma solo un po’ di informazioni lette qua e là e qualche previsione. Comprendiamo che gran parte delle persone vorrebbe viaggiare conoscendo ciò che li aspetta, ma questo è un lusso di cui facciamo volentieri a meno (sarebbe un limite alla nostra sete di scoperta e di avventura).
 
-Viaggiare ci ha permesso di conoscerci e di crescere, quindi oggi viviamo i viaggi con molta semplicità giorno per giorno. Se lungo il nostro viaggio incontreremo degli ostacoli, valuteremo se affrontarli o aggirarli. Ogni situazione ci renderà felici perché stiamo viaggiando.  
+Viaggiare ci ha permesso di conoscerci e di crescere, quindi oggi viviamo i viaggi con molta semplicità giorno per giorno. Se lungo il nostro viaggio incontreremo degli ostacoli, valuteremo se affrontarli o aggirarli. Ogni situazione ci renderà felici perché stiamo viaggiando.
 
 E’ da anni che trascorriamo il Natale in moto. Noi siamo di Vicenza e tendiamo a dirigerci verso sud,  dove viaggiare in moto è sicuramente più piacevole, grazie alle temperature più miti.
 
@@ -119,7 +120,7 @@ In centro paese percorriamo una bella strada sterrata che ci porta al Lago salat
 
 L’indomani con la luce del sole la vista della Cappadocia è ancora più meravigliosa. Partiamo per un trekking che ci vedrà impegnati fino alle ore 16.00. Alcuni trasferimenti verranno gentilmente offerti dalle persone del luogo che vedendoci a piedi ci chiederanno se abbiamo bisogno di un passaggio.
 
- Il silenzio di questo luogo è così assordante che sembra ti spacchi i timpani. La gente che incrociamo ci sorride e ci offre il tè caldo. Le persone non parlano inglese, ma esprimono alla perfezione con lo sguardo e il sorriso la loro accoglienza allo straniero. Accoglienza, semplicità, non serve tanto per disegnare un quadro  che si può scovare solo in pochi posti al mondo.
+Il silenzio di questo luogo è così assordante che sembra ti spacchi i timpani. La gente che incrociamo ci sorride e ci offre il tè caldo. Le persone non parlano inglese, ma esprimono alla perfezione con lo sguardo e il sorriso la loro accoglienza allo straniero. Accoglienza, semplicità, non serve tanto per disegnare un quadro  che si può scovare solo in pochi posti al mondo.
 
 Da Çavusin partono diversi itinerari da percorrere a piedi, che ci portano alla scoperta dei famosi Camini delle Fate, o della Red and Rose Valley . Oltre a Çavusin c’è il famoso parco nazionale di Goreme che visitiamo. Ne vale la pena. Poi è possibile visitare la Pigeon Valley, che prende il suo nome dalle centinaia di piccioni che nidificano nella vallata. E come non nominare Urgup, una cittadina poco distante da Goreme dove poter vedere le bellissime chiese e le case incastonate nella roccia.  Ho lasciato per ultima la perla di questa Cappadocia;  Uchisar che considero forse la città più suggestiva della Cappadocia, arroccata su di un piccolo monte. È un gioiello che sotto certi aspetti assomiglia molto a Matera.
 
@@ -176,14 +177,14 @@ Torniamo in hotel per le ore 11.30 e partiamo in moto direzione Bodrum. Le strad
 ![Butrint](/assets/uploads/2019/01/natale-in-turchia/galleries/IMG_9585.jpeg "Butrint")
 ![Butrint](/assets/uploads/2019/01/natale-in-turchia/galleries/IMG_9574.jpeg "Butrint")
 
-Il giorno seguente ci dirigiamo verso Alacati e lungo il percorso andiamo a visitare il sito archeologico di *Magnesia* e successivamente quello di *Efeso*.
+Il giorno seguente ci dirigiamo verso Alacati e lungo il percorso andiamo a visitare il sito archeologico di _Magnesia_ e successivamente quello di _Efeso_.
 
 L’entrata a Magnesia è gratuita ed è possibile visitare l’antico tempio dedicato ad Artemide, l’Altare di Pergamo, il tempio dedicato a Zeus, dell’agorà, il teatro e il *prytaneion* (ovvero l’edificio in cui veniva custodito il fuoco sacro che non poteva mai essere spento). Si tratta di un sito all’aperto, che potrebbe essere curato meglio.
 
 ![Sito archeologico di Magnesia](/assets/uploads/2019/01/natale-in-turchia/galleries/IMG_9607.jpeg "Sito archeologico di Magnesia")
 ![Sito archeologico di Magnesia](/assets/uploads/2019/01/natale-in-turchia/galleries/IMG_9609.jpeg "Sito archeologico di Magnesia")
 
-Solo 30 Km separano Magnesia da Efeso e quindi il trasferimento è rapido. Efeso si sviluppa in lunghezza su una collina. Per evitare di salire sulla collina e ridiscenderla per la stessa strada, abbiamo preferito farci accompagnare nell’entrata superiore di Efeso visitando il sito scendendo dalla collina. Il sito è molto bello e molto curato.  Efeso era una città con un porto commerciale di grande interesse e un centro culturale e religioso di spicco.  È possibile visitare l’agorà, i resti dell’antico acquedotto, il teatro minore (*Odeon*), il teatro grande, e l’*asclepion* ovvero l’ospedale.
+Solo 30 Km separano Magnesia da Efeso e quindi il trasferimento è rapido. Efeso si sviluppa in lunghezza su una collina. Per evitare di salire sulla collina e ridiscenderla per la stessa strada, abbiamo preferito farci accompagnare nell’entrata superiore di Efeso visitando il sito scendendo dalla collina. Il sito è molto bello e molto curato.  Efeso era una città con un porto commerciale di grande interesse e un centro culturale e religioso di spicco.  È possibile visitare l’agorà, i resti dell’antico acquedotto, il teatro minore (_Odeon_), il teatro grande, e l’_asclepion_ ovvero l’ospedale.
 
 La Biblioteca di Celso è l’opera più bella e suggestiva da vedere. La struttura che rimane è davvero imponente e bellissima, sebbene sia stata completamente ricostruita utilizzando i reperti ritrovati, comprese le statue che l’adornavano. Era la terza biblioteca più grande del mondo e ospitava circa 12.000 pergamene.
 
@@ -206,7 +207,7 @@ La nostra giornata di visite non finisce qui, perché 30 minuti prima della chiu
 ![Sito archeologico di Troia](/assets/uploads/2019/01/natale-in-turchia/galleries/IMG_9767.jpeg "Sito archeologico di Troia")
 ![Sito archeologico di Troia](/assets/uploads/2019/01/natale-in-turchia/galleries/IMG_9787.jpeg "Sito archeologico di Troia")
 
-Il giorno seguente prendiamo il traghetto a Canakkale dove veniamo traghettati sulla penisola di *Gallipoli*. In mare ci sono una gran quantità di meduse, di varie dimensioni, tutte di colore viola.
+Il giorno seguente prendiamo il traghetto a Canakkale dove veniamo traghettati sulla penisola di _Gallipoli_. In mare ci sono una gran quantità di meduse, di varie dimensioni, tutte di colore viola.
 
 Arrivati a Kilitbahir andiamo a visitare il castello il cui nome (kilid al-bahr) significa qualcosa come “serratura del mare”, è stato costruito nel 1462 sulla sponda occidentale del Dardanelli nel punto più stretto, di fronte a Canakkale, dove c’è un’altra fortezza: questo permetteva di controllare il traffico, da sempre di eccezionale importanza strategica. La struttura della fortezza centrale è molto particolare con le sue mura trilobate e la torre centrale quasi triangolare. Il castello ha subito vari restauri e fino agli inizi del 2018 non era visitabile.
 
@@ -266,6 +267,6 @@ Concludo con due riflessioni:
 
 La prima è una ammissione di ignoranza, in quanto credevo di trovare una Turchia più simile ai territori africani, invece questa terrà mi ha sorpreso per la sua capacità di accogliere il turista mettendogli a  disposizione strutture e strumenti utili al soggiorno. La rete stradale l’ho trovata buona, ben segnalata con distributori di benzina presenti e costanti in tutto il territorio. La gente disponibile al dialogo e all’aiuto. In nessuna occasione mi sono sentito in Turchia, perché mi sono sempre sentito a casa, ben accolto e in totale sicurezza.
 
-La seconda è una consapevolezza sempre più forte, che l’Italia sia ferma. Ferma a quello che hanno fatto i nostri nonni, ferma alle abitudini, aggrappata alle convinzioni che gli altri sono ignoranti, che ognuno deve badare a se stesso fregandosene di chi ha vicino. Stiamo perdendo il valore della famiglia, delle tradizioni, dell’amicizia. Esiste solo il ME STESSO.  
+La seconda è una consapevolezza sempre più forte, che l’Italia sia ferma. Ferma a quello che hanno fatto i nostri nonni, ferma alle abitudini, aggrappata alle convinzioni che gli altri sono ignoranti, che ognuno deve badare a se stesso fregandosene di chi ha vicino. Stiamo perdendo il valore della famiglia, delle tradizioni, dell’amicizia. Esiste solo il ME STESSO.
 
 Viaggiare apre gli occhi anche su questo e rende consapevole del fatto che qualcosa debba cambiare. **Buona strada!**

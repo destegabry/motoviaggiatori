@@ -7,25 +7,25 @@ excerpt: "Da Torino a Brindisi, 1550 km di Appennini tra curve dolci e luoghi in
 opening: Agosto, devi tornare in puglia dai parenti. *Giù* non hai la macchina o altri mezzi (forse una bici) e quindi non sai come muoverti. Che fai? Beh ci vai in moto!
 date: 2019-08-07T14:30:00.000+2:00
 categories:
-- itinerari
-- itinerari/italia
-- itinerari/italia/centro
-- itinerari/italia/nord-ovest
-- itinerari/italia/sud
+  - itinerari
+  - itinerari/italia
+  - itinerari/italia/centro
+  - itinerari/italia/nord-ovest
+  - itinerari/italia/sud
 tags:
-- abruzzo
-- appennini
-- appenninata
-- basilicata
-- campania
-- lazio
-- liguria
-- piemonte
-- puglia
-- toscana
-- honda-xl-700-transalp
-- transalp
-- giro-italia
+  - abruzzo
+  - appennini
+  - appenninata
+  - basilicata
+  - campania
+  - lazio
+  - liguria
+  - piemonte
+  - puglia
+  - toscana
+  - honda-xl-700-transalp
+  - transalp
+  - giro-italia
 ---
 
 ## L'idea
@@ -102,7 +102,7 @@ Arrivo alle **Gole del Sagittario**: Un posto stupendo in cui i paesini sono arr
 ![Abruzzo Gole del Saggittario](/assets/uploads/2019/08/appenninata-italia-nord-sud-in-moto/galleries/2019-08-05T08.57.54.jpeg "Abruzzo - Finalmente arrivo alle Gole del Saggittario")
 ![Abruzzo Gole del Saggittario](/assets/uploads/2019/08/appenninata-italia-nord-sud-in-moto/galleries/2019-08-05T09.05.41.jpeg "Abruzzo - Giochi di pietra e acqua tra le Gole del Saggittario")
 
-Continuo a salire di quota e dirigermi verso la Campania, arrivando al **Passo del Godi**, 1650 m slm… *not bad*! Scendo a valle, percorro un tratto di strada veloce (e qualche scorciatoia di campagna) per poi ricominciare ad arrampicarmi sul Parco Regionale del Matese in Campania. Tra laghi, pianure, cavalli e strade boscose, rimango estasiato e faccio il pieno di bellezza. Pranzo e mi riposo a San Gregorio. Ultimo paese pirma di scendere a valle e andare in direzione Benevento. È primo pomeriggio e la strada fino a Brindisi è lunga… Mi rimetto in viaggio per affrontare gli ultimi 330 km.
+Continuo a salire di quota e dirigermi verso la Campania, arrivando al **Passo del Godi**, 1650 m slm… _not bad_! Scendo a valle, percorro un tratto di strada veloce (e qualche scorciatoia di campagna) per poi ricominciare ad arrampicarmi sul Parco Regionale del Matese in Campania. Tra laghi, pianure, cavalli e strade boscose, rimango estasiato e faccio il pieno di bellezza. Pranzo e mi riposo a San Gregorio. Ultimo paese pirma di scendere a valle e andare in direzione Benevento. È primo pomeriggio e la strada fino a Brindisi è lunga… Mi rimetto in viaggio per affrontare gli ultimi 330 km.
 
 ![Campania Lago di Gallo Matese](/assets/uploads/2019/08/appenninata-italia-nord-sud-in-moto/galleries/2019-08-05T11.55.35.jpeg "Campania – Lago di Gallo Matese")
 ![Campania Lago di Gallo Matese](/assets/uploads/2019/08/appenninata-italia-nord-sud-in-moto/galleries/2019-08-05T12.09.06.jpeg "Campania – Lago di Gallo Matese")

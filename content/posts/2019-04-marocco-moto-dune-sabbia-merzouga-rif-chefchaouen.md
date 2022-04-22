@@ -8,25 +8,25 @@ excerpt: "Ultimo capitolo del viaggio in Marocco: raggiungiamo le immense dune d
 opening: >-
   Dopo [l’esplorazione del versante Nord dell’Alto Atlante e la visita delle città imperiali di Meknes e Fes](/2018/12/marocco-moto-cascate-ouzoud-scimmie-meknes-fes), torniamo nel Sahara puntando a Sud in direzione Merzouga per affondare le nostre bicilindriche nell'Erg Chebbi. La fine del viaggio si avvicina e torniamo a Tangeri visitando la regione del Rif, la città blu di Chefchaouen e la costa mediterranea del Marocco.
 categories:
-- viaggi
-- viaggi/marocco
+  - viaggi
+  - viaggi/marocco
 tags:
-- marocco-in-moto
-- africa
-- berberi
-- rif
-- chefchaouen
-- bmw-r1200gs
-- deserto
-- dune
-- erg-chebbi
-- marocco
-- merzouga
-- montagna
-- off-road
-- sabbia
-- sahara
-- tunnel-legionario
+  - marocco-in-moto
+  - africa
+  - berberi
+  - rif
+  - chefchaouen
+  - bmw-r1200gs
+  - deserto
+  - dune
+  - erg-chebbi
+  - marocco
+  - merzouga
+  - montagna
+  - off-road
+  - sabbia
+  - sahara
+  - tunnel-legionario
 ---
 
 ![Percorso Marocco Merzouga Chefchaouen Tangeri](/assets/uploads/2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen/galleries/percorso.png)
@@ -69,15 +69,15 @@ Da qui si entra nella splendida **Valle dello Ziz**, la strada diventa sinuosa e
 ![Oasi Ziz](/assets/uploads/2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen/galleries/ziz/3483.jpg "Oasi lungo il fiume Ziz")
 ![Pranzo Ziz](/assets/uploads/2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen/galleries/ziz/3481.jpg "Pranzo lungo le oasi dello Ziz")
 
-Nei pressi di Erfoud lo Ziz si inabissa nel terreno lasciando il posto ad uno *oued*, il letto secco di un fiume fossile: fortunatamente sotto l'arida crosta del Sahara l'acqua scorre e rende possibile la vita in questo ambiente apparentemente inabitabile.
+Nei pressi di Erfoud lo Ziz si inabissa nel terreno lasciando il posto ad uno _oued_, il letto secco di un fiume fossile: fortunatamente sotto l'arida crosta del Sahara l'acqua scorre e rende possibile la vita in questo ambiente apparentemente inabitabile.
 
-Abbandoniamo la strada principale per la R702, un nastro di asfalto che corre distante dai villaggi ma arriva vicinissimo al versante nord del *mare di dune* che vogliamo raggiungere. Un vento secco, caldo, fortissimo e laterale rende difficoltosa la guida. Le temperature aumentano e per la prima volta sfioriamo i 40°C. La sabbia arancione viene soffiata sulla strada, ai cui lati si creano dei piccoli accumuli che non disturbano la guida. Improvvisamente dall'orizzonte spuntano le vette di sabbia delle **dune dell'Erg Chebbi**: è una visione davvero emozionante.
+Abbandoniamo la strada principale per la R702, un nastro di asfalto che corre distante dai villaggi ma arriva vicinissimo al versante nord del _mare di dune_ che vogliamo raggiungere. Un vento secco, caldo, fortissimo e laterale rende difficoltosa la guida. Le temperature aumentano e per la prima volta sfioriamo i 40°C. La sabbia arancione viene soffiata sulla strada, ai cui lati si creano dei piccoli accumuli che non disturbano la guida. Improvvisamente dall'orizzonte spuntano le vette di sabbia delle **dune dell'Erg Chebbi**: è una visione davvero emozionante.
 
 Su consiglio di un benzinaio abbandoniamo l'asfalto quando troviamo le indicazioni per lo ksar Sahara Garden. La pista è fatta principalmente da terra dura, su cui si creano delle fastidiose gobbette per il passaggio continuo di veicoli; ogni tanto una lingua di sabbia ci fa assaporare per la prima volta quella strana sensazione di galleggiamento che ci fa temere non poco una caduta improvvisa.
 
 Stanchi, accaldati e assetatissimi decidiamo di lasciar perdere il nostro obiettivo e ci fermiamo all'Hotel Yasmina, scelta davvero azzeccata: lo ksar è situato proprio ai piedi delle imponenti dune di sabbia, ha stanze comode e pulite, ma soprattutto una fantastica piscina che ci riporta in vita dopo le fatiche arrecate da vento e sabbia. Prima di partire per un'escursione tra le dune decidiamo di fare un bucato per dare ai vestiti tutto il tempo di asciugare.
 
-È finalmente arrivato il momento di mettere i piedi sulle immobili onde di sabbia, e per piedi intendo proprio i piedi nudi: la sabbia è finissima e le scarpe se ne riempiono subito, rendendo davvero scomodo camminare. Passiamo i primi minuti a *schivare* le proposte dei tuttofare berberi che provano ad offrirci escursioni, notti in tenda, resti fossili e artigianato locale.
+È finalmente arrivato il momento di mettere i piedi sulle immobili onde di sabbia, e per piedi intendo proprio i piedi nudi: la sabbia è finissima e le scarpe se ne riempiono subito, rendendo davvero scomodo camminare. Passiamo i primi minuti a _schivare_ le proposte dei tuttofare berberi che provano ad offrirci escursioni, notti in tenda, resti fossili e artigianato locale.
 
 Dopo aver superato 4 o 5 dune lo ksar non si vede più, siamo finalmente immersi in un silenzio totale. Il colore del cielo vira verso il giallo a causa della sabbia sollevata dal vento, rendendo l'atmosfera davvero irreale. La sensazione di essere gli unici esseri umani nella zona viene interrotta dalla vista in lontananza di una comitiva di turisti a groppa di dromedario, o dal viavai di moto da enduro: nei prossimi giorni si correrà un rally e ci sono già diversi team sul posto.
 
@@ -99,7 +99,7 @@ Tornati allo ksar troviamo il nostro bucato asciutto come non mai: i tessuti si 
 
 Nonostante i tentativi di rimbalzare le varie offerte propinate dai berberi, abbiamo ceduto alla proposta di ammirare l'alba dall'alto di una duna… e così alle cinque del mattino siamo di nuovo con i piedi nella sabbia in attesa di montare sulle selle di una coppia di dromedari. Le poche nuvole della sera precedente sono scomparse, rendendo il cielo notturno ancora più emozionante.
 
-I berberi dell'Erg Chebbi hanno imparato quel che basta di ogni lingua per farsi capire da tutti i turisti che passano da Merzouga, così ci ritroviamo a seguire discorsi in un comprensibile mischione di italiano, francese, spagnolo e inglese. La nostra guida *parla* anche tedesco, arabo, cinese e giapponese.
+I berberi dell'Erg Chebbi hanno imparato quel che basta di ogni lingua per farsi capire da tutti i turisti che passano da Merzouga, così ci ritroviamo a seguire discorsi in un comprensibile mischione di italiano, francese, spagnolo e inglese. La nostra guida _parla_ anche tedesco, arabo, cinese e giapponese.
 Dato che siamo gli unici due europei del gruppo (il resto della comitiva è composta da cinesi) abbiamo la possibilità di starcene un po' separati e raggiungere un duna isolata dal trambusto.
 
 L'**alba è uno spettacolo mangnifico** e nel giro di un paio d'ore vediamo le dune assumere decine di gradazioni di colore diverse.
@@ -115,9 +115,9 @@ L'**alba è uno spettacolo mangnifico** e nel giro di un paio d'ore vediamo le d
 
 Rientriamo all'Hotel Yasmina giusto in tempo per la colazione, dopodichè decido di tentare la sorte sulle dune di sabbia in groppa alla mia bicilindrica bavarese; Paolo osserva le mie gomme 90% stradali e decide di abbandonarmi al mio destino. Cerco di alleggerire il mio destriero smontando il tris di valigie, ma la mia [BMW R1200GS](/tag/bmw-r1200gs) continua a pesare più di 200 kg.
 
-Abbasso un po' la pressione degli pneumatici, disattivo l'elettronica di controllo e varco la porta dello ksar: inizio a tastare il comportamento della moto sulle lingue di sabbia che incontro ogni tanto, scoprendo che il modo "migliore" per affrontarle è a gas ben aperto con l'anteriore che *galleggia* sulla superficie. Mi lancio agli 80-90 km/h su una distesa di terra compatta e torno bambino lasciando derapare la moto in curva con lo stivale a terra, neanche fosse una gara di supercross.
+Abbasso un po' la pressione degli pneumatici, disattivo l'elettronica di controllo e varco la porta dello ksar: inizio a tastare il comportamento della moto sulle lingue di sabbia che incontro ogni tanto, scoprendo che il modo "migliore" per affrontarle è a gas ben aperto con l'anteriore che _galleggia_ sulla superficie. Mi lancio agli 80-90 km/h su una distesa di terra compatta e torno bambino lasciando derapare la moto in curva con lo stivale a terra, neanche fosse una gara di supercross.
 
-È arrivato il momento di affrontare la sabbia, quella vera. Inizio ad aggredire il margine del deserto salendo su piccole dune, rendendomi subito conto della necessità di avere gomme molto (ma MOLTO!) più tassellate delle [Michelin Anakee III](https://ebay.us/kT9clX) e un mezzo molto (ma MOLTO MOLTO!) più leggero.  Dopo aver preso un po' di confidenza decido di sgasare in prima per affondare la ruota posteriore nella sabbia e fermarmi a fare qualche scatto: le foto sono eccezionali, mai quanto la fatica che ho dovuto fare per uscirne! Senza gomme tassellate non c'è modo di tirarsi fuori con il motore, ho dovuto **scavare a mano per liberare la moto dalle sabbie del deserto**. Madido di sudore e con una sete pazzesca me ne torno all'hotel con la coda tra le gambe.
+È arrivato il momento di affrontare la sabbia, quella vera. Inizio ad aggredire il margine del deserto salendo su piccole dune, rendendomi subito conto della necessità di avere gomme molto (ma MOLTO!) più tassellate delle [Michelin Anakee III](https://ebay.us/kT9clX) e un mezzo molto (ma MOLTO MOLTO!) più leggero. Dopo aver preso un po' di confidenza decido di sgasare in prima per affondare la ruota posteriore nella sabbia e fermarmi a fare qualche scatto: le foto sono eccezionali, mai quanto la fatica che ho dovuto fare per uscirne! Senza gomme tassellate non c'è modo di tirarsi fuori con il motore, ho dovuto **scavare a mano per liberare la moto dalle sabbie del deserto**. Madido di sudore e con una sete pazzesca me ne torno all'hotel con la coda tra le gambe.
 
 ![BMW R1200GS insabbiata Merzouga](/assets/uploads/2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen/galleries/sabbiature/3558.jpg "BMW R1200GS insabbiata tra le dune di Merzouga")
 ![BMW R1200GS insabbiata Erg Chebbi](/assets/uploads/2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen/galleries/sabbiature/3556.jpg "BMW R1200GS insabbiata nell'Erg Chebbi")
@@ -129,7 +129,7 @@ Purtroppo dobbiamo caricare i nostri bagagli e ripartire, abbiamo un traghetto c
 ![Lasciando Merzouga](/assets/uploads/2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen/galleries/merzouga/4368.jpg "A malincuore dobbiamo lasciare le dune dell'Erg Chebbi alle nostre spalle")
 ![Oasi valle dello Ziz](/assets/uploads/2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen/galleries/merzouga/4371.jpg "Oasi nella valle dello Ziz")
 
-Il nostro poetico intento di percorrere una strada da un capo all'altro si scontra molto presto con la dura realtà: mettersi in viaggio nelle ore centrali in pieno deserto del Sahara non è una grande idea. In breve tempo ci sentiamo disidratati e ogni mezz'ora ci fermiamo a scolare un buon litro d'acqua nel primo bar che troviamo, seguito da una *copiosa pisciata* nel giro di pochi chilometri. L'unica è fermarsi a recuperare l'equilibrio idrico mangiando frutta, bevendo té e spremute d'arancia.
+Il nostro poetico intento di percorrere una strada da un capo all'altro si scontra molto presto con la dura realtà: mettersi in viaggio nelle ore centrali in pieno deserto del Sahara non è una grande idea. In breve tempo ci sentiamo disidratati e ogni mezz'ora ci fermiamo a scolare un buon litro d'acqua nel primo bar che troviamo, seguito da una _copiosa pisciata_ nel giro di pochi chilometri. L'unica è fermarsi a recuperare l'equilibrio idrico mangiando frutta, bevendo té e spremute d'arancia.
 
 Decidiamo di tornare a dormire allo Ksar Timnay: dispone di piazzole potremo finalmente sfruttare le tende che ci siamo trascinati inutilmente per almeno 3500km. Non avendo mai provato a montare la [Coleman Coastline](https://amzn.to/2v7cuvA) comprata per l'occasione ho tribolato non poco a metterla in piedi. Come se non bastasse il mio sacco a pelo da 10°C si è dimostrato totalmente inadeguato a mantenere una temperatura decente, facendomi svegliare a più riprese per indossare tutti i vestiti che mi sono capitati a tiro.
 
@@ -139,7 +139,7 @@ Al momento di pagare realizziamo che il totale per 2 tende, 2 posti moto e 2 col
 
 Si potrebbero visitare le rovine romane di Volubilis, ma decidiamo di dare una rapida occhiata dall'esterno e ripartire: ne abbiamo un bel po' in Italia, meglio concentrarci sulle attrazioni più esotiche. Siamo tornati nel Marocco verde, con un paesaggio che assomiglia moltissimo all'Italia del centro-sud. Percorriamo un bel po' di strada tra collinette dolci coltivate a grano fino a raggiungere la catena montuosa del Rif, dove la N13 si ravviva un po' e rende la guida più piacevole.
 
-Siamo partiti dal deserto roccioso ed in meno di 400 km abbiamo raggiunto le verdissime montagne intorno a Chefchaouen attraverso una **varietà di paesaggi inimmaginabile**. Complice la giornata precedente piuttosto impegnativa, arriviamo alla *perla blu* solo per mangiare una rapida cena e crollare nel primo hotel in cui troviamo una stanza libera.
+Siamo partiti dal deserto roccioso ed in meno di 400 km abbiamo raggiunto le verdissime montagne intorno a Chefchaouen attraverso una **varietà di paesaggi inimmaginabile**. Complice la giornata precedente piuttosto impegnativa, arriviamo alla _perla blu_ solo per mangiare una rapida cena e crollare nel primo hotel in cui troviamo una stanza libera.
 
 ![Paesaggio a Nord dell'Atlante](/assets/uploads/2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen/galleries/rif/YDXJ0297.jpg "Radicale cambio di paesaggio a Nord dell'Atlante")
 ![Colline del Rif](/assets/uploads/2019/04/marocco-moto-dune-sabbia-merzouga-rif-chefchaouen/galleries/rif/YDXJ0304.jpg "Il paesaggio collinare del Rif")
@@ -159,7 +159,7 @@ Una buona dormita rende sicuramente tutto più bello, ma il fascino di Chefchaou
 
 Vogliamo pranzare guardando il Mar Mediterraneo, e su consiglio dell'albergatore ci muoviamo verso Oued Laou: la strada P4105 corre lungo una stretta valle molto scenografica, ma raggiunta la costa troviamo spiaggioni di sabbia grigia ed una città piuttosto deludente. Un panino farcito con sardine cotte alla brace ci risolleva l'animo.
 
-Costeggiamo il Mediterraneo sulla N16, nastro di asfalto perfetto che ci regala **25 chilometri di ottime curve con vista mare**. Arrivati a Martil ci rendiamo conto di essere finiti nel bel mezzo della "Costa Brava" Marocchina, tutti parlano spagnolo e la città è fatta di bar alla moda, *promenade* curatissime, hotel luccicanti e prezzi europei. Vorremmo dormire al Cabo Negro, ma purtroppo è costellato da resort internazionali in chiusura stagionale.
+Costeggiamo il Mediterraneo sulla N16, nastro di asfalto perfetto che ci regala **25 chilometri di ottime curve con vista mare**. Arrivati a Martil ci rendiamo conto di essere finiti nel bel mezzo della "Costa Brava" Marocchina, tutti parlano spagnolo e la città è fatta di bar alla moda, _promenade_ curatissime, hotel luccicanti e prezzi europei. Vorremmo dormire al Cabo Negro, ma purtroppo è costellato da resort internazionali in chiusura stagionale.
 
 Ci arrendiamo a prenotare tramite Booking.com, dove troviamo una stanza ad un prezzo decente al Restingua Smir ([sconto del 10% prenotando da questo link](https://www.booking.com/s/34_6/desteg10)). L'architettura moderna e minimal ci fa già sentire fuori dal Marocco.
 

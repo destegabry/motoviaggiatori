@@ -7,16 +7,17 @@ author: gabriele
 featured_image: /assets/uploads/2018/10/racconti-moto-taccuino-miral-motoviaggiatori/featured_image.jpg
 excerpt: Seguiteci per non perdere i racconti ed i progetti di promozione sociale di Moto Taccuino e MIRAL!
 categories:
-- resoconti
+  - resoconti
 tags:
-- deserto
-- letture
-- marocco
-- miral
-- moto-taccuino
-- pastori-in-moto
-- sardegna
+  - deserto
+  - letture
+  - marocco
+  - miral
+  - moto-taccuino
+  - pastori-in-moto
+  - sardegna
 ---
+
 L’incontro con Alessio e Annalia di [Moto Taccuino](https://www.mototaccuino.it) è stato praticamente casuale: è il 25 agosto, mancano esattamente 7 giorni al nostro matrimonio e decidiamo di prenderci 2 giorni di relax in moto per *fuggire* dal caos dei preparativi. La mototendata organizzata dai [Pastori in Moto](https://www.pastorinmoto.org) nell’Altopiano del Golgo in Ogliastra fa al caso nostro, soprattutto perché abbiamo la possibilità di visitare una zona di Sardegna che ancora non conosciamo, accompagnati da veri esperti dell’isola.
 
 Raggiungiamo il gruppo a Sardara e partiamo per le strade della Marmilla, attraversiamo il Sarcidano sulla divertente SS198 e dopo una merenda a base di pecorino e salsiccia entriamo in Ogliastra. Costeggiamo il paese fantasma di Gairo Vecchia, a Tortolì seguiamo il mare sulla SS125 fino ad arrivare a Baunei, dove una ripida strada secondaria ci riporta in fretta in quota, nell’Altopiano del Golgo. Dopo una manciata di km incomincia lo sterrato e raggiungiamo il rifugio Goloritzé, prima meta di questo weekend in sella.

@@ -9,19 +9,19 @@ opening: >-
   Dopo aver [attraversato i Balcani ed esplorato Istanbul](/2019/06/turchia-moto-torino-balcani-istanbul), è arrivato il momento di metterci in viaggio per raggiungere la Cappadocia e scoprire cosa ci riserva la penisola anatolica!
 author: gabriele
 categories:
-- viaggi
-- viaggi/turchia
-- video
+  - viaggi
+  - viaggi/turchia
+  - video
 tags:
-- turchia-in-moto
-- tuz-golu
-- cappadocia
-- nallihan
-- bmw-r1200gs
-- bmw-f800gs
-- honda-xl-700-transalp
-- turchia
-- europa-orientale
+  - turchia-in-moto
+  - tuz-golu
+  - cappadocia
+  - nallihan
+  - bmw-r1200gs
+  - bmw-f800gs
+  - honda-xl-700-transalp
+  - turchia
+  - europa-orientale
 ---
 
 ![Percorso Turchia Nallıhan Tuz Gölü Cappadocia](/assets/uploads/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara/percorso.png "Da Istanbul alla Cappadocia di Göreme e Ihlara, attraversando il colorato distretto di Nallıhan e il lago salato Tuz Gölü")
@@ -30,15 +30,15 @@ tags:
 
 Ci svegliamo all'alba convinti di poter scampare al traffico dell'ora di punta, ma appena iniziamo ad allontanarci dal Corno d'Oro rimaniamo imbottigliati in qualche incrocio… siamo stati davvero ingenui a pensare di poter sfuggire al traffico di Istanbul, una città con più di 15 milioni di abitanti!
 
-Per attraversare il Mar di Marmara evitiamo di asfissiare nell'Eurasia Tunnel e imbocchiamo la tangenziale interna O-1, una superstrada a 3 corsie sulla quale siamo costretti a muoverci molto lentamente tra le colonne di un traffico apocalittico. Quando raggiungiamo il *Ponte dei Martiri del 15 luglio* ci rendiamo conto di essere in viaggio da più di un'ora.
+Per attraversare il Mar di Marmara evitiamo di asfissiare nell'Eurasia Tunnel e imbocchiamo la tangenziale interna O-1, una superstrada a 3 corsie sulla quale siamo costretti a muoverci molto lentamente tra le colonne di un traffico apocalittico. Quando raggiungiamo il _Ponte dei Martiri del 15 luglio_ ci rendiamo conto di essere in viaggio da più di un'ora.
 
 L'attraversamento del Bosforo dura poco, ma quando finalmente raggiungiamo la sponda asiatica c'è poco da festeggiare: il traffico non diminuisce e questo mostro di città non accenna a terminare. Quartieri poco affascinanti costeggiano il percorso dell'autostrada E80. Dopo un'altra ora di viaggio il traffico comincia a diminuire, l'agglomerato urbano a diradare.
 
 <p class="message pro-tip">Istanbul non finisce mai, in moto va affrontata con pace interiore e rassegnazione</p>
 
-All'uscita di Akyazı il portale del casello ci ricorda che non abbiamo ancora comprato il [tagliando HGS](/2019/05/turchia-in-moto-informazioni-pratiche/#strade-e-rifornimento), fortunatamente abbiamo 15 giorni per regolarizzare il pagamento. Ci muoviamo sulla D140 verso Sud, in cerca di un bar dove fare una pausa e reidratarci dopo la sudata nel traffico. Ne troviamo uno a Opet, dove scopriamo che è dura trovare un turco che parli l'inglese, ma tè nero e *simit* non mancano mai.
+All'uscita di Akyazı il portale del casello ci ricorda che non abbiamo ancora comprato il [tagliando HGS](/2019/05/turchia-in-moto-informazioni-pratiche/#strade-e-rifornimento), fortunatamente abbiamo 15 giorni per regolarizzare il pagamento. Ci muoviamo sulla D140 verso Sud, in cerca di un bar dove fare una pausa e reidratarci dopo la sudata nel traffico. Ne troviamo uno a Opet, dove scopriamo che è dura trovare un turco che parli l'inglese, ma tè nero e _simit_ non mancano mai.
 
-Dopo pochi chilometri iniziano le colline e finiscono gli infiniti rettilinei che ci hanno annoiato fino ad ora. La strada si attorciglia attorno ai rilievi del *Ponto*, il manto di asfalto è in ottime condizioni, iniziamo a divertirci ammirando un paesaggio verdissimo e coperto di boschi. Ma il divertimento dura poco…
+Dopo pochi chilometri iniziano le colline e finiscono gli infiniti rettilinei che ci hanno annoiato fino ad ora. La strada si attorciglia attorno ai rilievi del _Ponto_, il manto di asfalto è in ottime condizioni, iniziamo a divertirci ammirando un paesaggio verdissimo e coperto di boschi. Ma il divertimento dura poco…
 
 <div class="message warning">
   <h4 class="message-title">La versione di Gabriele e Stefania</h4>
@@ -73,13 +73,13 @@ Ci sforziamo di ripartire per cercare di raggiungere Ankara prima di sera, ma fa
 
 ## Giorno 8: il lago salato Tuz Gölü e l'arrivo a Uçhisar
 
-Un po' a malincuore lasciamo l'*Hattusa Vacation Thermal Club Ankara* e la sua architettura vagamente sovietica, proseguendo verso la capitale turca lungo la solita D140. In meno di un'ora raggiungiamo i primi palazzoni, diventa subito chiaro che stiamo lasciando colori e paesaggi incredibili per tornare ad essere fagocitati da una mostruosa città da quasi cinque milioni e mezzo di abitanti.
+Un po' a malincuore lasciamo l'_Hattusa Vacation Thermal Club Ankara_ e la sua architettura vagamente sovietica, proseguendo verso la capitale turca lungo la solita D140. In meno di un'ora raggiungiamo i primi palazzoni, diventa subito chiaro che stiamo lasciando colori e paesaggi incredibili per tornare ad essere fagocitati da una mostruosa città da quasi cinque milioni e mezzo di abitanti.
 
-Al contrario di Istanbul, la città di Ankara non ha un passato particolarmente grandioso alle spalle: la fondazione risale all'età del bronzo e venne abitata da Ittiti, Frigi, Volci, Romani, Bizantini e Ottomani;  intorno al 1890 la popolazione era inferiore alle 30000 unità. La rinascita di Ankara è dovuta a Mustafa Kemal Atatürk, che a partire dal 1919 la eleva a capitale della neonata repubblica.
+Al contrario di Istanbul, la città di Ankara non ha un passato particolarmente grandioso alle spalle: la fondazione risale all'età del bronzo e venne abitata da Ittiti, Frigi, Volci, Romani, Bizantini e Ottomani; intorno al 1890 la popolazione era inferiore alle 30000 unità. La rinascita di Ankara è dovuta a Mustafa Kemal Atatürk, che a partire dal 1919 la eleva a capitale della neonata repubblica.
 
 L'unico monumento degno di nota è il mausoleo Anıtkabir, sepolcro di Atatürk, che decidiamo di non visitare: dopo l'esperienza di Istabul vogliamo soltanto scappare da questo immenso assembramento di automobili e persone. Percorrendo la circonvallazione O-20 rimaniamo attoniti dall'edilizia di Ankara: nonostante sorga in mezzo al nulla e lo spazio non manchi affatto, quasi tutte le costruzioni periferiche sono enormi palazzoni (che in Italia potremmo chiamare grattacieli) che spuntano come funghi in mezzo ai prati. Assurdo.
 
-Finalmente imbocchiamo la E90 in direzione Aksaray e dopo 100km di noiosissima *statalona* raggiungiamo il Tuz Gölü, immenso lago salato situato alla quota di 905 metri sul mare. Ogni estate qui si ripete un fenomeno piuttosto curioso: la forte evaporazione fa aumentare la concentrazione salina, uccidendo la maggior parte del plancton che solitamente si ciba delle alghe *Dunaliella*; la popolazione di questi microrganismi è così libera di aumentare, fino a tingere le acque di un rosso scarlatto.
+Finalmente imbocchiamo la E90 in direzione Aksaray e dopo 100km di noiosissima _statalona_ raggiungiamo il Tuz Gölü, immenso lago salato situato alla quota di 905 metri sul mare. Ogni estate qui si ripete un fenomeno piuttosto curioso: la forte evaporazione fa aumentare la concentrazione salina, uccidendo la maggior parte del plancton che solitamente si ciba delle alghe _Dunaliella_; la popolazione di questi microrganismi è così libera di aumentare, fino a tingere le acque di un rosso scarlatto.
 
 Purtroppo la giornata odierna è caratterizzata da una fastidiosissima foschia lattiginosa, la linea dell'orizzonte è quasi indisinguibile sull'enorme distesa salmastra. Ci fermiamo per mangiare un boccone al Tuz Gölü Tesisleri, enorme trappola per turisti sulle sponde del lago salato, dove una grande scritta blu è inquadrata dagli obiettivi delle decine di persone vomitate da enormi autobus gran turismo. Di fenicotteri neanche l'ombra.
 
@@ -93,13 +93,13 @@ Due turisti cinesi attaccano bottone: vogliono sapere come funziona la patente d
 
 Troviamo un grande stabilimento dove viene raccolto e pulito il sale del lago, ne approfittiamo per scattare qualche foto lontani dalla folla, poi ripartiamo per non fermarci più. Vogliamo arrivare in Cappadocia! Divoriamo i 170 chilometri che ci separano da Uçhisar.
 
-Girovaghiamo per la cittadina alla ricerca del nostro rifugio per la notte, ma improvvisamente ci si para davanti il *Castello di Uçhisar*: un'imponente roccia vulcanica che svetta sul *Göreme Tarihi Milli Parkı* e permette di ammirare tutto dall'alto.
+Girovaghiamo per la cittadina alla ricerca del nostro rifugio per la notte, ma improvvisamente ci si para davanti il _Castello di Uçhisar_: un'imponente roccia vulcanica che svetta sul _Göreme Tarihi Milli Parkı_ e permette di ammirare tutto dall'alto.
 
-Raggiungiamo l'hotel Kemal, gestito da una coppia di brasiliani trasferiti in Turchia dopo varie vicissitudini lavorative. Chiediamo informazioni per organizzare un volo in mongolfiera, ma le notizie non sono per niente buone: una grossa società ha acquistato tutte le mongolfiere della zona e quindi bisogna per forza passare da loro per prenotare… scopriamo così che tutti i prossimi voli sono pieni e non ci rimane che metterci in lista d'attesa. Indossiamo abiti *civili* e corriamo ad esplorare le formazioni rocciose.
+Raggiungiamo l'hotel Kemal, gestito da una coppia di brasiliani trasferiti in Turchia dopo varie vicissitudini lavorative. Chiediamo informazioni per organizzare un volo in mongolfiera, ma le notizie non sono per niente buone: una grossa società ha acquistato tutte le mongolfiere della zona e quindi bisogna per forza passare da loro per prenotare… scopriamo così che tutti i prossimi voli sono pieni e non ci rimane che metterci in lista d'attesa. Indossiamo abiti _civili_ e corriamo ad esplorare le formazioni rocciose.
 
-Sorseggiamo l'immancabile *çay* da una terrazza panoramica affacciata sui camini delle fate. Il piccolo locale è gestito da una famiglia che in loco alleva galline, asini e gli endemici *piccioni capitombolanti*: una razza di uccelli caratterizzata dalle zampe foltemente piumate e la capacità di compiere delle improvvise capriole in aria durante il volo.
+Sorseggiamo l'immancabile _çay_ da una terrazza panoramica affacciata sui camini delle fate. Il piccolo locale è gestito da una famiglia che in loco alleva galline, asini e gli endemici _piccioni capitombolanti_: una razza di uccelli caratterizzata dalle zampe foltemente piumate e la capacità di compiere delle improvvise capriole in aria durante il volo.
 
-Esploriamo le formazioni rocciose dei dintorni mentre ci arrampichiamo fino alla vetta del *castello*. Da qui godiamo di un panorama fantastico, ma decidiamo di andarcene prima del tramonto per evitare di scendere al buio. Il centro di Uçhisar non offre particolari attrazioni, dopo aver girovagato tra bancarelle di souvenir ci fermiamo a cenare in un piccolo ristorante panoramico. È praticamente pieno, ma piuttosto che perdere un gruppo di clienti il proprietario ci trova un posto sul divano davanti alla TV: ceniamo ascoltando tutto il repertorio di pop turco del momento.
+Esploriamo le formazioni rocciose dei dintorni mentre ci arrampichiamo fino alla vetta del _castello_. Da qui godiamo di un panorama fantastico, ma decidiamo di andarcene prima del tramonto per evitare di scendere al buio. Il centro di Uçhisar non offre particolari attrazioni, dopo aver girovagato tra bancarelle di souvenir ci fermiamo a cenare in un piccolo ristorante panoramico. È praticamente pieno, ma piuttosto che perdere un gruppo di clienti il proprietario ci trova un posto sul divano davanti alla TV: ceniamo ascoltando tutto il repertorio di pop turco del momento.
 
 Rientrati all'hotel riceviamo una notizia buona e cattiva assieme: domani ci dovremo svegliare alle tre e mezza, si vola in mongolfiera!
 
@@ -112,17 +112,17 @@ Rientrati all'hotel riceviamo una notizia buona e cattiva assieme: domani ci dov
 
 ## Giorni 9 e 10: le valli della Cappadocia
 
-Io e Stefania ci svegliamo alle 4 del mattino per volare in mongolfiera, gli altri 3 intrepidi compagni di viaggio rimangono a letto ad aspettarci. Alla reception troviamo un assonnatissimo tuttofare, svegliato soltanto per aprire la porta di ingresso. Puntualissimo arriva l'archetipo del *trafficone*, sempre presente in ogni luogo turistico che si rispetti: tassista abusivo, broker di voli in mongolfiera, poliglotta improvvisato, costantemente al telefono.
+Io e Stefania ci svegliamo alle 4 del mattino per volare in mongolfiera, gli altri 3 intrepidi compagni di viaggio rimangono a letto ad aspettarci. Alla reception troviamo un assonnatissimo tuttofare, svegliato soltanto per aprire la porta di ingresso. Puntualissimo arriva l'archetipo del _trafficone_, sempre presente in ogni luogo turistico che si rispetti: tassista abusivo, broker di voli in mongolfiera, poliglotta improvvisato, costantemente al telefono.
 
 Paghiamo le nostre quote (ben 180€ a testa) e partiamo in direzione Göreme sul taxi che ci deposita nella hall di un albergo. Effettuiamo il check-in per il volo compilando vari fogli con i nostri dati anagrafici e assaltiamo il buffet della colazione, dove troviamo delle fragole buonissime. Pian piano la stanza si riempe di gente, ancora non si parte e un po' tutti cominciano ad insospettirsi… dopo un'ora di attesa è ufficiale: tutti i voli sono cancellati a causa del vento.
 
-Il solito *trafficone* ci propone di lasciare in deposito la quota del volo per confermare la nostra presenza nella lista d'attesa del giorno successivo, accettiamo e torniamo a dormire qualche ora nel nostro B&B.
+Il solito _trafficone_ ci propone di lasciare in deposito la quota del volo per confermare la nostra presenza nella lista d'attesa del giorno successivo, accettiamo e torniamo a dormire qualche ora nel nostro B&B.
 
-Ricompattato il gruppo, torniamo in sella per esplorare il Göreme Milli Parkı (Parco Nazione di Göreme) senza meta precisa. Ci ritroviamo sulle piste di polverose della *Valle delle Rose*, guidando tra orti e vigneti da cui spuntano enormi pinnacoli di rocce beige e rosa. Sulle pareti scoscese si notano le aperture di case troglodite, scavate nel tufo migliaia di anni fa. Il luogo è davvero affascinante, ma purtroppo i colori sono smorzati dalle nuvole lattiginose che coprono il sole.
+Ricompattato il gruppo, torniamo in sella per esplorare il Göreme Milli Parkı (Parco Nazione di Göreme) senza meta precisa. Ci ritroviamo sulle piste di polverose della _Valle delle Rose_, guidando tra orti e vigneti da cui spuntano enormi pinnacoli di rocce beige e rosa. Sulle pareti scoscese si notano le aperture di case troglodite, scavate nel tufo migliaia di anni fa. Il luogo è davvero affascinante, ma purtroppo i colori sono smorzati dalle nuvole lattiginose che coprono il sole.
 
 Guidiamo fino a Çavuşin, minuscolo borgo ai piedi di una falesia su cui si trova arroccato un villaggio troglodita in stato di abbandono. Forse non è l'esempio più impressionante, ma possiamo visitarlo in solitudine, con la libertà di poter curiosare dappertutto. I nostri stomaci ci riportano a terra, ricondandoci che l'ora del pranzo è vicina.
 
-Ci sediamo ad un tavolo del ristorante Seyyah Han, dove scopriamo l'esistenza del *testi kebabı*. Carne, verdure, funghi, cumino e paprika vengono cucinati per ore all'interno di una giara di terracotta sigillata; prima di essere servita si ravviva a fuoco vivo, la giara viene spezzata con un colpo secco di coltello e la carne morbida e profumata viene impiattata (e mangiata con gusto).
+Ci sediamo ad un tavolo del ristorante Seyyah Han, dove scopriamo l'esistenza del _testi kebabı_. Carne, verdure, funghi, cumino e paprika vengono cucinati per ore all'interno di una giara di terracotta sigillata; prima di essere servita si ravviva a fuoco vivo, la giara viene spezzata con un colpo secco di coltello e la carne morbida e profumata viene impiattata (e mangiata con gusto).
 
 <div class="message pro-tip">
   <p>In turco la parola <em>kebap</em> definisce tutta la carne arrostita.</p>
@@ -143,9 +143,9 @@ Rifocillati e contenti, attraversiamo l'arteria stradale che collega Göreme ad 
 ![Nuvoloni Cappadocia](/assets/uploads/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara/foto/DSC01690.jpeg "“Nubi di ieri sul nostro domani odierno”")
 ![Contrasti Cappadocia](/assets/uploads/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara/foto/DSC01696.jpeg "I nuvoloni plumbei si prestano a contrasti interssanti")
 
-Il sentiero finisce improvvisamente davanti al ripido terrapieno della superstrada D300, aggirabile con una moto da enduro, ma impraticabile con le nostre pesanti bicilindriche dotate di pneumatici stradali. Ci tocca fare dietrofrónt e *consolarci* con una visita alla Valle dell'Amore.
+Il sentiero finisce improvvisamente davanti al ripido terrapieno della superstrada D300, aggirabile con una moto da enduro, ma impraticabile con le nostre pesanti bicilindriche dotate di pneumatici stradali. Ci tocca fare dietrofrónt e _consolarci_ con una visita alla Valle dell'Amore.
 
-Le formazioni rocciose note come *camini delle fate* hanno una storia lunga decine di milioni di anni. Circa 60 milioni di anni fa, in quella che oggi è la Turchia meridionale, cominciò ad innalzarsi la catena montuosa del Tauro; i movimenti tettonici produssero in Anatolia centrale depressioni e burroni, che nelle ere geologiche successive vennero riempite dal tufo prodotto dal depositarsi di ceneri e lapilli eruttati dai vulcani Erciyes e Hasan Daği. Questa roccia molto friabile è stata erosa dall'instancabile lavoro dell'acqua, che ha però risparmiato i “coni” sormontati da uno strato di roccia più compatta.
+Le formazioni rocciose note come _camini delle fate_ hanno una storia lunga decine di milioni di anni. Circa 60 milioni di anni fa, in quella che oggi è la Turchia meridionale, cominciò ad innalzarsi la catena montuosa del Tauro; i movimenti tettonici produssero in Anatolia centrale depressioni e burroni, che nelle ere geologiche successive vennero riempite dal tufo prodotto dal depositarsi di ceneri e lapilli eruttati dai vulcani Erciyes e Hasan Daği. Questa roccia molto friabile è stata erosa dall'instancabile lavoro dell'acqua, che ha però risparmiato i “coni” sormontati da uno strato di roccia più compatta.
 
 Il fenomeno diventa chiarissimo ammirando i camini della **Valle dell'Amore**, chiamata così perché le colonne di tufo sormontate da coni di materiale più duro assomigliano inequivovabilmente a… peni eretti! Il posto è unico, aspettiamo il calar del sole ammirando il panorama mentre Arturo fa svolazzare il drone tra i falli di roccia.
 
@@ -153,11 +153,11 @@ Il fenomeno diventa chiarissimo ammirando i camini della **Valle dell'Amore**, c
 ![MotoViaggiatori nella Valle dell'Amore (Cappadocia)](/assets/uploads/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara/foto/DSC01736.jpeg "MotoViaggiatori nella Valle dell'Amore")
 ![Tramonto Göreme Valle delle Rose (Cappadocia)](/assets/uploads/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara/foto/DSC01781.jpeg "L'ora del tramonto a Göreme, con la Valle delle Rose sullo sfondo")
 
-Con il sopraggiungere del buio torniamo sulla strada asfaltata e decidiamo di fare un sopralluogo al punto panoramico di Göreme: dovrebbe essere un ottimo posto per ammirare le mongolfiere in volo al mattino. Da già che siamo qui, non perdiamo l'occasione per scattare delle belle immagini durante l'*ora blu*.
+Con il sopraggiungere del buio torniamo sulla strada asfaltata e decidiamo di fare un sopralluogo al punto panoramico di Göreme: dovrebbe essere un ottimo posto per ammirare le mongolfiere in volo al mattino. Da già che siamo qui, non perdiamo l'occasione per scattare delle belle immagini durante l'_ora blu_.
 
 **Göreme Sunset Point** è il luogo più affollato che abbiamo visitato in questa giornata. Sarebbe un luogo fantastico se non fosse per l'odore di frizioni bruciate emanato dai taxi abusivi che si incrociano sulla ripida strada che porta alla sommità.
 
-Ceniamo al ristorante Old Cappadocia, dove assaggiamo i vini prodotti in queste valli (niente male!) ed i *manti*: ravioli tipici dell'Anatolia centrale, ripieni di carne e cipolla, conditi con salsa a base di yogurt, aglio, olio, peperoni e paprika… decisamente gustosi!
+Ceniamo al ristorante Old Cappadocia, dove assaggiamo i vini prodotti in queste valli (niente male!) ed i _manti_: ravioli tipici dell'Anatolia centrale, ripieni di carne e cipolla, conditi con salsa a base di yogurt, aglio, olio, peperoni e paprika… decisamente gustosi!
 
 Torniamo all'hotel Kemal, dove ci aspetta una brutta notizia: la lista d'attesa è molto lunga, non c'è speranza di volare in mongolfiera. Recuperiamo tutti i soldi versati per la prenotazione e ce ne andiamo a dormire un po' delusi.
 
@@ -171,16 +171,16 @@ Passiamo la mattinata visitando il Göreme Open Air Museum, tra case trogloditic
 ![Caffè Espresso all'Old Cappadocia (Göreme)](/assets/uploads/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara/foto/IMG_3219.jpeg "Simone commosso di fronte ad un caffè espresso all'Old Cappadocia (Göreme)")
 ![Göreme Open Air Museum (Cappadocia)](/assets/uploads/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara/foto/DSC01832.jpeg "Visita al Göreme Open Air Museum")
 
-Da qui proseguiamo verso Est e risaliamo la *Devrent Valley* (o Valle dell'Immaginazione), per poi svoltare verso Nord e dopo qualche curva improvvisare una deviazione sulla prima strada bianca che capita a tiro. La mia [BMW R1200GS](/tag/bmw-r1200gs) “compie” i suoi 90.000 km in mezzo ai prati in Cappadocia, quale posto migliore? Ci sdraiamo sull'erba a godere delle improvvise esplosioni di colore che divampano tra una nuvola e l'altra.
+Da qui proseguiamo verso Est e risaliamo la _Devrent Valley_ (o Valle dell'Immaginazione), per poi svoltare verso Nord e dopo qualche curva improvvisare una deviazione sulla prima strada bianca che capita a tiro. La mia [BMW R1200GS](/tag/bmw-r1200gs) “compie” i suoi 90.000 km in mezzo ai prati in Cappadocia, quale posto migliore? Ci sdraiamo sull'erba a godere delle improvvise esplosioni di colore che divampano tra una nuvola e l'altra.
 
 Ci spingiamo fino alla cittadina di Avanos per fare il pieno alle moto, per poi tornare a Göreme per rimpinzare gli stomaci con un dürüm kebab nel ristorante più polveroso della Turchia.
 
 ![Devrent Valley o Valle dell'Immaginazione (Cappadocia)](/assets/uploads/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara/foto/DSC01858.jpeg "Le formazioni rocciose della Valle dell'Immaginazione")
 ![Ozio nei prati della Cappadocia](/assets/uploads/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara/foto/DSC01872.jpeg "Ozio nei prati della Cappadocia")
 
-Passiamo il pomeriggio a perderci tra i camini delle fate, seguendo sentieri e strade polverose senza meta precisa. Rischiamo di insabbiarci e finiamo più di una volta in un *cul-de-sac*, ma non importa: quando le nuvole ci danno tregua il paesaggio si illumina di una luce calda, rendendo tutto più magico.
+Passiamo il pomeriggio a perderci tra i camini delle fate, seguendo sentieri e strade polverose senza meta precisa. Rischiamo di insabbiarci e finiamo più di una volta in un _cul-de-sac_, ma non importa: quando le nuvole ci danno tregua il paesaggio si illumina di una luce calda, rendendo tutto più magico.
 
-Torniamo alla Valle dell'Amore, superiamo gli avamposti dei turisti e ci piazziamo ad ammirare le torri di arenaria accanto ad un gruppetto di *tamarri roteanti*: danzano senza sosta al ritmo ipnotico della musica turca, sparata a tutto volume dalle casse sfondate di un'auto che ha visto troppi inverni. Arturo si fa prendere dal momento catartico ed inizia a volteggiare con il casco ben calato sulla testa, tra gli applausi e le grida di apprezzamento di tutti i presenti.
+Torniamo alla Valle dell'Amore, superiamo gli avamposti dei turisti e ci piazziamo ad ammirare le torri di arenaria accanto ad un gruppetto di _tamarri roteanti_: danzano senza sosta al ritmo ipnotico della musica turca, sparata a tutto volume dalle casse sfondate di un'auto che ha visto troppi inverni. Arturo si fa prendere dal momento catartico ed inizia a volteggiare con il casco ben calato sulla testa, tra gli applausi e le grida di apprezzamento di tutti i presenti.
 
 ![Camini delle fate (Cappadocia)](/assets/uploads/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara/foto/DSC01879.jpeg "I camini delle fate non stancano mai")
 ![Vigna tra i camini delle fate (Cappadocia)](/assets/uploads/2019/12/turchia-moto-cappadocia-nallihan-tuz-golu-ihlara/foto/DSC01895.jpeg "Vigna tra i camini delle fate")
@@ -232,7 +232,7 @@ In questo viaggio abbiamo messo alla prova alcuni prodotti dei nostri partner te
 - interfoni [Midland](https://www.midlandeurope.com/it) BT Next Pro, BTX1 Pro S e BTX2 Pro S: audio chiarissimo a tutte le andature con la possibilità di parlare in conferenza tra i piloti delle moto, davvero ottimi e consigliati
 - molle progressive [Hyperpro](https://hyperpro.com): un upgrade enorme rispetto alle molle originali della BMW R1200GS, migliorano moltissimo il comportamento della moto in curva senza ridurre il comfort di marcia grazie al coefficiente elastico che cambia a seconda della forza esercitata sulla molla, costano poco ma rendono molto (distribuite da [Rinolfi](https://www.rinolfi.it))
 - pastiglie freno [Brembo](http://brembo.com/it) in mescola LA: sinterizzate e specifiche per i freni anteriori delle moto da turismo, frenano forte dopo pochi km di rodaggio e promettono durata superiore (distribuite da [Motorquality](http://www.motorquality.it))
-- cupolino maggiorato Adventure [WRS](https://wrs.it) per  BMW R1200GS: permette di rilassarsi parecchio quando si viaggia a velocità sostenute, alleggerendo il carico sulla muscolatura cervicale e riducendo il rumore causato dalla turbolenza, l'archetto di sostegno permette di montare navigatori&co senza ostruire la strumentazione della moto
-- olio motore [Putoline](https://www.putoline.com/) SPORT 4 15W-50: semi-sintetico (API SL, JASO MA2), la BMW R1200GS non ne ha *mangiato* una goccia nei 7000km percorsi dal tagliando (distribuito da [Rinolfi](https://www.rinolfi.it))
+- cupolino maggiorato Adventure [WRS](https://wrs.it) per BMW R1200GS: permette di rilassarsi parecchio quando si viaggia a velocità sostenute, alleggerendo il carico sulla muscolatura cervicale e riducendo il rumore causato dalla turbolenza, l'archetto di sostegno permette di montare navigatori&co senza ostruire la strumentazione della moto
+- olio motore [Putoline](https://www.putoline.com/) SPORT 4 15W-50: semi-sintetico (API SL, JASO MA2), la BMW R1200GS non ne ha _mangiato_ una goccia nei 7000km percorsi dal tagliando (distribuito da [Rinolfi](https://www.rinolfi.it))
 - S.M.A.R.T. IAT di [Belinassu](http://www.belinassu.it): una sonda plug&play che migliora il tiro del motore ai bassi e medi regimi ingrassando la miscela, semplice da installare e completamente reversibile
 - pneumatici [Anlas](http://anlas.com/it/) Capra RD e Capra R: gomme stradali che non disdegnano off-road leggero, ottimo feeling anche su bagnato, il consumo nei 5500km del viaggio è stato regolare

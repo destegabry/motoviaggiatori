@@ -7,40 +7,40 @@ permalink: /2020/04/giro-italia-covid-19
 featured_image: /assets/uploads/2020/04/giro-italia-covid-19/IMG_7414.JPG
 excerpt: L'epidemia passerà e finalmente torneremo a viaggiare nella nostra amata Italia
 categories:
-- itinerari
-- itinerari/italia
-- itinerari/italia/nord-ovest
-- itinerari/italia/nord-est
-- itinerari/italia/centro
-- itinerari/italia/sud
+  - itinerari
+  - itinerari/italia
+  - itinerari/italia/nord-ovest
+  - itinerari/italia/nord-est
+  - itinerari/italia/centro
+  - itinerari/italia/sud
 tags:
-- gpx
-- italia
-- veneto
-- lombardia
-- piemonte
-- liguria
-- emilia-romagna
-- toscana
-- umbria
-- lazio
-- campania
-- calabria
-- basilicata
-- puglia
-- abruzzo
-- molise
-- marche
-- giro-italia
+  - gpx
+  - italia
+  - veneto
+  - lombardia
+  - piemonte
+  - liguria
+  - emilia-romagna
+  - toscana
+  - umbria
+  - lazio
+  - campania
+  - calabria
+  - basilicata
+  - puglia
+  - abruzzo
+  - molise
+  - marche
+  - giro-italia
 attributes:
-- key: Percorrenza
-  value: circa 7000 km
-- key: Tempo
-  value: almeno 1 mese
-- key: Periodo
-  value: Maggio - Ottobre (verificare apertura dei passi)
-- key: Abbigliamento
-  value: l'abbigliamento multistrato è indispensabile, anche in estate si incontrano tutti i climi
+  - key: Percorrenza
+    value: circa 7000 km
+  - key: Tempo
+    value: almeno 1 mese
+  - key: Periodo
+    value: Maggio - Ottobre (verificare apertura dei passi)
+  - key: Abbigliamento
+    value: l'abbigliamento multistrato è indispensabile, anche in estate si incontrano tutti i climi
 ---
 
 In queste settimane trascorse tra le mura di casa, ho dato sfogo ai miei numerosi progetti di viaggio che da tempo elaboro nella mia mente cercando di disegnare nuovi itinerari in vista di tempi migliori.

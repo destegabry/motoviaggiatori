@@ -7,20 +7,20 @@ permalink: /2016/09/frana-strada-assietta-sp-173
 featured_image: /assets/uploads/2016/09/frana-strada-assietta-sp-173/galleries/0/0.jpg
 excerpt: Frana sulla SP 173 Strada dell’Assietta tra il Colle delle Finestre ed il Colle dell’Assetta, strada chiusa dal 16 settembre 2016 a data indefinita
 categories:
-- avvisi
+  - avvisi
 tags:
-- alpi-cozie
-- colle-dellassietta
-- strada-dellassietta
-- colle-delle-finestre
-- frana
-- italia
-- off-road
-- piemonte
-- torino
-- val-chisone
-- viabilita
-- val-di-susa
+  - alpi-cozie
+  - colle-dellassietta
+  - strada-dellassietta
+  - colle-delle-finestre
+  - frana
+  - italia
+  - off-road
+  - piemonte
+  - torino
+  - val-chisone
+  - viabilita
+  - val-di-susa
 ---
 
 <p class="message warning">
@@ -33,7 +33,7 @@ Download: [Ordinanza di sospensione temporanea della circolazione della città m
 
 <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9962.745538627365!2d6.9635730587763165!3d45.06004608929178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDXCsDAzJzQwLjEiTiA2wrA1OCcwMS4xIkU!5e1!3m2!1sit!2sus!4v1475244980130" width="100%" height="540" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-*Posizione della frana.*
+_Posizione della frana._
 
 Probabilmente il passaggio verrà ripristinato all’apertura della strada nella primavera 2017.
 

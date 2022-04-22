@@ -8,19 +8,20 @@ featured_image: /assets/uploads/2017/12/marocco-moto-medina-marrakech/featured_i
 featured_youtube: j0bNTNm6i3c
 excerpt: "In Marocco abbiamo viaggiato su strade pazzesche, ma forse l'esperienza di guida più assurda è stata attraversare la brulicante Medina di Marrakech con i nostri bisonti a 2 cilindri"
 categories:
-- viaggi
-- viaggi/marocco
-- video
+  - viaggi
+  - viaggi/marocco
+  - video
 tags:
-- africa
-- bmw-r1200gs
-- marocco
-- informazioni-pratiche
-- marocco-in-moto
-- marrakech
-- video
-- xiaomi-yi
+  - africa
+  - bmw-r1200gs
+  - marocco
+  - informazioni-pratiche
+  - marocco-in-moto
+  - marrakech
+  - video
+  - xiaomi-yi
 ---
+
 In [Marocco](/categoria/viaggi/marocco/) abbiamo viaggiato su strade pazzesche, ma probabilmente l’esperienza di guida più assurda è stata attraversare la brulicante Medina di Marrakech con i nostri bisonti a 2 cilindri.
 
 In realtà non è possibile entrare in moto nella città vecchia, ma questo lo abbiamo scoperto una volta arrivati al nostro riad: sulla strada non abbiamo incontrato cartelli e la quantità di motorini che ci sfrecciavano accanto non faceva pensare a divieti… abbiamo cominciato ad insospettirci quando le borse laterali rischiavano di portar via qualche bancarella!

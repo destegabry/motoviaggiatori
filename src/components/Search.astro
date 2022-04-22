@@ -17,10 +17,7 @@ import { Icon } from "astro-icon";
   import instantsearch from "instantsearch.js";
   import { searchBox, hits } from "instantsearch.js/es/widgets";
 
-  const searchClient = algoliasearch(
-    import.meta.env.PUBLIC_ALGOLIA_APP_ID,
-    import.meta.env.PUBLIC_ALGOLIA_SEARCH_KEY
-  );
+  const searchClient = algoliasearch(import.meta.env.PUBLIC_ALGOLIA_APP_ID, import.meta.env.PUBLIC_ALGOLIA_SEARCH_KEY);
   const search = instantsearch({
     indexName: import.meta.env.PUBLIC_ALGOLIA_SEARCH_INDEX,
     searchClient,
@@ -54,12 +51,8 @@ import { Icon } from "astro-icon";
     document.querySelector("body").classList.remove("locked");
   }
 
-  document
-    .getElementById("search-close")
-    .addEventListener("click", closeSearch);
-  document
-    .getElementById("search-overlay")
-    .addEventListener("click", closeSearch);
+  document.getElementById("search-close").addEventListener("click", closeSearch);
+  document.getElementById("search-overlay").addEventListener("click", closeSearch);
   // document.querySelector('.search-box input').addEventListener('keyup', refine);
 </script>
 

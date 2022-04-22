@@ -8,45 +8,45 @@ featured_image: /assets/uploads/2016/09/strada-assietta-off-road-alta-quota/gall
 featured_youtube: "-A0hRkNO8WE"
 excerpt: Frana sulla SP 173 Strada dell’Assietta tra il Colle delle Finestre ed il Colle dell’Assetta, strada chiusa dal 16 settembre 2016 a data indefinita
 categories:
-- itinerari
-- itinerari/italia
-- itinerari/italia/nord-ovest
-- resoconti
+  - itinerari
+  - itinerari/italia
+  - itinerari/italia/nord-ovest
+  - resoconti
 tags:
-- 250-km
-- 1-giorno
-- bmw-r1200gs
-- col-basset
-- alpi-cozie
-- colle-dellassietta
-- strada-dellassietta
-- colle-delle-finestre
-- frana
-- italia
-- off-road
-- piemonte
-- torino
-- val-chisone
-- val-di-susa
-- gopro
-- ktm-250-exc-f
-- sestriere
-- strada-bianca
-- video
-- xiaomi-yi
-- yamaha-mt-03
+  - 250-km
+  - 1-giorno
+  - bmw-r1200gs
+  - col-basset
+  - alpi-cozie
+  - colle-dellassietta
+  - strada-dellassietta
+  - colle-delle-finestre
+  - frana
+  - italia
+  - off-road
+  - piemonte
+  - torino
+  - val-chisone
+  - val-di-susa
+  - gopro
+  - ktm-250-exc-f
+  - sestriere
+  - strada-bianca
+  - video
+  - xiaomi-yi
+  - yamaha-mt-03
 attributes:
-- key: Percorrenza
-  value: 220 km (di cui circa 60km su strade bianche)
-- key: Tempo
-  value: 8 ore
-- key: Periodo
-  value: Giugno – Ottobre (<a href="http://www.comune.usseaux.to.it/index.php/ufficio-turistico.html" target="_blank">verificare apertura strada</a>)<br><strong>Chiusa al traffico il mercoledì e sabato nei mesi di Luglio e Agosto</strong>
-- key: Abbigliamento
-  value: A causa dei dislivelli molto ampi lo sbalzo termico è notevole, consigliato abbigliamento multistrato e un paio di guanti invernali in aggiunta a quelli estivi
-- key: Rifornimenti
-  value: Benzinai assenti su tutto il tratto montano, è consigliato fare il pieno a Susa ed eventualmente un rabbocco a Sestriere o Pragelato
-opening:  >-
+  - key: Percorrenza
+    value: 220 km (di cui circa 60km su strade bianche)
+  - key: Tempo
+    value: 8 ore
+  - key: Periodo
+    value: Giugno – Ottobre (<a href="http://www.comune.usseaux.to.it/index.php/ufficio-turistico.html" target="_blank">verificare apertura strada</a>)<br><strong>Chiusa al traffico il mercoledì e sabato nei mesi di Luglio e Agosto</strong>
+  - key: Abbigliamento
+    value: A causa dei dislivelli molto ampi lo sbalzo termico è notevole, consigliato abbigliamento multistrato e un paio di guanti invernali in aggiunta a quelli estivi
+  - key: Rifornimenti
+    value: Benzinai assenti su tutto il tratto montano, è consigliato fare il pieno a Susa ed eventualmente un rabbocco a Sestriere o Pragelato
+opening: >-
   Itinerario mototuristico di 220km con partenza da Torino, 60 km di off-road leggero adatto a tutte le moto.
 
 
@@ -79,9 +79,9 @@ Prima di partire per il Colle delle Finestre **è meglio fare il pieno**. A Sus
 
 Conviene **alzarsi presto per evitare il traffico** di fuoristrada e camper su questo tratto di strada.
 
-Dalla SP 24 si svolta in direzione *Meana – Pian del Frais – Colle delle Finestre*, si prosegue fino ad uno stretto sottopasso ferroviario dopo il quale si gira a sinistra in direzione *Colle delle Finestre*.
+Dalla SP 24 si svolta in direzione _Meana – Pian del Frais – Colle delle Finestre_, si prosegue fino ad uno stretto sottopasso ferroviario dopo il quale si gira a sinistra in direzione _Colle delle Finestre_.
 
-Superata la borgata di Meana la strada entra nel bosco, diventa stretta e si snoda su una **miriade di tornanti** tutti uguali (almeno 30)… Al km 12 km della SP 172 si entra nel *Parco Naturale Orsiera-Rociavrè* e finalmente **comincia la strada bianca**!
+Superata la borgata di Meana la strada entra nel bosco, diventa stretta e si snoda su una **miriade di tornanti** tutti uguali (almeno 30)… Al km 12 km della SP 172 si entra nel _Parco Naturale Orsiera-Rociavrè_ e finalmente **comincia la strada bianca**!
 
 Il fondo è molto ben tenuto, passano tranquillamente biciclette da strada e camper. La prima parte è soprattutto in terra battuta, nei tornanti finali c’è un po’ di ghiaia, ma niente da temere.
 

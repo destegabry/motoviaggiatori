@@ -9,23 +9,23 @@ excerpt: "Entriamo nel vivo del viaggio in Marocco visitando Marrakech e attrave
 opening: >-
   Dopo [l’oziosa traghettata raccontata nella prima parte](/2018/03/marocco-moto-torino-marrakech), finalmente entriamo nel vivo del viaggio in Marocco: visitiamo Marrakech e attraversiamo i variopinti paesaggi offerti dalla catena montuosa dell’Alto Atlante, tra valichi in quota, deserto roccioso, valli ricoperte di palmeti, ksar da favola ed una natura quasi incontaminata.
 categories:
-- viaggi
-- viaggi/marocco
+  - viaggi
+  - viaggi/marocco
 tags:
-- marocco-in-moto
-- africa
-- alto-atlante
-- ait-ben-haddou
-- berberi
-- bmw-r1200gs
-- deserto
-- marocco
-- marrakech
-- montagna
-- sahara
-- off-road
-- tizi-ntichka
-- valle-delle-rose
+  - marocco-in-moto
+  - africa
+  - alto-atlante
+  - ait-ben-haddou
+  - berberi
+  - bmw-r1200gs
+  - deserto
+  - marocco
+  - marrakech
+  - montagna
+  - sahara
+  - off-road
+  - tizi-ntichka
+  - valle-delle-rose
 ---
 
 ![Percorso Marocco Marrakech Alto Atlante](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/0/0.png)
@@ -55,11 +55,11 @@ Il mattino successivo ci svegliamo di buon’ora per visitare come si deve la ci
 ![Affacciato Madrasa Ben Youssef](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/2/GAB3168.jpg "Affacciato sul cortile della Madrasa Ben Youssef")
 ![Decorazioni Madrasa Ben Youssef](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/2/GAB3175.jpg "Magnifiche decorazioni sui muri della Affacciato sul cortile della Madrasa Ben Youssef")
 
-Procediamo verso est in direzione del **quartiere delle concerie**, zona autentica e poco turistica di Marrakech, ovvero decisamente sporca e piuttosto disagiata! Veniamo subito avvicinati da un sacco di guide improvvisate e alla fine cediamo per un tour delle *tanneries*.
+Procediamo verso est in direzione del **quartiere delle concerie**, zona autentica e poco turistica di Marrakech, ovvero decisamente sporca e piuttosto disagiata! Veniamo subito avvicinati da un sacco di guide improvvisate e alla fine cediamo per un tour delle _tanneries_.
 
 Tutte le fasi della lavorazione del pellame avvengono qui ed è possibile vedere come le pelli dei vari animali arrivino ancora coperte di pelo e finiscano per diventare giubbotti, calzature, borse… i metodi di lavorazione sono completamente artigianali e fermi a secoli fa. Il pellame attraversa molte vasche riempite di differenti sostanze dall’odore nauseabondo per essere preparato, conciato ed infine colorato. I lavoratori delle concerie passano gran parte della loro giornata immersi in queste vasche maleodoranti, apparentemente assuefatti agli odori penetranti, mentre noi ci aggiriamo per le concerie armati di un bel mazzo di menta tenuto sul naso!
 
-Il tour guidato *ovviamente* finisce in un negozio in cui non compriamo nulla, con sommo disappunto della guida che a quel punto ci chiede di pagare una decina di euro per il disturbo.
+Il tour guidato _ovviamente_ finisce in un negozio in cui non compriamo nulla, con sommo disappunto della guida che a quel punto ci chiede di pagare una decina di euro per il disturbo.
 
 ![Pellami tanneries Marrakech](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/3/GAB3190.jpg "I pellami arrivano alle tanneries di Marrakech")
 ![Vasche tanneries Marrakech](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/3/IMG_3172.jpg "Le vasche per la concia delle pelli nelle tanneries di Marrakech")
@@ -70,7 +70,7 @@ Rientrati nella parte più turistica della medina visitiamo le **Tombe Sa’dian
 
 Raggiungiamo i **giardini Menara** in taxi, un grande oliveto di proprietà del re del Marocco irrigato da canali sotterranei che portano l’acqua direttamente dalle montagne dell’Atlante ad una grande vasca situata al centro. Ci riposiamo un po’, girovaghiamo tra gli ulivi e torniamo in città per visitare il **Mellah (quartiere ebraico)** ed infine cenare al ristorante NOMAD che propone piatti della tradizione marocchina rivisitati in chiave moderna.
 
-Rientriamo al *Riad Riva* per preparare i bagagli, domani mattina si parte per il deserto!
+Rientriamo al _Riad Riva_ per preparare i bagagli, domani mattina si parte per il deserto!
 
 ![Tombe Sa'diane Marrakech](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/4/GAB3228.jpg "Le tombe Sa'diane")
 ![Decorazioni tombe Sa'diane Marrakech](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/4/GAB3230.jpg "Le decorazioni delle tombe Sa'diane in marmo di carrara, cedro e stucchi")
@@ -90,7 +90,7 @@ Saliamo di quota abbastanza lentamente, fino a raggiungere il letto del torrente
 
 Superate le bancarelle di cibarie, adesivi e minerali ci rendiamo conto che il pesaggio sta cambiando nuovamente ed il colore delle rocce torna ad essere di quel bel rosso caratteristico di questi luoghi: il Tizi n’Tichka è la nostra porta di ingresso al Sahara e la sensazione di essere realmente entrati in Africa adesso è fortissima.
 
-Dopo pochi kilometri raggiungiamo il bivio che tengo d’occhio sulla fidata [cartina Reise Know-How](https://amzn.to/2NuHVGX): giriamo a sinistra e percorriamo la provinciale P1506 fino a raggiungere il fondo di una valle bellissima, fuori dai circuiti turistici e per questo ancora più affascinante. La strada è uno stretto nastro d’asfalto su cui 2 auto farebbero fatica ad incrociarsi, ma tanto siamo in moto e non vediamo altri mezzi circolare. Attraversiamo piccoli villaggi berberi, incontriamo qualche gregge di pecore e dopo una buona mezz’ora di viaggio arriviamo all’*Auberge Agdal*, giusto in tempo per il pranzo a base di una grade tajine da condividere. Rimontiamo in sella decisi a raggiungere la prossima tappa in fretta, ma siamo costretti a fermarci per fotografare uno stupendo pastore berbero con il suo gregge di pecore.
+Dopo pochi kilometri raggiungiamo il bivio che tengo d’occhio sulla fidata [cartina Reise Know-How](https://amzn.to/2NuHVGX): giriamo a sinistra e percorriamo la provinciale P1506 fino a raggiungere il fondo di una valle bellissima, fuori dai circuiti turistici e per questo ancora più affascinante. La strada è uno stretto nastro d’asfalto su cui 2 auto farebbero fatica ad incrociarsi, ma tanto siamo in moto e non vediamo altri mezzi circolare. Attraversiamo piccoli villaggi berberi, incontriamo qualche gregge di pecore e dopo una buona mezz’ora di viaggio arriviamo all’_Auberge Agdal_, giusto in tempo per il pranzo a base di una grade tajine da condividere. Rimontiamo in sella decisi a raggiungere la prossima tappa in fretta, ma siamo costretti a fermarci per fotografare uno stupendo pastore berbero con il suo gregge di pecore.
 
 ![Strada Tizi n'Tichka](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/5/GAB3262.jpg "La strada perfetta per il passo Tizi n'Tichka")
 ![Passo Tizi n'Tichka](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/5/GAB3268.jpg "A 2400 metri in Africa: il passo Tizi n'Tichka")
@@ -104,11 +104,11 @@ Subito fuori Télouet ci imbattiamo nei lavori di ampliamento della strada P1506
 
 Riprendo la strada con l’[action cam](https://amzn.to/2PeS4Jv) ripromettendomi di interrompere il video dopo ogni curva, ma il panorama è talmente spettacolare da far saltare tutti i buoni propositi di non tornare a casa con ore di video da montare. La guida è divertente, il paesaggio stupendo, la temperatura perfetta: vorremmo che questa vallata non finisse mai!
 
-La ciliegina sulla torta è lo **ksar di Ait-Ben-Haddou**, cittadella fortificata costruita nel XVII secolo su una collina lungo il fiume Ounila. Realizzato interamente in mattoni di fango rosso, lo ksar è talmente bello da essere dichiarato patrimonio UNESCO e diventato set di numerosi film, da *Lawrence d’Arabia* a *Il Gladiatore*.
+La ciliegina sulla torta è lo **ksar di Ait-Ben-Haddou**, cittadella fortificata costruita nel XVII secolo su una collina lungo il fiume Ounila. Realizzato interamente in mattoni di fango rosso, lo ksar è talmente bello da essere dichiarato patrimonio UNESCO e diventato set di numerosi film, da _Lawrence d’Arabia_ a _Il Gladiatore_.
 
 Lasciamo i nostri boxer bicilindrici a riposare davanti ad un locale, dove immancabilmente ci aspetta un ragazzo pronto ad improvvisarsi guida turistica. Per pochi Dirham un anziano si offre di tenere d’occhio moto, caschi e abbigliamento protettivo.
 
-Guadiamo il fiume saltellando su rocce e sacchi di sabbia mentre la luce del tardo pomeriggio illumina le mura della fortezza con un luce caldissima, l’immagine è indimenticabile. Attraversiamo piccoli campi di grano e raggiungiamo un’arena costruita per le riprese del film *Il Gladiatore*; qui la nostra guida sbrodola il lungo elenco di film girati nello ksar. Esploriamo la cittadela visitando qualche casa e scopriamo che diverse famiglie abitano ancora all’interno di questo luogo fuori dal tempo. È possibile dormire in alcuni hotel all’interno delle mura e ci pentiamo di aver prenotato una sistemazione ad Ouarzazzate. Finito il giro turistico, torniamo sull’altra sponda del fiume per godere lo spettacolo del tramonto da un bar con terrazza.
+Guadiamo il fiume saltellando su rocce e sacchi di sabbia mentre la luce del tardo pomeriggio illumina le mura della fortezza con un luce caldissima, l’immagine è indimenticabile. Attraversiamo piccoli campi di grano e raggiungiamo un’arena costruita per le riprese del film _Il Gladiatore_; qui la nostra guida sbrodola il lungo elenco di film girati nello ksar. Esploriamo la cittadela visitando qualche casa e scopriamo che diverse famiglie abitano ancora all’interno di questo luogo fuori dal tempo. È possibile dormire in alcuni hotel all’interno delle mura e ci pentiamo di aver prenotato una sistemazione ad Ouarzazzate. Finito il giro turistico, torniamo sull’altra sponda del fiume per godere lo spettacolo del tramonto da un bar con terrazza.
 
 ![Turbante Kasbah Télouet](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/6/GAB3298.jpg "La guida della kasbah Télouet prepara un turbante per Stefania ")
 ![Decorazioni mosaici Kasbah Télouet](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/6/GAB3312.jpg "Decorazioni e mosaici nella Kasbah Télouet")
@@ -123,13 +123,13 @@ Guadiamo il fiume saltellando su rocce e sacchi di sabbia mentre la luce del tar
 ![Tramonto Ait-Ben-Haddou](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/6/GAB3375.jpg "Luce del tramonto su Ait-Ben-Haddou")
 ![Panorama Ait-Ben-Haddou](/assets/uploads/2018/10/marocco-moto-deserto-roccioso-alto-atlante/galleries/6/GAB3397-Pano.jpg "Panorama serale della cittadella di Ait-Ben-Haddou")
 
-Ripartiamo nostro malgrado in direzione di Ouarzazzate, dove abbiamo prenotato una stanza ed una tenda berbera nel campeggio *La Palmeraie*, che raggiungiamo nel buio più totale. Paolo scopre che la tenda berbera consiste in poco più che 4 pali piantati nella ghiaia del parcheggio, coperti da un telo leggero ed un tappeto a terra: bastano poche folate di vento per convincerlo a chiedere un cambio di sistemazione…
+Ripartiamo nostro malgrado in direzione di Ouarzazzate, dove abbiamo prenotato una stanza ed una tenda berbera nel campeggio _La Palmeraie_, che raggiungiamo nel buio più totale. Paolo scopre che la tenda berbera consiste in poco più che 4 pali piantati nella ghiaia del parcheggio, coperti da un telo leggero ed un tappeto a terra: bastano poche folate di vento per convincerlo a chiedere un cambio di sistemazione…
 
 ## Giorno 4: il palmeto di Skoura e la Valle delle Rose
 
-I pavoni del campeggio decidono di svegliarci all’alba urlando come ossessi, standosene appollaiati proprio sul tetto della casupola in cui dormiamo. Passiamo per il centro di Ouarzazzate scoprendo una città moderna e poco affascinante, con un’economia basata sugli studi cinematografici usati da grandi produzioni estere: tra gli altri, qui viene girato *Il Trono di Spade*. Non ci fermiamo dato che il programma della giornata è piuttosto denso.
+I pavoni del campeggio decidono di svegliarci all’alba urlando come ossessi, standosene appollaiati proprio sul tetto della casupola in cui dormiamo. Passiamo per il centro di Ouarzazzate scoprendo una città moderna e poco affascinante, con un’economia basata sugli studi cinematografici usati da grandi produzioni estere: tra gli altri, qui viene girato _Il Trono di Spade_. Non ci fermiamo dato che il programma della giornata è piuttosto denso.
 
-Poco dopo Ouarzazzate la N10 corre dritta lungo le sponde di un grande bacino artificiale creato sbarrando il fiume Dadés, dove sono nati resort e golf club. Ci fermiamo a fare qualche foto e proseguiamo verso il **palmeto di Skoura**, un’enorme oasi creata nel XII secolo irrigando la zona con un sistema di chiuse chiamato *khettara*. Vogliamo visitare la **kasbah Amridil**, ma sbagliamo strada e alla fine ci ritroviamo a fare mente locale gonfiando il pallone da calcio di un gruppetto di bambini trovato nel palmeto.
+Poco dopo Ouarzazzate la N10 corre dritta lungo le sponde di un grande bacino artificiale creato sbarrando il fiume Dadés, dove sono nati resort e golf club. Ci fermiamo a fare qualche foto e proseguiamo verso il **palmeto di Skoura**, un’enorme oasi creata nel XII secolo irrigando la zona con un sistema di chiuse chiamato _khettara_. Vogliamo visitare la **kasbah Amridil**, ma sbagliamo strada e alla fine ci ritroviamo a fare mente locale gonfiando il pallone da calcio di un gruppetto di bambini trovato nel palmeto.
 
 <p class="message pro-tip">Portare un compressore può tornare utile, non solo in caso di foratura!</p>
 
@@ -145,7 +145,7 @@ Riprendiamo la N10 con lo stomaco bello pieno e percorriamo i 50 km che ci separ
 
 Il paesaggio vario, i colori stupendi e la strada divertente ci fanno perdere di vista il bivio per la pista che ci porterà nella valle del Dadés. Poco male, perdiamo un po’ di tempo ma ci godiamo la guida immersa in questi luoghi magici. Facciamo inversione e nel paesino di Bou Tharar chiediamo informazioni per la pista. Iniziamo il percorso off-road all’interno del piccolo agglomerato di case in adobe, ma ci ritroviamo presto in una vallata laterale completamente deserta. Il fondo è uno sterrato piuttosto compatto che ogni tanto attraversa il letto di un torrente in secca, dove c’è qualche pietra smossa a richiedere un po’ di attenzione alla guida; tutto ciò che abbiamo attorno è meraviglioso e invoglia a fermarsi ogni momento per ammirare il paesaggio e fotografarlo. Purtroppo il pomeriggio avanza senza tregua e non vogliamo arrivare a destinazione con il buio. In tutto percorriamo meno di 16 km di sterrato divertente, solo gli ultimi 2 hanno un fondo poco più impegnativo per via delle pietre smosse.
 
-Raggiunta la R704 realizziamo di essere un po’ stanchi e di avere ancora diversi km prima di raggiungere Tinghir, così decidiamo di saltare le Gorges du Dadés e andare alla ricerca di un letto. A Boulmane du Dadés facciamo una pausa per lavare le moto coperte di polvere. Invece che fermarci nella città di Tinghir, proseguiamo verso le Gorges du Todra: lo spettacolo è mozzafiato, decidiamo di tornare indietro e fermarci a dormire il più vicino possibile per godercele al meglio domani mattina. Passiamo la serata alla *Kasbah Restaurant Amazir*, dotata di una bellissima piscina all’aperto da cui ammirare le ripide pareti rosse del canyon.
+Raggiunta la R704 realizziamo di essere un po’ stanchi e di avere ancora diversi km prima di raggiungere Tinghir, così decidiamo di saltare le Gorges du Dadés e andare alla ricerca di un letto. A Boulmane du Dadés facciamo una pausa per lavare le moto coperte di polvere. Invece che fermarci nella città di Tinghir, proseguiamo verso le Gorges du Todra: lo spettacolo è mozzafiato, decidiamo di tornare indietro e fermarci a dormire il più vicino possibile per godercele al meglio domani mattina. Passiamo la serata alla _Kasbah Restaurant Amazir_, dotata di una bellissima piscina all’aperto da cui ammirare le ripide pareti rosse del canyon.
 
 Andiamo a letto dopo aver fatto il bucato approfittando del lavatoio sul tetto dell’hotel, da cui scopriamo uno spettacolo di stelle incastonate tra le pareti della gola.
 
@@ -183,7 +183,7 @@ Attirati dall’azzurro intenso optiamo per una breve sosta sulla riva del **lag
 
 Il primo posto in cui sembra sia possibile pranzare è l’[Hotel Atlas Tabourihte](https://goo.gl/maps/1AHnPoLmZzy), unica costruzione decente in un villaggio sgangheratissimo. Chiediamo alla giovane berbera che spazza il marciapiede se possiamo mangiare qualcosa e dopo pochi minuti siamo seduti ad un piccolo tavolo immerso in una grande sala da pranzo, evidentemente inutilizzata da tempo: siamo fuori stagione dato che i volantini sparsi nel locale descrivono i dintorni come il paradiso dello sci… chi avrebbe mai immaginato di ritrovarsi in una pseudo-stazione sciistica in Nord Africa?
 
-La ragazza ci porta i menù in inglese e francese anche se pare non padroneggiare nessuna delle due lingue e la cucina è evidentemente chiusa per ferie; cerchiamo invano di ordinare piatti non disponibili fino a quando le sentiamo pronunciare la parola *omelette*, a cui annuiamo vigorosamente. La nostra cameriera improvvisata sparisce qualche minuto, torna reggendo un’insalatiera di plastica, attraversa la strada, spalanca la porta di una casa in decomposizione da cui vediamo uscire galline e pulcini, rispunta dall’oscurità reggendo un mucchio di uova ed in pochi minuti le nostre omelette riempiono i piatti pronte per essere divorate. Il vero cibo km 0!
+La ragazza ci porta i menù in inglese e francese anche se pare non padroneggiare nessuna delle due lingue e la cucina è evidentemente chiusa per ferie; cerchiamo invano di ordinare piatti non disponibili fino a quando le sentiamo pronunciare la parola _omelette_, a cui annuiamo vigorosamente. La nostra cameriera improvvisata sparisce qualche minuto, torna reggendo un’insalatiera di plastica, attraversa la strada, spalanca la porta di una casa in decomposizione da cui vediamo uscire galline e pulcini, rispunta dall’oscurità reggendo un mucchio di uova ed in pochi minuti le nostre omelette riempiono i piatti pronte per essere divorate. Il vero cibo km 0!
 
 Ripartiamo tra gli occhi increduli degli abitanti del piccolo villaggio in direzione Nord, pronti ad affrontare il Medio Atlante in paesaggi sempre più verdi, passi di montagna sempre più bassi ma soprattutto un infinito tratto di strada in costruzione composto da uno strato di ghiaia così spesso da costringerci a timonare più che guidare. Perdiamo un sacco di tempo a cercare di galleggiare su questo fondo incerto e la meta di oggi, Beni Mellal, sembra lontanissima. Fortunatamente raggiungiamo il tratto finito della R317 e torniamo a goderci la guida in un Marocco verdissimo.
 

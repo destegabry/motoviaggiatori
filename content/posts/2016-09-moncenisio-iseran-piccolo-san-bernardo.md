@@ -7,35 +7,35 @@ permalink: /2016/09/moncenisio-iseran-piccolo-san-bernardo
 featured_image: /assets/uploads/2016/09/moncenisio-iseran-piccolo-san-bernardo/featured-image.jpg
 excerpt: Itinerario mototuristico di 350 km, anello con partenza da Torino che si snoda nel cuore delle Alpi Cozie tra Val di Susa, Savoia e Valle d’Aosta passando per il Lago del Moncenisio, il Col de L’Iseran ed il Piccolo San Bernardo.
 categories:
-- itinerari
-- itinerari/francia
-- itinerari/francia/savoia
-- itinerari/italia
-- itinerari/italia/nord-ovest
+  - itinerari
+  - itinerari/francia
+  - itinerari/francia/savoia
+  - itinerari/italia
+  - itinerari/italia/nord-ovest
 tags:
-- 500-km
-- 1-giorno
-- alpi-cozie
-- col-de-liseran
-- colle-del-moncenisio
-- francia
-- italia
-- kawasaki-versys
-- piemonte
-- rhone-alpes
-- torino
-- valle-daosta
+  - 500-km
+  - 1-giorno
+  - alpi-cozie
+  - col-de-liseran
+  - colle-del-moncenisio
+  - francia
+  - italia
+  - kawasaki-versys
+  - piemonte
+  - rhone-alpes
+  - torino
+  - valle-daosta
 attributes:
-- key: Percorrenza
-  value: 350 km
-- key: Tempo
-  value: 6 ore
-- key: Periodo
-  value: Maggio - Settembre <a href="http://www.sport-passion.fr/parcours/etat-cols.php" target="_blank">verificare apertura colli</a>
-- key: Abbigliamento
-  value: A causa dei dislivelli molto ampi lo sbalzo termico è notevole, consigliato abbigliamento multistrato e un paio di guanti invernali in aggiunta a quelli estivi
-- key: Rifornimenti
-  value: Benzinai assenti dal Colle del Moncenisio a Val d'Isère
+  - key: Percorrenza
+    value: 350 km
+  - key: Tempo
+    value: 6 ore
+  - key: Periodo
+    value: Maggio - Settembre <a href="http://www.sport-passion.fr/parcours/etat-cols.php" target="_blank">verificare apertura colli</a>
+  - key: Abbigliamento
+    value: A causa dei dislivelli molto ampi lo sbalzo termico è notevole, consigliato abbigliamento multistrato e un paio di guanti invernali in aggiunta a quelli estivi
+  - key: Rifornimenti
+    value: Benzinai assenti dal Colle del Moncenisio a Val d'Isère
 ---
 
 Ci sono giorni in cui anche a Torino capita di svegliarsi sotto un limpido cielo azzurro, senza tracce di smog, solo qualche cumulo di nubi a ovest, sulle Alpi Cozie: in quei giorni è davvero difficile resistere alla tentazione di prendere permesso da lavoro e scappare dalla città in sella alla moto!
@@ -98,7 +98,7 @@ La discesa che dal colle porta al paese di Val-d'Isère migliora decisamente com
 Al fondo della discesa mi sono imbattuto in un'inaspettata [fiera del veicolo elettrico](http://salon-vehicule-electrique.com) che si svolge a metà luglio... molto interessante!
 
 ![L'immancabile Tesla Model X con le sue portiere ad ali di gabbiano](/assets/uploads/2016/09/moncenisio-iseran-piccolo-san-bernardo/galleries/3/0.jpg "L'immancabile Tesla Model X con le sue portiere ad ali di gabbiano")
-![Sound da moto elettrica per bambini... ma veder girare in pista le KTM Freeride E-SX è fantastico!](/assets/uploads/2016/09/moncenisio-iseran-piccolo-san-bernardo/galleries/3/1.jpg "Sound da moto elettrica per bambini... ma veder girare in pista le KTM Freeride E-SX è fantastico!")
+![Sound da moto elettrica per bambini... ma veder girare in pista le KTM Freeride E-SX è fantastico!](/assets/uploads/2016/09/moncenisio-iseran-piccolo-san-bernardo/galleries/3/1.jpg "Sound da moto elettrica per bambini… ma veder girare in pista le KTM Freeride E-SX è fantastico!")
 ![Cosa c'è di meglio che girare tra i boschi con una moto da trial che non fa rumore?](/assets/uploads/2016/09/moncenisio-iseran-piccolo-san-bernardo/galleries/3/2.jpg "Cosa c'è di meglio che girare tra i boschi con una moto da trial che non fa rumore?")
 ![BMW i8... C'è bisogno di dire qualcosa?](/assets/uploads/2016/09/moncenisio-iseran-piccolo-san-bernardo/galleries/3/3.jpg "BMW i8... C'è bisogno di dire qualcosa?")
 

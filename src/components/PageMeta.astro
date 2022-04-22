@@ -17,9 +17,7 @@ export interface Props {
 }
 
 const { SITE_NAME, SITE_DESCRIPTION } = import.meta.env;
-const title = Astro.props.title
-  ? `${Astro.props.title} | ${SITE_NAME}`
-  : SITE_NAME;
+const title = Astro.props.title ? `${Astro.props.title} | ${SITE_NAME}` : SITE_NAME;
 const description = Astro.props.description ?? SITE_DESCRIPTION;
 const previewImage = Astro.props.previewImage
   ? `${Astro.props.previewImage}?nf_resize=smartcrop&w=600&h=315`
@@ -28,7 +26,7 @@ const previewImage = Astro.props.previewImage
 
 <!-- Global Metadata -->
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="icon" type="image/x-icon" href="/icons/motoviaggiatori_32.png" />
 
 <!-- Primary Meta Tags -->

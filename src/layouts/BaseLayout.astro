@@ -17,7 +17,7 @@ const { title, description, language, previewImage, ...mainProps } = Astro.props
 
 <html lang={language ?? SITE_LANGUAGE}>
   <head>
-    <PageMeta title={title} description={description} previewImage={previewImage} />
+    <PageMeta {title} {description} {previewImage} />
   </head>
   <body itemscope itemtype="https://schema.org/Blog">
     <Header />

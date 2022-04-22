@@ -6,21 +6,22 @@ author: giovanni
 featured_image: /assets/uploads/2020/07/recesione-valigie-alluminio-koboldbike-kobo44-yamaha-xt-1200z-super-tenere/featured.jpg
 excerpt: Prime impressioni sulle borse artigianali e completamente Made in Italy
 categories:
-- recensioni
-- recensioni/valigie-e-borse-moto
+  - recensioni
+  - recensioni/valigie-e-borse-moto
 tags:
-- accessori
-- yamaha
-- yamaha-xt-1200z-super-tenere
-- borse-alluminio
-- borse-laterali
-- borse-moto
-- koboldbike
-- valigie
-- valigie-alluminio
-- valigie-laterali
-- made-in-italy
+  - accessori
+  - yamaha
+  - yamaha-xt-1200z-super-tenere
+  - borse-alluminio
+  - borse-laterali
+  - borse-moto
+  - koboldbike
+  - valigie
+  - valigie-alluminio
+  - valigie-laterali
+  - made-in-italy
 ---
+
 ## Koboldbike
 
 Azienda bolognese che produce artigianalmente valigie in alluminio di grande robustezza. Esistono diverse linee di prodotto, spiegate e illustrate dettagliatamente sul sito [Koboldbike](https://www.koboldbike.it), tra cui anche una linea di valigie che montano direttamente sulla moto senza necessitare di telaietti (per alcuni modelli BMW, Honda e KTM).
@@ -54,7 +55,7 @@ Le valigie si montano sul telaio GiVi Monokey, nel caso ne siate già in possess
 
 Una volta montate si ha un **ingombro totale di 95cm**, ben al di sotto del limite dei 100cm previsto dal codice della strada. Le valgie hanno dimensioni 45 cm (base) 40 cm (altezza) e 25 cm (profondità) per un **volume interno di 44 litri**.
 
-Vengono fornite 4 chiavi che aprono entrambe le valigie, non è necessario spegnere la moto per aprirle. L’interno non è foderato ma è possibile ordinare un rivestimento estraibile e lavabile, oppure le borse interne impermeabili per proteggere gli oggetti all’interno. Una guarnizione in gomma sul coperchio garantisce la chiusura a tenuta stagna, all'interno del coperchio è possibile applicare un *ragno* elastico utile per ottimizzare lo spazio interno.
+Vengono fornite 4 chiavi che aprono entrambe le valigie, non è necessario spegnere la moto per aprirle. L’interno non è foderato ma è possibile ordinare un rivestimento estraibile e lavabile, oppure le borse interne impermeabili per proteggere gli oggetti all’interno. Una guarnizione in gomma sul coperchio garantisce la chiusura a tenuta stagna, all'interno del coperchio è possibile applicare un _ragno_ elastico utile per ottimizzare lo spazio interno.
 
 ![Koboldbike KOBO 44 1](/assets/uploads/2020/07/recesione-valigie-alluminio-koboldbike-kobo44-yamaha-xt-1200z-super-tenere/foto/unboxing-4.jpg "Valigia in alluminio Koboldbike KOBO 44")
 ![Koboldbike KOBO 44 5](/assets/uploads/2020/07/recesione-valigie-alluminio-koboldbike-kobo44-yamaha-xt-1200z-super-tenere/foto/unboxing-5.jpg "Interno valigia Koboldbike KOBO 44")

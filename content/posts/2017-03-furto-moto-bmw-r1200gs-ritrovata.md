@@ -7,13 +7,14 @@ permalink: /2017/03/furto-moto-bmw-r1200gs-ritrovata
 featured_image: /assets/uploads/2017/03/furto-moto-bmw-r1200gs-ritrovata/galleries/0/0.jpg
 excerpt: "Mi hanno rubato la moto in pieno giorno: fortunatamente la storia è a lieto fine…"
 categories:
-- resoconti
+  - resoconti
 tags:
-- bmw-r1200gs
-- danni
-- furto
-- torino
+  - bmw-r1200gs
+  - danni
+  - furto
+  - torino
 ---
+
 Siete mai stati vittime di un furto? Io purtroppo ci sono già passato troppe volte, ma non avrei mai immaginato che qualuno potesse avere il fegato di rubare una moto in pieno giorno, davanti ad un ufficio postale.
 
 Fortunatamente la storia è a lieto fine… Ma andiamo con ordine!
@@ -24,7 +25,7 @@ Venerdì 24 febbraio ho approfittato della pausa pranzo per andare a ritirare un
 
 Come molte altre volte, ho parcheggiato la mia BMR R1200GS proprio davanti alle finestre della sala d’aspetto, inserito il bloccasterzo e atteso il mio turno leggendo le notize dal mio smartphone.
 
-20 minuti dopo ecco la *sorpresa*: la moto è sparita. A pochi metri c’è un mucchietto di immondizia, scarti di un impianto elettrico.
+20 minuti dopo ecco la _sorpresa_: la moto è sparita. A pochi metri c’è un mucchietto di immondizia, scarti di un impianto elettrico.
 
 ![Furto R1200GS poste Torino](/assets/uploads/2017/03/furto-moto-bmw-r1200gs-ritrovata/galleries/0/0.jpg "La mia BMW è stata rubata proprio dove c'è la silhouette nera")
 ![Furto R1200GS poste Torino](/assets/uploads/2017/03/furto-moto-bmw-r1200gs-ritrovata/galleries/0/1.jpg "Le tracce rimaste dopo il furto")
@@ -51,7 +52,7 @@ Sono le 20,30 di martedì 28 febbraio. È la polizia. La moto è stata ritrovata
 
 YEAAAAAAH!
 
-Mollo la cena, afferro chiavi, casco, guanti, prenoto la [Smart car2go](http://car2go.com) più vicina (a proposito, iscrizione e minuti gratis con il mio codice promozionale 15C3IT44030\_destegabry) e volo in via Campiglia angolo con via Sospello. Non molto distante da dove è stata rubata la moto.
+Mollo la cena, afferro chiavi, casco, guanti, prenoto la [Smart car2go](http://car2go.com) più vicina (a proposito, iscrizione e minuti gratis con il mio codice promozionale 15C3IT44030_destegabry) e volo in via Campiglia angolo con via Sospello. Non molto distante da dove è stata rubata la moto.
 
 La moto è lì, accanto ad una volante della Polizia. Quasi non posso crederci.
 

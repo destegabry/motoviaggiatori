@@ -1,12 +1,14 @@
 ---
-import { Markdown, Debug } from 'astro/components';
+import { Markdown } from 'astro/components';
 import Icon from "astro-icon";
 import { Post, RawPost } from "../../../entities/Post";
 import { Author } from "../../../entities/Author";
 import { Category } from "../../../entities/Category";
 import { Tag } from "../../../entities/Tag";
 import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Picture from "../../../components/Picture.astro";
 import PostMeta from "../../../components/PostMeta.astro";
+import YouTube from "../../../components/YouTube.astro";
 import { enhancePosts } from "../../../utils/content";
 
 export async function getStaticPaths({ rss }) {
@@ -85,6 +87,29 @@ const prev = Astro.props.prev?.frontmatter as Post;
 <BaseLayout title={title} description={excerpt} language{language} previewImage={featured_image}>
   <h1>{title}</h1>
   <PostMeta post={post} />
+  <section class="featured-media-wrapper">
+    {
+      post.frontmatter.featured_youtube ? (
+        <YouTube id={post.frontmatter.featured_youtube} title={`Video ${post.frontmatter.title}`} />
+      ) : (
+        <a href={post.frontmatter.permalink}>
+          <Picture
+            src={post.frontmatter.featured_image}
+            alt=""
+            imgSrcSets={[{
+              query: '(max-width: 600px)',
+              width: 600,
+              height: 600 / 16 * 9,
+            }, {
+              query: '(min-width: 600.05px)',
+              width: 980,
+              height: 980 / 3 * 2,
+            }]}
+          />
+        </a>
+      )
+    }
+  </section>
   {opening && <Markdown>{opening}</Markdown>}
   <Content />
   {tags?.length > 0 && (
@@ -129,6 +154,10 @@ const prev = Astro.props.prev?.frontmatter as Post;
 <style>
   section {
     margin: var(--space-xl) 0;
+  }
+
+  .featured-media-wrapper {
+    aspect-ratio: 16 / 9;
   }
 
   .tags ul {

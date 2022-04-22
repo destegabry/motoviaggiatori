@@ -4,9 +4,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import PostList from "../../components/PostList.astro";
 
 export async function getStaticPaths() {
-  const allTags = await Astro.glob<Tag>(
-    "../../../content/tags/*.md"
-  );
+  const allTags = await Astro.glob<Tag>("../../../content/tags/*.md");
 
   const paths = [];
   allTags.forEach((tag) => {
@@ -24,7 +22,7 @@ const { Content } = Astro.props.tag;
 const { title, slug } = Astro.props.tag.frontmatter as Tag;
 ---
 
-<BaseLayout title={title}>
+<BaseLayout {title}>
   <h1>{title}</h1>
   <Content />
   <PostList filter={{ tag: slug }} />

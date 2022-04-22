@@ -8,14 +8,14 @@ opening: >-
   Nella [prima parte del viaggio](/2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay) abbiamo attraversato Cile, Perù, Bolivia, Argentina, Paraguay e Uruguay; a Dicembre 2019 siamo tornati in Sud America per spingerci ai limiti meridionali del continente per esplorare Patagonia e Terra del Fuoco, sulle orme del nostro compaesano Antonio Pigafetta.
 author: miral
 categories:
-- viaggi
-- viaggi/panamericana
+  - viaggi
+  - viaggi/panamericana
 tags:
-- bmw-r1200gs
-- argentina
-- cile
-- america
-- sud-america
+  - bmw-r1200gs
+  - argentina
+  - cile
+  - america
+  - sud-america
 ---
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1N-rhetS0K04dOJruTkQU-vtDkTxvQME5" width="100%" height="480"></iframe>
@@ -26,7 +26,7 @@ Guardo l’orologio, sono le 4:30 del mattino: troppo presto per alzarsi, troppo
 
 ## Alla fine del mondo: Ushuaia e la Terra del Fuoco
 
-Ushuaia è una città insolita, dove a distanza di un isolato si passa dal lungomare curato e pulito all'Avenida San Martín, sede di molti negozi di accessori da sci ed escursioni montane. Una città viva a qualunque ora del giorno e della notte, con i suoi numerosi ristoranti e pub e gli innumerevoli hotel e casinò. Una città considerata da molti come l’ultimo approdo alla *Fin del Mundo*.
+Ushuaia è una città insolita, dove a distanza di un isolato si passa dal lungomare curato e pulito all'Avenida San Martín, sede di molti negozi di accessori da sci ed escursioni montane. Una città viva a qualunque ora del giorno e della notte, con i suoi numerosi ristoranti e pub e gli innumerevoli hotel e casinò. Una città considerata da molti come l’ultimo approdo alla _Fin del Mundo_.
 
 Dopo aver raggiunto Ushuaia ci siamo spinti fino alla Bahia Lapataia, all’interno del parco naturale della **Tierra del Fuego**. Attraversiamo boschi fitti su una lunga pista sterrata che si snoda tra ruscelli e laghi, sotto una fitta pioggia che a tratti lasciava spazio al sole timido e tiepido, accompagnati dall’arcobaleno solcato dai grandi rapaci che planavano sospesi dalle forti termiche.
 
@@ -49,7 +49,7 @@ Alice prende i biglietti e attendiamo il nostro turno per salire sulla piccola i
 
 Vicino al natante otarie e cormorani nuotano sereni. Poco distante, nel centro del canale, il grande faro bianco e rosso dell'isola Les Éclaireurs è la sede di una numerosa colonia di cormorani. Raggiunta l’isola Bridges passeggeremo a lungo tra i licheni e gli arbusti per ammirare le coste. Uno spettacolo unico, ma questa è solo una piccola parte delle bellezze di questa terra.
 
-Ho letto molto sulla Terra del Fuoco, ogni volta che la immaginavo pensavo ad un luogo immacolato, rimasto come ai tempi della sua creazione, dove la bellezza dei colori e delle forme rapisce gli sguardi riempiendo gli occhi del viaggiatore. Immaginavo una terra mai vista, capace di travolgermi e di rapirmi, un luogo incredibile dove l’uomo si confronta con la natura selvaggia ed aspra tra boschi di conifere in un clima fresco, mite e piacevole. Una terra popolata da un'abbondante fauna di volpi, caprioli e castori. Un cielo solcato da innumerevoli uccelli e rapaci, tra cui il *Pajaro Carpintero*, un picchio dalla testa rossa. Un mare abitato da leoni marini, pinguini e molto altro ancora.
+Ho letto molto sulla Terra del Fuoco, ogni volta che la immaginavo pensavo ad un luogo immacolato, rimasto come ai tempi della sua creazione, dove la bellezza dei colori e delle forme rapisce gli sguardi riempiendo gli occhi del viaggiatore. Immaginavo una terra mai vista, capace di travolgermi e di rapirmi, un luogo incredibile dove l’uomo si confronta con la natura selvaggia ed aspra tra boschi di conifere in un clima fresco, mite e piacevole. Una terra popolata da un'abbondante fauna di volpi, caprioli e castori. Un cielo solcato da innumerevoli uccelli e rapaci, tra cui il _Pajaro Carpintero_, un picchio dalla testa rossa. Un mare abitato da leoni marini, pinguini e molto altro ancora.
 
 Ogni mia aspettativa è stata ampiamente soddisfatta.
 
@@ -77,9 +77,9 @@ Per me quest’uomo è diventato un esempio di forza, coraggio, caparbietà. Un 
 
 **In tutti noi viaggiatori c’è una piccola parte dello spirito del Pigafetta e [leggere il suo libro](https://amzn.to/2u28LSU) è utile per riflettere sulle motivazioni che ci spingono a partire comprendendo le origini del viaggio.**
 
-Vi lascio alcune righe che tratte dalla sua [*Relazione del primo viaggio intorno al mondo*](https://amzn.to/2u28LSU), quando giunto a Punta Tombo vide per la prima volta i pinguini:
+Vi lascio alcune righe che tratte dalla sua [_Relazione del primo viaggio intorno al mondo_](https://amzn.to/2u28LSU), quando giunto a Punta Tombo vide per la prima volta i pinguini:
 
-*«Poi seguendo el medesimo cammino verso el polo Antartico, accosto da terra, venissemo a dare in due isole piene di occati e lupi marini. Veramente non se poría narrare il gran numero de questi occati. In una ora cargassimo le cinque navi. Questi occati sono negri e hanno tutte le penne ad uno modo, così nel corpo come nelle ali: non volano e vivono de pesce. Erano tanto grassi che non bisognava pelarli ma scorticarli. Hanno lo becco como uno corvo.»*
+_«Poi seguendo el medesimo cammino verso el polo Antartico, accosto da terra, venissemo a dare in due isole piene di occati e lupi marini. Veramente non se poría narrare il gran numero de questi occati. In una ora cargassimo le cinque navi. Questi occati sono negri e hanno tutte le penne ad uno modo, così nel corpo come nelle ali: non volano e vivono de pesce. Erano tanto grassi che non bisognava pelarli ma scorticarli. Hanno lo becco como uno corvo.»_
 
 ![Lungo la RUTA 40 (Argentina)](/assets/uploads/2020/01/panamericana-sud-america-argentina-patagonia/foto/03/IMG_6203.JPG)
 ![Verso l'Area protetta do Punta Tombo (Argentina)](/assets/uploads/2020/01/panamericana-sud-america-argentina-patagonia/foto/03/IMG_0174.JPG)
@@ -153,11 +153,11 @@ La **Ruta Nacional 40** è la più lunga delle Rutas dell’Argentina e una dell
 
 Una tappa obbligata sul percorso della Ruta 40 è El Calafate, per visitare il **Perito Moreno: la terza riserva di acqua dolce del mondo**. Una formazione di ghiaccio che si estende per 250 km quadrati e per 30 km di lunghezza, spessa più di 60 metri, in continuo movimento perché tra la roccia e il ghiaccio c’è una sorta di cuscino d’acqua che permette al ghiacciaio un movimento di circa 2 metri al giorno.
 
-Purtroppo il 10 Marzo del 2016 è crollato il *ponte di ghiaccio*, un arco frontale di straordinaria bellezza. Secondo gli esperti il crollo è riconducibile al naturale movimento del ghiaccio e non al riscaldamento globale. Resta il fatto che non avrei mai pensato di osservare questa meraviglia glaciale ad una temperatura di quasi 20 gradi.
+Purtroppo il 10 Marzo del 2016 è crollato il _ponte di ghiaccio_, un arco frontale di straordinaria bellezza. Secondo gli esperti il crollo è riconducibile al naturale movimento del ghiaccio e non al riscaldamento globale. Resta il fatto che non avrei mai pensato di osservare questa meraviglia glaciale ad una temperatura di quasi 20 gradi.
 
 Per raggiungere il ghiacciaio occorre superare El Calafate e percorrere una lunga strada dritta che conduce in prossimità del parco, che accoglie i visitatori con un paesaggio da fiaba: una valle stretta circondata da alte vette innevate che brillano al sorgere del sole.
 
-Superato l’accesso al parco, dopo alcune curve tra la vegetazione fitta, compare *sua maestà Perito Moreno*. Spesso lungo la strada ci fermeremo ad osservarlo da lontano per cogliere ogni sua angolazione, osservandolo e non comprendendone le dimensioni fino a quando non giungeremo al parcheggio alla termine della strada. Percorrendo alcune passerelle di legno è possibile osservare questa opera della natura caratterizzata dall'intenso azzurro del suo ghiaccio.
+Superato l’accesso al parco, dopo alcune curve tra la vegetazione fitta, compare _sua maestà Perito Moreno_. Spesso lungo la strada ci fermeremo ad osservarlo da lontano per cogliere ogni sua angolazione, osservandolo e non comprendendone le dimensioni fino a quando non giungeremo al parcheggio alla termine della strada. Percorrendo alcune passerelle di legno è possibile osservare questa opera della natura caratterizzata dall'intenso azzurro del suo ghiaccio.
 
 Nel raggiungere i vari punti di osservazione mi rapisce il cuore il boato intenso, duro e intervallato che indica la rottura dei ghiacci sotto i crudeli raggi di sole. Blocchi enormi si disgregano cadendo in acqua rumorosamente, creando onde che si infrangono contro piccoli iceberg. Questo suono mi trasmette un lamento che ritengo non sia colto dalla maggior parte dei turisti, che fotografano e osservano rumorosamente questa opera gelida e maestosa della natura. Anche se forse serve a poco, avrei ritenuto più utile accedere a questo luogo con mezzi elettrici per cercare di stimolare la coscienza dei visitatori. Oltre alle passerelle esiste la possibilità di osservare il ghiacciaio in tutta la sua maestosità dalle acque del lago andino, utilizzando una delle tante barche dei vari tour organizzati.
 
@@ -177,7 +177,7 @@ Visitiamo la costa che inizialmente si estende su una spiaggia ampia e ben tenut
 
 Vicino al paese c’è una festa a cui partecipano una moltitudine di giovani, intenti a ballare sulla sabbia al ritmo di un’assordante musica disco. Hanno trascorso la notte in auto o in piccoli pullman, trasformati in camper saldando dei pannelli in lamiera sui finestrini. Tutti sono felici e si divertono, ma a causa della musica sparata a tutto volume non avvistiamo alcun essere marino per svariati km.
 
-Decidiamo di spingerci verso Est prendendo la pista n° 3, inizialmente sterrata per poi divenire ghiaiosa. A tratti la ghiaia si accumula pericolosamente e quindi procediamo a 80 km/h facendo attenzione alle variazioni del suolo. Proseguendo lungo la pista la presenza della sabbia si fa sempre più costante costringendoci a ridurre notevolmente la velocità. Il *tôle ondulée* si moltiplica e la moto viene sollecitata a tal punto che ad un tratto si accende la spia che indica il malfunzionamento dell’ABS.
+Decidiamo di spingerci verso Est prendendo la pista n° 3, inizialmente sterrata per poi divenire ghiaiosa. A tratti la ghiaia si accumula pericolosamente e quindi procediamo a 80 km/h facendo attenzione alle variazioni del suolo. Proseguendo lungo la pista la presenza della sabbia si fa sempre più costante costringendoci a ridurre notevolmente la velocità. Il _tôle ondulée_ si moltiplica e la moto viene sollecitata a tal punto che ad un tratto si accende la spia che indica il malfunzionamento dell’ABS.
 
 Nel raggiungere Caleta Valdes incrociamo armadilli, nandù e guanachi; approdati alla caletta troviamo sparsi sulla costa leoni marini, elefanti marini e pinguini. Nella passeggiata per raggiungere la costa, uno scorpione attraversa il sentiero e si ferma davanti a noi con la sua coda dritta quasi a voler evidenziare il suo pungiglione in una dimostrazione di forza. Non sarà l’unico che incontreremo nella giornata.
 

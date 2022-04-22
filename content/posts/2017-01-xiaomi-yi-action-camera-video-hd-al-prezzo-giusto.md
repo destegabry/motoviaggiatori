@@ -8,15 +8,16 @@ featured_image: /assets/uploads/2017/01/xiaomi-yi-action-camera-video-hd-al-prez
 featured_youtube: kDAnZ34KR8E
 excerpt: "Non possiamo assolutamente partire per il #MaroccoInMoto senza una telecamera, così abbiamo deciso di provare la piccola ed economica Xiaomi Yi"
 categories:
-- recensioni
-- recensioni/gadget
-- video
+  - recensioni
+  - recensioni/gadget
+  - video
 tags:
-- action-camera
-- gopro
-- video
-- xiaomi-yi
+  - action-camera
+  - gopro
+  - video
+  - xiaomi-yi
 ---
+
 ## Xiaomi Yi action camera
 
 Non possiamo assolutamente partire per il [#MaroccoInMoto](https://twitter.com/hashtag/maroccoinmoto) senza una telecamera, così abbiamo deciso di provare la piccola ed economica [Xiaomi Yi](http://amzn.to/2kh42WO) (a partire da **49,99€**).

@@ -8,16 +8,17 @@ excerpt: Abbiamo montato le crashbar tubolari specifiche per Honda XL 700 Transa
 opening: Abbiamo montato le crashbar tubolari specifiche per Honda XL 700 Transalp (08-15) prodotte da HEED, ecco le nostre istruzioni di montaggio e considerazioni sulle barre di protezione e le borse da serbatoio.
 author: gabriele
 categories:
-- recensioni
-- recensioni/protezione-moto
+  - recensioni
+  - recensioni/protezione-moto
 tags:
-- accessori
-- heed
-- honda
-- honda-xl-700-transalp
-- protezione
-- transalp
+  - accessori
+  - heed
+  - honda
+  - honda-xl-700-transalp
+  - protezione
+  - transalp
 ---
+
 Da pochi giorni il team MotoViaggiatori si è allargato, una Honda Transalp del 2012 è quasi pronta a partire per un nuovo viaggio primaverile! Prima di mettere le ruote fuori strada abbiamo deciso di aggiungere [la protezione già collaudata sulle 2 BMW R1200GS](/2016/09/paramotore-tubolare-heed-bmw-r-1200-gs/).
 
 ## Paramotore HEED Honda XL 700 Transalp (08-15)

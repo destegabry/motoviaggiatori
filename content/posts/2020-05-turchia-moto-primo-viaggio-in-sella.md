@@ -6,13 +6,13 @@ featured_image: /assets/uploads/2020/05/turchia-moto-primo-viaggio-in-sella/foto
 excerpt: Suggestioni di un’inesperta MotoViaggiatrice alle prime armi con le due ruote
 author: alice
 categories:
-- viaggi
-- viaggi/turchia
+  - viaggi
+  - viaggi/turchia
 tags:
-- turchia-in-moto
-- bmw-f800gs
-- turchia
-- europa-orientale
+  - turchia-in-moto
+  - bmw-f800gs
+  - turchia
+  - europa-orientale
 ---
 
 È il 19 aprile 2019, sono le otto del mattino, sto per salire per la prima volta su una moto – una moto vera, s’intende – e il giro di rodaggio prevede 7000 Km. Lo stomaco è un po’ attorcigliato.

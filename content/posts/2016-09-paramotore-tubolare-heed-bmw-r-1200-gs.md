@@ -8,16 +8,17 @@ featured_image: /assets/uploads/2016/09/paramotore-tubolare-heed-bmw-r-1200-gs/g
 excerpt: "Abbiamo montato le crashbar tubolari specifiche per BMW R1200GS 04-12 prodotte da HEED, ecco le nostre foto e considerazioni su paramotore e paraserbatoio"
 opening: Abbiamo montato le crashbar tubolari specifiche per BMW R1200GS 04-12 prodotte da HEED, ecco le nostre foto e considerazioni su paramotore e paraserbatoio.
 categories:
-- recensioni
-- recensioni/protezione-moto
+  - recensioni
+  - recensioni/protezione-moto
 tags:
-- accessori
-- protezione
-- paramotore
-- heed
-- bmw-r1200gs
-- istruzioni
+  - accessori
+  - protezione
+  - paramotore
+  - heed
+  - bmw-r1200gs
+  - istruzioni
 ---
+
 Da poco ho comprato una BMW R 1200 GS MY 2008 già provvista delle barre paramotore originali, molto solide e dall'aspetto poco invasivo.
 
 Sicuramente sono in grado di proteggere il motore Boxer da una caduta da fermo o poco più, lasciano qualche dubbio nel caso la moto dovesse strisciare sull'asfalto o cadere su terreno poco accidentato.

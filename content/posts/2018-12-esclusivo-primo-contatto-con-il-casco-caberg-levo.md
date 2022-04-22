@@ -12,15 +12,16 @@ opening: >-
 date: 2018-12-20T09:29:14.000Z
 modified: 2019-04-03T14:34:00.000Z
 categories:
-- recensioni
-- recensioni/caschi
+  - recensioni
+  - recensioni/caschi
 tags:
-- caberg-helmets
-- caberg-levo
-- casco
-- made-in-italy
-- sicurezza
+  - caberg-helmets
+  - caberg-levo
+  - casco
+  - made-in-italy
+  - sicurezza
 ---
+
 ## Caberg: una storia italiana
 
 La società nasce a Bergamo nel 1974, il nome apparentemente straniero è in realtà l’azzeccata combinazione delle parole **CA**schi e **BERG**amo.

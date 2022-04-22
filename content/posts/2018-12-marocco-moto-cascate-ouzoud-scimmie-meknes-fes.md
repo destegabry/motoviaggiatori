@@ -9,23 +9,23 @@ excerpt: "Esplorando il versante Nord dell’Alto Atlante: cascate mozzafiato, p
 opening: >-
   Dopo aver [esplorato il versante Sud dell’Alto Atlante](/2018/10/marocco-moto-deserto-roccioso-alto-atlante) è ora di scoprire cosa ci riserva la parte Nord: vegetazione mediterranea, cascate mozzafiato, parate equestri, scimmie dispettose, foreste di cedri e città imperiali.
 categories:
-- viaggi
-- viaggi/marocco
+  - viaggi
+  - viaggi/marocco
 tags:
-- marocco-in-moto
-- africa
-- alto-atlante
-- azrou
-- beni-mellal
-- bmw-r1200gs
-- cascate-di-ouzoud
-- fes
-- ifrane
-- marocco
-- meknes
-- ouzoud
-- scimmie
-- tbourida
+  - marocco-in-moto
+  - africa
+  - alto-atlante
+  - azrou
+  - beni-mellal
+  - bmw-r1200gs
+  - cascate-di-ouzoud
+  - fes
+  - ifrane
+  - marocco
+  - meknes
+  - ouzoud
+  - scimmie
+  - tbourida
 ---
 
 ![Percorso Marocco cascate Ouzoud città imperiali](/assets/uploads/2018/12/marocco-moto-cascate-ouzoud-scimmie-meknes-fes/galleries/maroccoinmoto-percorso-3.png)
@@ -38,7 +38,7 @@ Raggiungiamo **Beni Mellal** evitando la superstrada N8 e fortunatamente entriam
 
 <p class="message pro-tip">Anche se le moto sono sorvegliate da uomini in uniforme, dimenticare le chiavi appese al quadro non è una grande idea</p>
 
-Siamo circondati da persone in festa, cavalli e cavalieri agghindati e armati di moschetto: è la *Tbourida* (chiamata anche *Fantasia*), una **parata equestre** che affonda le radici nel quindicesimo secolo e rappresenta un assalto militare di guerrieri arabi e berberi.
+Siamo circondati da persone in festa, cavalli e cavalieri agghindati e armati di moschetto: è la _Tbourida_ (chiamata anche _Fantasia_), una **parata equestre** che affonda le radici nel quindicesimo secolo e rappresenta un assalto militare di guerrieri arabi e berberi.
 
 A ondate distinte i gruppi di cavalieri si dispongono in fila e, dopo un breve percorso al trotto, si lanciano al galoppo verso la tribuna d’onore; il momento clou dell’esibizione è lo sparo in simultanea di tutti i moschetti caricati a salve. Dalle tribune i tifosi di ogni gruppo si scatenano in ovazioni.
 
@@ -78,7 +78,7 @@ Partiamo da Ouzoud e torniamo sui nostri passi, percorrendo la P3105 verso Nord 
 
 Prima di andare a cercare le scimmie ci sistemiamo all’[Hôtel Le Panorama,](http://www.hotelpanoramaazrou.com/) costruito in stile chalet alpino… a dir poco fuori luogo!
 
-L’arrivo alla foresta è segnalata dal **Cèdre Gouraud**, un imponente albero della specie *Cedrus atlantica* alto 40 metri e con almeno 800 anni alle spalle. La zona è piena di famiglie con bambini, accorse non tanto per i cedri ma per le numerose bertucce (*Macaca sylvanus*) che affollano il bosco.
+L’arrivo alla foresta è segnalata dal **Cèdre Gouraud**, un imponente albero della specie _Cedrus atlantica_ alto 40 metri e con almeno 800 anni alle spalle. La zona è piena di famiglie con bambini, accorse non tanto per i cedri ma per le numerose bertucce (_Macaca sylvanus_) che affollano il bosco.
 
 Queste scimmiette pelose non sono affatto disturbate dalla presenza dell’uomo, anzi! Sono talmente abituate ai turisti da essere totalmente sfacciate nel chiedere noccioline, pagnotte e acqua (che bevono direttamente dalla bottiglia).
 
@@ -120,9 +120,9 @@ Visitiamo la medina, in cui predomina il colore giallo, e seguiamo la nostra gui
 
 A posteriori possiamo dire che sebbene sia molto piccola e meno famosa, la medina di Meknes è molto più autentica rispetto a Fes e Marrakech. Merita una visita se non avete tempo di fermarvi a lungo in una città, ma volete affacciarvi su uno scorcio di frenetica vita marocchina.
 
-Prendiamo la N6 verso Est e in un sessantina di chilometri raggiungiamo **Fes**, ultima capitale del Marocco prima del dominio francese e uno dei più affascinanti centri del mondo arabo. La città è purtroppo molto turistica e qui troviamo per la prima volta un mucchio di scocciatori che ci assillano in cerca di una *mancia* per servizi piuttosto discutibili.
+Prendiamo la N6 verso Est e in un sessantina di chilometri raggiungiamo **Fes**, ultima capitale del Marocco prima del dominio francese e uno dei più affascinanti centri del mondo arabo. La città è purtroppo molto turistica e qui troviamo per la prima volta un mucchio di scocciatori che ci assillano in cerca di una _mancia_ per servizi piuttosto discutibili.
 
-Il primo contatto con la città non è dei migliori: un ragazzino in scooter si offre di accompagnarci alla medina, ma in realtà non fa che portarci fuori strada e poi chiedere l’*obolo* per riportarci sulla retta via. Non cediamo e dopo una sequela di saluti piuttosto coloriti riusciamo a liberarci dello scocciatore e arrivare in centro (seguendo Google Maps).
+Il primo contatto con la città non è dei migliori: un ragazzino in scooter si offre di accompagnarci alla medina, ma in realtà non fa che portarci fuori strada e poi chiedere l’_obolo_ per riportarci sulla retta via. Non cediamo e dopo una sequela di saluti piuttosto coloriti riusciamo a liberarci dello scocciatore e arrivare in centro (seguendo Google Maps).
 
 Evitiamo di ripetere il tragicomico [accesso nella medina di Marrakech in moto](/2017/12/marocco-moto-medina-marrakech/) e parcheggiamo in uno dei molti parcheggi all’aperto adiacenti alle mura della città vecchia, per poi scaricare i bagagli nel Riad Meski ([clicca qui per ricevere un buono sconto del 10% sulla prossima prenotazione Booking.com](https://www.booking.com/s/35_6/desteg10)). Anche qui abbiamo qualche problema, dato che abbiamo pagato un surplus per avere la stanza con terrazzo e vista sulla medina, ma niente del genere è disponibile nella struttura…
 

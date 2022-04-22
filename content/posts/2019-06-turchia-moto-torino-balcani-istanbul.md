@@ -7,21 +7,21 @@ featured_youtube: S4GRNjR_shg
 excerpt: Da Torino ad Istanbul attraversando la penisola balcanica sulle strade di Croazia, Montenegro, Albania e Grecia
 author: stefania
 categories:
-- viaggi
-- viaggi/turchia
-- video
+  - viaggi
+  - viaggi/turchia
+  - video
 tags:
-- turchia-in-moto
-- albania
-- montenegro
-- bmw-r1200gs
-- bmw-f800gs
-- honda-xl-700-transalp
-- turchia
-- europa-orientale
-- grecia
-- istanbul
-- croazia
+  - turchia-in-moto
+  - albania
+  - montenegro
+  - bmw-r1200gs
+  - bmw-f800gs
+  - honda-xl-700-transalp
+  - turchia
+  - europa-orientale
+  - grecia
+  - istanbul
+  - croazia
 ---
 
 ![Percorso Turchia Torino Balcani Istanbul](/assets/uploads/2019/06/turchia-moto-torino-balcani-istanbul/galleries/percorso.png "Da Torino ad Istanbul attraversando la penisola balcanica sulle strade di Croazia, Montenegro, Albania e Grecia")
@@ -91,7 +91,7 @@ Superato un breve sterrato causato da lavori stradali, giungiamo alla prima inse
 
 Ormai ben rifocillati, proseguiamo verso la seconda insenatura del fiordo, che rivela scenari spettacolari. Le Bocche di Cattaro sono il più grande porto naturale dell'Adriatico. Per tutto il primo tratto sembra di costeggiare un lago. Si arriva poi alla città. Il centro è popolato dai turisti scaricati dalle navi da crociera. Cattaro faceva parte della Repubblica di Venezia, oggi è patrimonio UNESCO. La sua particolarità sono le impressionanti mura che si inerpicano curiosamente su per la montagna sovrastante, costruite per difendersi dagli Ottomani. La spesa per la costruzione di questa imponente opera fu così ingente che pare a Venezia sia ancora in uso il detto «Te me costi come i muri de Cattaro».
 
-Senza fermarci, raggiungiamo la spettacolare Kotor Serpentine, detta *strada dei 50 tornanti*, e cominciamo a salire sul monte Lovćen. Man mano che si sale la vista sulle due anse del *fiordo* diventa sempre più mozzafiato. Dopo un paio di stop ai punti panoramici, arrivati in cima, ci si presenta il tipico paesaggio di alta montagna, prevalentemente brullo. Ci imbattiamo in un paesello con le case dai tetti spioventi. Simone ci fa sapere di averlo trovato molto inquietante e che ci fosse un po' troppo silenzio.
+Senza fermarci, raggiungiamo la spettacolare Kotor Serpentine, detta _strada dei 50 tornanti_, e cominciamo a salire sul monte Lovćen. Man mano che si sale la vista sulle due anse del _fiordo_ diventa sempre più mozzafiato. Dopo un paio di stop ai punti panoramici, arrivati in cima, ci si presenta il tipico paesaggio di alta montagna, prevalentemente brullo. Ci imbattiamo in un paesello con le case dai tetti spioventi. Simone ci fa sapere di averlo trovato molto inquietante e che ci fosse un po' troppo silenzio.
 
 ![Bocche di Cattaro](/assets/uploads/2019/06/turchia-moto-torino-balcani-istanbul/galleries/6/DSF2317.jpeg "Le spettacolari Bocche di Cattaro")
 ![MotoViaggiatori Cattaro](/assets/uploads/2019/06/turchia-moto-torino-balcani-istanbul/galleries/6/DSC01324.jpeg "MotoViaggiatori alle Bocche di Cattaro")
@@ -128,7 +128,7 @@ Parte dell'autostrada A3 è ancora in costruzione e il navigatore ci porta fuori
 
 Ci fermiamo al passo Qafë Thanë per una piccola sosta, facciamo merenda con le fragole vendute a bordo strada da una coppia di signori socievoli. Uno dei due parla un po' di italiano e chiacchiera con noi, in particolare ci tiene a farmi sapere quanto sia importante per un albanese avere una Mercedes (anche se vecchia di 30 anni).
 
-Raggiungiamo le sponde del Lago di Ohrida, uno dei maggiori bacini della penisola balcanica e considerato uno dei più antichi della Terra. Molti pescatori offrono il pesce appena catturato sul bordo della strada. Alcuni hanno delle vasche con il pesce vivo. Si tratta della *trota koran*, pesce endemico di queste acque. Ci fermiamo a pranzo nel primo borgo che incontriamo per assaggiarla, come suggerito da David.
+Raggiungiamo le sponde del Lago di Ohrida, uno dei maggiori bacini della penisola balcanica e considerato uno dei più antichi della Terra. Molti pescatori offrono il pesce appena catturato sul bordo della strada. Alcuni hanno delle vasche con il pesce vivo. Si tratta della _trota koran_, pesce endemico di queste acque. Ci fermiamo a pranzo nel primo borgo che incontriamo per assaggiarla, come suggerito da David.
 
 Dopo tutta la giornata in moto arriviamo finalmente nei sobborghi di Salonicco, dove passeremo la notte. Fa molto freddo e abbiamo preso un po' di pioggia. Per fortuna dopo una giornata monotona e faticosa rimediamo un'ottima cena greca. In Grecia si può ancora fumare nei locali, scoperta che riempie di gioia Simone.
 
@@ -195,7 +195,7 @@ In questo viaggio abbiamo messo alla prova alcuni prodotti dei nostri partner te
 - interfoni [Midland](https://www.midlandeurope.com/it) BT Next Pro, BTX1 Pro S e BTX2 Pro S: audio chiarissimo a tutte le andature con la possibilità di parlare in conferenza tra i piloti delle moto, davvero ottimi e consigliati
 - molle progressive [Hyperpro](https://hyperpro.com): un upgrade enorme rispetto alle molle originali della BMW R1200GS, migliorano moltissimo il comportamento della moto in curva senza ridurre il comfort di marcia grazie al coefficiente elastico che cambia a seconda della forza esercitata sulla molla, costano poco ma rendono molto (distribuite da [Rinolfi](https://www.rinolfi.it))
 - pastiglie freno [Brembo](http://brembo.com/it) in mescola LA: sinterizzate e specifiche per i freni anteriori delle moto da turismo, frenano forte dopo pochi km di rodaggio e promettono durata superiore (distribuite da [Motorquality](http://www.motorquality.it))
-- cupolino maggiorato Adventure [WRS](https://wrs.it) per  BMW R1200GS: permette di rilassarsi parecchio quando si viaggia a velocità sostenute, alleggerendo il carico sulla muscolatura cervicale e riducendo il rumore causato dalla turbolenza, l'archetto di sostegno permette di montare navigatori&co senza ostruire la strumentazione della moto
-- olio motore [Putoline](https://www.putoline.com/) SPORT 4 15W-50: semi-sintetico (API SL, JASO MA2), la BMW R1200GS non ne ha *mangiato* una goccia nei 7000km percorsi dal tagliando (distribuito da [Rinolfi](https://www.rinolfi.it))
+- cupolino maggiorato Adventure [WRS](https://wrs.it) per BMW R1200GS: permette di rilassarsi parecchio quando si viaggia a velocità sostenute, alleggerendo il carico sulla muscolatura cervicale e riducendo il rumore causato dalla turbolenza, l'archetto di sostegno permette di montare navigatori&co senza ostruire la strumentazione della moto
+- olio motore [Putoline](https://www.putoline.com/) SPORT 4 15W-50: semi-sintetico (API SL, JASO MA2), la BMW R1200GS non ne ha _mangiato_ una goccia nei 7000km percorsi dal tagliando (distribuito da [Rinolfi](https://www.rinolfi.it))
 - S.M.A.R.T. IAT di [Belinassu](http://www.belinassu.it): una sonda plug&play che migliora il tiro del motore ai bassi e medi regimi ingrassando la miscela, semplice da installare e completamente reversibile
 - pneumatici [Anlas](http://anlas.com/it/) Capra RD e Capra R: gomme stradali che non disdegnano off-road leggero, ottimo feeling anche su bagnato, il consumo nei 5500km del viaggio è stato regolare

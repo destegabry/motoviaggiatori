@@ -9,34 +9,35 @@ opening: "Itinerario tra le colline piemontesi patrimonio UNESCO: ricche di vign
 featured_image: /assets/uploads/2018/04/moto-vigneti-langhe-roero/featured_image.jpg
 featured_youtube: HETFybBTtDg
 categories:
-- itinerari
-- itinerari/italia
-- itinerari/italia/nord-ovest
-- video
+  - itinerari
+  - itinerari/italia
+  - itinerari/italia/nord-ovest
+  - video
 tags:
-- 250-km
-- 1-giorno
-- alta-langa
-- bmw-r1200gs
-- langhe
-- piemonte
-- roero
-- torino
-- video
-- vino
-- xiaomi-yi
+  - 250-km
+  - 1-giorno
+  - alta-langa
+  - bmw-r1200gs
+  - langhe
+  - piemonte
+  - roero
+  - torino
+  - video
+  - vino
+  - xiaomi-yi
 attributes:
-- key: Percorrenza
-  value: Da 250 a 1000km, a seconda del vino bevuto
-- key: Tempo
-  value: Da 4 ore a 4 giorni, a seconda del vino bevuto
-- key: Periodo
-  value: "Tarda estate se volete vedere le viti cariche d’uve o la vendemmia"
-- key: Abbigliamento
-  value: A seconda della stagione, le quote sono basse e le temperature abbastanza costanti
-- key: Rifornimenti
-  value: Benzinai frequenti sulle arterie principali, vinerie e cantine lungo tutto il percorso
+  - key: Percorrenza
+    value: Da 250 a 1000km, a seconda del vino bevuto
+  - key: Tempo
+    value: Da 4 ore a 4 giorni, a seconda del vino bevuto
+  - key: Periodo
+    value: "Tarda estate se volete vedere le viti cariche d’uve o la vendemmia"
+  - key: Abbigliamento
+    value: A seconda della stagione, le quote sono basse e le temperature abbastanza costanti
+  - key: Rifornimenti
+    value: Benzinai frequenti sulle arterie principali, vinerie e cantine lungo tutto il percorso
 ---
+
 Con l’arrivo della primavera abbiamo sfruttato la prima bella giornata di sole per un giro senza meta tra le colline di Langhe Roero, luoghi incantevoli dove si producono vini pregiati.
 
 Sono proprio i vigneti a plasmare il panorama, interrotti ogni tanto da qualche boschetto incolto o estesi noccioleti in cui si coltiva la Tonda Gentile Trilobata, l’ingrediente base della prelibata [crema Gianduja](https://amzn.to/2q1ZWms).

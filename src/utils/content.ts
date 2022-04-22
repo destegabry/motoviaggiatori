@@ -7,10 +7,7 @@ import { Tag } from "../entities/Tag";
 export function getItemsBySlug<T extends { slug: string }>(
   list: MarkdownInstance<T>[]
 ): Map<string, MarkdownInstance<T>> {
-  return list.reduce(
-    (bySlug, item) => bySlug.set(item.frontmatter.slug, item),
-    new Map<string, MarkdownInstance<T>>()
-  );
+  return list.reduce((bySlug, item) => bySlug.set(item.frontmatter.slug, item), new Map<string, MarkdownInstance<T>>());
 }
 
 export function enhancePosts(
@@ -27,12 +24,8 @@ export function enhancePosts(
     frontmatter: {
       ...post.frontmatter,
       author: authorsBySlug.get(post.frontmatter.author),
-      categories: post.frontmatter.categories.map((category) =>
-        categoriesBySlug.get(category)
-      ),
-      tags: post.frontmatter.tags.map((category) =>
-        tagsBySlug.get(category)
-      ),
-    }
+      categories: post.frontmatter.categories.map((category) => categoriesBySlug.get(category)),
+      tags: post.frontmatter.tags.map((category) => tagsBySlug.get(category)),
+    },
   }));
 }

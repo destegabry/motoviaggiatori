@@ -8,18 +8,18 @@ featured_image: /assets/uploads/2018/04/borse-alluminio-heavy-duties-bmw-r1200gs
 excerpt: "Recensione ed indicazioni per il montaggio delle borse laterali in alluminio Heavy Duties per BMW R1200GS: ottima qualità e capienza al prezzo giusto!"
 opening: "Ho sempre voluto sostituire le BMW Vario con valigie laterali in alluminio ma sono sempre stato scoraggiato dal prezzo: fortunatamente ho scoperto l’esistenza delle Heavy Duties!"
 categories:
-- recensioni
-- recensioni/valigie-e-borse-moto
+  - recensioni
+  - recensioni/valigie-e-borse-moto
 tags:
-- accessori
-- bmw-r1200gs
-- borse-alluminio
-- borse-laterali
-- borse-moto
-- heavy-duties
-- valigie
-- valigie-alluminio
-- valigie-laterali
+  - accessori
+  - bmw-r1200gs
+  - borse-alluminio
+  - borse-laterali
+  - borse-moto
+  - heavy-duties
+  - valigie
+  - valigie-alluminio
+  - valigie-laterali
 ---
 
 **Nota**: questo articolo è stato aggiornato il 18/05/2018 per aggiungere informazioni sul nuovo sito con e-commerce.

@@ -8,15 +8,15 @@ excerpt: Da Torino a Marrakech passando per 60 ore di traghetto e svariati km di
 opening: "Dopo mesi di attesa è finalmente arrivato il giorno: è il 21 aprile 2017, le nostre BMW R 1200 GS sono cariche e pronte al viaggio!"
 author: gabriele
 categories:
-- viaggi
-- viaggi/marocco
+  - viaggi
+  - viaggi/marocco
 tags:
-- marocco-in-moto
-- africa
-- bmw-r1200gs
-- marocco
-- marrakech
-- tangeri
+  - marocco-in-moto
+  - africa
+  - bmw-r1200gs
+  - marocco
+  - marrakech
+  - tangeri
 ---
 
 ![Percorso Marocco Tangeri Marrakech](/assets/uploads/2018/03/marocco-moto-torino-marrakech/galleries/0/0.png)

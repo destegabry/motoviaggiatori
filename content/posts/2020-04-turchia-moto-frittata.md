@@ -6,16 +6,16 @@ featured_image: /assets/uploads/2020/04/turchia-moto-frittata/featured_image.jpg
 excerpt: Fuori programma in terra turca, di quelli che ricorderemo a lungo
 author: simone
 categories:
-- viaggi
-- viaggi/turchia
+  - viaggi
+  - viaggi/turchia
 tags:
-- turchia-in-moto
-- nallihan
-- bmw-r1200gs
-- bmw-f800gs
-- honda-xl-700-transalp
-- turchia
-- europa-orientale
+  - turchia-in-moto
+  - nallihan
+  - bmw-r1200gs
+  - bmw-f800gs
+  - honda-xl-700-transalp
+  - turchia
+  - europa-orientale
 ---
 
 [Turchia](/categoria/viaggi/turchia), siamo in viaggio da un po' e, nonostante siano passati pochi giorni, mi sento già in quel momento in cui non so più di che giorno si tratti e sembra che la mia quotidianità sia sempre stata così, in viaggio sopra una moto.
@@ -44,7 +44,7 @@ Stiamo ancora appoggiando caschi e giubbotti quando il signore ci domanda qualco
 
 Sta di fatto che non riusciamo a capire cosa ci sta chiedendo, fino a che non ci invita ad entrare. La baracca è bassa, sporca e vecchia. Nel centro troneggia una stufa in ghisa, tavoli in legno attorno e, su un lato, una cucina bianca anni '60.
 
-Il signore ci invita a seguirlo, attraversiamo la stanze e lui scosta un tappeto arabo utilizzato come tenda: dietro il buio più profondo, si nota sola uno scaffale in metallo da cui estrae un secchio bianco, di quelli che contengono la vernice per intenderci, e ci mostra l’interno. Uova. Poi recupera dei pomodori, ce li mostra, poi cipolle e poi peperoncini, il gesto che segue accompagnato dal suono *frushh* è inconfondibile, vuole farci una frittata «okkkkey!» diciamo noi. Torniamo fuori, ci sediamo e aspettiamo. Mentre sfumacchio una delle mie sigarette il turco mi fa capire di volerne una, allora mi metto all’opera e gliene giro alcune che gli consegno, lui sorride e se ne accende una all’istante.
+Il signore ci invita a seguirlo, attraversiamo la stanze e lui scosta un tappeto arabo utilizzato come tenda: dietro il buio più profondo, si nota sola uno scaffale in metallo da cui estrae un secchio bianco, di quelli che contengono la vernice per intenderci, e ci mostra l’interno. Uova. Poi recupera dei pomodori, ce li mostra, poi cipolle e poi peperoncini, il gesto che segue accompagnato dal suono _frushh_ è inconfondibile, vuole farci una frittata «okkkkey!» diciamo noi. Torniamo fuori, ci sediamo e aspettiamo. Mentre sfumacchio una delle mie sigarette il turco mi fa capire di volerne una, allora mi metto all’opera e gliene giro alcune che gli consegno, lui sorride e se ne accende una all’istante.
 
 Ora, abbiamo trovato il cibo, rimangono da ritrovare gli altri. Ebbene, il cellulare non prende. Mi rivolgo di nuovo al turco mimando un telefono, mi fa capire che per telefonare mi devo spostare, lì non c’è campo. Salgo in moto, scendo di qualche curva e chiamo. Gabriele non risponde e io inizio a preoccuparmi, sono un paio d’ore che non abbiamo notizie. Ritorno da Alice, è ancora viva, scatta qualche foto con la sua vecchia macchina foto analogica.
 
@@ -61,7 +61,7 @@ Qualche minuto dopo sento il rumore di una moto, mi giro e scorgo la R1200 di Ga
 
 Mi consulto con Alice, risalgo in moto e provo a telefonare di nuovo. Ci riuscirò solo dopo qualche tentativo, dice di essersi fermato al primo paese che ha incontrato, ci rivedremo lì.
 
-Nel frattempo la frittata è cotta, la *mise en place* consiste in una forchetta ossidata, del pane a fette e un tovagliolo di carta. Le bevande provengono dalla fontana situata di fronte, la stessa che un camionista poco dopo utilizzerà per inacquare il suo mezzo per rimuovere la polvere.
+Nel frattempo la frittata è cotta, la _mise en place_ consiste in una forchetta ossidata, del pane a fette e un tovagliolo di carta. Le bevande provengono dalla fontana situata di fronte, la stessa che un camionista poco dopo utilizzerà per inacquare il suo mezzo per rimuovere la polvere.
 
 La frittata giunge al tavolo direttamente nella vecchia padella in cui è stata cotta. Il turco ci augura buon appetito, almeno credo. Sorridiamo e afferriamo le forchette. Stiamo gustando il piatto, che tutto sommato non è affatto male, forse un filo troppo piccante. Il peperoncino turco credo sia un classico e viene infilato ovunque, non è molto piccante ma si fa sentire. Con la forchetta in mano avvisto la moto di Arturo sulla strada, comincio ad urlare, con me anche i commensali Turchi. Dopo che è passato Gabriele hanno capito che era nostra intenzione fermare altri motociclisti, così ci aiutano. Arturo per fortuna ci vede, svolta nel piazzale e scende dalla moto. E’ esausto e nervoso, impreca e bestemmia per non aver ritrovato il coperchio disperso. In compenso si siede a tavola e trova il pasto servito.
 
@@ -87,7 +87,7 @@ In questo viaggio abbiamo messo alla prova alcuni prodotti dei nostri partner te
 - interfoni [Midland](https://www.midlandeurope.com/it) BT Next Pro, BTX1 Pro S e BTX2 Pro S: audio chiarissimo a tutte le andature con la possibilità di parlare in conferenza tra i piloti delle moto, davvero ottimi e consigliati
 - molle progressive [Hyperpro](https://hyperpro.com): un upgrade enorme rispetto alle molle originali della BMW R1200GS, migliorano moltissimo il comportamento della moto in curva senza ridurre il comfort di marcia grazie al coefficiente elastico che cambia a seconda della forza esercitata sulla molla, costano poco ma rendono molto (distribuite da [Rinolfi](https://www.rinolfi.it))
 - pastiglie freno [Brembo](http://brembo.com/it) in mescola LA: sinterizzate e specifiche per i freni anteriori delle moto da turismo, frenano forte dopo pochi km di rodaggio e promettono durata superiore (distribuite da [Motorquality](http://www.motorquality.it))
-- cupolino maggiorato Adventure [WRS](https://wrs.it) per  BMW R1200GS: permette di rilassarsi parecchio quando si viaggia a velocità sostenute, alleggerendo il carico sulla muscolatura cervicale e riducendo il rumore causato dalla turbolenza, l'archetto di sostegno permette di montare navigatori&co senza ostruire la strumentazione della moto
-- olio motore [Putoline](https://www.putoline.com/) SPORT 4 15W-50: semi-sintetico (API SL, JASO MA2), la BMW R1200GS non ne ha *mangiato* una goccia nei 7000km percorsi dal tagliando (distribuito da [Rinolfi](https://www.rinolfi.it))
+- cupolino maggiorato Adventure [WRS](https://wrs.it) per BMW R1200GS: permette di rilassarsi parecchio quando si viaggia a velocità sostenute, alleggerendo il carico sulla muscolatura cervicale e riducendo il rumore causato dalla turbolenza, l'archetto di sostegno permette di montare navigatori&co senza ostruire la strumentazione della moto
+- olio motore [Putoline](https://www.putoline.com/) SPORT 4 15W-50: semi-sintetico (API SL, JASO MA2), la BMW R1200GS non ne ha _mangiato_ una goccia nei 7000km percorsi dal tagliando (distribuito da [Rinolfi](https://www.rinolfi.it))
 - S.M.A.R.T. IAT di [Belinassu](http://www.belinassu.it): una sonda plug&play che migliora il tiro del motore ai bassi e medi regimi ingrassando la miscela, semplice da installare e completamente reversibile
 - pneumatici [Anlas](http://anlas.com/it/) Capra RD e Capra R: gomme stradali che non disdegnano off-road leggero, ottimo feeling anche su bagnato, il consumo nei 5500km del viaggio è stato regolare

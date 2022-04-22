@@ -27,6 +27,7 @@ opening: >-
 
   Dopo aver percorso 500 km in tutte le condizioni (città, strade extra-urbane, autostrade e un po' di sterrato sulla [Strada dell'Assietta](/tag/strada-dellassietta) è giunto il momento di fare qualche considerazione e mettere l'HORUS a confronto diretto con il LEVO usato fino a poco fa.
 ---
+
 ## Peso
 
 La prima cosa che si nota comparando le caratteristiche tecniche è che l'HORUS (in ABS) pesa circa 200 grammi in più rispetto al LEVO (in fibre composite): 1650g contro 1450g. Ammetto di non aver percepito la differenza o di sentirmi più affaticato nell’utilizzo di HORUS piuttosto che LEVO.
@@ -61,7 +62,7 @@ Su HORUS la mentoniera presenta un doppio meccanismo di aggancio che a mio parer
 
 ## Compatibilità interfono
 
-HORUS presenta *scassi* per l’interfono leggermente più larghi rispetto al LEVO. Questo ha reso molto facile il montaggio del mio [MIDLAND BTX2 PRO S](/2019/09/recensione-interfoni-midland-serie-bt-pro) (sul LEVO gli speaker entravano faticosamente nell'alloggiamento).
+HORUS presenta _scassi_ per l’interfono leggermente più larghi rispetto al LEVO. Questo ha reso molto facile il montaggio del mio [MIDLAND BTX2 PRO S](/2019/09/recensione-interfoni-midland-serie-bt-pro) (sul LEVO gli speaker entravano faticosamente nell'alloggiamento).
 
 ![Caberg HORUS Monte Chaberton](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/IMG_1410.jpg "Test del nuovo Caberg HORUS sulla Strada dell'Assietta")
 ![Caberg HORUS Colle Basset](/assets/uploads/2020/08/recensione-casco-modulare-caberg-horus/galleries/IMG_1420.jpg "Test del nuovo Caberg HORUS sulla Strada dell'Assietta")

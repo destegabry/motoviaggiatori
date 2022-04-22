@@ -8,29 +8,29 @@ opening: >-
   L'Italia da Sud a Nord: da Brindisi a Torino percorrendo un itinerario diverso da quello del [viaggio di andata](/2019/08/appenninata-italia-nord-sud-in-moto).
 date: 2019-10-24T20:00:00.000+2:00
 categories:
-- itinerari
-- itinerari/italia
-- itinerari/italia/centro
-- itinerari/italia/nord-ovest
-- itinerari/italia/sud
+  - itinerari
+  - itinerari/italia
+  - itinerari/italia/centro
+  - itinerari/italia/nord-ovest
+  - itinerari/italia/sud
 tags:
-- appennini
-- appenninata
-- arturate
-- abruzzo
-- emilia-romagna
-- marche
-- molise
-- honda-xl-700-transalp
-- transalp
-- giro-italia
+  - appennini
+  - appenninata
+  - arturate
+  - abruzzo
+  - emilia-romagna
+  - marche
+  - molise
+  - honda-xl-700-transalp
+  - transalp
+  - giro-italia
 ---
 
 ## Giorno 1: Puglia, Molise, Abruzzo
 
 Sveglia alle 6, finisco gli ultimi preparativi e dopo il consueto saluto struggente con i miei genitori mi metto in viaggio. Decido di prendere la SS16 in direzione Foggia, temprato dall’andata e dall’immensa noia provata nel percorrere la Benevento-Taranto. Mi sembra la scelta corretta poiché a metà mattinata ho già agevolmente percorso 350 km.
 
-Giunto a Foggia, inizio a puntare in direzione Isernia, poiché avrei piacere di visitare il Museo del Paleolitico. Mi dimeno nelle stradine del Molise e una volta giunto ad Isernia, la piacevole sorpresa: il museo è chiuso! *Auch*.
+Giunto a Foggia, inizio a puntare in direzione Isernia, poiché avrei piacere di visitare il Museo del Paleolitico. Mi dimeno nelle stradine del Molise e una volta giunto ad Isernia, la piacevole sorpresa: il museo è chiuso! _Auch_.
 
 Continuo quindi a proseguire verso l’amato Abruzzo e per l’ora di pranzo arrivo in un posto favoloso nei pressi di Alfedena: il **Lago della Montagna Spaccata**. Il posto è mozzafiato, acqua limpidissima e luce meravigliosa. Mangio seduto su una roccia, consumando il pranzo preparato amorevolmente dalle sapienti mani di mamma. Cerco di capire come scendere il più vicino possibile al lago in moto, foto di rito e mi rimetto in viaggio.
 

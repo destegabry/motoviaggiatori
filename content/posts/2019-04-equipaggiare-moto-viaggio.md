@@ -7,18 +7,18 @@ featured_image: /assets/uploads/2019/04/equipaggiare-moto-viaggio/featured_image
 excerpt: Dal weekend dietro casa al viaggio avventura, uno sguardo al nostro equipaggiamento per essere pronti ad ogni evenienza
 opening: Per quanto possano essere capienti le borse di una moto, bisogna razionalizzarne il contenuto per essere pronti ad ogni clima ed imprevisto. Ecco i nostri consigli!
 categories:
-- recensioni
+  - recensioni
 tags:
-- bmw-r1200gs
-- wrs
-- hyperpro
-- heavy-duties
-- givi
-- belinassu
-- midland
-- xiaomi-yi
-- sony-rx100
-- quadlock
+  - bmw-r1200gs
+  - wrs
+  - hyperpro
+  - heavy-duties
+  - givi
+  - belinassu
+  - midland
+  - xiaomi-yi
+  - sony-rx100
+  - quadlock
 ---
 
 ## Valigie
@@ -54,7 +54,7 @@ Per anni ho usato il [Kappa Garda 52](https://amzn.to/2TZAzhX), realizzato in pl
 
 Utilizzo la **borsa da serbatoio** per avere la cartina sempre sotto gli occhi e tenere a portata di mano i documenti personali e della moto, la borraccia, un cambio per affrontare improvvisi cali (o aumenti) di temperatura, gli oggetti di valore e gli aggeggi elettronici. La praticità di sgancio gioca un ruolo fondamentale dato che va rimossa quando ci si allontana dal mezzo e ad ogni rifornimento (a meno che la vostra moto sia una [BMW F800GS](/tag/bmw-f800gs)).
 
-La mia scelta è ricaduta sulla [GIVI EA118](https://amzn.to/2uOTQZr) (25 litri) con sistema di sgancio rapido TankLock: si posiziona su una flangia installata sul tappo del serbatoio. Si espande in altezza con un sistema a cerniera, dispone di tracolla per il trasporto e *cuffia* antipioggia.
+La mia scelta è ricaduta sulla [GIVI EA118](https://amzn.to/2uOTQZr) (25 litri) con sistema di sgancio rapido TankLock: si posiziona su una flangia installata sul tappo del serbatoio. Si espande in altezza con un sistema a cerniera, dispone di tracolla per il trasporto e _cuffia_ antipioggia.
 
 Nota di demerito per la borsa da serbatoio originale [BMW R1200GS](/tag/bmw-r1200gs): in caso di forte vento laterale tende ad appoggiarsi sulle braccia del pilota.
 
@@ -75,9 +75,9 @@ Le carte stradali che preferisco sono le [Reise Know-How Landkarte](https://amzn
 
 Ho provato diversi sistemi per montare il telefono sulla moto e purtroppo nessuno è perfetto:
 
-* le [custodie impermeabili](https://amzn.to/2D2JrOm) tendono a surriscaldare il telefono e produrre riflessi che rendono lo schermo poco visibile
-* il sistema [RAM Mount X-GRIP](https://amzn.to/2D2sHa5) è compatibile con tutti i cellulari ma quando inutilizzato è un po' ingombrante
-* il sistema [Quad Lock](https://amzn.to/2CZVw72) è solido e discreto, purtroppo costa caro e richiede una cover specifica per il cellulare
+- le [custodie impermeabili](https://amzn.to/2D2JrOm) tendono a surriscaldare il telefono e produrre riflessi che rendono lo schermo poco visibile
+- il sistema [RAM Mount X-GRIP](https://amzn.to/2D2sHa5) è compatibile con tutti i cellulari ma quando inutilizzato è un po' ingombrante
+- il sistema [Quad Lock](https://amzn.to/2CZVw72) è solido e discreto, purtroppo costa caro e richiede una cover specifica per il cellulare
 
 Attualmente utilizzo il [supporto specchietto Quad Lock](https://amzn.to/2D19vcL) adattato per agganciarsi alla staffa del mio [cupolino WRS Touring](https://www.wrs.it/it/400-prodotti-wrs-cupolini), trovo sia il compromesso migliore. In caso di pioggia è disponibile una protezione aggiuntiva chiamata [Poncho](https://amzn.to/2D9mXex).
 
@@ -87,7 +87,7 @@ Per tenere sempre in carica lo smartphone e altri accessori è indispensabile di
 ![QuadLock iPhone 7 plus](/assets/uploads/2019/04/equipaggiare-moto-viaggio/galleries/cruscotto/DSC00991.jpeg "iPhone 7 plus montato con il sistema QuadLock")
 ![Supporto QuadLock](/assets/uploads/2019/04/equipaggiare-moto-viaggio/galleries/cruscotto/DSC00992.jpeg "Il supporto QuadLock è poco intrusivo")
 
-Per comunicare con il passeggero e le moto vicine mi affido da anni agli [interfoni Midland](https://amzn.to/2WY2bGp). Da poco sto testando la *relativamente nuova* generazione di interfoni Bluetooth e rispetto ai vecchi modelli siamo su un altro livello: riesco ad ascoltare i miei compagni di viaggio anche a velocità autostradali senza alcun problema. Con il vecchio sistema radio FM e musica dal cellulare erano utilizzabili solo nel traffico cittadino e alle basse velocità, mentre con i nuovi auricolari Hi-Fi e gli algoritmi di soppressione del rumore è possibile godersi un ascolto soddisfacente ad ogni andatura.
+Per comunicare con il passeggero e le moto vicine mi affido da anni agli [interfoni Midland](https://amzn.to/2WY2bGp). Da poco sto testando la _relativamente nuova_ generazione di interfoni Bluetooth e rispetto ai vecchi modelli siamo su un altro livello: riesco ad ascoltare i miei compagni di viaggio anche a velocità autostradali senza alcun problema. Con il vecchio sistema radio FM e musica dal cellulare erano utilizzabili solo nel traffico cittadino e alle basse velocità, mentre con i nuovi auricolari Hi-Fi e gli algoritmi di soppressione del rumore è possibile godersi un ascolto soddisfacente ad ogni andatura.
 
 L'interfono [Midland BT NEXT PRO](https://amzn.to/2uTgVdw) è dotato di chip Bluetooth dual core e antenna potenziata, che senza battere ciglio permettono di mantere collegati contemporaneamente smartphone, navigatore, sistema TFT della moto e fino a 8 motociclisti in conferenza. Le potenzialità sono enormi ma in moto è importante non lasciarsi distrarre dalla comunicazione e tenere sempre gli occhi ben aperti sulla strada e sul traffico.
 
@@ -111,18 +111,18 @@ Porto sempre con me un piccolo e leggero set di [cavi avviamento moto](https://a
 
 Ogni moto ha bisogno di chiavi specifiche, ma solitamente porto con me:
 
-* [pinza](https://amzn.to/2UFcYYv) o [coltello](https://amzn.to/2Kld2sh) multiuso
-* [set di chiavi esagonali](https://amzn.to/2VA45MX)
-* [set di chiavi torx](https://amzn.to/2uWy3io)
-* [chiave a cricchetto con inserti](https://amzn.to/2uWz61O) (epurata del superfluo)
-* [chiave candele](https://amzn.to/2X089Xf)
-* [chiave bobine](https://amzn.to/2uVzDRH)
-* [chiave filtro olio](https://amzn.to/2I8UycQ)
-* [borsa a rotolo](https://amzn.to/2KjJQSp) per contenere tutti gli attrezzi
-* [fascette](https://amzn.to/2KwIm7t), [fil di ferro](https://amzn.to/2X6Msou) e [nastro telato](https://amzn.to/2D9vpur) per riparazioni di fortuna
-* [stucco epossidico bicomponente](https://amzn.to/2JJuYtu) permette di riparare un carter bucato
+- [pinza](https://amzn.to/2UFcYYv) o [coltello](https://amzn.to/2Kld2sh) multiuso
+- [set di chiavi esagonali](https://amzn.to/2VA45MX)
+- [set di chiavi torx](https://amzn.to/2uWy3io)
+- [chiave a cricchetto con inserti](https://amzn.to/2uWz61O) (epurata del superfluo)
+- [chiave candele](https://amzn.to/2X089Xf)
+- [chiave bobine](https://amzn.to/2uVzDRH)
+- [chiave filtro olio](https://amzn.to/2I8UycQ)
+- [borsa a rotolo](https://amzn.to/2KjJQSp) per contenere tutti gli attrezzi
+- [fascette](https://amzn.to/2KwIm7t), [fil di ferro](https://amzn.to/2X6Msou) e [nastro telato](https://amzn.to/2D9vpur) per riparazioni di fortuna
+- [stucco epossidico bicomponente](https://amzn.to/2JJuYtu) permette di riparare un carter bucato
 
-*Last but not least*: [filo per stendere elastico](https://amzn.to/2uWfRpi) e sapone di marsiglia!
+_Last but not least_: [filo per stendere elastico](https://amzn.to/2uWfRpi) e sapone di marsiglia!
 
 ![Kit pronto soccorso](/assets/uploads/2019/04/equipaggiare-moto-viaggio/galleries/attrezzatura/DSC01025.jpeg "Kit pronto soccorso")
 ![Kit riparazione pneumatici tubeless](/assets/uploads/2019/04/equipaggiare-moto-viaggio/galleries/attrezzatura/DSC01020.jpeg "Kit riparazione pneumatici tubeless")
@@ -133,7 +133,7 @@ Ogni moto ha bisogno di chiavi specifiche, ma solitamente porto con me:
 
 ## Comfort e sicurezza
 
-Dato che mi piace macinare migliaia di chilometri in sella alla moto, preferisco *investire* in comfort e sicurezza di guida piuttosto che nell'aumento delle prestazioni e del rumore.
+Dato che mi piace macinare migliaia di chilometri in sella alla moto, preferisco _investire_ in comfort e sicurezza di guida piuttosto che nell'aumento delle prestazioni e del rumore.
 
 Il cupolino alto (che piaccia o no) permette di rilassarsi parecchio quando si viaggia a velocità sostenute, alleggerendo il carico sulla muscolatura cervicale e riducendo il rumore causato dalla turbolenza. Sulla mia maxi-enduro ho montato un [cupolino maggiorato WRS](https://www.wrs.it/it/400-prodotti-wrs-cupolini), realizzato in Italia utilizzando plexiglass di alta qualità.
 
@@ -141,7 +141,7 @@ In molti consigliano l'utilizzo di tappi auricolari, ho provato gli [Alpine Moto
 
 Con la [S.M.A.R.T. IAT di Belinassu](http://www.belinassu.it) sono migliorati molto fluidità e tiro della mia [maxi-bicilindrica](/2018/12/bmw-r1200gs-2008-recensione-fuori-tempo-massimo) ai bassi regimi, ritrovandomi spesso ad utilizzare un rapporto più lungo di quanto facessi prima di averla. Si monta facilmente e l'intervento è reversibile, va segnalato che si perde un po' di freno motore.
 
-Ho sostituito le pastiglie dei freni originali con le [Brembo mescola LA](http://mqmoto.it/brembo-pastiglie-mescola-sinterizzata-la/), che promettono una resa chilometrica molto alta e prestazioni di assoluto rispetto già alle basse temperature. Devo ammettere che la potenza frenante è davvero alta in tutte le condizioni e mi sono bastate poche *pinzate* per rodarle a dovere. Per avere conferma sulla durata dovrete darmi il tempo di utilizzarle un po'!
+Ho sostituito le pastiglie dei freni originali con le [Brembo mescola LA](http://mqmoto.it/brembo-pastiglie-mescola-sinterizzata-la/), che promettono una resa chilometrica molto alta e prestazioni di assoluto rispetto già alle basse temperature. Devo ammettere che la potenza frenante è davvero alta in tutte le condizioni e mi sono bastate poche _pinzate_ per rodarle a dovere. Per avere conferma sulla durata dovrete darmi il tempo di utilizzarle un po'!
 
 Sostituendo le molle dei miei ammortizzatori con le [Hyperpro](https://hyperpro.com/about-us/) ho cambiato radicalmente il comportamento della moto in strada. Il coefficiente elastico di queste molle aumenta proporzionalmente al carico che viene applicato su di esse, ovvero: più la molla si comprime, più diventa dura da comprimere. Grazie a questo effetto la moto diventa più stabile in curva ed in frenata, senza perdere in comfort sulle piccole asperità. Provare per credere, [fino al 30 aprile 2018 puoi ricevere uno sconto del 10%](https://www.facebook.com/motoviaggiatori/posts/1523802234427770) grazie al distributore italiano [Rinolfi](https://www.rinolfi.it/hyperpro-lista-applicazioni).
 

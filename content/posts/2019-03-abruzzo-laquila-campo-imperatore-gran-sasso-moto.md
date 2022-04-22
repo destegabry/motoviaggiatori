@@ -8,33 +8,34 @@ featured_image: /assets/uploads/2019/03/abruzzo-laquila-campo-imperatore-gran-sa
 excerpt: "Pochi (ma buoni) km tra le alture più belle dell’Abruzzo: curve e tornanti sull’altopiano alle pendici del Gran Sasso."
 opening: "Infilate il casco, andate in garage, togliete il cavalletto e spingete la moto in strada.  Per percorrere l’itinerario che vi descriviamo è necessario puntare l’anteriore della vostro moto in direzione L’Aquila. Pochi (ma buoni) km tra le alture più belle tra quelle che può offrire l’Abruzzo, curve e tornanti sull’altopiano alle pendici del Gran Sasso."
 categories:
-- itinerari
-- itinerari/italia
-- itinerari/italia/sud
+  - itinerari
+  - itinerari/italia
+  - itinerari/italia/sud
 tags:
-- 150-km
-- abruzzo
-- appennino
-- bmw-f800gs
-- campo-imperatore
-- gran-sasso
-- italia
-- l-aquila
-- mezza-giornata
-- rocca-calascio
-- sud
+  - 150-km
+  - abruzzo
+  - appennino
+  - bmw-f800gs
+  - campo-imperatore
+  - gran-sasso
+  - italia
+  - l-aquila
+  - mezza-giornata
+  - rocca-calascio
+  - sud
 attributes:
-- key: Percorrenza
-  value: 130 km
-- key: Tempo
-  value: 3-4 ore, consigliamo però di riservarvi una giornata per poter visitare i luoghi in cui vi imbatterete
-- key: Periodo
-  value: Abbiamo percorso l’itinerario in Agosto, l’unica variabile da tenere in considerazione è la presenza di neve, pertanto consigliamo il periodo di tarda primavera, estate e inizio autunno
-- key: Abbigliamento
-  value: Nulla di troppo caldo, ma sconsigliamo la giacca traforata, una volta saliti in quota le temperature non saranno altissime
-- key: Rifornimenti
-  value: È possibile rifornirsi in località Castel Del Monte
+  - key: Percorrenza
+    value: 130 km
+  - key: Tempo
+    value: 3-4 ore, consigliamo però di riservarvi una giornata per poter visitare i luoghi in cui vi imbatterete
+  - key: Periodo
+    value: Abbiamo percorso l’itinerario in Agosto, l’unica variabile da tenere in considerazione è la presenza di neve, pertanto consigliamo il periodo di tarda primavera, estate e inizio autunno
+  - key: Abbigliamento
+    value: Nulla di troppo caldo, ma sconsigliamo la giacca traforata, una volta saliti in quota le temperature non saranno altissime
+  - key: Rifornimenti
+    value: È possibile rifornirsi in località Castel Del Monte
 ---
+
 Il giro che vi proponiamo attraversa alcune località caratteristiche abruzzesi, l’asfalto vi guiderà tra borghi tipici, bizzarre aree ristoro e le immense distese erbose che circondano il Gran Sasso. Se siete abituati alle valli alpine dimenticatevi tutto e preparatevi a godere del paesaggio tipico dell’Appennino: **gli altipiani e le infinite colline vi lasceranno senza fiato**.
 
 Abbiamo percorso la strada con una BMW F 800 GS ma l’itinerario è percorribile da qualsiasi moto, trattandosi di solo asfalto. A causa della presenza di neve in inverno non aspettatevi strade immacolate, buche e imperfezioni sono presenti lungo tutto il tratto, procedete con prudenza.

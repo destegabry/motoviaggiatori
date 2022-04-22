@@ -8,22 +8,23 @@ modified: 2019-04-03T11:27:00.000Z
 featured_image: /assets/uploads/2018/05/video-marocco-in-moto/featured_image.jpg
 featured_youtube: lDqG2TWEnl8
 categories:
-- viaggi
-- viaggi/marocco
-- video
+  - viaggi
+  - viaggi/marocco
+  - video
 tags:
-- marocco-in-moto
-- africa
-- bmw-r1200gs
-- erg-chebbi
-- deserto
-- dune
-- marocco
-- merzouga
-- sabbia
-- sahara
-- off-road
-- video
-- xiaomi-yi
+  - marocco-in-moto
+  - africa
+  - bmw-r1200gs
+  - erg-chebbi
+  - deserto
+  - dune
+  - marocco
+  - merzouga
+  - sabbia
+  - sahara
+  - off-road
+  - video
+  - xiaomi-yi
 ---
+
 Videosintesi dei nostri 5000 km di [#MaroccoInMoto](/tag/maroccoinmoto/) tra dune di sabbia, deserti rocciosi, oasi, passi di montagna e città millenarie.

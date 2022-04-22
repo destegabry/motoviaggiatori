@@ -12,14 +12,14 @@ opening: >-
 
   Inauguriamo la rubrica con il racconto di un motociclista atipico.
 categories:
-- recensioni
-- recensioni/libri
+  - recensioni
+  - recensioni/libri
 tags:
-- africa
-- giorgio-bettinelli
-- giro-del-mondo
-- letture
-- vespa
+  - africa
+  - giorgio-bettinelli
+  - giro-del-mondo
+  - letture
+  - vespa
 ---
 
 ## Giorgio Bettinelli
@@ -59,9 +59,9 @@ Ho scelto di leggere questo libro d’istinto, senza sapere che fosse il proseg
 
 I viaggi di Giorgio Bettinelli sono raccontati in prima persona nei seguenti libri:
 
-- [*In Vespa. Da Roma a Saigon*](http://amzn.to/2iAOTMR) (Feltrinelli, 1997): il primo viaggio in Vespa (1992-1993)
-- *In Vespa oltre l’orizzonte* (Rusconi Libri, 1997): 400 foto dei suoi primi tre viaggi (fuori catalogo)
-- [*Brum Brum. 254.000 chilometri in Vespa*](http://amzn.to/2j6ntkZ) (Feltrinelli, 2002): il secondo, terzo e quarto viaggio fino al rapimento in Congo (1994-2001)
-- *[La Cina in Vespa](http://amzn.to/2j6te2j)* (Feltrinelli, 2008): viaggio nelle 33 regioni cinesi (2006)
-- *[Turkey: a travel survival kit](http://amzn.to/2hPVR1X)* (Feltrinelli, 2009) tratto da *In Vespa. Da Roma a Saigon*
-- [*Spezie e Kamasutra*](http://amzn.to/2j6mO39) (Feltrinelli, 2014) tratto da *Rhapsody in black: in Vespa dall’Angola allo Yemen*
+- [_In Vespa. Da Roma a Saigon_](http://amzn.to/2iAOTMR) (Feltrinelli, 1997): il primo viaggio in Vespa (1992-1993)
+- _In Vespa oltre l’orizzonte_ (Rusconi Libri, 1997): 400 foto dei suoi primi tre viaggi (fuori catalogo)
+- [_Brum Brum. 254.000 chilometri in Vespa_](http://amzn.to/2j6ntkZ) (Feltrinelli, 2002): il secondo, terzo e quarto viaggio fino al rapimento in Congo (1994-2001)
+- _[La Cina in Vespa](http://amzn.to/2j6te2j)_ (Feltrinelli, 2008): viaggio nelle 33 regioni cinesi (2006)
+- _[Turkey: a travel survival kit](http://amzn.to/2hPVR1X)_ (Feltrinelli, 2009) tratto da _In Vespa. Da Roma a Saigon_
+- [_Spezie e Kamasutra_](http://amzn.to/2j6mO39) (Feltrinelli, 2014) tratto da _Rhapsody in black: in Vespa dall’Angola allo Yemen_

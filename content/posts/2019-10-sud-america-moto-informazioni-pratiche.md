@@ -6,32 +6,32 @@ permalink: /2019/05/sud-america-moto-informazioni-pratiche
 featured_image: /assets/uploads/2019/10/sud-america-moto-informazioni-pratiche/foto/11_2.JPG
 excerpt: "Informazioni su documenti necessari, assicurazione, spedizione, lingua, valuta, salute e strade per viaggiare in Sud America con la tua moto"
 categories:
-- viaggi
-- viaggi/panamericana
+  - viaggi
+  - viaggi/panamericana
 tags:
-- argentina
-- bolivia
-- cile
-- paraguay
-- peru
-- uruguay
-- america
-- sud-america
-- informazioni-pratiche
+  - argentina
+  - bolivia
+  - cile
+  - paraguay
+  - peru
+  - uruguay
+  - america
+  - sud-america
+  - informazioni-pratiche
 ---
 
 ## Documenti necessari
 
-Per affrontare un [viaggio in Sud America](/categoria/viaggi/panamericana) è fondamentale il **passaporto con validità residua di almeno 6 mesi**. La permanenza in America Latina per turismo può variare dai 3 ai 6 mesi, ma questo dipende dallo Stato in cui vi recherete. Alcuni Paesi vi possono indicare una permanenza iniziale di 15 giorni che si può  estendere a 90 rivolgendosi alla dogana o negli uffici preposti. I visti vengono rilasciati direttamente in dogana, quindi non serve richiedere permessi dall'Italia.
+Per affrontare un [viaggio in Sud America](/categoria/viaggi/panamericana) è fondamentale il **passaporto con validità residua di almeno 6 mesi**. La permanenza in America Latina per turismo può variare dai 3 ai 6 mesi, ma questo dipende dallo Stato in cui vi recherete. Alcuni Paesi vi possono indicare una permanenza iniziale di 15 giorni che si può estendere a 90 rivolgendosi alla dogana o negli uffici preposti. I visti vengono rilasciati direttamente in dogana, quindi non serve richiedere permessi dall'Italia.
 
-|  Nazione  | Passaporto | Visto di ingresso |
-|-----------|------------|-------------------|
-| [Argentina](http://www.viaggiaresicuri.it/#/country/ARG) | Necessario | Non necessario per periodi di permanenza inferiori ai 3 mesi |
-| [Bolivia](http://www.viaggiaresicuri.it/#/country/BOL) | Necessario con validità di almeno 6 mesi all'ingresso | Non necessario per turismo fino a 3 mesi di permanenza |
-| [Cile](http://www.viaggiaresicuri.it/#/country/CHL) | Necessario con validità di almeno 6 mesi all'ingresso | Non necessario per turismo fino a 3 mesi di permanenza |
-| [Paraguay](http://www.viaggiaresicuri.it/#/country/PRY) | Necessario con validità  superiore al periodo di permanenza | Non necessario per turismo fino a 90 giorni di permanenza |
-| [Perù](http://www.viaggiaresicuri.it/#/country/PER) | Necessario con validità di almeno 6 mesi all'ingresso.<br>Le Autorità di frontiera potrebbero chiedere di esibire il passaporto nonché il biglietto di andata e ritorno. | Non necessario per turismo fino a 90 giorni di permanenza |
-| [Uruguay](http://www.viaggiaresicuri.it/#/country/URY) | Necessario | Non necessario per turismo fino a 90 giorni di permanenza |
+| Nazione                                                  | Passaporto                                                                                                                                                               | Visto di ingresso                                            |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Argentina](http://www.viaggiaresicuri.it/#/country/ARG) | Necessario                                                                                                                                                               | Non necessario per periodi di permanenza inferiori ai 3 mesi |
+| [Bolivia](http://www.viaggiaresicuri.it/#/country/BOL)   | Necessario con validità di almeno 6 mesi all'ingresso                                                                                                                    | Non necessario per turismo fino a 3 mesi di permanenza       |
+| [Cile](http://www.viaggiaresicuri.it/#/country/CHL)      | Necessario con validità di almeno 6 mesi all'ingresso                                                                                                                    | Non necessario per turismo fino a 3 mesi di permanenza       |
+| [Paraguay](http://www.viaggiaresicuri.it/#/country/PRY)  | Necessario con validità superiore al periodo di permanenza                                                                                                               | Non necessario per turismo fino a 90 giorni di permanenza    |
+| [Perù](http://www.viaggiaresicuri.it/#/country/PER)      | Necessario con validità di almeno 6 mesi all'ingresso.<br>Le Autorità di frontiera potrebbero chiedere di esibire il passaporto nonché il biglietto di andata e ritorno. | Non necessario per turismo fino a 90 giorni di permanenza    |
+| [Uruguay](http://www.viaggiaresicuri.it/#/country/URY)   | Necessario                                                                                                                                                               | Non necessario per turismo fino a 90 giorni di permanenza    |
 
 Prima di partire è sempre meglio controllare la valitità di queste informazioni sull'apposito sito del Ministero degli Affari Esteri: [Viaggiare Sicuri](http://www.viaggiaresicuri.it/).
 
@@ -45,11 +45,11 @@ Se volete vivere il viaggio con la vostra moto sappiate che ci sono 3 possibilit
 
 Spedire in container richiede una precauzione: **la moto sarà a contatto con la salsedine per un lungo periodo**, quindi è necessario proteggere le parti in metallo con olio siliconico.
 
-In tutti e tre i casi dovete affidarvi ad un buon spedizioniere che abbia contatti seri sul posto, perché lo sdoganamento può diventare una vera odissea. Sul posto prima dello sdoganamento occorre compilare il *Titulo de importación temporal de vehículos* in dogana e solo dopo l’approvazione è possibile ritirare la moto. La bolla di spedizione deve riportare il materiale presente nel container, quindi se per motivi di spazio decideste di rimuovere una o più valigie dalla vostra moto, abbiate cura di indicare il numero di colli corretti. Nel mio caso per pura precauzione ho fatto delle foto a tutte le fasi di fissaggio della moto (che sono a cura dello spedizioniere), alle valigie, al sigillo del container e al numero di matricola dello stesso. Scaricando l’app potrete seguire il viaggio della vostra moto.
+In tutti e tre i casi dovete affidarvi ad un buon spedizioniere che abbia contatti seri sul posto, perché lo sdoganamento può diventare una vera odissea. Sul posto prima dello sdoganamento occorre compilare il _Titulo de importación temporal de vehículos_ in dogana e solo dopo l’approvazione è possibile ritirare la moto. La bolla di spedizione deve riportare il materiale presente nel container, quindi se per motivi di spazio decideste di rimuovere una o più valigie dalla vostra moto, abbiate cura di indicare il numero di colli corretti. Nel mio caso per pura precauzione ho fatto delle foto a tutte le fasi di fissaggio della moto (che sono a cura dello spedizioniere), alle valigie, al sigillo del container e al numero di matricola dello stesso. Scaricando l’app potrete seguire il viaggio della vostra moto.
 
 Se per qualche motivo decideste di lasciare la vostra moto nel Paese in cui vi trovate, sappiate che esistono dei limiti di tempo che vi vengono indicati nel permesso di entrata alla dogana e che dipendono da Stato a Stato. Questi permessi possono essere rinnovati (c’è un limite che dipende dalla nazione in cui vi trovate), ma per farlo deve essere presente sul posto il proprietario del mezzo. Se si dovessero superare i termini di tempo stabiliti all’entrata nel Paese, la moto verrà sequestrata e messa all’asta. Ovviamente finchè non si esce dal Paese o non si viene fermati per un controllo dalle forze dell’ordine, la moto rimane in mano a voi, anche se il suo destino è segnato. **L’unico Stato che permette di lasciare la moto ferma per 1 anno è l’Uruguay**.
 
-Per viaggiare in Sud America **non è necessario dotarsi di *Carnet de passage***.
+Per viaggiare in Sud America **non è necessario dotarsi di _Carnet de passage_**.
 
 ![Container moto](/assets/uploads/2019/10/sud-america-moto-informazioni-pratiche/foto/IMG_0759.JPG "Operazioni di carico della nostra BMW R1200GS Adventure nel container")
 ![Sdoganamento moto Cile](/assets/uploads/2019/09/panamericana-sud-america-cile-peru-bolivia-argentina-paraguay-uruguay/foto/3_sdoganamento.JPG "Sdoganamento della moto in Cile")
@@ -124,7 +124,7 @@ Un compagno di viaggio da cui difficilmente vi separerete è il vento: tutto ben
 
 La qualità della benzina è generalmente buona. Solo in alcune tratte poco trafficate ci siamo riforniti con benzine scadenti in Cile, Perù e Bolivia. La nostra moto monta dei filtri della [Guglatech](https://www.guglatech.com) che la protegge da eventuali impurità. Nel caso di benzina con pochi ottani utilizziamo un [addizionatore di ottani della Bardahl](https://amzn.to/33eeQYC) che aiuta la nostra moto a sopportare il carico trasportato alle alte altitudini che si raggiungono sulle Ande (abbiamo viaggiato anche ad oltre 4500 metri).
 
-In tutte le stazioni di servizio è obbligatorio scendere dalla moto per fare rifornimento, per questioni di sicurezza. In molte stazioni di servizio viene registrata la targa prima di eseguire il rifornimento. In Bolivia il prezzo indicato dalla pompa non è quello che si paga, perché  ai turisti viene addizionata una percentuale. Ovviamente prima del rifornimento viene segnalata la cosa dal gestore della pompa di benzina. **Il costo della benzina è inferiore ad 1€/litro**, quindi molto basso. Non esistono self service, quindi se partite presto al mattino (è una nostra abitudine), fate rifornimento alla sera.
+In tutte le stazioni di servizio è obbligatorio scendere dalla moto per fare rifornimento, per questioni di sicurezza. In molte stazioni di servizio viene registrata la targa prima di eseguire il rifornimento. In Bolivia il prezzo indicato dalla pompa non è quello che si paga, perché ai turisti viene addizionata una percentuale. Ovviamente prima del rifornimento viene segnalata la cosa dal gestore della pompa di benzina. **Il costo della benzina è inferiore ad 1€/litro**, quindi molto basso. Non esistono self service, quindi se partite presto al mattino (è una nostra abitudine), fate rifornimento alla sera.
 
 In Sud America viaggio con una [BMW R1200GS Adventure](/tag/bmw-r1200gs), che monta un serbatoio da 33 litri il quale mi garantisce una ottima autonomia. Solo nel deserto dell’Atacama ho raggiunto il rifornimento successivo con la luce gialla della riserva accesa. Porto sempre una [tanica di benzina supplementare](https://amzn.to/2MpkNve) piena, per ora è servita solo ad aiutare altri motociclisti rimasti senza benzina.
 
@@ -138,10 +138,10 @@ Prima del viaggio non abbiamo fatto alcun vaccino perché due anni fa abbiamo af
 
 Per viaggiare sereni in Sud America **è consigliato vaccinarsi** per:
 
-* Epatite A e B
-* Tetano
-* Febbre Gialla (obbligatoria in Bolivia)
-* Profilassi antimalarica
+- Epatite A e B
+- Tetano
+- Febbre Gialla (obbligatoria in Bolivia)
+- Profilassi antimalarica
 
 Abbiamo portato con noi alcuni medicinali tipo: antibiotico, antidolorifico, tachipirina e **Acetazolamida** (per l’altitudine).
 

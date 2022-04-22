@@ -7,18 +7,19 @@ author: arturo
 featured_image: /assets/uploads/2019/02/torino-transilvania-romania-moto-prima-parte/galleries/GAB5532.jpeg
 excerpt: "Arturo ci racconta come comprare una moto a Febbraio e partire per un viaggio di 5000km a Luglio, destinazione Romania"
 categories:
-- viaggi
-- viaggi/romania
+  - viaggi
+  - viaggi/romania
 tags:
-- torino-transilvania
-- bmw-r1200gs
-- carpazi
-- europa-orientale
-- honda-xl-700-transalp
-- transalp
-- romania
-- transilvania
+  - torino-transilvania
+  - bmw-r1200gs
+  - carpazi
+  - europa-orientale
+  - honda-xl-700-transalp
+  - transalp
+  - romania
+  - transilvania
 ---
+
 ## Preludio
 
 Ho sempre sognato di fare un lungo viaggio in moto e finalmente a Febbraio 2018 ci sono stati tutti gli elementi per permettermi di acquistare la mia prima moto: una [Honda XL700 Transalp](/tag/honda-xl-700-transalp/) del 2013. È una gran moto e mi sta dando un sacco di soddisfazioni!
@@ -96,11 +97,11 @@ Un altro bellissimo esempio è questo insieme di bar all’interno di un palazzo
 
 Ore 19:30 ci dirigiamo in direzione Gyal (vicino l’aeroporto) per andare a controllare che la prenotazione del B&B non abbia problemi…
 
-Premessa: avevo prenotato questo B&B su Booking.com, ma pochi giorni prima di partire ho dovuto disdire la prenotazione perché forse la partenza sarebbe slittata. Successivamente (qualche ora dopo) ho contattato la struttura con una mail in inglese in cui chiedevo se fosse possibile *annullare l’annullamento* della prenotazione e ho ricevuto una mail in un italiano improbabile in cui mi veniva detto che non c’era nessun problema e che non avremmo dovuto pagare nulla visto che booking mi aveva già addebitato il costo delle camere.
+Premessa: avevo prenotato questo B&B su Booking.com, ma pochi giorni prima di partire ho dovuto disdire la prenotazione perché forse la partenza sarebbe slittata. Successivamente (qualche ora dopo) ho contattato la struttura con una mail in inglese in cui chiedevo se fosse possibile _annullare l’annullamento_ della prenotazione e ho ricevuto una mail in un italiano improbabile in cui mi veniva detto che non c’era nessun problema e che non avremmo dovuto pagare nulla visto che booking mi aveva già addebitato il costo delle camere.
 
 Arrivati a Gyal ci dirigiamo subito presso il B&B dove incontriamo il gestore: un tipo dall’aria molto simpatica, ma che ci riserva una sopresa: non parla una parola di inglese… Come quasi nessuno in Ungheria dopo tutto! Ho anche provato a chiedere ad alcuni poliziotti (gli stessi che ci sparavano l’autovelox addosso) di fare da traduttori, ma ahimé neanche loro parlavano inglese. Dopo più di 1h e 30m, svariate chiamate a Booking.com, Google Translate e al mio amico Csaba (Sant’uomo!) che faceva da traduttore inglese/ungherese abbiamo scoperto una bellissima cosa: se ricevete una mail di Booking.com con un addebito, fino a quando l’esercente non richiede la conferma tale addebito non viene reso effettivo; considerando che l’esercente non aveva ancora capito di essere nel 2018, non lo aveva fatto.
 
-Ci siamo congedati con un mio messaggio su Google Translate che recitava: *Vi voglio bene, ma per favore imparate l’inglese!*
+Ci siamo congedati con un mio messaggio su Google Translate che recitava: _Vi voglio bene, ma per favore imparate l’inglese!_
 
 ![WC elegante](/assets/uploads/2019/02/torino-transilvania-romania-moto-prima-parte/galleries/photo_2019-02-19-12.45.44.jpeg "La fatica per ottenere una stanza è stata ripagata dal privilegio di poter utilizzare l’elegantissimo WC")
 

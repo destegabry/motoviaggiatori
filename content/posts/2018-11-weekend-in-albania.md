@@ -7,16 +7,17 @@ excerpt: Weekend lungo in moto sulle strade dell’Albania, 1100 km tra monument
 date: 2018-11-24T16:27:03.000Z
 modified: 2019-04-03T12:34:00.000Z
 categories:
-- itinerari
-- itinerari/albania
+  - itinerari
+  - itinerari/albania
 tags:
-- 1000-km
-- 3-giorni
-- albania
-- bmw-r1200gs
-- macedonia
-- weekend
+  - 1000-km
+  - 3-giorni
+  - albania
+  - bmw-r1200gs
+  - macedonia
+  - weekend
 ---
+
 Come è nostra abitudine, quando abbiamo qualche giorno di ferie lo trascorriamo in viaggio. Ormai prossimi al ponte del 1° Novembre iniziamo a valutare alcune delle mete di viaggio che in moto si possono raggiungere e visitare in questi 5 giorni. Dobbiamo scegliere tra Sicilia, Spagna e Albania.
 
 Sono giorni che piove in Veneto (regione in cui abitiamo) ed in Sicilia si stanno verificando eventi meteorologici di forte intensità con danni ingenti. Consultando le previsioni meteo (combinate alla disponibilità delle tratte dei traghetti) decidiamo di andare in Albania per percorrere un itinerario di quasi 1100 km.

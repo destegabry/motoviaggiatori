@@ -7,20 +7,21 @@ permalink: /2017/03/marocco-moto-carta-stradale-guida-turistica
 featured_image: /assets/uploads/2017/03/marocco-moto-carta-stradale-guida-turistica/galleries/1/1.jpg
 excerpt: "Ho passato qualche giorno a sfogliare guide e carte stradali, ecco i miei consigli per gli acquisti!"
 categories:
-- recensioni
-- recensioni/libri
-- viaggi
-- viaggi/marocco
+  - recensioni
+  - recensioni/libri
+  - viaggi
+  - viaggi/marocco
 tags:
-- africa
-- carta-stradale
-- cartina
-- guida
-- informazioni-pratiche
-- marocco
-- marocco-in-moto
-- turismo
+  - africa
+  - carta-stradale
+  - cartina
+  - guida
+  - informazioni-pratiche
+  - marocco
+  - marocco-in-moto
+  - turismo
 ---
+
 Manca poco più di un mese alla partenza per il [#MaroccoInMoto](/categorie/viaggi/marocco), e dopo [furto e ritrovamento della mia BMW R1200GS](/2017/03/furto-moto-bmw-r1200gs-ritrovata/)  l’organizzazione del viaggio sta finalmente entrando nel vivo!
 
 Internet è una grande fonte di spunti per organizzare il tragitto, ma fin troppo dispersivo… e la cartografia online non è di aiuto: a quanto pare il Marocco è ancora poco coperto da Google Maps e concorrenti.

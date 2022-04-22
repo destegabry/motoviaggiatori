@@ -7,39 +7,39 @@ permalink: /2020/05/percorso-ottovolante-svizzero
 featured_image: /assets/uploads/2020/05/percorso-ottovolante-svizzero/featured_image.jpg
 excerpt: Itinerario tra laghi glaciali e splendidi valichi nel cuore delle Alpi, a due passi da Piemonte e Lombardia
 categories:
-- itinerari
-- itinerari/svizzera
-- itinerari/italia
-- itinerari/italia/nord-ovest
+  - itinerari
+  - itinerari/svizzera
+  - itinerari/italia
+  - itinerari/italia/nord-ovest
 tags:
-- 1000-km
-- 1-giorno
-- 2-giorni
-- weekend
-- gpx
-- svizzera
-- italia
-- piemonte
-- torino
-- covid-19
+  - 1000-km
+  - 1-giorno
+  - 2-giorni
+  - weekend
+  - gpx
+  - svizzera
+  - italia
+  - piemonte
+  - torino
+  - covid-19
 attributes:
-- key: Percorrenza
-  value: 480 km anello da Domodossola <br>820 km anello da Torino
-- key: Tempo
-  value: 1-2 giorni
-- key: Periodo
-  value: Giugno - Ottobre (<a href="https://www.tcs.ch/it/tools/infostrada-situazione-attuale-del-traffico/situazione-attuale-traffico.php" target="_blank">verificare apertura passi</a>)
-- key: Abbigliamento
-  value: A causa dei dislivelli molto ampi lo sbalzo termico è notevole, consigliato abbigliamento multistrato e un paio di guanti invernali in aggiunta a quelli estivi
+  - key: Percorrenza
+    value: 480 km anello da Domodossola <br>820 km anello da Torino
+  - key: Tempo
+    value: 1-2 giorni
+  - key: Periodo
+    value: Giugno - Ottobre (<a href="https://www.tcs.ch/it/tools/infostrada-situazione-attuale-del-traffico/situazione-attuale-traffico.php" target="_blank">verificare apertura passi</a>)
+  - key: Abbigliamento
+    value: A causa dei dislivelli molto ampi lo sbalzo termico è notevole, consigliato abbigliamento multistrato e un paio di guanti invernali in aggiunta a quelli estivi
 ---
 
 Chiusi in casa per via della pandemia da virus SARS-CoV-2, non ci rimane che fantasticare sui giri in moto che faremo appena saremo liberi di girovagare in libertà.
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1DjEgQgXy1HwrV4q99MNAWxkN7V86_E08" width="100%" height="640"></iframe>
 
-L'*Ottovolante Svizzero* è un itinerario che collega alcuni dei più belli passi alpini della Svizzera; il tracciato sulla cartina assomiglia ad un ipotetico "otto" che passa tra panorami unici e strade bellissime.
+L'_Ottovolante Svizzero_ è un itinerario che collega alcuni dei più belli passi alpini della Svizzera; il tracciato sulla cartina assomiglia ad un ipotetico "otto" che passa tra panorami unici e strade bellissime.
 
-Abbiamo ideato un itinerario che collega Domodossola a Locarno (anello che si chiude passando per la Valle Vigezzo), raggiungibile da Torino senza *toccare* nemmeno un chilometro di autostrada.
+Abbiamo ideato un itinerario che collega Domodossola a Locarno (anello che si chiude passando per la Valle Vigezzo), raggiungibile da Torino senza _toccare_ nemmeno un chilometro di autostrada.
 
 Da Torino si segue per Chivasso, Caluso e Strambino fino a raggiungere Ivrea. Si scavalca la Serra Morenica sulla SP338 fino a raggiungere Biella, per poi attraversare le valli che hanno fatto la storia del tessile piemontese e italiano suguendo le strade SP200, SP232, SP71, SP76.
 
@@ -65,7 +65,7 @@ Scendiamo di quota lungo la Valle Bedretto seguendo le acque del fiume Ticino, m
 
 Perocciamo la valle scavata dal Reuss per poi seguire le indicazioni per il **Passo dell'Oberalp** (2046 m s.l.m.), attraverso il quale transita il Glacier Express, il famoso treno rosso che collega Zermatt con St Moritz. Lasciamo definitivamente la Strada Nazionale 19 a Disentis, svoltiamo a destra in direzione del **Passo del Lucomagno** (1.926 m s.l.m.): via di comunicazione importantissima dall'Alto Medioevo fino al XIII secolo, quando perse importanza in favore del San Gottardo.
 
-Seguiamo le indicazioni per Bellinzona e poi Locarno. Da qui è possibile rientrare a Domodossola attraversando le Centovalli e la Val Vigezzo, oppure continuare a costeggiare il Lago Maggiore per andare verso Torino. A Stresa *tagliamo* il gruppo del Mergozzolo, dominato dalla cima del Mottarone, e torniamo sulle sponde del Lago d'Orta.
+Seguiamo le indicazioni per Bellinzona e poi Locarno. Da qui è possibile rientrare a Domodossola attraversando le Centovalli e la Val Vigezzo, oppure continuare a costeggiare il Lago Maggiore per andare verso Torino. A Stresa _tagliamo_ il gruppo del Mergozzolo, dominato dalla cima del Mottarone, e torniamo sulle sponde del Lago d'Orta.
 
 Da qui scegliamo di tornare a Torino attraverso Borgomanero, Balocco, Santhià, Ciglione, Rondissone, Chivasso… ma non giudicheremo chi, dopo tutte queste curve, deciderà di tornarsene a casa in autostrada!
 

@@ -7,16 +7,17 @@ permalink: /2017/06/assicurazione-moto-marocco
 featured_image: /assets/uploads/2017/06/assicurazione-moto-marocco/featured_image.jpg
 excerpt: "Quanto costa assicurare la moto in Marocco? Quali documenti servono a stipulare una copertura assicurativa RC? Ecco tutte le risposte!"
 categories:
-- viaggi
-- viaggi/marocco
+  - viaggi
+  - viaggi/marocco
 tags:
-- africa
-- assicurazione
-- burocrazia
-- informazioni-pratiche
-- marocco-in-moto
-- marocco
+  - africa
+  - assicurazione
+  - burocrazia
+  - informazioni-pratiche
+  - marocco-in-moto
+  - marocco
 ---
+
 Vuoi viaggiare per il Marocco in sella alla tua moto? La prima cosa da fare è verificare che la Carta Verde (ufficialmente *Carta Internazionale di Assicurazione Veicoli a Motore*) della tua assicurazione abbia la sigla *MA* nella tabella dei Paesi di validità… ma purtroppo è molto raro che le compagnie italiane coprano la responsabilità civile nel Paese nordafricano.
 
 <p class="message pro-tip">
@@ -27,7 +28,7 @@ Da quando la Carta Verde non è più necessaria per viaggiare nei Paesi UE, le a
 
 ## Prezzo e documenti necessari
 
-Acquistare un’assicurazione temporanea per il Marocco è abbastanza semplice e veloce: si ottiene appena superati i controlli doganali in un ufficio della *Compagnie d’Assurance Transport*.
+Acquistare un’assicurazione temporanea per il Marocco è abbastanza semplice e veloce: si ottiene appena superati i controlli doganali in un ufficio della _Compagnie d’Assurance Transport_.
 
 I documenti necessari per l’emissione della polizza sono:
 
@@ -37,7 +38,7 @@ I documenti necessari per l’emissione della polizza sono:
 - **carta di circolazione** (libretto della moto)
 - delega a condurre (dal tono ufficiale e tradotta in francese se la moto non fosse di tua proprietà)
 
-Il prezzo dipende dalla permanenza della moto in Marocco e copre *responsabilità civile* (RC) e *tutela legale*. Le tariffe sono divise a scaglioni e **valide per tutte le moto di cilindrata superiore a 50cc**:
+Il prezzo dipende dalla permanenza della moto in Marocco e copre *responsabilità civile* (RC) e _tutela legale_. Le tariffe sono divise a scaglioni e **valide per tutte le moto di cilindrata superiore a 50cc**:
 
 <table>
   <thead>
@@ -57,7 +58,7 @@ Prima di partire è sempre meglio verificare la validità di queste informazioni
 
 Pagata la quota, verrà rilasciato un foglietto rosa con tutti i dettagli della polizza assicurativa: conservalo con cura assieme a passaporto e dichiarazione di importazione temporanea del veicolo, nel raro caso in cui dovessi subire un controllo della polizia dovrai esibirli.
 
-Se dovessi smarrire qualche documento presenza denuncia il prima possibile alla *police touristique*.
+Se dovessi smarrire qualche documento presenza denuncia il prima possibile alla _police touristique_.
 
 ![Assicurazione moto Marocco](/assets/uploads/2017/06/assicurazione-moto-marocco/galleries/1/0.jpg "La mia assicurazione moto per il Marocco, rilasciata dall’Assurance aux Frontieres al porto di Tangeri Med")
 
@@ -67,7 +68,7 @@ La maggior parte dei traghetti che portano in Marocco attraccano al recente port
 
 Lo svolgimento delle pratiche doganali può essere lungo e frustrante, ma alla fine riuscirai ad ottenere i timbri su passaporto e dichiarazione di importazione temporanea del veicolo.
 
-Uscendo dalla dogana troverai un parcheggio con una serie di prefabbricati: lì troverai diversi *Bureau de Change*, Bancomat e l’ufficio della *Compagnie d’Assurance Transport*.
+Uscendo dalla dogana troverai un parcheggio con una serie di prefabbricati: lì troverai diversi _Bureau de Change_, Bancomat e l’ufficio della _Compagnie d’Assurance Transport_.
 
 Purtroppo **le carte di credito non sono accettate** (come in gran parte degli esercizi commerciali marocchini).
 

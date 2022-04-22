@@ -7,32 +7,33 @@ featured_image: /assets/uploads/2017/06/weekend-moto-corsica/galleries/1/5.jpg
 excerpt: "Itinerario mototuristico di 480km: 3 giorni di moto in Corsica tra centinaia di curve, panorami mozzafiato, sterrati polverosi e bagni ristoratori"
 opening: Itinerario mototuristico di 480 km con partenza da Bastia, 24 km di off-road per raggiungere Saleccia. È un percorso adatto ad un weekend lungo, si può accorciare a 2 giorni saltando Cap Corse (e risparmiando 100 km).
 categories:
-- itinerari
-- itinerari/francia
-- itinerari/francia/corsica
+  - itinerari
+  - itinerari/francia
+  - itinerari/francia/corsica
 tags:
-- 500-km
-- 3-giorni
-- africa-twin
-- bmw-r1200gs
-- corsica
-- francia
-- mare
-- montagna
-- off-road
-- weekend
+  - 500-km
+  - 3-giorni
+  - africa-twin
+  - bmw-r1200gs
+  - corsica
+  - francia
+  - mare
+  - montagna
+  - off-road
+  - weekend
 attributes:
-- key: Percorrenza
-  value: 480 km (di cui 24km off-road)
-- key: Tempo
-  value: 2-3 giorni
-- key: Periodo
-  value: Aprile-Giugno o Settembre-Ottobre (per evitare caldo e affollamento eccessivi)
-- key: Abbigliamento
-  value: Estivo, alcuni passi sono ad un quota abbastanza elevata e richiedono uno strato in più sotto la giacca
-- key: Rifornimenti
-  value: Benzinai presenti, è consigliato non scendere sotto il livello minimo di 60km di autonomia
+  - key: Percorrenza
+    value: 480 km (di cui 24km off-road)
+  - key: Tempo
+    value: 2-3 giorni
+  - key: Periodo
+    value: Aprile-Giugno o Settembre-Ottobre (per evitare caldo e affollamento eccessivi)
+  - key: Abbigliamento
+    value: Estivo, alcuni passi sono ad un quota abbastanza elevata e richiedono uno strato in più sotto la giacca
+  - key: Rifornimenti
+    value: Benzinai presenti, è consigliato non scendere sotto il livello minimo di 60km di autonomia
 ---
+
 <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d752372.8019458064!2d8.483645482452836!3d42.556221703262665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0x12d72403b09b0971%3A0x10d63958a78a2b9d!2sBastia%2C+Francia!3m2!1d42.697283!2d9.450880999999999!4m5!1s0x12d6c5c7d048469b%3A0x4cd81f0a9ab961ce!2sBarcaggio%2C+Ersa%2C+Francia!3m2!1d43.005826!2d9.401781!4m5!1s0x12d72ca5b99c166d%3A0xb03e451c7425ffc8!2sSaleccia%2C+Santo+Pietro+di+Tenda%2C+Francia!3m2!1d42.720698!2d9.202902!4m5!1s0x12d0eb684ff741d3%3A0x40819a5fd9555b0!2sCalvi%2C+Francia!3m2!1d42.567651!2d8.757221999999999!4m5!1s0x12d082c9926b73f5%3A0xa182da8e4846870f!2sCalanchi+di+Piana%2C+Piana%2C+Francia!3m2!1d42.2454527!2d8.6534769!4m5!1s0x12da7984ec0fba6d%3A0x40819a5fd955d60!2sCargese%2C+Francia!3m2!1d42.134854999999995!2d8.595837999999999!4m5!1s0x12d0b1d260b98531%3A0xce60bc23ceb0269e!2sScala+Di+Santa+Regina%2C+Corscia%2C+Francia!3m2!1d42.357881!2d9.060167!4m5!1s0x12d72403b09b0971%3A0x10d63958a78a2b9d!2sBastia%2C+Francia!3m2!1d42.697283!2d9.450880999999999!5e0!3m2!1sit!2sit!4v1498779470035" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Il [#MaroccoInMoto](/categoria/viaggi/marocco/) è andato alla grande, ma ne siamo tornati con un’enorme quantità di materiale che fatichiamo a selezionare… così durante il ponte del 2 giugno 2017 siamo andati a schiarirci un po’ le idee in Corsica! Anche questa volta non siamo stati gli unici ad avere l’idea e ci è toccato incastrarci in una stiva straripante di moto.
@@ -44,7 +45,7 @@ Il [#MaroccoInMoto](/categoria/viaggi/marocco/) è andato alla grande, ma ne sia
 
 Il traghetto Corsica Ferries attracca a Bastia alle 7 del mattino, in mezz’ora di manovre e sudore riusciamo a liberare le moto dal groviglio di metallo, gomma e carene creato dalle centinaia di motociclisti che affollano il ponte 2 della Mega Smeralda.
 
-Prendiamo un caffè e subito dopo la strada D80 che compie il giro completo del *“dito”* (100 km). Basta percorrere pochi km per trovarsi tra piccoli borghi affacciati su bellissimi scorci del Mar Tirreno. La strada è stretta ma l’asfalto è in condizioni perfette, lasciando tempo di godersi il paesaggio tra una curva e l’altra.
+Prendiamo un caffè e subito dopo la strada D80 che compie il giro completo del _“dito”_ (100 km). Basta percorrere pochi km per trovarsi tra piccoli borghi affacciati su bellissimi scorci del Mar Tirreno. La strada è stretta ma l’asfalto è in condizioni perfette, lasciando tempo di godersi il paesaggio tra una curva e l’altra.
 
 La quantità di moto che incrociamo e superiamo è incredibile… sembra che i motociclisti di mezza Italia si siano dati appuntamento qui!
 
@@ -52,7 +53,7 @@ Superato Macinaggio si arriva ad un punto panoramico da cui ammirare l’Ile de 
 
 Ci dicono che da queste parti si possono gustare aragoste e cozze stupende… purtroppo sono le 10 del mattino e non ce la sentiamo ancora di provare. Promettiamo di tornare a verificare l’informazione!
 
-Tralasciamo i ristorantini e ci sgranchiamo le gambe sugli scogli azzurri che si trovano percorrendo il *Sentier des Douaniers* verso Ovest. Sulla spiaggia di Tollare troviamo una bella mandria di mucche accaldate.
+Tralasciamo i ristorantini e ci sgranchiamo le gambe sugli scogli azzurri che si trovano percorrendo il _Sentier des Douaniers_ verso Ovest. Sulla spiaggia di Tollare troviamo una bella mandria di mucche accaldate.
 
 ![Barcaggio](/assets/uploads/2017/06/weekend-moto-corsica/galleries/1/0.jpg "Barcaggio")
 ![Scogli azzurri Barcaggio](/assets/uploads/2017/06/weekend-moto-corsica/galleries/1/1.jpg "Scogli azzurri Barcaggio")
@@ -61,7 +62,7 @@ Tralasciamo i ristorantini e ci sgranchiamo le gambe sugli scogli azzurri che si
 ![Selfie gruppo Corsica](/assets/uploads/2017/06/weekend-moto-corsica/galleries/1/4.jpg "Selfie gruppo Corsica")
 ![Cap Corse](/assets/uploads/2017/06/weekend-moto-corsica/galleries/1/5.jpg "Cap Corse")
 
-Rimontiamo in sella per percorrere il versante Ovest del *dito*, molto più selvaggio ma con asfalto a tratti più largo che invita a piegare un po’. La vista sul porto di Centuri è strepitosa ma tutto il tragitto è una festa per gli occhi.
+Rimontiamo in sella per percorrere il versante Ovest del _dito_, molto più selvaggio ma con asfalto a tratti più largo che invita a piegare un po’. La vista sul porto di Centuri è strepitosa ma tutto il tragitto è una festa per gli occhi.
 
 Si accende la spia della riserva mentre siamo vicini alla spiaggia nera di Nonza. Da queste parti si fa rifornimento nei mini-market e non bisogna avere fretta: il postino posteggia la macchina davanti alla pompa della benzina e non c’è modo di convincerlo a spostarla prima di aver finito le consegne… fortunatamente le case sono poche e il caffè del bar è molto buono!
 
@@ -69,7 +70,7 @@ La penisola di Cap Corse termina a Saint Florent, dove ci fermiamo a comprare ba
 
 ## Il Desert des Agriates e la spiaggia di Saleccia
 
-Proseguendo sulla D81 per una decina di chilometri e superato un bar pieno zeppo di 4×4, troviamo il bivio che porta a Saleccia. Per arrivare alla spiaggia bisogna attraversare il *Deserto delle Agriate* in un percorso off-road di 12km.
+Proseguendo sulla D81 per una decina di chilometri e superato un bar pieno zeppo di 4×4, troviamo il bivio che porta a Saleccia. Per arrivare alla spiaggia bisogna attraversare il _Deserto delle Agriate_ in un percorso off-road di 12km.
 
 In realtà il deserto è coperto di vegetazione e non ha molto a che vedere con [quello marocchino](https://www.instagram.com/p/BTtD8Szj0vu/?taken-by=motoviaggiatori).
 
@@ -91,31 +92,31 @@ Arrivati al bivio per il campeggio tenete la sinistra e dopo poche centinaia di 
 
 Tornati alla D81 siamo stanchi e un po’ cotti dal sole, non ci rimane che percorrere i 56km che ci separano dal [bungalow](http://www.booking.com/hotel/fr/camping-la-cle-des-champs-calvi.html?aid=1308171&no_rooms=1&group_adults=1) prenotato a [Calvi](http://www.booking.com/searchresults.html?city=-1416250&aid=1308171&no_rooms=1&group_adults=1) per cenare e schiantarci nel letto.
 
-## La magnifica D81B e i *Calanques de Piana*
+## La magnifica D81B e i _Calanques de Piana_
 
 Ci svegliamo presto per goderci al massimo la strada costiera che ci porterà tra i luoghi più belli di questo motoitinerario. Invece di seguire le indicazioni per Porto sulla noiosa D81, vale la pena di entrare nel centro di Calvi per prendere la D81B (che secondo Google Maps è impercorribile).
 
-Nel giro di qualche chilometro ci si trova davanti alla penisola de *la Revellata* circondata da un mare fantastico. Da qui in avanti il paesaggio diventa sempre più selvaggio, la strada si stringe e scorre tra mille curve a picco sul mare blu profondo.
+Nel giro di qualche chilometro ci si trova davanti alla penisola de _la Revellata_ circondata da un mare fantastico. Da qui in avanti il paesaggio diventa sempre più selvaggio, la strada si stringe e scorre tra mille curve a picco sul mare blu profondo.
 
 Pennelliamo un’infinità di curve, costeggiamo golfi stupendi e ogni tanto la macchia mediterranea ci inghiotte nascondendo la distesa blu che ci accompagna sempre alla nostra destra.
 
 Decidiamo di fermarci a Galeria per un caffè e finiamo nel bel mezzo del [motoraduno Galeria Biker Bay](https://www.facebook.com/Galeria-Biker-Bay-873570916028168/). La cittadina è invasa da Harley Davidson tirate a lucido che brillano sotto un cielo azzurro rotto dai tuoni che si scatenano da marmitte apocalittiche. Contenti loro…
 
-Ripartiamo sulla D81 che da questo tratto diventa una bella strada montana in riva al mare, con buon asfalto e curve pazzesche. Arrivati al *Col de Palmarella* (quota 405 metri sul mare) è obbligatorio fermarsi per ammirare il *Golfe de Girolata*, racchiuso dalla Riserva naturale di Scandola (patrimonio dell’umanità UNESCO).
+Ripartiamo sulla D81 che da questo tratto diventa una bella strada montana in riva al mare, con buon asfalto e curve pazzesche. Arrivati al _Col de Palmarella_ (quota 405 metri sul mare) è obbligatorio fermarsi per ammirare il _Golfe de Girolata_, racchiuso dalla Riserva naturale di Scandola (patrimonio dell’umanità UNESCO).
 
 ![Col du Palmarella](/assets/uploads/2017/06/weekend-moto-corsica/galleries/3/0.jpg "Col du Palmarella")
 ![Girolata Palmarella](/assets/uploads/2017/06/weekend-moto-corsica/galleries/3/1.jpg "Girolata Palmarella")
 ![MotoViaggiatori in Corsica](/assets/uploads/2017/06/weekend-moto-corsica/galleries/3/2.jpg "MotoViaggiatori in Corsica")
 ![Golfo di Porto](/assets/uploads/2017/06/weekend-moto-corsica/galleries/3/3.jpg "Golfo di Porto")
 
-La strada diventa sempre più bella nella discesa verso Porto, piccolo porticciolo all’ombra di un’antica torre genovese. Dappertutto rocce granitiche che ci ricordano la Gallura. Ci fermiamo a mangiare pesce e *mules-frites*in uno dei tanti ristoranti con dehors affacciati sulla baia.**
+La strada diventa sempre più bella nella discesa verso Porto, piccolo porticciolo all’ombra di un’antica torre genovese. Dappertutto rocce granitiche che ci ricordano la Gallura. Ci fermiamo a mangiare pesce e *mules-frites*in uno dei tanti ristoranti con dehors affacciati sulla baia.\*\*
 
 ![Sulla strada per Porto](/assets/uploads/2017/06/weekend-moto-corsica/galleries/4/0.jpg "Sulla strada per Porto")
 ![Torre e Golfo di Porto](/assets/uploads/2017/06/weekend-moto-corsica/galleries/4/1.jpg "Torre e Golfo di Porto")
 ![Pesce e moules-frites](/assets/uploads/2017/06/weekend-moto-corsica/galleries/4/2.jpg "Pesce e moules-frites")
 ![Generazioni di Boxer a Porto](/assets/uploads/2017/06/weekend-moto-corsica/galleries/4/3.jpg "Generazioni di Boxer a Porto")
 
-La D81 risale in quota all’ombra di una pineta per poi stringersi e arrovellarsi tra i *Calanques de Piana*, formazioni di granito rosso a picco sul Golfo di Porto. Il paesaggio è davvero spettacolare, anche qui è obbligatoria una sosta fotografica.
+La D81 risale in quota all’ombra di una pineta per poi stringersi e arrovellarsi tra i _Calanques de Piana_, formazioni di granito rosso a picco sul Golfo di Porto. Il paesaggio è davvero spettacolare, anche qui è obbligatoria una sosta fotografica.
 
 Lasciati i calanchi ci allontaniamo dal mare e la strada diventa molto più larga e veloce, con curvoni asfaltati alla perfezione che invitano ad aprire il gas… ma fate tesoro della nostra esperienza: dietro alla curva perfetta potrebbe esserci un bel gregge di capre o pecore a bloccare la strada!
 
@@ -131,7 +132,7 @@ Fa parecchio caldo e invece di fare i turni per la doccia ce ne andiamo alla spi
 ![Vitello agriturismo Ferme de Chiuni](/assets/uploads/2017/06/weekend-moto-corsica/galleries/6/0.jpg "Vitello agriturismo Ferme de Chiuni")
 ![Spiaggia Club Med Cargese](/assets/uploads/2017/06/weekend-moto-corsica/galleries/6/1.jpg "Spiaggia Club Med Cargese")
 
-Ceniamo a Cargese nel ristorante [Chez Mimino](https://www.tripadvisor.it/Restaurant_Review-g663644-d4306959-Reviews-Chez_Mimino-Cargese_Corse_du_Sud_Corsica.html), curioso locale che pensa di essere più fashion servendo cibo cinese. Optiamo per piatti corsi e carne alla griglia, tutto davvero ottimo! Fantastica poi la birra alle castagne *Pietra*.
+Ceniamo a Cargese nel ristorante [Chez Mimino](https://www.tripadvisor.it/Restaurant_Review-g663644-d4306959-Reviews-Chez_Mimino-Cargese_Corse_du_Sud_Corsica.html), curioso locale che pensa di essere più fashion servendo cibo cinese. Optiamo per piatti corsi e carne alla griglia, tutto davvero ottimo! Fantastica poi la birra alle castagne _Pietra_.
 
 ## Nel cuore montano della Corsica
 
@@ -145,7 +146,7 @@ E addio pranzo.
 
 Nel frattempo il paesaggio attorno a noi si trasforma completamente, il mare sparisce e viene sostituito da guglie rocciose, boschi di pini e castagni. Le temperature calano parecchio e al Col de Vergio (quota 1478 m) ringrazio ancora una volta le manopole riscaldate.
 
-Passato il lago artificiale di Calacuccia cambiamo scenografia con la *Scala di Santa Regina*, storica via ricavata nelle gole di granito a picco che il torrente *Golo* ha pazientemente eroso per la gioia dei nostri cuori di MotoViaggiatore!
+Passato il lago artificiale di Calacuccia cambiamo scenografia con la *Scala di Santa Regina*, storica via ricavata nelle gole di granito a picco che il torrente _Golo_ ha pazientemente eroso per la gioia dei nostri cuori di MotoViaggiatore!
 
 Peccato non avere tempo per fermarsi in questi posti così diversi rispetto a quelli dei due giorni precedenti.
 

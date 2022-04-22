@@ -8,16 +8,16 @@ opening: "La nostra BMW R1200GS ha compiuto 10 anni: con l’uscita della R1250G
 date: 2018-12-23T19:14:19.000Z
 modified: 2020-02-21T20:59:00.000Z
 categories:
-- recensioni
-- recensioni/moto
+  - recensioni
+  - recensioni/moto
 tags:
-- bmw-r1200gs
-- wrs
-- hyperpro
-- heed
-- heavy-duties
-- givi
-- belinassu
+  - bmw-r1200gs
+  - wrs
+  - hyperpro
+  - heed
+  - heavy-duties
+  - givi
+  - belinassu
 ---
 
 ## Un po’ di storia
@@ -26,18 +26,18 @@ Le prime moto marchiate BMW nascono nel 1921, il caratteristico motore boxer a c
 
 ![BMW R32 – 1932](/assets/uploads/2018/12/bmw-r1200gs-2008-recensione-fuori-tempo-massimo/galleries/BMW-R-32-1932.jpg "BMW R32 – 1932")
 
-L’introduzione della sigla G/S (acronimo di *Gelände/Straße* ovvero *Sterrato/Strada*) avviene nel 1980 con la **BMW R 80 G/S**: 797,5cc per 52 cv e 185kg di peso a vuoto, una moto poliedrica nata per affrontare in scioltezza ogni tipo di percorso ed in controtendenza rispetto al merito dell’epoca, composto da moto specialistiche. La ruota posteriore da 18" è "appesa" alla trasmissione *Monolever*, un forcellone monobraccio che consente un rapido accesso e smontaggio della ruota posteriore.
+L’introduzione della sigla G/S (acronimo di _Gelände/Straße_ ovvero _Sterrato/Strada_) avviene nel 1980 con la **BMW R 80 G/S**: 797,5cc per 52 cv e 185kg di peso a vuoto, una moto poliedrica nata per affrontare in scioltezza ogni tipo di percorso ed in controtendenza rispetto al merito dell’epoca, composto da moto specialistiche. La ruota posteriore da 18" è "appesa" alla trasmissione _Monolever_, un forcellone monobraccio che consente un rapido accesso e smontaggio della ruota posteriore.
 
 La bontà del progetto viene messa a dura prova nella partecipazione a diverse edizioni della Paris-Dakar, dove otterrà 4 vittorie nei 5 anni di partecipazione (1981-1983-1984-1985).
 
-Nel 1987 escono due nuovi modelli: *R 80 GS* (stesso motore della G/S ma peso a secco che sale a 206kg) ed *R 100 GS* (980cc per 60cv e 210kg a secco). Da questi modelli tutte le BMW GS di grossa cilindrata avranno sospensione posteriore monobraccio *Paralever* con trasmissione a cardano e motore bicilindrico boxer.
+Nel 1987 escono due nuovi modelli: _R 80 GS_ (stesso motore della G/S ma peso a secco che sale a 206kg) ed _R 100 GS_ (980cc per 60cv e 210kg a secco). Da questi modelli tutte le BMW GS di grossa cilindrata avranno sospensione posteriore monobraccio _Paralever_ con trasmissione a cardano e motore bicilindrico boxer.
 
 ![BMW R 80 G/S – 1980](/assets/uploads/2018/12/bmw-r1200gs-2008-recensione-fuori-tempo-massimo/galleries/BMW-R80-GS-1980.jpg "BMW R 80 G/S – 1980")
 ![BMW R 100 GS – 1987](/assets/uploads/2018/12/bmw-r1200gs-2008-recensione-fuori-tempo-massimo/galleries/BMW-R-100-GS.jpeg "BMW R 100 GS – 1987")
 
-Nel 1994 debutta la **BMW R 1100 GS**, un progetto tutto nuovo: motore boxer portante raffreddato ad aria e olio, vengono mandati in pensione i carburatori in favore dell'iniezione elettronica, debutta una rinnovata sospensione anteriore: si passa da una classica forcella all’inedito sistema *Telelever*, che dona alla moto una grande stabilità ed evita l’affondamento anteriore durante le frenate. La cilindrata aumenta a 1083cc, la potenza è di 80cv, il peso lordo raggiunge i 240kg.
+Nel 1994 debutta la **BMW R 1100 GS**, un progetto tutto nuovo: motore boxer portante raffreddato ad aria e olio, vengono mandati in pensione i carburatori in favore dell'iniezione elettronica, debutta una rinnovata sospensione anteriore: si passa da una classica forcella all’inedito sistema _Telelever_, che dona alla moto una grande stabilità ed evita l’affondamento anteriore durante le frenate. La cilindrata aumenta a 1083cc, la potenza è di 80cv, il peso lordo raggiunge i 240kg.
 
-Il 1999 è l’anno della **BMW R 1150 GS**, ancora molto apprezzata per via del ridotto impiego di elettronica. La *ghisona* ha un peso lordo che sfiora i 250kg, 1130cc di cilindrata per 85cv di potenza.
+Il 1999 è l’anno della **BMW R 1150 GS**, ancora molto apprezzata per via del ridotto impiego di elettronica. La _ghisona_ ha un peso lordo che sfiora i 250kg, 1130cc di cilindrata per 85cv di potenza.
 
 ![BMW R 1100 GS – 1994](/assets/uploads/2018/12/bmw-r1200gs-2008-recensione-fuori-tempo-massimo/galleries/BMW-R-1100-GS-199494.jpg "BMW R 1100 GS – 1994")
 ![BMW R 1150 GS – 1999](/assets/uploads/2018/12/bmw-r1200gs-2008-recensione-fuori-tempo-massimo/galleries/BMW-R-1150-GS-1999.jpeg "BMW R 1150 GS – 1999")
@@ -56,7 +56,7 @@ Nel 2018 viene presentata la **BMW R 1250 GS** con un nuovo motore da 1262cc a f
 ![BMW R 1200 GS – 2016 (Rallye)](/assets/uploads/2018/12/bmw-r1200gs-2008-recensione-fuori-tempo-massimo/galleries/BMW-R-1200-GS-2016-Rallye.jpg "BMW R 1200 GS – 2016 (Rallye)")
 ![BMW R 1250 GS – 2018 (HP)](/assets/uploads/2018/12/bmw-r1200gs-2008-recensione-fuori-tempo-massimo/galleries/bmw_r_1250_gs_hp_05.jpg "BMW R 1250 GS – 2018 (HP)")
 
-A fronte di un costante aumento di potenza, il peso delle bicilindriche bavaresi è sempre aumentato (ad eccezione della *dieta dimagrante* del 2004): il rapporto tra potenza e peso è comunque sempre cresciuto:
+A fronte di un costante aumento di potenza, il peso delle bicilindriche bavaresi è sempre aumentato (ad eccezione della _dieta dimagrante_ del 2004): il rapporto tra potenza e peso è comunque sempre cresciuto:
 
 ![Evoluzione peso e potenza BMW serie R GS](/assets/uploads/2018/12/bmw-r1200gs-2008-recensione-fuori-tempo-massimo/galleries/peso-potenza-bmwGS.png "La potenza è sempre aumentata, purtroppo lo ha fatto anche il peso")
 
@@ -64,7 +64,7 @@ A fronte di un costante aumento di potenza, il peso delle bicilindriche bavaresi
 
 Chi ha mai provato una GS sicuramente sa bene quanto siano *facili* nonostante il peso importante e la grande potenza disponibile, senza dimenticare il comfort e la possibilità di farci un po’ di tutto… il rovescio della medaglia è sicuramente il costo!
 
-Il prezzo di partenza della nuovissima R 1250 GS è già piuttosto alto (17.850€), ma basta aggiungere pochi optional (secondo me) irrinunciabili per superare la barriera dei 20.000€… Ed ecco il motivo per cui trovo sensato acquistare una *vecchia* GS!
+Il prezzo di partenza della nuovissima R 1250 GS è già piuttosto alto (17.850€), ma basta aggiungere pochi optional (secondo me) irrinunciabili per superare la barriera dei 20.000€… Ed ecco il motivo per cui trovo sensato acquistare una _vecchia_ GS!
 
 Se badate più alla sostanza che alla smania di possedere l’ultimo modello potrete fare grandi affari sul mercato dell’usato. Noterete che il valore di queste moto BMW rimane molto alto nel tempo, per cui potreste trovare moto di 8-10 anni al prezzo di una giapponese quasi nuova… consideratelo come un vantaggio: quando vorrete rivendere la vostra recupererete parecchi soldi.
 
@@ -74,9 +74,9 @@ Essendo un modello più che maturo, i difetti sono ben conosciuti (ne parleremo 
 
 In una parola: **bene**. La moto ha 10 anni e non li dimostra, il motore ha un gran tiro, la linea è ancora attuale e sul mercato non mancano gli accessori estetici per renderla più vicina al vostro gusto.
 
-Il **motore** boxer da 1170cc e 105cv è molto regolare ed elastico, riprende bene dai 3.000 giri e spinge forte superata la tacca dei 5.000rpm. Non è un motore fatto per essere tirato al limite, ma per avere coppia sempre… basta aprire il gas e vi tirerete fuori da qualunque impaccio. Non sono un *manico* in off-road, ma il motore non fa sentire la necessità di diavolerie esoteriche come il DCT Honda: ingranate la seconda e pensate solo a divertirvi.
+Il **motore** boxer da 1170cc e 105cv è molto regolare ed elastico, riprende bene dai 3.000 giri e spinge forte superata la tacca dei 5.000rpm. Non è un motore fatto per essere tirato al limite, ma per avere coppia sempre… basta aprire il gas e vi tirerete fuori da qualunque impaccio. Non sono un _manico_ in off-road, ma il motore non fa sentire la necessità di diavolerie esoteriche come il DCT Honda: ingranate la seconda e pensate solo a divertirvi.
 
-Il peso è decisamente importante nelle manovre da fermo, tuttavia il **baricentro basso** dona alle *Mucche Bavaresi* un’agilità inaspettata appena le ruote iniziano a girare.
+Il peso è decisamente importante nelle manovre da fermo, tuttavia il **baricentro basso** dona alle _Mucche Bavaresi_ un’agilità inaspettata appena le ruote iniziano a girare.
 
 I **tagliandi ogni 10.000km** sono abbastanza semplici da effettuare anche nel proprio garage; richiedono di smontare poco la moto dato che il motore boxer è quasi tutto a vista. Operazioni come la sostituzione olio e filtri si fanno tranquillamente in una mezz’oretta, peccato che quasi tutte le viti siano di tipo Torx e richiedano attrezzi dedicati.
 
@@ -110,7 +110,7 @@ Abbiamo testato in prima persona diverse soluzioni per gli accessori da viaggio 
 
 ### Bagagli
 
-Il tris valigie BMW Vario è molto pratico in città, ma poco adatto al viaggio: essendo in plastica non si riparano facilmente in caso di rottura, il sistema telescopico per ampliare il volume delle borse diventa inutile (riduce il volume di carico e aggiunge peso superfluo). L’apertura delle [valigie laterali](https://www.bmw-motorrad-bohling.com/it/bmw-set-completo-valigie-laterali-vario-r1200gs-k25.html) *a conchiglia* rende poco pratico l’inserimento ed estrazione del contenuto, mentre il [topcase](https://www.bmw-motorrad-bohling.com/it/bmw-topcase-vario-r1200gs-2012-k25.html) è davvero piccolo e consente a malapena di riporre un casco di medie dimensioni. La [borsa da serbatoio originale](https://www.bmw-motorrad-bohling.com/it/bmw-borsa-serbatoio-r1200gs-2008-2012.html) è molto capiente, ma la rimozione è poco pratica, dopo qualche pieno di benzina cercherete qualcosa di meglio.
+Il tris valigie BMW Vario è molto pratico in città, ma poco adatto al viaggio: essendo in plastica non si riparano facilmente in caso di rottura, il sistema telescopico per ampliare il volume delle borse diventa inutile (riduce il volume di carico e aggiunge peso superfluo). L’apertura delle [valigie laterali](https://www.bmw-motorrad-bohling.com/it/bmw-set-completo-valigie-laterali-vario-r1200gs-k25.html) _a conchiglia_ rende poco pratico l’inserimento ed estrazione del contenuto, mentre il [topcase](https://www.bmw-motorrad-bohling.com/it/bmw-topcase-vario-r1200gs-2012-k25.html) è davvero piccolo e consente a malapena di riporre un casco di medie dimensioni. La [borsa da serbatoio originale](https://www.bmw-motorrad-bohling.com/it/bmw-borsa-serbatoio-r1200gs-2008-2012.html) è molto capiente, ma la rimozione è poco pratica, dopo qualche pieno di benzina cercherete qualcosa di meglio.
 
 I nostri consigli:
 
