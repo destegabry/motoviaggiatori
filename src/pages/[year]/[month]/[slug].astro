@@ -1,4 +1,5 @@
 ---
+import { Markdown, Debug } from 'astro/components';
 import Icon from "astro-icon";
 import { Post, RawPost } from "../../../entities/Post";
 import { Author } from "../../../entities/Author";
@@ -68,13 +69,15 @@ export async function getStaticPaths({ rss }) {
 }
 
 const { post } = Astro.props;
-
+const { Content } = post;
 const {
   title,
   language,
   featured_image,
   excerpt,
-} = post.frontmatter as Post;
+  opening,
+  tags,
+} = Astro.props.post.frontmatter as Post;
 
 const next = Astro.props.next?.frontmatter as Post;
 const prev = Astro.props.prev?.frontmatter as Post;
@@ -82,12 +85,13 @@ const prev = Astro.props.prev?.frontmatter as Post;
 <BaseLayout title={title} description={excerpt} language{language} previewImage={featured_image}>
   <h1>{title}</h1>
   <PostMeta post={post} />
-  <post.Content />
-  {post.frontmatter.tags?.length > 0 && (
+  {opening && <Markdown>{opening}</Markdown>}
+  <Content />
+  {tags?.length > 0 && (
     <section class="tags">
       <h2>Tags</h2>
       <ul>
-        { post.frontmatter.tags.map((tag) => (
+        { tags.map((tag) => (
           <li>
             <a href={`/tag/${tag.frontmatter.slug}`}>{tag.frontmatter.title}</a>
           </li>
