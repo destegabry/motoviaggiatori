@@ -19,13 +19,19 @@ export function enhancePosts(
   const authorsBySlug = getItemsBySlug<Author>(allAuthors);
   const categoriesBySlug = getItemsBySlug<Category>(allCategories);
   const tagsBySlug = getItemsBySlug<Tag>(allTags);
-  return posts.map((post) => ({
-    ...post,
-    frontmatter: {
-      ...post.frontmatter,
-      author: authorsBySlug.get(post.frontmatter.author),
-      categories: post.frontmatter.categories.map((category) => categoriesBySlug.get(category)),
-      tags: post.frontmatter.tags.map((category) => tagsBySlug.get(category)),
-    },
-  }));
+  return posts.map((post) => {
+    const author = authorsBySlug.get(post.frontmatter.author);
+    const categories = post.frontmatter.categories.map((category) => categoriesBySlug.get(category))
+    const tags = post.frontmatter.tags.map((tag) => tagsBySlug.get(tag))
+
+    return ({
+      ...post,
+      frontmatter: {
+        ...frontmatterData,
+        author,
+        categories,
+        tags,
+      },
+    })
+  });
 }

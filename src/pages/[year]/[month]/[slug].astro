@@ -1,5 +1,4 @@
 ---
-import { Markdown } from 'astro/components';
 import Icon from "astro-icon";
 import { Post, RawPost } from "../../../entities/Post";
 import { Author } from "../../../entities/Author";
@@ -11,23 +10,15 @@ import PostMeta from "../../../components/PostMeta.astro";
 import YouTube from "../../../components/YouTube.astro";
 import { enhancePosts } from "../../../utils/content";
 
-export async function getStaticPaths({ rss }) {
-  const allPosts = await Astro.glob<RawPost>(
-    "../../../../content/posts/*.md"
-  );
-  const allAuthors = await Astro.glob<Author>(
-    "../../../../content/authors/*.md"
-  );
-  const allCategories = await Astro.glob<Category>(
-    "../../../../content/categories/*.md"
-  );
+export async function getStaticPaths() {
+  const allPosts = await Astro.glob<RawPost>("../../../../content/posts/*.md");
+  const allAuthors = await Astro.glob<Author>("../../../../content/authors/*.md");
+  const allCategories = await Astro.glob<Category>("../../../../content/categories/*.md");
 
-  const allTags = await Astro.glob<Tag>(
-    "../../../../content/tags/*.md"
-  );
+  const allTags = await Astro.glob<Tag>("../../../../content/tags/*.md");
 
   const posts = enhancePosts(allPosts, allAuthors, allCategories, allTags);
-  posts.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.date))
+  posts.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.date));
 
   const postRegExp = new RegExp("/([0-9]{4})/([0-9]{2})/(.+)");
 
@@ -44,47 +35,40 @@ export async function getStaticPaths({ rss }) {
         <height>32</height>
       </image>
     `,
-    items: posts
-      .map((post) => ({
-        title: post.frontmatter.title,
-        description: post.frontmatter.excerpt,
-        link: `${Astro.site}${post.frontmatter.permalink}`,
-        pubDate: post.frontmatter.date,
-        customData: [
-          `<dc:creator>${post.frontmatter.author.frontmatter.title}</dc:creator>`,
-          ...post.frontmatter.categories.map((category) =>`<category>${category.frontmatter.title}</category>`)
-        ].join('')
-      })),
+    items: posts.map((post) => ({
+      title: post.frontmatter.title,
+      description: post.frontmatter.excerpt,
+      link: `${Astro.site}${post.frontmatter.permalink}`,
+      pubDate: post.frontmatter.date,
+      customData: [
+        `<dc:creator>${post.frontmatter.author.frontmatter.title}</dc:creator>`,
+        ...post.frontmatter.categories.map((category) => `<category>${category.frontmatter.title}</category>`),
+      ].join(""),
+    })),
   });
 
   return posts.map((post, index, list) => {
     const [_, year, month, slug] = postRegExp.exec(post.frontmatter.permalink);
-    return ({
+    return {
       params: { year, month, slug },
       props: {
         post,
         prev: list[index + 1],
         next: list[index - 1],
       },
-    })
+    };
   });
 }
 
 const { post } = Astro.props;
 const { Content } = post;
-const {
-  title,
-  language,
-  featured_image,
-  excerpt,
-  opening,
-  tags,
-} = Astro.props.post.frontmatter as Post;
+const { title, language, featured_image, excerpt, opening, tags } = Astro.props.post.frontmatter as Post;
 
 const next = Astro.props.next?.frontmatter as Post;
 const prev = Astro.props.prev?.frontmatter as Post;
 ---
-<BaseLayout title={title} description={excerpt} language{language} previewImage={featured_image}>
+
+<BaseLayout title={title} description={excerpt} {language} previewImage={featured_image}>
   <h1>{title}</h1>
   <PostMeta post={post} />
   <section class="featured-media-wrapper">
@@ -96,15 +80,18 @@ const prev = Astro.props.prev?.frontmatter as Post;
           <Picture
             src={post.frontmatter.featured_image}
             alt=""
-            imgSrcSets={[{
-              query: '(max-width: 600px)',
-              width: 600,
-              height: 600 / 16 * 9,
-            }, {
-              query: '(min-width: 600.05px)',
-              width: 980,
-              height: 980 / 3 * 2,
-            }]}
+            imgSrcSets={[
+              {
+                query: "(max-width: 600px)",
+                width: 600,
+                height: (600 / 16) * 9,
+              },
+              {
+                query: "(min-width: 600.05px)",
+                width: 980,
+                height: (980 / 3) * 2,
+              },
+            ]}
           />
         </a>
       )
@@ -112,42 +99,44 @@ const prev = Astro.props.prev?.frontmatter as Post;
   </section>
   {opening && <Markdown>{opening}</Markdown>}
   <Content />
-  {tags?.length > 0 && (
-    <section class="tags">
-      <h2>Tags</h2>
-      <ul>
-        { tags.map((tag) => (
-          <li>
-            <a href={`/tag/${tag.frontmatter.slug}`}>{tag.frontmatter.title}</a>
-          </li>
-        ))}
-      </ul>
-    </section>
-  )}
+  {
+    tags?.length > 0 && (
+      <section class="tags">
+        <h2>Tags</h2>
+        <ul>
+          {tags.map((tag) => (
+            <li>
+              <a href={`/tag/${tag.frontmatter.slug}`}>{tag.frontmatter.title}</a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
   <section class="next-prev-wrapper">
-    { prev && (
-      <a class="prev" href={prev.permalink}>
-        <Icon name="ic:chevron-left" />
-        <article>
-          <div class="description">
-            Articolo precedente
-          </div>
-          <div class="title">{prev.title}</div>
-        </article>
-      </a>
-    )}
+    {
+      prev && (
+        <a class="prev" href={prev.permalink}>
+          <Icon name="ic:chevron-left" />
+          <article>
+            <div class="description">Articolo precedente</div>
+            <div class="title">{prev.title}</div>
+          </article>
+        </a>
+      )
+    }
     <span class="spacer"></span>
-    { next && (
-      <a class="next" href={next.permalink}>
-        <Icon name="ic:chevron-right" />
-        <article>
-          <div class="description">
-            Articolo successivo
-          </div>
-          <div class="title">{next.title}</div>
-        </article>
-      </a>
-    )}
+    {
+      next && (
+        <a class="next" href={next.permalink}>
+          <Icon name="ic:chevron-right" />
+          <article>
+            <div class="description">Articolo successivo</div>
+            <div class="title">{next.title}</div>
+          </article>
+        </a>
+      )
+    }
   </section>
 </BaseLayout>
 

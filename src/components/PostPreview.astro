@@ -1,12 +1,12 @@
 ---
 import { Debug } from "astro/components";
-import { Markdown } from "astro/components";
-import Picture from './Picture.astro';
-import YouTube from './YouTube.astro';
-import PostMeta from './PostMeta.astro';
+import Picture from "./Picture.astro";
+import YouTube from "./YouTube.astro";
+import PostMeta from "./PostMeta.astro";
 
 const { post } = Astro.props;
 ---
+
 <article itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="featured-media-wrapper">
     {
@@ -17,19 +17,23 @@ const { post } = Astro.props;
           <Picture
             src={post.frontmatter.featured_image}
             alt=""
-            imgSrcSets={[{
-              query: '(max-width: 600px)',
-              width: 600,
-              height: 600 / 16 * 9,
-            }, {
-              query: '(min-width: 600.05px) and (max-width: 900px)',
-              width: 360,
-              height: 360 / 16 * 9,
-            }, {
-              query: '(min-width: 900.05px)',
-              width: 240,
-              height: 240 / 3 * 2,
-            }]}
+            imgSrcSets={[
+              {
+                query: "(max-width: 600px)",
+                width: 600,
+                height: (600 / 16) * 9,
+              },
+              {
+                query: "(min-width: 600.05px) and (max-width: 900px)",
+                width: 360,
+                height: (360 / 16) * 9,
+              },
+              {
+                query: "(min-width: 900.05px)",
+                width: 240,
+                height: (240 / 3) * 2,
+              },
+            ]}
           />
         </a>
       )
@@ -43,7 +47,7 @@ const { post } = Astro.props;
     </h3>
     <PostMeta post={post} />
     <div itemprop="description">
-      <Markdown content={post.frontmatter.excerpt} />
+      {post.frontmatter.excerpt}
     </div>
   </div>
 </article>
