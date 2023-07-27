@@ -1,0 +1,15 @@
+---
+import { getEntryBySlug } from "astro:content";
+
+interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.props;
+
+const category = await getEntryBySlug("categories", slug);
+---
+
+<a class="category-link" href={`/categoria/${slug}`}
+  >{category?.data.title ?? slug}</a
+>

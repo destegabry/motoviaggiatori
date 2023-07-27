@@ -1,0 +1,27 @@
+---
+import { CollectionEntry, getCollection } from "astro:content";
+import PostList from "../../components/PostList.astro";
+import Layout from "../../layouts/Layout.astro";
+
+interface Props {
+  category: CollectionEntry<"categories">;
+}
+
+export async function getStaticPaths() {
+  const categories = await getCollection("categories");
+  return categories.map((category) => ({
+    params: { slug: category.slug },
+    props: { category },
+  }));
+}
+
+const { category } = Astro.props;
+const { Content } = await category.render();
+const title = category.data.title;
+---
+
+<Layout title={title}>
+  <h1>{title}</h1>
+  <Content />
+  <PostList filter={(post) => post.data.categories.includes(category.slug)} />
+</Layout>

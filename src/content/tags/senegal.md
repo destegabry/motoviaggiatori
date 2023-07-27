@@ -1,0 +1,4 @@
+---
+slug: senegal
+title: Senegal
+---

@@ -1,0 +1,36 @@
+---
+import type { CollectionEntry } from "astro:content";
+import AuthorLink from "./AuthorLink.astro";
+import CategoryLink from "./CategoryLink.astro";
+
+interface Props {
+  data: CollectionEntry<"posts">;
+}
+
+const { data } = Astro.props.data;
+const { date, author, categories } = data;
+---
+
+<p>
+  Pubblicato il
+  <time datetime={date.toISOString()}>
+    {
+      date.toLocaleDateString("it-IT", {
+        day: "numeric",
+        month: "short",
+        year: "numeric",
+      })
+    }
+  </time>
+  da
+  <AuthorLink slug={author} />
+  in
+  {
+    categories.map((category, index) => (
+      <>
+        {index > 0 ? ", " : null}
+        <CategoryLink slug={category} />
+      </>
+    ))
+  }
+</p>

@@ -1,0 +1,4 @@
+---
+slug: azrou
+title: Azrou
+---

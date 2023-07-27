@@ -1,0 +1,96 @@
+---
+import Icon from "astro-icon";
+---
+
+<footer>
+  <div class="wrapper">
+    <a class="logo" href="/" title="Home Page">
+      <Icon name="logo-square" width={200} />
+    </a>
+
+    <address>
+      Contattaci:
+      <a href="mailto:info@motoviaggiatori.it">
+        <Icon name="ic:baseline-alternate-email" /> Email
+      </a>
+      <a href="https://facebook.com/motoviaggiatori">
+        <Icon name="fa-brands:facebook" /> Facebook
+      </a>
+      <a href="https://instagram.com/motoviaggiatori">
+        <Icon name="fa-brands:instagram" /> Instagram
+      </a>
+      <a href="https://www.youtube.com/channel/UCTa8R7tJ7GDWTVKh0CF9w2w">
+        <Icon name="fa-brands:youtube" /> YouTube
+      </a>
+    </address>
+    <span class="spacer"></span>
+    <nav aria-label="Menù principale">
+      Menù:
+      <ul>
+        <li>
+          <a href="/categoria/viaggi">Viaggi</a>
+        </li>
+        <li>
+          <a href="/categoria/itinerari">Itinerari</a>
+        </li>
+        <li>
+          <a href="/categoria/recensioni">Recensioni</a>
+        </li>
+        <li>
+          <a href="/categoria/video">Video</a>
+        </li>
+        <li>
+          <a href="/autori">Autori</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+<style>
+  .wrapper {
+    padding-block: var(--space-s-l);
+    display: flex;
+    gap: var(--space-s-l);
+  }
+
+  @media screen and (max-width: 600px) {
+    .wrapper {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+
+  @media screen and (min-width: 600.01px) {
+    .wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  address {
+    font-style: normal;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2xs);
+  }
+
+  address a {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2xs);
+  }
+
+  address svg {
+    height: var(--step-1);
+    width: var(--step-1);
+  }
+</style>

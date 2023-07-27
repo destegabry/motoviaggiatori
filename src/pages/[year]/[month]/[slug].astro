@@ -1,0 +1,84 @@
+---
+import { CollectionEntry, getCollection } from "astro:content";
+import Layout from "../../../layouts/Layout.astro";
+import PostMeta from "../../../components/PostMeta.astro";
+import PostTags from "../../../components/PostTags.astro";
+import AuthorBox from "../../../components/AuthorBox.astro";
+
+interface Props {
+  post: CollectionEntry<"posts">;
+  next?: CollectionEntry<"posts">;
+  prev?: CollectionEntry<"posts">;
+}
+
+export async function getStaticPaths() {
+  const slugRegExp = new RegExp("/([0-9]{4})/([0-9]{2})/(.+)");
+  const posts = await getCollection("posts");
+  posts.sort((a, b) => a.data.date.getTime() - b.data.date.getTime());
+  return posts.map((post, index, list) => {
+    const match = slugRegExp.exec(post.slug);
+    return {
+      params: { year: match?.[1], month: match?.[2], slug: match?.[3] },
+      props: {
+        post,
+        next: list[index + 1],
+        prev: list[index - 1],
+      },
+    };
+  });
+}
+
+const { post, prev, next } = Astro.props;
+const { Content, headings } = await post.render();
+const title = post.data.title;
+---
+
+<Layout title={title}>
+  <h1>{title}</h1>
+  <PostMeta data={post} />
+  {/* featured media */}
+  {/* opening */}
+  {/* table */}
+  {
+    headings.length > 0 && (
+      <section>
+        <ul>
+          {headings.map(({ text, slug }) => (
+            <li>
+              <a href={`#${slug}`}>{text}</a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+  <Content />
+  {/* like */}
+  <section>
+    <PostTags data={post} />
+  </section>
+  <section>
+    <AuthorBox slug={post.data.author} />
+  </section>
+  <nav class="previous-next">
+    {prev && <a href={prev.slug}>{prev.data.title}</a>}
+    <div class="spacer"></div>
+    {next && <a href={next.slug}>{next.data.title}</a>}
+  </nav>
+</Layout>
+
+<style>
+  section {
+    margin-block: var(--space-l);
+  }
+
+  .previous-next {
+    display: flex;
+  }
+
+  @media screen and (min-width: 600.01px) {
+    a {
+      max-width: 40%;
+    }
+  }
+</style>

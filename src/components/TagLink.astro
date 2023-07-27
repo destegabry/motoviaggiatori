@@ -1,0 +1,30 @@
+---
+import { getEntryBySlug } from "astro:content";
+
+interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.props;
+
+const tag = await getEntryBySlug("tags", slug);
+---
+
+<a class="tag-link" href={`/tag/${slug}`}>{tag?.data.title ?? slug}</a>
+
+<style>
+  .tag-link {
+    background: var(--color-secondary-main);
+    color: var(--color-secondary-contrastText);
+    font-family: var(--font-family-heading);
+    display: block;
+    border-radius: var(--space-xs);
+    padding: 0 var(--space-xs);
+    text-decoration: none;
+  }
+
+  .tag-link:hover {
+    background: var(--color-primary-light);
+    color: var(--color-black);
+  }
+</style>

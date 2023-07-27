@@ -1,0 +1,31 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+import PostArchive from "../components/PostArchive.astro";
+
+interface Props {
+  year: number;
+}
+
+export async function getStaticPaths() {
+  const posts = await getCollection("posts");
+  const years = posts.reduce(
+    (set, post) => set.add(post.data.date.getFullYear()),
+    new Set<number>()
+  );
+  return [...years].map((year) => {
+    return {
+      params: { year },
+      props: { year },
+    };
+  });
+}
+
+const { year } = Astro.props;
+const title = `Archivio post ${year}`;
+---
+
+<Layout title={title}>
+  <h1>{title}</h1>
+  <PostArchive filter={(post) => post.data.date.getFullYear() === year} />
+</Layout>

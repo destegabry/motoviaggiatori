@@ -1,0 +1,38 @@
+---
+import { Image } from "astro:assets";
+import { CollectionEntry, getCollection } from "astro:content";
+import PostList from "../../components/PostList.astro";
+import Layout from "../../layouts/Layout.astro";
+
+interface Props {
+  author: CollectionEntry<"authors">;
+}
+
+export async function getStaticPaths() {
+  const authors = await getCollection("authors");
+  return authors.map((author) => ({
+    params: { slug: author.slug },
+    props: { author },
+  }));
+}
+
+const { author } = Astro.props;
+const { Content } = await author.render();
+const title = author.data.title;
+---
+
+<Layout title={title}>
+  <h1>{title}</h1>
+  <Image src={author.data.avatar} alt="" width={360} height={360} />
+  <ul>
+    {
+      author.data.links.map(({ url, title }) => (
+        <li>
+          <a href={url}>{title ?? url}</a>
+        </li>
+      ))
+    }
+  </ul>
+  <Content />
+  <PostList filter={(post) => post.data.author === author.slug} />
+</Layout>

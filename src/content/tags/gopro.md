@@ -1,0 +1,4 @@
+---
+slug: gopro
+title: GoPro
+---

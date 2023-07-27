@@ -1,0 +1,37 @@
+---
+import type { CollectionEntry } from "astro:content";
+import TagLink from "./TagLink.astro";
+
+interface Props {
+  data: CollectionEntry<"posts">;
+}
+
+const {
+  data: { tags },
+} = Astro.props.data;
+---
+
+<h4>Tags</h4>
+<ul>
+  {
+    tags.map((tag) => (
+      <li>
+        <TagLink slug={tag} />
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+    gap: var(--space-3xs);
+  }
+
+  li {
+    list-style: none;
+  }
+</style>

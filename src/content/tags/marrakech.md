@@ -1,0 +1,4 @@
+---
+slug: marrakech
+title: Marrakech
+---

@@ -1,0 +1,20 @@
+---
+import Icon from "astro-icon";
+import PostList from "../components/PostList.astro";
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout>
+  <PostList limit={10} />
+  <a href="/archivi" class="archive">
+    <Icon name="ic:round-arrow-back" /><span>Post precedenti</span>
+  </a>
+</Layout>
+
+<style>
+  .archive {
+    display: inline-block;
+    margin-block: var(--space-s);
+    font-size: var(--step-1);
+  }
+</style>

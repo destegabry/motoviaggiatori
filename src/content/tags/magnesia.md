@@ -1,0 +1,4 @@
+---
+slug: magnesia
+title: Magnesia
+---

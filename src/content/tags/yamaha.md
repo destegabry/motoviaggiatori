@@ -1,0 +1,4 @@
+---
+slug: yamaha
+title: Yamaha
+---

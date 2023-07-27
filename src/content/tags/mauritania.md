@@ -1,0 +1,4 @@
+---
+slug: mauritania
+title: Mauritania
+---

@@ -1,0 +1,4 @@
+---
+slug: america
+title: America
+---

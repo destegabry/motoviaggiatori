@@ -1,0 +1,37 @@
+---
+import { getCollection } from "astro:content";
+import PostArchive from "../../components/PostArchive.astro";
+import Layout from "../../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("posts");
+  const monthsByYear = posts.reduce(
+    (set, post) => set.add(post.data.date.toISOString().substring(0, 7)),
+    new Set<string>()
+  );
+  return [...monthsByYear].map((monthByYear) => {
+    const [year, month] = monthByYear.split("-");
+    return {
+      params: { year, month },
+    };
+  });
+}
+
+const { year, month } = Astro.params;
+
+const date = new Date(`${year}-${month}`);
+
+const title = `Archivio post ${date.toLocaleDateString("it-IT", {
+  year: "numeric",
+  month: "long",
+})}`;
+---
+
+<Layout title={title}>
+  <h1>{title}</h1>
+  <PostArchive
+    filter={(post) =>
+      post.data.date.getFullYear() === date.getFullYear() &&
+      post.data.date.getMonth() === date.getMonth()}
+  />
+</Layout>

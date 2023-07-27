@@ -1,0 +1,4 @@
+---
+slug: bolivia
+title: Bolivia
+---

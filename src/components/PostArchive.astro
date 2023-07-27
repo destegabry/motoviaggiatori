@@ -1,0 +1,109 @@
+---
+import { CollectionEntry, getCollection } from "astro:content";
+
+interface Props {
+  filter?: (post: CollectionEntry<"posts">) => boolean;
+  sort?: (a: CollectionEntry<"posts">, b: CollectionEntry<"posts">) => number;
+}
+
+const { filter, sort } = Astro.props;
+const posts = await getCollection("posts");
+const data = filter ? posts.filter(filter) : posts;
+data.sort(
+  sort ? sort : (a, b) => b.data.date.getTime() - a.data.date.getTime()
+);
+const years = new Set<number>();
+const postsByYear = data.reduce((map, post) => {
+  const year = post.data.date.getFullYear();
+  years.add(year);
+  const posts = map.get(year) ?? [];
+  map.set(year, [...posts, post]);
+  return map;
+}, new Map<number, Array<CollectionEntry<"posts">>>());
+console.log(years);
+---
+
+<div class="archive-wrapper">
+  {
+    [...years].map((year) => (
+      <section>
+        <h2>{year}</h2>
+        <ul>
+          {postsByYear.get(year)?.map(({ slug, data: { date, title } }) => (
+            <li>
+              <article>
+                <time datetime={date.toISOString()}>
+                  {date.toLocaleDateString("it-IT", {
+                    day: "numeric",
+                    month: "long",
+                  })}
+                  <span class="year">{date.getFullYear()}</span>
+                </time>
+                <h3>
+                  <a href={slug}>{title}</a>
+                </h3>
+              </article>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+</div>
+
+<style>
+  section :is(h2, h3) {
+    margin: 0;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+    margin-block-start: var(--space-3xs);
+    margin-block-end: var(--space-m);
+  }
+
+  article h3 {
+    font-size: var(--step-1);
+  }
+
+  time {
+    font-size: var(--step--1);
+  }
+
+  @media screen and (max-width: 600px) {
+  }
+
+  @media screen and (min-width: 600.01px) {
+    section {
+      display: flex;
+      align-items: flex-start;
+      gap: var(--space-s-m);
+    }
+
+    h2 {
+      position: sticky;
+      top: calc(var(--space-xs) + var(--header-height));
+    }
+
+    article {
+      display: flex;
+      gap: var(--space-xs-s);
+      align-items: baseline;
+    }
+
+    time {
+      min-width: 12ch;
+      white-space: nowrap;
+      text-align: right;
+    }
+
+    .year {
+      display: none;
+    }
+  }
+</style>

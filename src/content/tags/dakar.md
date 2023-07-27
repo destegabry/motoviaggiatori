@@ -1,0 +1,4 @@
+---
+slug: dakar
+title: Dakar
+---

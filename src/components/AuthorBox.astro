@@ -1,0 +1,78 @@
+---
+import Icon from "astro-icon";
+import { Image } from "astro:assets";
+import { getEntryBySlug } from "astro:content";
+
+interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.props;
+
+const author = await getEntryBySlug("authors", slug);
+const renderResult = author ? await author.render() : undefined;
+const name = author?.data.title ?? slug;
+---
+
+<div class="author-box">
+  {author && <Image src={author.data.avatar} alt="" width={240} height={240} />}
+  <h4>{name}</h4>
+  <div class="content">
+    {renderResult && <renderResult.Content />}
+  </div>
+  <a href={`/autore/${slug}`}>
+    <span>Tutti i post di {name}</span><Icon name="ic:round-arrow-forward" />
+  </a>
+</div>
+
+<style>
+  .author-box {
+    display: grid;
+  }
+
+  img {
+    grid-area: avatar;
+  }
+
+  h4 {
+    grid-area: name;
+  }
+
+  .content {
+    grid-area: content;
+  }
+
+  a {
+    grid-area: link;
+  }
+
+  @media screen and (max-width: 600px) {
+    .author-box {
+      grid-template-columns: 1fr;
+      grid-template-rows: auto 240px auto;
+      gap: 0;
+      justify-items: center;
+      grid-template-areas:
+        "name"
+        "avatar"
+        "content"
+        "link";
+    }
+  }
+
+  @media screen and (min-width: 600.01px) {
+    .author-box {
+      grid-template-columns: 240px 1fr;
+      grid-template-rows: min-content min-content 1fr;
+      gap: 0 var(--space-s-m);
+      grid-template-areas:
+        "avatar name"
+        "avatar content"
+        "avatar link";
+    }
+
+    h4 {
+      margin: 0;
+    }
+  }
+</style>

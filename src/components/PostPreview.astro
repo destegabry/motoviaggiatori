@@ -1,0 +1,21 @@
+---
+import type { CollectionEntry } from "astro:content";
+import PostMeta from "./PostMeta.astro";
+
+interface Props {
+  data: CollectionEntry<"posts">;
+}
+
+const {
+  slug,
+  data: { title, excerpt },
+} = Astro.props.data;
+---
+
+<article>
+  <h3>
+    <a href={slug}>{title}</a>
+  </h3>
+  {excerpt}
+  <PostMeta data={Astro.props.data} />
+</article>
